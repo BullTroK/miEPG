@@ -400,6 +400,14 @@
     <display-name>DAZN Liga F 3 UHD</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
+  <channel id="Onetoro">
+    <display-name>Onetoro SD</display-name>
+    <display-name>Onetoro HD</display-name>
+    <display-name>Onetoro 4K</display-name>
+    <display-name>Onetoro FHD</display-name>
+    <display-name>Onetoro UHD</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" />
+  </channel>
   <channel id="La 1">
     <display-name>La 1 SD</display-name>
     <display-name>La 1 HD</display-name>
@@ -631,6 +639,14 @@
     <display-name>UK | Sky Sport Main Event FHD</display-name>
     <display-name>UK | Sky Sport Main Event UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Main%20Event.png" />
+  </channel>
+  <channel id="DE | Sky Sport Top Event">
+    <display-name>DE | Sky Sport Top Event SD</display-name>
+    <display-name>DE | Sky Sport Top Event HD</display-name>
+    <display-name>DE | Sky Sport Top Event 4K</display-name>
+    <display-name>DE | Sky Sport Top Event FHD</display-name>
+    <display-name>DE | Sky Sport Top Event UHD</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/577040e2d47ce20ce71f0985bd447e2f328542fd.png" />
   </channel>
   <channel id="UK | Sky Sport Tennis">
     <display-name>UK | Sky Sport Tennis SD</display-name>
@@ -10040,6 +10056,2356 @@
     <title>DAZN Baloncesto 3</title>
     <desc>Programa,Otros
 · DAZN Baloncesto 3.</desc>
+	</programme>
+	<programme start="20260111001700 +0100" stop="20260111030600 +0100" channel="Onetoro">
+    <title>Valencia. Corrida 23 de Julio 2023</title>
+    <desc>Toros | +16
+· Corrida 23 julio. Plaza de Toros de Valencia. Toros de Miura para Fernando Robleño, Paco Ramos y Jesús Chover.</desc>
+	</programme>
+	<programme start="20260111030600 +0100" stop="20260111030800 +0100" channel="Onetoro">
+    <title>Los avisos. Aprende a ver toros</title>
+    <desc>+16
+· Carmelo López nos enseña qué son los avisos y la importancia que tienen.</desc>
+	</programme>
+	<programme start="20260111030800 +0100" stop="20260111031100 +0100" channel="Onetoro">
+    <title>La categoría de las plazas. Aprende a ver toros</title>
+    <desc>+16
+· Sixto Naranjo nos explica las distintas categorías de plazas de toros y sus características.</desc>
+	</programme>
+	<programme start="20260111031100 +0100" stop="20260111042500 +0100" channel="Onetoro">
+    <title>César Jiménez. A Toro Pasado</title>
+    <desc>+16
+· Javier F. Mardomingo contará con la presencia en plató del torero madrileño y juntos repasarán su exitosa trayectoria.</desc>
+	</programme>
+	<programme start="20260111042500 +0100" stop="20260111065900 +0100" channel="Onetoro">
+    <title>Redifusión Recortes Santander 2024 (27/07/24)</title>
+    <desc>Toros | +16
+· Redifusión Recortes Santander 2024 (27/07/24). Tercera Eliminatoria del campeonato nacional Onetoro desde la plaza de toros de Santander.</desc>
+	</programme>
+	<programme start="20260111070000 +0100" stop="20260111083600 +0100" channel="Onetoro">
+    <title>MÍ tío Jacinto</title>
+    <desc>Toros | +18
+· Jacinto es un pobre torero retirado, trágico y alcohólico, que sobrevive gracias a los cuidados de su sobrino. Un día puede volver a torear, pero no tiene dinero para alquilar el traje. Él y su sobrino deciden ir al rastro a probar suerte.</desc>
+	</programme>
+	<programme start="20260111083600 +0100" stop="20260111084400 +0100" channel="Onetoro">
+    <title>Victorino: lote de vacas Monteviejo. Inside</title>
+    <desc>+16
+· Victorino Martín permite a las cámaras de Onetoro TV adentrarse en esta legendaria ganadería.</desc>
+	</programme>
+	<programme start="20260111084400 +0100" stop="20260111085400 +0100" channel="Onetoro">
+    <title>Inside Victorino Martín. Cobradiezmos.</title>
+    <desc>+16
+· Inside Victorino Martín Cobradiezmos. Las cámaras de Onetoro de adentran dentro del lote de vacas del legendario toro indultado por el matador Manuel Escribano en la Real Maestranza de Caballería de Sevilla.</desc>
+	</programme>
+	<programme start="20260111085400 +0100" stop="20260111085600 +0100" channel="Onetoro">
+    <title>Aprendiz 6. El torilero. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
+	</programme>
+	<programme start="20260111085600 +0100" stop="20260111085900 +0100" channel="Onetoro">
+    <title>6. Erika y Victoria Federica. Estar al Quite</title>
+    <desc>+16
+· Última tarde en la feria de San Isidro, Erika entrevista a los asistentes sobre los toreros, sus curiosidades y frases típicas del toreo.</desc>
+	</programme>
+	<programme start="20260111085900 +0100" stop="20260111090100 +0100" channel="Onetoro">
+    <title>La extensión de la obra social de la Maestranza. Historias del Toreo</title>
+    <desc>+16
+· A parte de sufragar íntegramente los costes de la escuela taurina de Sevilla y su labor editorial, Acevedo nos cuenta la extensión de labores y colecciones que se encuentran en esta biblioteca.</desc>
+	</programme>
+	<programme start="20260111090100 +0100" stop="20260111090400 +0100" channel="Onetoro">
+    <title>Taberna de Antonio Sánchez. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260111090400 +0100" stop="20260111090800 +0100" channel="Onetoro">
+    <title>Azpeitia y Sus Plazas. Historia de la Tauromaquia</title>
+    <desc>+16
+· Analizamos con Domingo Delgado de la Cámara anécdotas e hechos sobre la historia de la Tauromaquia.</desc>
+	</programme>
+	<programme start="20260111090800 +0100" stop="20260111091000 +0100" channel="Onetoro">
+    <title>Lucio Sandín. Historias del Toreo</title>
+    <desc>+16
+· La suerte y desgracias de Lucio Sandín, historia de un torero que triunfó brevemente pero cautivando los corazones de Sevilla.</desc>
+	</programme>
+	<programme start="20260111091000 +0100" stop="20260111091300 +0100" channel="Onetoro">
+    <title>El Perro Paco. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260111091300 +0100" stop="20260111091700 +0100" channel="Onetoro">
+    <title>La cuadrilla de Isaac Fonseca . Cuadrillas</title>
+    <desc>+16
+· "Raúl Ruiz y Juan Carlos Rey nos enseñan el día a día de un miembro de la cuadrilla del famoso torero mejicano Isaac Fonseca.</desc>
+	</programme>
+	<programme start="20260111091700 +0100" stop="20260111091900 +0100" channel="Onetoro">
+    <title>Aprendiz 4. La divisa. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
+	</programme>
+	<programme start="20260111092000 +0100" stop="20260111092200 +0100" channel="Onetoro">
+    <title>4. La tarde de Morante. Estar al Quite</title>
+    <desc>+16
+· Los espectadores lucen sus mejores galas, especialmente para ver a Morante de la Puebla.</desc>
+	</programme>
+	<programme start="20260111092200 +0100" stop="20260111092500 +0100" channel="Onetoro">
+    <title>La obra social de la Maestranza. Historias del Toreo</title>
+    <desc>+16
+· La biblioteca antigua de la Real Maestranza de Caballería de Sevilla realiza una gran labor social de manera altruista en Sevilla desde la época de Alfonso XIII.</desc>
+	</programme>
+	<programme start="20260111092500 +0100" stop="20260111092800 +0100" channel="Onetoro">
+    <title>Copa Chenel. Torres de Alameda 29/3/25</title>
+    <desc>+16
+· Resumen de lo acontecido en este festejo.</desc>
+	</programme>
+	<programme start="20260111092800 +0100" stop="20260111094800 +0100" channel="Onetoro">
+    <title>La Crónica de Álvaro Acevedo. Santander (25/07/2025)</title>
+    <desc>+16
+· Álvaro Acevedo, uno de los analistas taurinos más reputados, desgrana todo lo que ha pasado en la Feria del Norte de Santander 2025.</desc>
+	</programme>
+	<programme start="20260111094800 +0100" stop="20260111101600 +0100" channel="Onetoro">
+    <title>La Crónica de Álvaro Acevedo. Santander (24/07/2025)</title>
+    <desc>+16
+· Álvaro Acevedo, uno de los analistas taurinos más reputados, desgrana todo lo que ha pasado en la Feria del Norte de Santander 2025.</desc>
+	</programme>
+	<programme start="20260111101600 +0100" stop="20260111113200 +0100" channel="Onetoro">
+    <title>Generación T. Borja Jiménez</title>
+    <desc>Toros | +16
+· Generación T conoce al matador Borja Jiménez.</desc>
+	</programme>
+	<programme start="20260111113200 +0100" stop="20260111113500 +0100" channel="Onetoro">
+    <title>Copa Chenel. Torres de Alameda 29/3/25</title>
+    <desc>+16
+· Resumen de lo acontecido en este festejo.</desc>
+	</programme>
+	<programme start="20260111113500 +0100" stop="20260111113700 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Triana</title>
+    <desc>Toros | +16</desc>
+	</programme>
+	<programme start="20260111113700 +0100" stop="20260111114600 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 7-La Verónica.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña como ejecutar la suerte de la verónica.</desc>
+	</programme>
+	<programme start="20260111114700 +0100" stop="20260111115000 +0100" channel="Onetoro">
+    <title>Aprendiz 7. El regatón. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
+	</programme>
+	<programme start="20260111115000 +0100" stop="20260111115300 +0100" channel="Onetoro">
+    <title>7. Erika y Morante. Estar al Quite</title>
+    <desc>+16
+· La elegancia y santander, Erika nos enseña cómo se va a la feria del Norte, Santander.</desc>
+	</programme>
+	<programme start="20260111115300 +0100" stop="20260111115500 +0100" channel="Onetoro">
+    <title>El indulto de Cobradiezmo. Historias del Toreo</title>
+    <desc>+16
+· Alvaro Acevedo nos cuenta cómo se llegó a un acuerdo entre la ganadería de Victorino y la Maestranza, y cómo eso llevó al indulto de Cobradiezmos.</desc>
+	</programme>
+	<programme start="20260111115500 +0100" stop="20260111115700 +0100" channel="Onetoro">
+    <title>La pierna del Tato. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260111115700 +0100" stop="20260111120000 +0100" channel="Onetoro">
+    <title>El Chofre. Historia de la Tauromaquia</title>
+    <desc>+16
+· Analizamos con Domingo Delgado de la Cámara anécdotas e hechos sobre la historia de la Tauromaquia.</desc>
+	</programme>
+	<programme start="20260111120000 +0100" stop="20260111120300 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Calle Pureza.</title>
+    <desc>Toros | +16</desc>
+	</programme>
+	<programme start="20260111120300 +0100" stop="20260111121200 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 8-La media verónica.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña como ejecutar la media verónica.</desc>
+	</programme>
+	<programme start="20260111121200 +0100" stop="20260111122400 +0100" channel="Onetoro">
+    <title>Copa Chenel. San Agustín de Guadalix 30/3/25</title>
+    <desc>+16
+· Resumen de lo acontecido en este festejo.</desc>
+	</programme>
+	<programme start="20260111122400 +0100" stop="20260111122700 +0100" channel="Onetoro">
+    <title>El toro manso. Aprende a ver toros</title>
+    <desc>+16
+· Sánchez Vara nos explica las distintas características que tiene un toro manso.</desc>
+	</programme>
+	<programme start="20260111122700 +0100" stop="20260111122900 +0100" channel="Onetoro">
+    <title>Cargar la suerte. Aprende a ver toros</title>
+    <desc>+16
+· Javier Cortés nos enseña cómo cargar la suerte.</desc>
+	</programme>
+	<programme start="20260111122900 +0100" stop="20260111123200 +0100" channel="Onetoro">
+    <title>Cambios ante un percance. Aprende a ver toros</title>
+    <desc>+16
+· Miguel Ángel Moncholi nos habla del protocolo a seguir cuando hay un percance.</desc>
+	</programme>
+	<programme start="20260111123200 +0100" stop="20260111123800 +0100" channel="Onetoro">
+    <title>Cómo colocar el toro al caballo. Aprende a ver toros</title>
+    <desc>+16
+· Jiménez Fortes nos enseña cómo colocar el toro al caballo para la suerte de varas.</desc>
+	</programme>
+	<programme start="20260111123800 +0100" stop="20260111124900 +0100" channel="Onetoro">
+    <title>La verónica. Aprende a ver toros</title>
+    <desc>+16
+· David Galván nos explica cómo ejecutar la verónica.</desc>
+	</programme>
+	<programme start="20260111124900 +0100" stop="20260111125200 +0100" channel="Onetoro">
+    <title>Los terrenos del toro. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Victorino Martín sobre los terrenos del toro y sus características.</desc>
+	</programme>
+	<programme start="20260111125200 +0100" stop="20260111125700 +0100" channel="Onetoro">
+    <title>Torear al pitón contrario. Aprende a ver toros</title>
+    <desc>+16
+· Miguel Abellán nos enseña cómo torear al pitón contrario.</desc>
+	</programme>
+	<programme start="20260111125700 +0100" stop="20260111130000 +0100" channel="Onetoro">
+    <title>Torear en redondo y en línea recta. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Fernando Robleño a torear en redondo y en línea recta.</desc>
+	</programme>
+	<programme start="20260111130000 +0100" stop="20260111130600 +0100" channel="Onetoro">
+    <title>La colocación de los toreros en la plaza. Aprende a ver toros</title>
+    <desc>+16
+· Federico Arnás nos habla de la colocación de los toreros y sus cuadrillas a lo largo de una corrida de toros.</desc>
+	</programme>
+	<programme start="20260111130600 +0100" stop="20260111130900 +0100" channel="Onetoro">
+    <title>Diferencia entre farol y larga cambiada. Aprende a ver toros</title>
+    <desc>+16
+· Sergio Rodríguez explica la diferencia que hay entre farol y larga cambiada.</desc>
+	</programme>
+	<programme start="20260111130900 +0100" stop="20260111140800 +0100" channel="Onetoro">
+    <title>Capítulo 3. Vivir como Torero</title>
+    <desc>+16
+· Arranca la tercera semana con el primer y segundo tentadero de eliminación, donde se producen las primeras expulsiones, aumentando la tensión entre los participantes.</desc>
+	</programme>
+	<programme start="20260111140800 +0100" stop="20260111145900 +0100" channel="Onetoro">
+    <title>¡Va por ustedes! 20</title>
+    <desc>Toros | +16
+· ¡Viaja con nosotros en este nuevo episodio de "¡Va por ustedes!</desc>
+	</programme>
+	<programme start="20260111150000 +0100" stop="20260111163600 +0100" channel="Onetoro">
+    <title>MÍ tío Jacinto</title>
+    <desc>Toros | +18
+· Jacinto es un pobre torero retirado, trágico y alcohólico, que sobrevive gracias a los cuidados de su sobrino. Un día puede volver a torear, pero no tiene dinero para alquilar el traje. Él y su sobrino deciden ir al rastro a probar suerte.</desc>
+	</programme>
+	<programme start="20260111163600 +0100" stop="20260111164400 +0100" channel="Onetoro">
+    <title>Victorino: lote de vacas Monteviejo. Inside</title>
+    <desc>+16
+· Victorino Martín permite a las cámaras de Onetoro TV adentrarse en esta legendaria ganadería.</desc>
+	</programme>
+	<programme start="20260111164400 +0100" stop="20260111165400 +0100" channel="Onetoro">
+    <title>Inside Victorino Martín. Cobradiezmos.</title>
+    <desc>+16
+· Inside Victorino Martín Cobradiezmos. Las cámaras de Onetoro de adentran dentro del lote de vacas del legendario toro indultado por el matador Manuel Escribano en la Real Maestranza de Caballería de Sevilla.</desc>
+	</programme>
+	<programme start="20260111165400 +0100" stop="20260111165600 +0100" channel="Onetoro">
+    <title>Aprendiz 6. El torilero. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
+	</programme>
+	<programme start="20260111165600 +0100" stop="20260111165900 +0100" channel="Onetoro">
+    <title>6. Erika y Victoria Federica. Estar al Quite</title>
+    <desc>+16
+· Última tarde en la feria de San Isidro, Erika entrevista a los asistentes sobre los toreros, sus curiosidades y frases típicas del toreo.</desc>
+	</programme>
+	<programme start="20260111165900 +0100" stop="20260111170100 +0100" channel="Onetoro">
+    <title>La extensión de la obra social de la Maestranza. Historias del Toreo</title>
+    <desc>+16
+· A parte de sufragar íntegramente los costes de la escuela taurina de Sevilla y su labor editorial, Acevedo nos cuenta la extensión de labores y colecciones que se encuentran en esta biblioteca.</desc>
+	</programme>
+	<programme start="20260111170100 +0100" stop="20260111170400 +0100" channel="Onetoro">
+    <title>Taberna de Antonio Sánchez. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260111170400 +0100" stop="20260111170800 +0100" channel="Onetoro">
+    <title>Azpeitia y Sus Plazas. Historia de la Tauromaquia</title>
+    <desc>+16
+· Analizamos con Domingo Delgado de la Cámara anécdotas e hechos sobre la historia de la Tauromaquia.</desc>
+	</programme>
+	<programme start="20260111170800 +0100" stop="20260111171000 +0100" channel="Onetoro">
+    <title>Lucio Sandín. Historias del Toreo</title>
+    <desc>+16
+· La suerte y desgracias de Lucio Sandín, historia de un torero que triunfó brevemente pero cautivando los corazones de Sevilla.</desc>
+	</programme>
+	<programme start="20260111171000 +0100" stop="20260111171300 +0100" channel="Onetoro">
+    <title>El Perro Paco. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260111171300 +0100" stop="20260111171700 +0100" channel="Onetoro">
+    <title>La cuadrilla de Isaac Fonseca . Cuadrillas</title>
+    <desc>+16
+· "Raúl Ruiz y Juan Carlos Rey nos enseñan el día a día de un miembro de la cuadrilla del famoso torero mejicano Isaac Fonseca.</desc>
+	</programme>
+	<programme start="20260111171700 +0100" stop="20260111171900 +0100" channel="Onetoro">
+    <title>Aprendiz 4. La divisa. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
+	</programme>
+	<programme start="20260111172000 +0100" stop="20260111172200 +0100" channel="Onetoro">
+    <title>4. La tarde de Morante. Estar al Quite</title>
+    <desc>+16
+· Los espectadores lucen sus mejores galas, especialmente para ver a Morante de la Puebla.</desc>
+	</programme>
+	<programme start="20260111172200 +0100" stop="20260111172500 +0100" channel="Onetoro">
+    <title>La obra social de la Maestranza. Historias del Toreo</title>
+    <desc>+16
+· La biblioteca antigua de la Real Maestranza de Caballería de Sevilla realiza una gran labor social de manera altruista en Sevilla desde la época de Alfonso XIII.</desc>
+	</programme>
+	<programme start="20260111172500 +0100" stop="20260111172800 +0100" channel="Onetoro">
+    <title>Copa Chenel. Torres de Alameda 29/3/25</title>
+    <desc>+16
+· Resumen de lo acontecido en este festejo.</desc>
+	</programme>
+	<programme start="20260111172800 +0100" stop="20260111174800 +0100" channel="Onetoro">
+    <title>La Crónica de Álvaro Acevedo. Santander (25/07/2025)</title>
+    <desc>+16
+· Álvaro Acevedo, uno de los analistas taurinos más reputados, desgrana todo lo que ha pasado en la Feria del Norte de Santander 2025.</desc>
+	</programme>
+	<programme start="20260111174800 +0100" stop="20260111181600 +0100" channel="Onetoro">
+    <title>La Crónica de Álvaro Acevedo. Santander (24/07/2025)</title>
+    <desc>+16
+· Álvaro Acevedo, uno de los analistas taurinos más reputados, desgrana todo lo que ha pasado en la Feria del Norte de Santander 2025.</desc>
+	</programme>
+	<programme start="20260111181600 +0100" stop="20260111193200 +0100" channel="Onetoro">
+    <title>Generación T. Borja Jiménez</title>
+    <desc>Toros | +16
+· Generación T conoce al matador Borja Jiménez.</desc>
+	</programme>
+	<programme start="20260111193200 +0100" stop="20260111193500 +0100" channel="Onetoro">
+    <title>Copa Chenel. Torres de Alameda 29/3/25</title>
+    <desc>+16
+· Resumen de lo acontecido en este festejo.</desc>
+	</programme>
+	<programme start="20260111193500 +0100" stop="20260111193700 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Triana</title>
+    <desc>Toros | +16</desc>
+	</programme>
+	<programme start="20260111193700 +0100" stop="20260111194600 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 7-La Verónica.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña como ejecutar la suerte de la verónica.</desc>
+	</programme>
+	<programme start="20260111194700 +0100" stop="20260111195000 +0100" channel="Onetoro">
+    <title>Aprendiz 7. El regatón. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
+	</programme>
+	<programme start="20260111195000 +0100" stop="20260111195300 +0100" channel="Onetoro">
+    <title>7. Erika y Morante. Estar al Quite</title>
+    <desc>+16
+· La elegancia y santander, Erika nos enseña cómo se va a la feria del Norte, Santander.</desc>
+	</programme>
+	<programme start="20260111195300 +0100" stop="20260111195500 +0100" channel="Onetoro">
+    <title>El indulto de Cobradiezmo. Historias del Toreo</title>
+    <desc>+16
+· Alvaro Acevedo nos cuenta cómo se llegó a un acuerdo entre la ganadería de Victorino y la Maestranza, y cómo eso llevó al indulto de Cobradiezmos.</desc>
+	</programme>
+	<programme start="20260111195500 +0100" stop="20260111195700 +0100" channel="Onetoro">
+    <title>La pierna del Tato. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260111195700 +0100" stop="20260111200000 +0100" channel="Onetoro">
+    <title>El Chofre. Historia de la Tauromaquia</title>
+    <desc>+16
+· Analizamos con Domingo Delgado de la Cámara anécdotas e hechos sobre la historia de la Tauromaquia.</desc>
+	</programme>
+	<programme start="20260111200000 +0100" stop="20260111200300 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Calle Pureza.</title>
+    <desc>Toros | +16</desc>
+	</programme>
+	<programme start="20260111200300 +0100" stop="20260111201200 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 8-La media verónica.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña como ejecutar la media verónica.</desc>
+	</programme>
+	<programme start="20260111201200 +0100" stop="20260111202400 +0100" channel="Onetoro">
+    <title>Copa Chenel. San Agustín de Guadalix 30/3/25</title>
+    <desc>+16
+· Resumen de lo acontecido en este festejo.</desc>
+	</programme>
+	<programme start="20260111202400 +0100" stop="20260111202700 +0100" channel="Onetoro">
+    <title>El toro manso. Aprende a ver toros</title>
+    <desc>+16
+· Sánchez Vara nos explica las distintas características que tiene un toro manso.</desc>
+	</programme>
+	<programme start="20260111202700 +0100" stop="20260111202900 +0100" channel="Onetoro">
+    <title>Cargar la suerte. Aprende a ver toros</title>
+    <desc>+16
+· Javier Cortés nos enseña cómo cargar la suerte.</desc>
+	</programme>
+	<programme start="20260111202900 +0100" stop="20260111203200 +0100" channel="Onetoro">
+    <title>Cambios ante un percance. Aprende a ver toros</title>
+    <desc>+16
+· Miguel Ángel Moncholi nos habla del protocolo a seguir cuando hay un percance.</desc>
+	</programme>
+	<programme start="20260111203200 +0100" stop="20260111203800 +0100" channel="Onetoro">
+    <title>Cómo colocar el toro al caballo. Aprende a ver toros</title>
+    <desc>+16
+· Jiménez Fortes nos enseña cómo colocar el toro al caballo para la suerte de varas.</desc>
+	</programme>
+	<programme start="20260111203800 +0100" stop="20260111204900 +0100" channel="Onetoro">
+    <title>La verónica. Aprende a ver toros</title>
+    <desc>+16
+· David Galván nos explica cómo ejecutar la verónica.</desc>
+	</programme>
+	<programme start="20260111204900 +0100" stop="20260111205200 +0100" channel="Onetoro">
+    <title>Los terrenos del toro. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Victorino Martín sobre los terrenos del toro y sus características.</desc>
+	</programme>
+	<programme start="20260111205200 +0100" stop="20260111205700 +0100" channel="Onetoro">
+    <title>Torear al pitón contrario. Aprende a ver toros</title>
+    <desc>+16
+· Miguel Abellán nos enseña cómo torear al pitón contrario.</desc>
+	</programme>
+	<programme start="20260111205700 +0100" stop="20260111210000 +0100" channel="Onetoro">
+    <title>Torear en redondo y en línea recta. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Fernando Robleño a torear en redondo y en línea recta.</desc>
+	</programme>
+	<programme start="20260111210000 +0100" stop="20260111210600 +0100" channel="Onetoro">
+    <title>La colocación de los toreros en la plaza. Aprende a ver toros</title>
+    <desc>+16
+· Federico Arnás nos habla de la colocación de los toreros y sus cuadrillas a lo largo de una corrida de toros.</desc>
+	</programme>
+	<programme start="20260111210600 +0100" stop="20260111210900 +0100" channel="Onetoro">
+    <title>Diferencia entre farol y larga cambiada. Aprende a ver toros</title>
+    <desc>+16
+· Sergio Rodríguez explica la diferencia que hay entre farol y larga cambiada.</desc>
+	</programme>
+	<programme start="20260111210900 +0100" stop="20260111220800 +0100" channel="Onetoro">
+    <title>Capítulo 3. Vivir como Torero</title>
+    <desc>+16
+· Arranca la tercera semana con el primer y segundo tentadero de eliminación, donde se producen las primeras expulsiones, aumentando la tensión entre los participantes.</desc>
+	</programme>
+	<programme start="20260111220800 +0100" stop="20260111225900 +0100" channel="Onetoro">
+    <title>¡Va por ustedes! 20</title>
+    <desc>Toros | +16
+· ¡Viaja con nosotros en este nuevo episodio de "¡Va por ustedes!</desc>
+	</programme>
+	<programme start="20260111230000 +0100" stop="20260112003600 +0100" channel="Onetoro">
+    <title>MÍ tío Jacinto</title>
+    <desc>Toros | +18
+· Jacinto es un pobre torero retirado, trágico y alcohólico, que sobrevive gracias a los cuidados de su sobrino. Un día puede volver a torear, pero no tiene dinero para alquilar el traje. Él y su sobrino deciden ir al rastro a probar suerte.</desc>
+	</programme>
+	<programme start="20260112003600 +0100" stop="20260112004400 +0100" channel="Onetoro">
+    <title>Victorino: lote de vacas Monteviejo. Inside</title>
+    <desc>+16
+· Victorino Martín permite a las cámaras de Onetoro TV adentrarse en esta legendaria ganadería.</desc>
+	</programme>
+	<programme start="20260112004400 +0100" stop="20260112005400 +0100" channel="Onetoro">
+    <title>Inside Victorino Martín. Cobradiezmos.</title>
+    <desc>+16
+· Inside Victorino Martín Cobradiezmos. Las cámaras de Onetoro de adentran dentro del lote de vacas del legendario toro indultado por el matador Manuel Escribano en la Real Maestranza de Caballería de Sevilla.</desc>
+	</programme>
+	<programme start="20260112005400 +0100" stop="20260112005600 +0100" channel="Onetoro">
+    <title>Aprendiz 6. El torilero. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
+	</programme>
+	<programme start="20260112005600 +0100" stop="20260112005900 +0100" channel="Onetoro">
+    <title>6. Erika y Victoria Federica. Estar al Quite</title>
+    <desc>+16
+· Última tarde en la feria de San Isidro, Erika entrevista a los asistentes sobre los toreros, sus curiosidades y frases típicas del toreo.</desc>
+	</programme>
+	<programme start="20260112005900 +0100" stop="20260112010100 +0100" channel="Onetoro">
+    <title>La extensión de la obra social de la Maestranza. Historias del Toreo</title>
+    <desc>+16
+· A parte de sufragar íntegramente los costes de la escuela taurina de Sevilla y su labor editorial, Acevedo nos cuenta la extensión de labores y colecciones que se encuentran en esta biblioteca.</desc>
+	</programme>
+	<programme start="20260112010100 +0100" stop="20260112010400 +0100" channel="Onetoro">
+    <title>Taberna de Antonio Sánchez. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260112010400 +0100" stop="20260112010800 +0100" channel="Onetoro">
+    <title>Azpeitia y Sus Plazas. Historia de la Tauromaquia</title>
+    <desc>+16
+· Analizamos con Domingo Delgado de la Cámara anécdotas e hechos sobre la historia de la Tauromaquia.</desc>
+	</programme>
+	<programme start="20260112010800 +0100" stop="20260112011000 +0100" channel="Onetoro">
+    <title>Lucio Sandín. Historias del Toreo</title>
+    <desc>+16
+· La suerte y desgracias de Lucio Sandín, historia de un torero que triunfó brevemente pero cautivando los corazones de Sevilla.</desc>
+	</programme>
+	<programme start="20260112011000 +0100" stop="20260112011300 +0100" channel="Onetoro">
+    <title>El Perro Paco. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260112011300 +0100" stop="20260112011700 +0100" channel="Onetoro">
+    <title>La cuadrilla de Isaac Fonseca . Cuadrillas</title>
+    <desc>+16
+· "Raúl Ruiz y Juan Carlos Rey nos enseñan el día a día de un miembro de la cuadrilla del famoso torero mejicano Isaac Fonseca.</desc>
+	</programme>
+	<programme start="20260112011700 +0100" stop="20260112011900 +0100" channel="Onetoro">
+    <title>Aprendiz 4. La divisa. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
+	</programme>
+	<programme start="20260112012000 +0100" stop="20260112012200 +0100" channel="Onetoro">
+    <title>4. La tarde de Morante. Estar al Quite</title>
+    <desc>+16
+· Los espectadores lucen sus mejores galas, especialmente para ver a Morante de la Puebla.</desc>
+	</programme>
+	<programme start="20260112012200 +0100" stop="20260112012500 +0100" channel="Onetoro">
+    <title>La obra social de la Maestranza. Historias del Toreo</title>
+    <desc>+16
+· La biblioteca antigua de la Real Maestranza de Caballería de Sevilla realiza una gran labor social de manera altruista en Sevilla desde la época de Alfonso XIII.</desc>
+	</programme>
+	<programme start="20260112012500 +0100" stop="20260112012800 +0100" channel="Onetoro">
+    <title>Copa Chenel. Torres de Alameda 29/3/25</title>
+    <desc>+16
+· Resumen de lo acontecido en este festejo.</desc>
+	</programme>
+	<programme start="20260112012800 +0100" stop="20260112014800 +0100" channel="Onetoro">
+    <title>La Crónica de Álvaro Acevedo. Santander (25/07/2025)</title>
+    <desc>+16
+· Álvaro Acevedo, uno de los analistas taurinos más reputados, desgrana todo lo que ha pasado en la Feria del Norte de Santander 2025.</desc>
+	</programme>
+	<programme start="20260112014800 +0100" stop="20260112021600 +0100" channel="Onetoro">
+    <title>La Crónica de Álvaro Acevedo. Santander (24/07/2025)</title>
+    <desc>+16
+· Álvaro Acevedo, uno de los analistas taurinos más reputados, desgrana todo lo que ha pasado en la Feria del Norte de Santander 2025.</desc>
+	</programme>
+	<programme start="20260112021600 +0100" stop="20260112033200 +0100" channel="Onetoro">
+    <title>Generación T. Borja Jiménez</title>
+    <desc>Toros | +16
+· Generación T conoce al matador Borja Jiménez.</desc>
+	</programme>
+	<programme start="20260112033200 +0100" stop="20260112033500 +0100" channel="Onetoro">
+    <title>Copa Chenel. Torres de Alameda 29/3/25</title>
+    <desc>+16
+· Resumen de lo acontecido en este festejo.</desc>
+	</programme>
+	<programme start="20260112033500 +0100" stop="20260112033700 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Triana</title>
+    <desc>Toros | +16</desc>
+	</programme>
+	<programme start="20260112033700 +0100" stop="20260112034600 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 7-La Verónica.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña como ejecutar la suerte de la verónica.</desc>
+	</programme>
+	<programme start="20260112034700 +0100" stop="20260112035000 +0100" channel="Onetoro">
+    <title>Aprendiz 7. El regatón. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
+	</programme>
+	<programme start="20260112035000 +0100" stop="20260112035300 +0100" channel="Onetoro">
+    <title>7. Erika y Morante. Estar al Quite</title>
+    <desc>+16
+· La elegancia y santander, Erika nos enseña cómo se va a la feria del Norte, Santander.</desc>
+	</programme>
+	<programme start="20260112035300 +0100" stop="20260112035500 +0100" channel="Onetoro">
+    <title>El indulto de Cobradiezmo. Historias del Toreo</title>
+    <desc>+16
+· Alvaro Acevedo nos cuenta cómo se llegó a un acuerdo entre la ganadería de Victorino y la Maestranza, y cómo eso llevó al indulto de Cobradiezmos.</desc>
+	</programme>
+	<programme start="20260112035500 +0100" stop="20260112035700 +0100" channel="Onetoro">
+    <title>La pierna del Tato. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260112035700 +0100" stop="20260112040000 +0100" channel="Onetoro">
+    <title>El Chofre. Historia de la Tauromaquia</title>
+    <desc>+16
+· Analizamos con Domingo Delgado de la Cámara anécdotas e hechos sobre la historia de la Tauromaquia.</desc>
+	</programme>
+	<programme start="20260112040000 +0100" stop="20260112040300 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Calle Pureza.</title>
+    <desc>Toros | +16</desc>
+	</programme>
+	<programme start="20260112040300 +0100" stop="20260112041200 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 8-La media verónica.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña como ejecutar la media verónica.</desc>
+	</programme>
+	<programme start="20260112041200 +0100" stop="20260112042400 +0100" channel="Onetoro">
+    <title>Copa Chenel. San Agustín de Guadalix 30/3/25</title>
+    <desc>+16
+· Resumen de lo acontecido en este festejo.</desc>
+	</programme>
+	<programme start="20260112042400 +0100" stop="20260112042700 +0100" channel="Onetoro">
+    <title>El toro manso. Aprende a ver toros</title>
+    <desc>+16
+· Sánchez Vara nos explica las distintas características que tiene un toro manso.</desc>
+	</programme>
+	<programme start="20260112042700 +0100" stop="20260112042900 +0100" channel="Onetoro">
+    <title>Cargar la suerte. Aprende a ver toros</title>
+    <desc>+16
+· Javier Cortés nos enseña cómo cargar la suerte.</desc>
+	</programme>
+	<programme start="20260112042900 +0100" stop="20260112043200 +0100" channel="Onetoro">
+    <title>Cambios ante un percance. Aprende a ver toros</title>
+    <desc>+16
+· Miguel Ángel Moncholi nos habla del protocolo a seguir cuando hay un percance.</desc>
+	</programme>
+	<programme start="20260112043200 +0100" stop="20260112043800 +0100" channel="Onetoro">
+    <title>Cómo colocar el toro al caballo. Aprende a ver toros</title>
+    <desc>+16
+· Jiménez Fortes nos enseña cómo colocar el toro al caballo para la suerte de varas.</desc>
+	</programme>
+	<programme start="20260112043800 +0100" stop="20260112044900 +0100" channel="Onetoro">
+    <title>La verónica. Aprende a ver toros</title>
+    <desc>+16
+· David Galván nos explica cómo ejecutar la verónica.</desc>
+	</programme>
+	<programme start="20260112044900 +0100" stop="20260112045200 +0100" channel="Onetoro">
+    <title>Los terrenos del toro. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Victorino Martín sobre los terrenos del toro y sus características.</desc>
+	</programme>
+	<programme start="20260112045200 +0100" stop="20260112045700 +0100" channel="Onetoro">
+    <title>Torear al pitón contrario. Aprende a ver toros</title>
+    <desc>+16
+· Miguel Abellán nos enseña cómo torear al pitón contrario.</desc>
+	</programme>
+	<programme start="20260112045700 +0100" stop="20260112050000 +0100" channel="Onetoro">
+    <title>Torear en redondo y en línea recta. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Fernando Robleño a torear en redondo y en línea recta.</desc>
+	</programme>
+	<programme start="20260112050000 +0100" stop="20260112050600 +0100" channel="Onetoro">
+    <title>La colocación de los toreros en la plaza. Aprende a ver toros</title>
+    <desc>+16
+· Federico Arnás nos habla de la colocación de los toreros y sus cuadrillas a lo largo de una corrida de toros.</desc>
+	</programme>
+	<programme start="20260112050600 +0100" stop="20260112050900 +0100" channel="Onetoro">
+    <title>Diferencia entre farol y larga cambiada. Aprende a ver toros</title>
+    <desc>+16
+· Sergio Rodríguez explica la diferencia que hay entre farol y larga cambiada.</desc>
+	</programme>
+	<programme start="20260112050900 +0100" stop="20260112060800 +0100" channel="Onetoro">
+    <title>Capítulo 3. Vivir como Torero</title>
+    <desc>+16
+· Arranca la tercera semana con el primer y segundo tentadero de eliminación, donde se producen las primeras expulsiones, aumentando la tensión entre los participantes.</desc>
+	</programme>
+	<programme start="20260112060800 +0100" stop="20260112065900 +0100" channel="Onetoro">
+    <title>¡Va por ustedes! 20</title>
+    <desc>Toros | +16
+· ¡Viaja con nosotros en este nuevo episodio de "¡Va por ustedes!</desc>
+	</programme>
+	<programme start="20260112070000 +0100" stop="20260112083700 +0100" channel="Onetoro">
+    <title>Nuevo en esta plaza.</title>
+    <desc>Toros | +16
+· Biografía del gran torero Sebastián Palomo Linares. El chico pertenece a una familia humilde pero con grandes valores humanos. Al igual que muchos otros de su edad tiene un sueño: el de ser torero. Trabaja de aprendiz de zapatero, pero por las noches torea a escondidas en las dehesas. Tras una carrera llena de obstáculos y sufrimientos, alcanzó el éxito y se convirtió en un maestro.</desc>
+	</programme>
+	<programme start="20260112083700 +0100" stop="20260112114700 +0100" channel="Onetoro">
+    <title>VIC FEZENSAC. 5 de junio 2017</title>
+    <desc>Toros | +16
+· 5 de junio 2017- toros Alcurrucén para Curro Díaz, Juan Bautista y Manolo Vanegas (alternativa).</desc>
+	</programme>
+	<programme start="20260112114700 +0100" stop="20260112115300 +0100" channel="Onetoro">
+    <title>El toreo con la derecha. Aprende a ver toros</title>
+    <desc>+16
+· Manuel Escribano nos enseña cómo torear con la mano derecha.</desc>
+	</programme>
+	<programme start="20260112115300 +0100" stop="20260112115500 +0100" channel="Onetoro">
+    <title>La salida del toro. Aprende a ver toros</title>
+    <desc>+16
+· José Pedro Prados “El Fundi” nos explica las distintas reacciones que tiene el toro al salir a la plaza.</desc>
+	</programme>
+	<programme start="20260112115500 +0100" stop="20260112115700 +0100" channel="Onetoro">
+    <title>Los avisos. Aprende a ver toros</title>
+    <desc>+16
+· Carmelo López nos enseña qué son los avisos y la importancia que tienen.</desc>
+	</programme>
+	<programme start="20260112115700 +0100" stop="20260112120000 +0100" channel="Onetoro">
+    <title>La alternativa. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Gonzalo Bienvenida todo sobre la alternativa.</desc>
+	</programme>
+	<programme start="20260112120000 +0100" stop="20260112120300 +0100" channel="Onetoro">
+    <title>El sorteo. Aprende a ver toros</title>
+    <desc>+16
+· Rafael González Amigo nos enseña que es un sorteo y los entresijos del mismo.</desc>
+	</programme>
+	<programme start="20260112120300 +0100" stop="20260112120500 +0100" channel="Onetoro">
+    <title>La categoría de las plazas. Aprende a ver toros</title>
+    <desc>+16
+· Sixto Naranjo nos explica las distintas categorías de plazas de toros y sus características.</desc>
+	</programme>
+	<programme start="20260112120500 +0100" stop="20260112120700 +0100" channel="Onetoro">
+    <title>La devolución de un toro. Aprende a ver toros</title>
+    <desc>+16
+· Javier Horcajada nos enseña los aspectos más importantes sobre la devolución de un toro en la plaza.</desc>
+	</programme>
+	<programme start="20260112120700 +0100" stop="20260112121100 +0100" channel="Onetoro">
+    <title>El toreo al natural. Aprende a ver toros.</title>
+    <desc>+16
+· Aprendemos con Manuel Escribano a torear al natural.</desc>
+	</programme>
+	<programme start="20260112121100 +0100" stop="20260112121600 +0100" channel="Onetoro">
+    <title>La Chicuelina. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con David Galván a como ejecutar la chicuelina.</desc>
+	</programme>
+	<programme start="20260112121600 +0100" stop="20260112122000 +0100" channel="Onetoro">
+    <title>Tipos de cornada. Aprende a ver toros</title>
+    <desc>+16
+· El Doctor Enrique Crespo nos da a conocer los tipos de cornadas que hay.</desc>
+	</programme>
+	<programme start="20260112122000 +0100" stop="20260112130000 +0100" channel="Onetoro">
+    <title>Huagrahuasi.Tentaderos</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260112130000 +0100" stop="20260112135200 +0100" channel="Onetoro">
+    <title>En Corto y Por Derecho: Pablo Aguado.</title>
+    <desc>Toros | +16
+· En esta nueva entrega de la serie de televisión "En Corto y por Derecho”, Eduardo Dávila Miura nos llevará hasta la ganadería Murube en la fina "La Cobatilla". Donde veremos en un tentadero a Pablo Aguado, y nos acompañarán D. José Murube, su hija Marta y el primer apoderado de Pablo Aguado Ludovic Ledong “Luisito” que nos contarán cómo fueron los inicios del torero. Eduardo entrevistará al maestro de la guitarra Vicente Amigo, amigo y seguidor de Pablo Aguado. Todo esto y más, en un nuevo programa de “En Corto y por Derecho” Una serie original de ONE TORO Tv.</desc>
+	</programme>
+	<programme start="20260112135200 +0100" stop="20260112135500 +0100" channel="Onetoro">
+    <title>La colocación de la espada. Aprende a ver toros</title>
+    <desc>+16
+· Uceda Leal nos enseña la colocación que debe tener la espada.</desc>
+	</programme>
+	<programme start="20260112135500 +0100" stop="20260112135700 +0100" channel="Onetoro">
+    <title>El uso del descabello. Aprende a ver toros</title>
+    <desc>+16
+· Manolo Sánchez explica cuándo se debe utilizar el descabello.</desc>
+	</programme>
+	<programme start="20260112135700 +0100" stop="20260112140100 +0100" channel="Onetoro">
+    <title>Los pañuelos de la presidencia. Aprende a ver toros</title>
+    <desc>+16
+· José María Costales nos habla de los distintos pañuelos que hay y de la función de cada uno de ellos.</desc>
+	</programme>
+	<programme start="20260112140100 +0100" stop="20260112140400 +0100" channel="Onetoro">
+    <title>Diferencia entre bernadinas y manoletinas. Aprende a ver toros</title>
+    <desc>+16
+· Alejandro Chicharro nos enseña la diferencia que hay entre bernardinas y manoletinas y cómo se llevan a cabo.</desc>
+	</programme>
+	<programme start="20260112140400 +0100" stop="20260112140700 +0100" channel="Onetoro">
+    <title>Diferencia entre trincherilla y trincherazo. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Guillermo García Pulido la diferencia entre trincherilla y trincherazo.</desc>
+	</programme>
+	<programme start="20260112140700 +0100" stop="20260112145900 +0100" channel="Onetoro">
+    <title>La Tarde Después. Vila Viçosa (14/09/2025)</title>
+    <desc>+16
+· Nuevo capítulo de la 'La Tarde Después' de OneToro en Portugal. Esta vez en la localidad de Vila Viçosa.</desc>
+	</programme>
+	<programme start="20260112150000 +0100" stop="20260112163700 +0100" channel="Onetoro">
+    <title>Nuevo en esta plaza.</title>
+    <desc>Toros | +16
+· Biografía del gran torero Sebastián Palomo Linares. El chico pertenece a una familia humilde pero con grandes valores humanos. Al igual que muchos otros de su edad tiene un sueño: el de ser torero. Trabaja de aprendiz de zapatero, pero por las noches torea a escondidas en las dehesas. Tras una carrera llena de obstáculos y sufrimientos, alcanzó el éxito y se convirtió en un maestro.</desc>
+	</programme>
+	<programme start="20260112163700 +0100" stop="20260112194700 +0100" channel="Onetoro">
+    <title>VIC FEZENSAC. 5 de junio 2017</title>
+    <desc>Toros | +16
+· 5 de junio 2017- toros Alcurrucén para Curro Díaz, Juan Bautista y Manolo Vanegas (alternativa).</desc>
+	</programme>
+	<programme start="20260112194700 +0100" stop="20260112195300 +0100" channel="Onetoro">
+    <title>El toreo con la derecha. Aprende a ver toros</title>
+    <desc>+16
+· Manuel Escribano nos enseña cómo torear con la mano derecha.</desc>
+	</programme>
+	<programme start="20260112195300 +0100" stop="20260112195500 +0100" channel="Onetoro">
+    <title>La salida del toro. Aprende a ver toros</title>
+    <desc>+16
+· José Pedro Prados “El Fundi” nos explica las distintas reacciones que tiene el toro al salir a la plaza.</desc>
+	</programme>
+	<programme start="20260112195500 +0100" stop="20260112195700 +0100" channel="Onetoro">
+    <title>Los avisos. Aprende a ver toros</title>
+    <desc>+16
+· Carmelo López nos enseña qué son los avisos y la importancia que tienen.</desc>
+	</programme>
+	<programme start="20260112195700 +0100" stop="20260112200000 +0100" channel="Onetoro">
+    <title>La alternativa. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Gonzalo Bienvenida todo sobre la alternativa.</desc>
+	</programme>
+	<programme start="20260112200000 +0100" stop="20260112200300 +0100" channel="Onetoro">
+    <title>El sorteo. Aprende a ver toros</title>
+    <desc>+16
+· Rafael González Amigo nos enseña que es un sorteo y los entresijos del mismo.</desc>
+	</programme>
+	<programme start="20260112200300 +0100" stop="20260112200500 +0100" channel="Onetoro">
+    <title>La categoría de las plazas. Aprende a ver toros</title>
+    <desc>+16
+· Sixto Naranjo nos explica las distintas categorías de plazas de toros y sus características.</desc>
+	</programme>
+	<programme start="20260112200500 +0100" stop="20260112200700 +0100" channel="Onetoro">
+    <title>La devolución de un toro. Aprende a ver toros</title>
+    <desc>+16
+· Javier Horcajada nos enseña los aspectos más importantes sobre la devolución de un toro en la plaza.</desc>
+	</programme>
+	<programme start="20260112200700 +0100" stop="20260112201100 +0100" channel="Onetoro">
+    <title>El toreo al natural. Aprende a ver toros.</title>
+    <desc>+16
+· Aprendemos con Manuel Escribano a torear al natural.</desc>
+	</programme>
+	<programme start="20260112201100 +0100" stop="20260112201600 +0100" channel="Onetoro">
+    <title>La Chicuelina. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con David Galván a como ejecutar la chicuelina.</desc>
+	</programme>
+	<programme start="20260112201600 +0100" stop="20260112202000 +0100" channel="Onetoro">
+    <title>Tipos de cornada. Aprende a ver toros</title>
+    <desc>+16
+· El Doctor Enrique Crespo nos da a conocer los tipos de cornadas que hay.</desc>
+	</programme>
+	<programme start="20260112202000 +0100" stop="20260112210000 +0100" channel="Onetoro">
+    <title>Huagrahuasi.Tentaderos</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260112210000 +0100" stop="20260112215200 +0100" channel="Onetoro">
+    <title>En Corto y Por Derecho: Pablo Aguado.</title>
+    <desc>Toros | +16
+· En esta nueva entrega de la serie de televisión "En Corto y por Derecho”, Eduardo Dávila Miura nos llevará hasta la ganadería Murube en la fina "La Cobatilla". Donde veremos en un tentadero a Pablo Aguado, y nos acompañarán D. José Murube, su hija Marta y el primer apoderado de Pablo Aguado Ludovic Ledong “Luisito” que nos contarán cómo fueron los inicios del torero. Eduardo entrevistará al maestro de la guitarra Vicente Amigo, amigo y seguidor de Pablo Aguado. Todo esto y más, en un nuevo programa de “En Corto y por Derecho” Una serie original de ONE TORO Tv.</desc>
+	</programme>
+	<programme start="20260112215200 +0100" stop="20260112215500 +0100" channel="Onetoro">
+    <title>La colocación de la espada. Aprende a ver toros</title>
+    <desc>+16
+· Uceda Leal nos enseña la colocación que debe tener la espada.</desc>
+	</programme>
+	<programme start="20260112215500 +0100" stop="20260112215700 +0100" channel="Onetoro">
+    <title>El uso del descabello. Aprende a ver toros</title>
+    <desc>+16
+· Manolo Sánchez explica cuándo se debe utilizar el descabello.</desc>
+	</programme>
+	<programme start="20260112215700 +0100" stop="20260112220100 +0100" channel="Onetoro">
+    <title>Los pañuelos de la presidencia. Aprende a ver toros</title>
+    <desc>+16
+· José María Costales nos habla de los distintos pañuelos que hay y de la función de cada uno de ellos.</desc>
+	</programme>
+	<programme start="20260112220100 +0100" stop="20260112220400 +0100" channel="Onetoro">
+    <title>Diferencia entre bernadinas y manoletinas. Aprende a ver toros</title>
+    <desc>+16
+· Alejandro Chicharro nos enseña la diferencia que hay entre bernardinas y manoletinas y cómo se llevan a cabo.</desc>
+	</programme>
+	<programme start="20260112220400 +0100" stop="20260112220700 +0100" channel="Onetoro">
+    <title>Diferencia entre trincherilla y trincherazo. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Guillermo García Pulido la diferencia entre trincherilla y trincherazo.</desc>
+	</programme>
+	<programme start="20260112220700 +0100" stop="20260112225900 +0100" channel="Onetoro">
+    <title>La Tarde Después. Vila Viçosa (14/09/2025)</title>
+    <desc>+16
+· Nuevo capítulo de la 'La Tarde Después' de OneToro en Portugal. Esta vez en la localidad de Vila Viçosa.</desc>
+	</programme>
+	<programme start="20260112230000 +0100" stop="20260113003700 +0100" channel="Onetoro">
+    <title>Nuevo en esta plaza.</title>
+    <desc>Toros | +16
+· Biografía del gran torero Sebastián Palomo Linares. El chico pertenece a una familia humilde pero con grandes valores humanos. Al igual que muchos otros de su edad tiene un sueño: el de ser torero. Trabaja de aprendiz de zapatero, pero por las noches torea a escondidas en las dehesas. Tras una carrera llena de obstáculos y sufrimientos, alcanzó el éxito y se convirtió en un maestro.</desc>
+	</programme>
+	<programme start="20260113003700 +0100" stop="20260113034700 +0100" channel="Onetoro">
+    <title>VIC FEZENSAC. 5 de junio 2017</title>
+    <desc>Toros | +16
+· 5 de junio 2017- toros Alcurrucén para Curro Díaz, Juan Bautista y Manolo Vanegas (alternativa).</desc>
+	</programme>
+	<programme start="20260113034700 +0100" stop="20260113035300 +0100" channel="Onetoro">
+    <title>El toreo con la derecha. Aprende a ver toros</title>
+    <desc>+16
+· Manuel Escribano nos enseña cómo torear con la mano derecha.</desc>
+	</programme>
+	<programme start="20260113035300 +0100" stop="20260113035500 +0100" channel="Onetoro">
+    <title>La salida del toro. Aprende a ver toros</title>
+    <desc>+16
+· José Pedro Prados “El Fundi” nos explica las distintas reacciones que tiene el toro al salir a la plaza.</desc>
+	</programme>
+	<programme start="20260113035500 +0100" stop="20260113035700 +0100" channel="Onetoro">
+    <title>Los avisos. Aprende a ver toros</title>
+    <desc>+16
+· Carmelo López nos enseña qué son los avisos y la importancia que tienen.</desc>
+	</programme>
+	<programme start="20260113035700 +0100" stop="20260113040000 +0100" channel="Onetoro">
+    <title>La alternativa. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Gonzalo Bienvenida todo sobre la alternativa.</desc>
+	</programme>
+	<programme start="20260113040000 +0100" stop="20260113040300 +0100" channel="Onetoro">
+    <title>El sorteo. Aprende a ver toros</title>
+    <desc>+16
+· Rafael González Amigo nos enseña que es un sorteo y los entresijos del mismo.</desc>
+	</programme>
+	<programme start="20260113040300 +0100" stop="20260113040500 +0100" channel="Onetoro">
+    <title>La categoría de las plazas. Aprende a ver toros</title>
+    <desc>+16
+· Sixto Naranjo nos explica las distintas categorías de plazas de toros y sus características.</desc>
+	</programme>
+	<programme start="20260113040500 +0100" stop="20260113040700 +0100" channel="Onetoro">
+    <title>La devolución de un toro. Aprende a ver toros</title>
+    <desc>+16
+· Javier Horcajada nos enseña los aspectos más importantes sobre la devolución de un toro en la plaza.</desc>
+	</programme>
+	<programme start="20260113040700 +0100" stop="20260113041100 +0100" channel="Onetoro">
+    <title>El toreo al natural. Aprende a ver toros.</title>
+    <desc>+16
+· Aprendemos con Manuel Escribano a torear al natural.</desc>
+	</programme>
+	<programme start="20260113041100 +0100" stop="20260113041600 +0100" channel="Onetoro">
+    <title>La Chicuelina. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con David Galván a como ejecutar la chicuelina.</desc>
+	</programme>
+	<programme start="20260113041600 +0100" stop="20260113042000 +0100" channel="Onetoro">
+    <title>Tipos de cornada. Aprende a ver toros</title>
+    <desc>+16
+· El Doctor Enrique Crespo nos da a conocer los tipos de cornadas que hay.</desc>
+	</programme>
+	<programme start="20260113042000 +0100" stop="20260113050000 +0100" channel="Onetoro">
+    <title>Huagrahuasi.Tentaderos</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260113050000 +0100" stop="20260113055200 +0100" channel="Onetoro">
+    <title>En Corto y Por Derecho: Pablo Aguado.</title>
+    <desc>Toros | +16
+· En esta nueva entrega de la serie de televisión "En Corto y por Derecho”, Eduardo Dávila Miura nos llevará hasta la ganadería Murube en la fina "La Cobatilla". Donde veremos en un tentadero a Pablo Aguado, y nos acompañarán D. José Murube, su hija Marta y el primer apoderado de Pablo Aguado Ludovic Ledong “Luisito” que nos contarán cómo fueron los inicios del torero. Eduardo entrevistará al maestro de la guitarra Vicente Amigo, amigo y seguidor de Pablo Aguado. Todo esto y más, en un nuevo programa de “En Corto y por Derecho” Una serie original de ONE TORO Tv.</desc>
+	</programme>
+	<programme start="20260113055200 +0100" stop="20260113055500 +0100" channel="Onetoro">
+    <title>La colocación de la espada. Aprende a ver toros</title>
+    <desc>+16
+· Uceda Leal nos enseña la colocación que debe tener la espada.</desc>
+	</programme>
+	<programme start="20260113055500 +0100" stop="20260113055700 +0100" channel="Onetoro">
+    <title>El uso del descabello. Aprende a ver toros</title>
+    <desc>+16
+· Manolo Sánchez explica cuándo se debe utilizar el descabello.</desc>
+	</programme>
+	<programme start="20260113055700 +0100" stop="20260113060100 +0100" channel="Onetoro">
+    <title>Los pañuelos de la presidencia. Aprende a ver toros</title>
+    <desc>+16
+· José María Costales nos habla de los distintos pañuelos que hay y de la función de cada uno de ellos.</desc>
+	</programme>
+	<programme start="20260113060100 +0100" stop="20260113060400 +0100" channel="Onetoro">
+    <title>Diferencia entre bernadinas y manoletinas. Aprende a ver toros</title>
+    <desc>+16
+· Alejandro Chicharro nos enseña la diferencia que hay entre bernardinas y manoletinas y cómo se llevan a cabo.</desc>
+	</programme>
+	<programme start="20260113060400 +0100" stop="20260113060700 +0100" channel="Onetoro">
+    <title>Diferencia entre trincherilla y trincherazo. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Guillermo García Pulido la diferencia entre trincherilla y trincherazo.</desc>
+	</programme>
+	<programme start="20260113060700 +0100" stop="20260113065900 +0100" channel="Onetoro">
+    <title>La Tarde Después. Vila Viçosa (14/09/2025)</title>
+    <desc>+16
+· Nuevo capítulo de la 'La Tarde Después' de OneToro en Portugal. Esta vez en la localidad de Vila Viçosa.</desc>
+	</programme>
+	<programme start="20260113070000 +0100" stop="20260113075100 +0100" channel="Onetoro">
+    <title>La Tierra del Toro. Hermanos Peralta.</title>
+    <desc>Toros | +16
+· La Tierra del Toro se adentra en la casa de los hermanos Peralta.</desc>
+	</programme>
+	<programme start="20260113075100 +0100" stop="20260113075400 +0100" channel="Onetoro">
+    <title>El trabajo del mozo de espadas. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Raúl de la Fe todo el trabajo que realizan los mozos de espadas cuando hay un festejo.</desc>
+	</programme>
+	<programme start="20260113075500 +0100" stop="20260113075700 +0100" channel="Onetoro">
+    <title>Diferencia entre gaoneras y talaveras. Aprende a ver toros</title>
+    <desc>+16
+· Mario Navas nos enseña la diferencia que hay entre gaoneras y talaveras.</desc>
+	</programme>
+	<programme start="20260113075700 +0100" stop="20260113075900 +0100" channel="Onetoro">
+    <title>El tercio de banderillas. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Juan Carlos Rey y Raúl Ruíz “Cachorro” a ejecutar el tercio de banderillas.</desc>
+	</programme>
+	<programme start="20260113080000 +0100" stop="20260113080200 +0100" channel="Onetoro">
+    <title>Los cambios de tercio. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Carmelo López sobre los cambios de tercio y los distintos tipos que hay.</desc>
+	</programme>
+	<programme start="20260113080200 +0100" stop="20260113080500 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: La Monumental de Sevilla.</title>
+    <desc>Toros | +16</desc>
+	</programme>
+	<programme start="20260113080500 +0100" stop="20260113081600 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 3-Terminología.</title>
+    <desc>Toros | +16
+· En este episodio aprendemos con el maestro Eduardo Dávila Miura la terminología en el toreo.</desc>
+	</programme>
+	<programme start="20260113081600 +0100" stop="20260113082100 +0100" channel="Onetoro">
+    <title>Aprendiz 3. El orden del paseillo. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo vuelve a regañar a Daiki a su llegada a la plaza, y le encarga averiguar nuevamente un concepto taurino.</desc>
+	</programme>
+	<programme start="20260113082100 +0100" stop="20260113082400 +0100" channel="Onetoro">
+    <title>3. La tarde de Roca Rey. Estar al Quite</title>
+    <desc>+16
+· Suben las temperaturas, no hay billetes, los looks de San Isidro lucen como nunca en este episodio de Erika Navarlaz en San Isidro.</desc>
+	</programme>
+	<programme start="20260113082400 +0100" stop="20260113082700 +0100" channel="Onetoro">
+    <title>Pablo Gómez Terrón. Historias del Toreo</title>
+    <desc>+16
+· Alvaro Acevedo nos cuenta las idas y venidas de Terrón como novillero hasta conseguir tomar la alternativa.</desc>
+	</programme>
+	<programme start="20260113082700 +0100" stop="20260113083000 +0100" channel="Onetoro">
+    <title>Los Dominguines. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260113083000 +0100" stop="20260113111000 +0100" channel="Onetoro">
+    <title>Feria de la Antigua. Directo Guadalajara (21/9/25)</title>
+    <desc>+16
+· Festejo de la Feria de La Antigua de Guadalajara en el que se lidiarán toros de Zalduendo para Sebastián Castella, Pablo Aguado y Tomás Rufo.</desc>
+	</programme>
+	<programme start="20260113111000 +0100" stop="20260113111800 +0100" channel="Onetoro">
+    <title>Victorino: lote de vacas Monteviejo. Inside</title>
+    <desc>+16
+· Victorino Martín permite a las cámaras de Onetoro TV adentrarse en esta legendaria ganadería.</desc>
+	</programme>
+	<programme start="20260113111800 +0100" stop="20260113113500 +0100" channel="Onetoro">
+    <title>Inside Victorino Martín. Cobradiezmos.</title>
+    <desc>+16
+· Inside Victorino Martín Cobradiezmos. Las cámaras de Onetoro de adentran dentro del lote de vacas del legendario toro indultado por el matador Manuel Escribano en la Real Maestranza de Caballería de Sevilla.</desc>
+	</programme>
+	<programme start="20260113113500 +0100" stop="20260113122200 +0100" channel="Onetoro">
+    <title>Escuela cultural Taurina de Sevilla. Escuelas Taurinas</title>
+    <desc>+16
+· En esta ocasión, acompañamos al campo a una de las escuelas taurinas más importantes de España, cuna de grandes toreros como Salvador Cortés, Manuel Escribano o Daniel Luque, entre muchos otros.</desc>
+	</programme>
+	<programme start="20260113122200 +0100" stop="20260113122400 +0100" channel="Onetoro">
+    <title>Aprendiz 6. El torilero. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
+	</programme>
+	<programme start="20260113122400 +0100" stop="20260113122700 +0100" channel="Onetoro">
+    <title>6. Erika y Victoria Federica. Estar al Quite</title>
+    <desc>+16
+· Última tarde en la feria de San Isidro, Erika entrevista a los asistentes sobre los toreros, sus curiosidades y frases típicas del toreo.</desc>
+	</programme>
+	<programme start="20260113122700 +0100" stop="20260113122900 +0100" channel="Onetoro">
+    <title>Taberna de Antonio Sánchez. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260113122900 +0100" stop="20260113123300 +0100" channel="Onetoro">
+    <title>Azpeitia y Sus Plazas. Historia de la Tauromaquia</title>
+    <desc>+16
+· Analizamos con Domingo Delgado de la Cámara anécdotas e hechos sobre la historia de la Tauromaquia.</desc>
+	</programme>
+	<programme start="20260113123300 +0100" stop="20260113123600 +0100" channel="Onetoro">
+    <title>Lucio Sandín. Historias del Toreo</title>
+    <desc>+16
+· La suerte y desgracias de Lucio Sandín, historia de un torero que triunfó brevemente pero cautivando los corazones de Sevilla.</desc>
+	</programme>
+	<programme start="20260113123600 +0100" stop="20260113123800 +0100" channel="Onetoro">
+    <title>El Perro Paco. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260113123800 +0100" stop="20260113124300 +0100" channel="Onetoro">
+    <title>La cuadrilla de Isaac Fonseca . Cuadrillas</title>
+    <desc>+16
+· "Raúl Ruiz y Juan Carlos Rey nos enseñan el día a día de un miembro de la cuadrilla del famoso torero mejicano Isaac Fonseca.</desc>
+	</programme>
+	<programme start="20260113124300 +0100" stop="20260113124500 +0100" channel="Onetoro">
+    <title>Aprendiz 4. La divisa. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
+	</programme>
+	<programme start="20260113124500 +0100" stop="20260113124800 +0100" channel="Onetoro">
+    <title>4. La tarde de Morante. Estar al Quite</title>
+    <desc>+16
+· Los espectadores lucen sus mejores galas, especialmente para ver a Morante de la Puebla.</desc>
+	</programme>
+	<programme start="20260113124800 +0100" stop="20260113125000 +0100" channel="Onetoro">
+    <title>La obra social de la Maestranza. Historias del Toreo</title>
+    <desc>+16
+· La biblioteca antigua de la Real Maestranza de Caballería de Sevilla realiza una gran labor social de manera altruista en Sevilla desde la época de Alfonso XIII.</desc>
+	</programme>
+	<programme start="20260113125000 +0100" stop="20260113133000 +0100" channel="Onetoro">
+    <title>Proyecto Querencia: Sánchez Vara</title>
+    <desc>Toros | +16
+· Proyecto Querencia acompaña a Francisco Javier Sánchez Vara a su compromiso en la Feria del Aficionado del Club Taurino 3 Puyazos. Hará el paseíllo mano a mano con Octavio Chacón frente a Reta de Casta Navarra, una ganadería que despertó miedo y curiosidad desde que fue anunciada en San Agustín del Guadalix.</desc>
+	</programme>
+	<programme start="20260113133000 +0100" stop="20260113133200 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Triana</title>
+    <desc>Toros | +16</desc>
+	</programme>
+	<programme start="20260113133200 +0100" stop="20260113134200 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 7-La Verónica.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña como ejecutar la suerte de la verónica.</desc>
+	</programme>
+	<programme start="20260113134200 +0100" stop="20260113134600 +0100" channel="Onetoro">
+    <title>Aprendiz 7. El regatón. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
+	</programme>
+	<programme start="20260113134600 +0100" stop="20260113134800 +0100" channel="Onetoro">
+    <title>7. Erika y Morante. Estar al Quite</title>
+    <desc>+16
+· La elegancia y santander, Erika nos enseña cómo se va a la feria del Norte, Santander.</desc>
+	</programme>
+	<programme start="20260113134800 +0100" stop="20260113135000 +0100" channel="Onetoro">
+    <title>El indulto de Cobradiezmo. Historias del Toreo</title>
+    <desc>+16
+· Alvaro Acevedo nos cuenta cómo se llegó a un acuerdo entre la ganadería de Victorino y la Maestranza, y cómo eso llevó al indulto de Cobradiezmos.</desc>
+	</programme>
+	<programme start="20260113135000 +0100" stop="20260113135300 +0100" channel="Onetoro">
+    <title>La pierna del Tato. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260113135300 +0100" stop="20260113135600 +0100" channel="Onetoro">
+    <title>El Chofre. Historia de la Tauromaquia</title>
+    <desc>+16
+· Analizamos con Domingo Delgado de la Cámara anécdotas e hechos sobre la historia de la Tauromaquia.</desc>
+	</programme>
+	<programme start="20260113135600 +0100" stop="20260113135800 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Calle Pureza.</title>
+    <desc>Toros | +16</desc>
+	</programme>
+	<programme start="20260113135800 +0100" stop="20260113140700 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 8-La media verónica.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña como ejecutar la media verónica.</desc>
+	</programme>
+	<programme start="20260113140700 +0100" stop="20260113145900 +0100" channel="Onetoro">
+    <title>Esportón de Historias. Diego Mateo, Emilio de Justo y Julio Fernández</title>
+    <desc>Toros | +16
+· Nueva entrega de ESPORTÓN DE HISTORIAS, un programa de entrevistas presentado por Álvaro Acevedo. Esta semana, nueva entrega de la entrevista con Emilio de Justo, ahora para hablarnos de su gravísima lesión y el proceso de recuperación, consumado con una celeridad inaudita. Segundo capítulo de la charla con el veterinario e investigador Julio Fernández, que nos explica la bravura desde un punto de vista científico. Y conoceremos a Diego Mateo, el hombre que vivió en primera persona los últimos 15 años de la vida de Juan Belmonte, y su suicidio de un tiro en la sien. Ven a conocer este lugar para la reflexión, la libertad y la valentía. ESPORTÓN DE HISTORIAS, una serie original de ONE TORO TV.</desc>
+	</programme>
+	<programme start="20260113150000 +0100" stop="20260113155100 +0100" channel="Onetoro">
+    <title>La Tierra del Toro. Hermanos Peralta.</title>
+    <desc>Toros | +16
+· La Tierra del Toro se adentra en la casa de los hermanos Peralta.</desc>
+	</programme>
+	<programme start="20260113155100 +0100" stop="20260113155400 +0100" channel="Onetoro">
+    <title>El trabajo del mozo de espadas. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Raúl de la Fe todo el trabajo que realizan los mozos de espadas cuando hay un festejo.</desc>
+	</programme>
+	<programme start="20260113155500 +0100" stop="20260113155700 +0100" channel="Onetoro">
+    <title>Diferencia entre gaoneras y talaveras. Aprende a ver toros</title>
+    <desc>+16
+· Mario Navas nos enseña la diferencia que hay entre gaoneras y talaveras.</desc>
+	</programme>
+	<programme start="20260113155700 +0100" stop="20260113155900 +0100" channel="Onetoro">
+    <title>El tercio de banderillas. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Juan Carlos Rey y Raúl Ruíz “Cachorro” a ejecutar el tercio de banderillas.</desc>
+	</programme>
+	<programme start="20260113160000 +0100" stop="20260113160200 +0100" channel="Onetoro">
+    <title>Los cambios de tercio. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Carmelo López sobre los cambios de tercio y los distintos tipos que hay.</desc>
+	</programme>
+	<programme start="20260113160200 +0100" stop="20260113160500 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: La Monumental de Sevilla.</title>
+    <desc>Toros | +16</desc>
+	</programme>
+	<programme start="20260113160500 +0100" stop="20260113161600 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 3-Terminología.</title>
+    <desc>Toros | +16
+· En este episodio aprendemos con el maestro Eduardo Dávila Miura la terminología en el toreo.</desc>
+	</programme>
+	<programme start="20260113161600 +0100" stop="20260113162100 +0100" channel="Onetoro">
+    <title>Aprendiz 3. El orden del paseillo. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo vuelve a regañar a Daiki a su llegada a la plaza, y le encarga averiguar nuevamente un concepto taurino.</desc>
+	</programme>
+	<programme start="20260113162100 +0100" stop="20260113162400 +0100" channel="Onetoro">
+    <title>3. La tarde de Roca Rey. Estar al Quite</title>
+    <desc>+16
+· Suben las temperaturas, no hay billetes, los looks de San Isidro lucen como nunca en este episodio de Erika Navarlaz en San Isidro.</desc>
+	</programme>
+	<programme start="20260113162400 +0100" stop="20260113162700 +0100" channel="Onetoro">
+    <title>Pablo Gómez Terrón. Historias del Toreo</title>
+    <desc>+16
+· Alvaro Acevedo nos cuenta las idas y venidas de Terrón como novillero hasta conseguir tomar la alternativa.</desc>
+	</programme>
+	<programme start="20260113162700 +0100" stop="20260113163000 +0100" channel="Onetoro">
+    <title>Los Dominguines. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260113163000 +0100" stop="20260113191000 +0100" channel="Onetoro">
+    <title>Feria de la Antigua. Directo Guadalajara (21/9/25)</title>
+    <desc>+16
+· Festejo de la Feria de La Antigua de Guadalajara en el que se lidiarán toros de Zalduendo para Sebastián Castella, Pablo Aguado y Tomás Rufo.</desc>
+	</programme>
+	<programme start="20260113191000 +0100" stop="20260113191800 +0100" channel="Onetoro">
+    <title>Victorino: lote de vacas Monteviejo. Inside</title>
+    <desc>+16
+· Victorino Martín permite a las cámaras de Onetoro TV adentrarse en esta legendaria ganadería.</desc>
+	</programme>
+	<programme start="20260113191800 +0100" stop="20260113193500 +0100" channel="Onetoro">
+    <title>Inside Victorino Martín. Cobradiezmos.</title>
+    <desc>+16
+· Inside Victorino Martín Cobradiezmos. Las cámaras de Onetoro de adentran dentro del lote de vacas del legendario toro indultado por el matador Manuel Escribano en la Real Maestranza de Caballería de Sevilla.</desc>
+	</programme>
+	<programme start="20260113193500 +0100" stop="20260113202200 +0100" channel="Onetoro">
+    <title>Escuela cultural Taurina de Sevilla. Escuelas Taurinas</title>
+    <desc>+16
+· En esta ocasión, acompañamos al campo a una de las escuelas taurinas más importantes de España, cuna de grandes toreros como Salvador Cortés, Manuel Escribano o Daniel Luque, entre muchos otros.</desc>
+	</programme>
+	<programme start="20260113202200 +0100" stop="20260113202400 +0100" channel="Onetoro">
+    <title>Aprendiz 6. El torilero. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
+	</programme>
+	<programme start="20260113202400 +0100" stop="20260113202700 +0100" channel="Onetoro">
+    <title>6. Erika y Victoria Federica. Estar al Quite</title>
+    <desc>+16
+· Última tarde en la feria de San Isidro, Erika entrevista a los asistentes sobre los toreros, sus curiosidades y frases típicas del toreo.</desc>
+	</programme>
+	<programme start="20260113202700 +0100" stop="20260113202900 +0100" channel="Onetoro">
+    <title>Taberna de Antonio Sánchez. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260113202900 +0100" stop="20260113203300 +0100" channel="Onetoro">
+    <title>Azpeitia y Sus Plazas. Historia de la Tauromaquia</title>
+    <desc>+16
+· Analizamos con Domingo Delgado de la Cámara anécdotas e hechos sobre la historia de la Tauromaquia.</desc>
+	</programme>
+	<programme start="20260113203300 +0100" stop="20260113203600 +0100" channel="Onetoro">
+    <title>Lucio Sandín. Historias del Toreo</title>
+    <desc>+16
+· La suerte y desgracias de Lucio Sandín, historia de un torero que triunfó brevemente pero cautivando los corazones de Sevilla.</desc>
+	</programme>
+	<programme start="20260113203600 +0100" stop="20260113203800 +0100" channel="Onetoro">
+    <title>El Perro Paco. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260113203800 +0100" stop="20260113204300 +0100" channel="Onetoro">
+    <title>La cuadrilla de Isaac Fonseca . Cuadrillas</title>
+    <desc>+16
+· "Raúl Ruiz y Juan Carlos Rey nos enseñan el día a día de un miembro de la cuadrilla del famoso torero mejicano Isaac Fonseca.</desc>
+	</programme>
+	<programme start="20260113204300 +0100" stop="20260113204500 +0100" channel="Onetoro">
+    <title>Aprendiz 4. La divisa. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
+	</programme>
+	<programme start="20260113204500 +0100" stop="20260113204800 +0100" channel="Onetoro">
+    <title>4. La tarde de Morante. Estar al Quite</title>
+    <desc>+16
+· Los espectadores lucen sus mejores galas, especialmente para ver a Morante de la Puebla.</desc>
+	</programme>
+	<programme start="20260113204800 +0100" stop="20260113205000 +0100" channel="Onetoro">
+    <title>La obra social de la Maestranza. Historias del Toreo</title>
+    <desc>+16
+· La biblioteca antigua de la Real Maestranza de Caballería de Sevilla realiza una gran labor social de manera altruista en Sevilla desde la época de Alfonso XIII.</desc>
+	</programme>
+	<programme start="20260113205000 +0100" stop="20260113213000 +0100" channel="Onetoro">
+    <title>Proyecto Querencia: Sánchez Vara</title>
+    <desc>Toros | +16
+· Proyecto Querencia acompaña a Francisco Javier Sánchez Vara a su compromiso en la Feria del Aficionado del Club Taurino 3 Puyazos. Hará el paseíllo mano a mano con Octavio Chacón frente a Reta de Casta Navarra, una ganadería que despertó miedo y curiosidad desde que fue anunciada en San Agustín del Guadalix.</desc>
+	</programme>
+	<programme start="20260113213000 +0100" stop="20260113213200 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Triana</title>
+    <desc>Toros | +16</desc>
+	</programme>
+	<programme start="20260113213200 +0100" stop="20260113214200 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 7-La Verónica.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña como ejecutar la suerte de la verónica.</desc>
+	</programme>
+	<programme start="20260113214200 +0100" stop="20260113214600 +0100" channel="Onetoro">
+    <title>Aprendiz 7. El regatón. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
+	</programme>
+	<programme start="20260113214600 +0100" stop="20260113214800 +0100" channel="Onetoro">
+    <title>7. Erika y Morante. Estar al Quite</title>
+    <desc>+16
+· La elegancia y santander, Erika nos enseña cómo se va a la feria del Norte, Santander.</desc>
+	</programme>
+	<programme start="20260113214800 +0100" stop="20260113215000 +0100" channel="Onetoro">
+    <title>El indulto de Cobradiezmo. Historias del Toreo</title>
+    <desc>+16
+· Alvaro Acevedo nos cuenta cómo se llegó a un acuerdo entre la ganadería de Victorino y la Maestranza, y cómo eso llevó al indulto de Cobradiezmos.</desc>
+	</programme>
+	<programme start="20260113215000 +0100" stop="20260113215300 +0100" channel="Onetoro">
+    <title>La pierna del Tato. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260113215300 +0100" stop="20260113215600 +0100" channel="Onetoro">
+    <title>El Chofre. Historia de la Tauromaquia</title>
+    <desc>+16
+· Analizamos con Domingo Delgado de la Cámara anécdotas e hechos sobre la historia de la Tauromaquia.</desc>
+	</programme>
+	<programme start="20260113215600 +0100" stop="20260113215800 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Calle Pureza.</title>
+    <desc>Toros | +16</desc>
+	</programme>
+	<programme start="20260113215800 +0100" stop="20260113220700 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 8-La media verónica.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña como ejecutar la media verónica.</desc>
+	</programme>
+	<programme start="20260113220700 +0100" stop="20260113225900 +0100" channel="Onetoro">
+    <title>Esportón de Historias. Diego Mateo, Emilio de Justo y Julio Fernández</title>
+    <desc>Toros | +16
+· Nueva entrega de ESPORTÓN DE HISTORIAS, un programa de entrevistas presentado por Álvaro Acevedo. Esta semana, nueva entrega de la entrevista con Emilio de Justo, ahora para hablarnos de su gravísima lesión y el proceso de recuperación, consumado con una celeridad inaudita. Segundo capítulo de la charla con el veterinario e investigador Julio Fernández, que nos explica la bravura desde un punto de vista científico. Y conoceremos a Diego Mateo, el hombre que vivió en primera persona los últimos 15 años de la vida de Juan Belmonte, y su suicidio de un tiro en la sien. Ven a conocer este lugar para la reflexión, la libertad y la valentía. ESPORTÓN DE HISTORIAS, una serie original de ONE TORO TV.</desc>
+	</programme>
+	<programme start="20260113230000 +0100" stop="20260113235100 +0100" channel="Onetoro">
+    <title>La Tierra del Toro. Hermanos Peralta.</title>
+    <desc>Toros | +16
+· La Tierra del Toro se adentra en la casa de los hermanos Peralta.</desc>
+	</programme>
+	<programme start="20260113235100 +0100" stop="20260113235400 +0100" channel="Onetoro">
+    <title>El trabajo del mozo de espadas. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Raúl de la Fe todo el trabajo que realizan los mozos de espadas cuando hay un festejo.</desc>
+	</programme>
+	<programme start="20260113235500 +0100" stop="20260113235700 +0100" channel="Onetoro">
+    <title>Diferencia entre gaoneras y talaveras. Aprende a ver toros</title>
+    <desc>+16
+· Mario Navas nos enseña la diferencia que hay entre gaoneras y talaveras.</desc>
+	</programme>
+	<programme start="20260113235700 +0100" stop="20260113235900 +0100" channel="Onetoro">
+    <title>El tercio de banderillas. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Juan Carlos Rey y Raúl Ruíz “Cachorro” a ejecutar el tercio de banderillas.</desc>
+	</programme>
+	<programme start="20260114000000 +0100" stop="20260114000200 +0100" channel="Onetoro">
+    <title>Los cambios de tercio. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Carmelo López sobre los cambios de tercio y los distintos tipos que hay.</desc>
+	</programme>
+	<programme start="20260114000200 +0100" stop="20260114000500 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: La Monumental de Sevilla.</title>
+    <desc>Toros | +16</desc>
+	</programme>
+	<programme start="20260114000500 +0100" stop="20260114001600 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 3-Terminología.</title>
+    <desc>Toros | +16
+· En este episodio aprendemos con el maestro Eduardo Dávila Miura la terminología en el toreo.</desc>
+	</programme>
+	<programme start="20260114001600 +0100" stop="20260114002100 +0100" channel="Onetoro">
+    <title>Aprendiz 3. El orden del paseillo. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo vuelve a regañar a Daiki a su llegada a la plaza, y le encarga averiguar nuevamente un concepto taurino.</desc>
+	</programme>
+	<programme start="20260114002100 +0100" stop="20260114002400 +0100" channel="Onetoro">
+    <title>3. La tarde de Roca Rey. Estar al Quite</title>
+    <desc>+16
+· Suben las temperaturas, no hay billetes, los looks de San Isidro lucen como nunca en este episodio de Erika Navarlaz en San Isidro.</desc>
+	</programme>
+	<programme start="20260114002400 +0100" stop="20260114002700 +0100" channel="Onetoro">
+    <title>Pablo Gómez Terrón. Historias del Toreo</title>
+    <desc>+16
+· Alvaro Acevedo nos cuenta las idas y venidas de Terrón como novillero hasta conseguir tomar la alternativa.</desc>
+	</programme>
+	<programme start="20260114002700 +0100" stop="20260114003000 +0100" channel="Onetoro">
+    <title>Los Dominguines. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260114003000 +0100" stop="20260114031000 +0100" channel="Onetoro">
+    <title>Feria de la Antigua. Directo Guadalajara (21/9/25)</title>
+    <desc>+16
+· Festejo de la Feria de La Antigua de Guadalajara en el que se lidiarán toros de Zalduendo para Sebastián Castella, Pablo Aguado y Tomás Rufo.</desc>
+	</programme>
+	<programme start="20260114031000 +0100" stop="20260114031800 +0100" channel="Onetoro">
+    <title>Victorino: lote de vacas Monteviejo. Inside</title>
+    <desc>+16
+· Victorino Martín permite a las cámaras de Onetoro TV adentrarse en esta legendaria ganadería.</desc>
+	</programme>
+	<programme start="20260114031800 +0100" stop="20260114033500 +0100" channel="Onetoro">
+    <title>Inside Victorino Martín. Cobradiezmos.</title>
+    <desc>+16
+· Inside Victorino Martín Cobradiezmos. Las cámaras de Onetoro de adentran dentro del lote de vacas del legendario toro indultado por el matador Manuel Escribano en la Real Maestranza de Caballería de Sevilla.</desc>
+	</programme>
+	<programme start="20260114033500 +0100" stop="20260114042200 +0100" channel="Onetoro">
+    <title>Escuela cultural Taurina de Sevilla. Escuelas Taurinas</title>
+    <desc>+16
+· En esta ocasión, acompañamos al campo a una de las escuelas taurinas más importantes de España, cuna de grandes toreros como Salvador Cortés, Manuel Escribano o Daniel Luque, entre muchos otros.</desc>
+	</programme>
+	<programme start="20260114042200 +0100" stop="20260114042400 +0100" channel="Onetoro">
+    <title>Aprendiz 6. El torilero. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
+	</programme>
+	<programme start="20260114042400 +0100" stop="20260114042700 +0100" channel="Onetoro">
+    <title>6. Erika y Victoria Federica. Estar al Quite</title>
+    <desc>+16
+· Última tarde en la feria de San Isidro, Erika entrevista a los asistentes sobre los toreros, sus curiosidades y frases típicas del toreo.</desc>
+	</programme>
+	<programme start="20260114042700 +0100" stop="20260114042900 +0100" channel="Onetoro">
+    <title>Taberna de Antonio Sánchez. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260114042900 +0100" stop="20260114043300 +0100" channel="Onetoro">
+    <title>Azpeitia y Sus Plazas. Historia de la Tauromaquia</title>
+    <desc>+16
+· Analizamos con Domingo Delgado de la Cámara anécdotas e hechos sobre la historia de la Tauromaquia.</desc>
+	</programme>
+	<programme start="20260114043300 +0100" stop="20260114043600 +0100" channel="Onetoro">
+    <title>Lucio Sandín. Historias del Toreo</title>
+    <desc>+16
+· La suerte y desgracias de Lucio Sandín, historia de un torero que triunfó brevemente pero cautivando los corazones de Sevilla.</desc>
+	</programme>
+	<programme start="20260114043600 +0100" stop="20260114043800 +0100" channel="Onetoro">
+    <title>El Perro Paco. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260114043800 +0100" stop="20260114044300 +0100" channel="Onetoro">
+    <title>La cuadrilla de Isaac Fonseca . Cuadrillas</title>
+    <desc>+16
+· "Raúl Ruiz y Juan Carlos Rey nos enseñan el día a día de un miembro de la cuadrilla del famoso torero mejicano Isaac Fonseca.</desc>
+	</programme>
+	<programme start="20260114044300 +0100" stop="20260114044500 +0100" channel="Onetoro">
+    <title>Aprendiz 4. La divisa. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
+	</programme>
+	<programme start="20260114044500 +0100" stop="20260114044800 +0100" channel="Onetoro">
+    <title>4. La tarde de Morante. Estar al Quite</title>
+    <desc>+16
+· Los espectadores lucen sus mejores galas, especialmente para ver a Morante de la Puebla.</desc>
+	</programme>
+	<programme start="20260114044800 +0100" stop="20260114045000 +0100" channel="Onetoro">
+    <title>La obra social de la Maestranza. Historias del Toreo</title>
+    <desc>+16
+· La biblioteca antigua de la Real Maestranza de Caballería de Sevilla realiza una gran labor social de manera altruista en Sevilla desde la época de Alfonso XIII.</desc>
+	</programme>
+	<programme start="20260114045000 +0100" stop="20260114053000 +0100" channel="Onetoro">
+    <title>Proyecto Querencia: Sánchez Vara</title>
+    <desc>Toros | +16
+· Proyecto Querencia acompaña a Francisco Javier Sánchez Vara a su compromiso en la Feria del Aficionado del Club Taurino 3 Puyazos. Hará el paseíllo mano a mano con Octavio Chacón frente a Reta de Casta Navarra, una ganadería que despertó miedo y curiosidad desde que fue anunciada en San Agustín del Guadalix.</desc>
+	</programme>
+	<programme start="20260114053000 +0100" stop="20260114053200 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Triana</title>
+    <desc>Toros | +16</desc>
+	</programme>
+	<programme start="20260114053200 +0100" stop="20260114054200 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 7-La Verónica.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña como ejecutar la suerte de la verónica.</desc>
+	</programme>
+	<programme start="20260114054200 +0100" stop="20260114054600 +0100" channel="Onetoro">
+    <title>Aprendiz 7. El regatón. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
+	</programme>
+	<programme start="20260114054600 +0100" stop="20260114054800 +0100" channel="Onetoro">
+    <title>7. Erika y Morante. Estar al Quite</title>
+    <desc>+16
+· La elegancia y santander, Erika nos enseña cómo se va a la feria del Norte, Santander.</desc>
+	</programme>
+	<programme start="20260114054800 +0100" stop="20260114055000 +0100" channel="Onetoro">
+    <title>El indulto de Cobradiezmo. Historias del Toreo</title>
+    <desc>+16
+· Alvaro Acevedo nos cuenta cómo se llegó a un acuerdo entre la ganadería de Victorino y la Maestranza, y cómo eso llevó al indulto de Cobradiezmos.</desc>
+	</programme>
+	<programme start="20260114055000 +0100" stop="20260114055300 +0100" channel="Onetoro">
+    <title>La pierna del Tato. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260114055300 +0100" stop="20260114055600 +0100" channel="Onetoro">
+    <title>El Chofre. Historia de la Tauromaquia</title>
+    <desc>+16
+· Analizamos con Domingo Delgado de la Cámara anécdotas e hechos sobre la historia de la Tauromaquia.</desc>
+	</programme>
+	<programme start="20260114055600 +0100" stop="20260114055800 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Calle Pureza.</title>
+    <desc>Toros | +16</desc>
+	</programme>
+	<programme start="20260114055800 +0100" stop="20260114060700 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 8-La media verónica.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña como ejecutar la media verónica.</desc>
+	</programme>
+	<programme start="20260114060700 +0100" stop="20260114065900 +0100" channel="Onetoro">
+    <title>Esportón de Historias. Diego Mateo, Emilio de Justo y Julio Fernández</title>
+    <desc>Toros | +16
+· Nueva entrega de ESPORTÓN DE HISTORIAS, un programa de entrevistas presentado por Álvaro Acevedo. Esta semana, nueva entrega de la entrevista con Emilio de Justo, ahora para hablarnos de su gravísima lesión y el proceso de recuperación, consumado con una celeridad inaudita. Segundo capítulo de la charla con el veterinario e investigador Julio Fernández, que nos explica la bravura desde un punto de vista científico. Y conoceremos a Diego Mateo, el hombre que vivió en primera persona los últimos 15 años de la vida de Juan Belmonte, y su suicidio de un tiro en la sien. Ven a conocer este lugar para la reflexión, la libertad y la valentía. ESPORTÓN DE HISTORIAS, una serie original de ONE TORO TV.</desc>
+	</programme>
+	<programme start="20260114070000 +0100" stop="20260114080000 +0100" channel="Onetoro">
+    <title>Mario Vilau. Grana y Oro</title>
+    <desc>+16
+· El programa de Castilla y León televisión, Grana y Oro, del 21-11-2025, recibe como invitado al novillero catalán Mario Vilau, ganador de la Liga Nacional de Novilladas de la Fundación Toro de Lidia tras la final de Sanlúcar de Barrameda a la que llegaba tras imponerse en el circuito de novilladas de Valencia. Antes había triunfado, entre otros, en cosos como los de Aguascalientes, Ceret, Mejorada del Campo, Gavilanes o Íscar y ganaba el Piñón de Oro de de Pedrajas de San Esteban. También galas taurinas en Salamanca (con premio a Grana y Oro y pregón de su director), Soria, La Flecha, nuevo tú a tú en el Ateneo de Valladolid y la actualidad de México.</desc>
+	</programme>
+	<programme start="20260114080000 +0100" stop="20260114080300 +0100" channel="Onetoro">
+    <title>La colocación de la espada. Aprende a ver toros</title>
+    <desc>+16
+· Uceda Leal nos enseña la colocación que debe tener la espada.</desc>
+	</programme>
+	<programme start="20260114080300 +0100" stop="20260114080700 +0100" channel="Onetoro">
+    <title>Cuándo sacar la espada tras la estocada. Aprende a ver toros</title>
+    <desc>+16
+· Cuándo sacar la espada tras la estocada: aprendemos con David Adalid el momento idóneo para sacar la espada.</desc>
+	</programme>
+	<programme start="20260114080800 +0100" stop="20260114081200 +0100" channel="Onetoro">
+    <title>Los pañuelos de la presidencia. Aprende a ver toros</title>
+    <desc>+16
+· José María Costales nos habla de los distintos pañuelos que hay y de la función de cada uno de ellos.</desc>
+	</programme>
+	<programme start="20260114081200 +0100" stop="20260114081500 +0100" channel="Onetoro">
+    <title>Diferencia entre bernadinas y manoletinas. Aprende a ver toros</title>
+    <desc>+16
+· Alejandro Chicharro nos enseña la diferencia que hay entre bernardinas y manoletinas y cómo se llevan a cabo.</desc>
+	</programme>
+	<programme start="20260114081500 +0100" stop="20260114081700 +0100" channel="Onetoro">
+    <title>Diferencia entre estatuarios y ayudados por alto. Aprende a ver toros</title>
+    <desc>+16
+· Pepe Luis Cirugeda nos muestra la diferencia entre estatuarios y ayudados por alto.</desc>
+	</programme>
+	<programme start="20260114081700 +0100" stop="20260114082000 +0100" channel="Onetoro">
+    <title>Diferencia entre trincherilla y trincherazo. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Guillermo García Pulido la diferencia entre trincherilla y trincherazo.</desc>
+	</programme>
+	<programme start="20260114082000 +0100" stop="20260114083000 +0100" channel="Onetoro">
+    <title>Tipos de pares de banderillas. Aprende a ver toros</title>
+    <desc>+16
+· Juan Carlos Rey y Raúl Ruíz “Cachorro” nos enseñan los tipos de pares de banderillas que hay.</desc>
+	</programme>
+	<programme start="20260114083000 +0100" stop="20260114110800 +0100" channel="Onetoro">
+    <title>Clasificatoria de vacas mansas</title>
+    <desc>+16
+· Clasificatoria de vacas mansas.</desc>
+	</programme>
+	<programme start="20260114110800 +0100" stop="20260114113900 +0100" channel="Onetoro">
+    <title>Virgen Maria. Mayorales</title>
+    <desc>+16
+· Desde el año 1988 Andrés Tirado, mayoral de toros bravos, primero en la ganadería Victoriano del Río y ahora en Virgen María desde el 2011.</desc>
+	</programme>
+	<programme start="20260114113900 +0100" stop="20260114114700 +0100" channel="Onetoro">
+    <title>Victorino: lote de vacas Monteviejo. Inside</title>
+    <desc>+16
+· Victorino Martín permite a las cámaras de Onetoro TV adentrarse en esta legendaria ganadería.</desc>
+	</programme>
+	<programme start="20260114114700 +0100" stop="20260114120400 +0100" channel="Onetoro">
+    <title>Inside Victorino Martín. Cobradiezmos.</title>
+    <desc>+16
+· Inside Victorino Martín Cobradiezmos. Las cámaras de Onetoro de adentran dentro del lote de vacas del legendario toro indultado por el matador Manuel Escribano en la Real Maestranza de Caballería de Sevilla.</desc>
+	</programme>
+	<programme start="20260114120400 +0100" stop="20260114130100 +0100" channel="Onetoro">
+    <title>Rui Fernándes. Caballo Bravo</title>
+    <desc>+16
+· Conoceremos su historia peculiar, su cuadra, el futuro de Rui Fernándes.</desc>
+	</programme>
+	<programme start="20260114130100 +0100" stop="20260114130300 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Calle Arenal</title>
+    <desc>+16
+· Domingo Delgado de la Cámara nos cuenta la historia de la calle Arenal y su relación con Frascuelo.</desc>
+	</programme>
+	<programme start="20260114130300 +0100" stop="20260114131000 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 16-Toreo por alto.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña a ejecutar el toreo por alto.</desc>
+	</programme>
+	<programme start="20260114131000 +0100" stop="20260114131300 +0100" channel="Onetoro">
+    <title>Aprendiz 16. Los tercios de la Llidia . Aprende con Daiki</title>
+    <desc>+16
+· Domingo felicita al pequeño saltamontes por su gran trabajo. Eso sí, que no decaiga la fiesta, que de aprender no se deja nunca. ¿Cuáles son los tres tercios de la lidia.</desc>
+	</programme>
+	<programme start="20260114131300 +0100" stop="20260114131600 +0100" channel="Onetoro">
+    <title>Aprendiz 21. San Fermín . Aprende con Daiki</title>
+    <desc>+16
+· Domingo y Daiki se encuentran en la cuesta de Santo Domingo y se plantea un nuevo reto, Daiki tiene que averiguar quién fué San Fermín. ¿Lo conseguirá.</desc>
+	</programme>
+	<programme start="20260114131600 +0100" stop="20260114131900 +0100" channel="Onetoro">
+    <title>Plaza de Toros de Gijón. Historia de la Tauromaquia</title>
+    <desc>+16
+· Conocemos de manos de Domingo Delgado de la Cámara su historia e anécdotas.</desc>
+	</programme>
+	<programme start="20260114131900 +0100" stop="20260114132100 +0100" channel="Onetoro">
+    <title>Sevilla: la Virgen de la Macarena. Historia de la Tauromaquia</title>
+    <desc>+16
+· Domingo Delgado de la Cámara visita la Macarena, una de las Virgenes más ligadas a la tauromaquia que únicamente se vistió de luto el día en que falleció Joselito "El Gallo".</desc>
+	</programme>
+	<programme start="20260114132100 +0100" stop="20260114133300 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 4-Cómo coger el capote.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña como coger el capote.</desc>
+	</programme>
+	<programme start="20260114133300 +0100" stop="20260114141500 +0100" channel="Onetoro">
+    <title>¡VA POR USTDES!-05</title>
+    <desc>Toros | +16
+· En este emocionante capítulo de “¡Va por ustedes!”, te llevaremos a descubrir los secretos del toreo de salón de la mano de Toni Blanco, un maestro en Sanlúcar de Barrameda, donde el arte y la técnica se fusionan en cada paso. Desde Antequera, conoceremos a Juana Vegas, parte esencial del restaurante de su plaza de toros, donde cada cliente se convierte en testigo privilegiado de la emoción y la pasión que rodea a las corridas. Nos trasladaremos a Badajoz para adentrarnos en el fascinante mundo del recorte de la mano de Jesús González y su equipo, quienes nos mostrarán la destreza y valentía necesarias para enfrentarse a los toros de manera única. Finalmente, en Albacete, Alberto Nevado, director de la Unión Musical Ciudad de Albacete, nos revelará cómo la música realza la grandeza y la intensidad de las corridas, transportándonos a un universo de emociones y sensaciones inolvidables. ¡Prepárate para vivir una experiencia única en el mundo del toro! ¡Esto es ¡Va por ustedes!, nuestro apasionante viaje por la cultura taurina.</desc>
+	</programme>
+	<programme start="20260114141500 +0100" stop="20260114141700 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Iglesia de San Gines</title>
+    <desc>+16
+· Domingo Delgado de la Cámara nos cuenta la historia de la Iglesia de San Ginés.</desc>
+	</programme>
+	<programme start="20260114141700 +0100" stop="20260114142500 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 15-Pase de pecho.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña a ejecutar el pase de pecho.</desc>
+	</programme>
+	<programme start="20260114142500 +0100" stop="20260114142800 +0100" channel="Onetoro">
+    <title>Aprendiz 20. El color Blanco y el pañuelo rojo. Aprende con Daiki</title>
+    <desc>+16
+· Domingo encuentra a Daiki dormido en medio de la ciudad y descubre que no ha preguntado lo que le mandó en el capítulo anterior, toca hacerlo ahora.</desc>
+	</programme>
+	<programme start="20260114142800 +0100" stop="20260114143000 +0100" channel="Onetoro">
+    <title>Aprendiz 15. Primera Corrida en las Ventas. Aprende con Daiki</title>
+    <desc>+16
+· ¿Cuándo fue la primera corrida celebrada en Las Ventas? Daiki parece tenerlo claro, aunque Domingo se lo niega, y afirma que es más difícil de averiguar de lo que parece.</desc>
+	</programme>
+	<programme start="20260114143000 +0100" stop="20260114143300 +0100" channel="Onetoro">
+    <title>El 21 de abril de Juan Belmonte. Historias del Toreo</title>
+    <desc>+16
+· Hace 110 años, Juan Belmonte mataba su primera corrida de Miura, por culpa de una cogida días antes se especulaba que no estaría pero se presentó a las 5 de la tarde haciendo una faena memorable llegando a hombros hasta su casa en Triana.</desc>
+	</programme>
+	<programme start="20260114143300 +0100" stop="20260114143600 +0100" channel="Onetoro">
+    <title>Plaza de Toros de Málaga. Historia de la Tauromaquia</title>
+    <desc>+16
+· Conocemos con Domingo Delgado de la Cámara la historia de la plaza de Toros de Málaga.</desc>
+	</programme>
+	<programme start="20260114143600 +0100" stop="20260114143900 +0100" channel="Onetoro">
+    <title>Plaza de Toros de Huesca. Historia de la Tauromaquia</title>
+    <desc>+16
+· Domingo Delgado de la Cámara nos cuenta la historia de la Plaza de Toros de Huesca.</desc>
+	</programme>
+	<programme start="20260114143900 +0100" stop="20260114144100 +0100" channel="Onetoro">
+    <title>Aprendiz 2. Quiero ser torero. Aprende con Daiki</title>
+    <desc>+16
+· Daiki llega a La Real Maestranza de Sevilla para aprender el arte del toreo.</desc>
+	</programme>
+	<programme start="20260114144100 +0100" stop="20260114144400 +0100" channel="Onetoro">
+    <title>2. Los Jugadores del Madrid. Estar al Quite</title>
+    <desc>+16
+· Erika nos sigue mostrando los distintos estilos con los que se va a San Isidro y nos presenta a los invitados más especiales.</desc>
+	</programme>
+	<programme start="20260114144400 +0100" stop="20260114144600 +0100" channel="Onetoro">
+    <title>Plaza de Tetuán de las Victorias. Historia de la Tauromaquia</title>
+    <desc>+16
+· Domingo Delgado de la Cámara nos habla sobre la antigua Plaza de Toros de Tetuán.</desc>
+	</programme>
+	<programme start="20260114144600 +0100" stop="20260114144900 +0100" channel="Onetoro">
+    <title>Daniel Luque y Paco Camino. Historias del Toreo</title>
+    <desc>+16
+· Dos toreros comparados en muchas ocasiones por su dominio de todas las suertes, tanto con el capote como con la muleta.</desc>
+	</programme>
+	<programme start="20260114144900 +0100" stop="20260114145200 +0100" channel="Onetoro">
+    <title>Aprendiz 12. La Banda de Música.. Aprende con Daiki</title>
+    <desc>+16
+· Daiki conoce la banda de música de la plaza de Toros de las Ventas.</desc>
+	</programme>
+	<programme start="20260114145200 +0100" stop="20260114145900 +0100" channel="Onetoro">
+    <title>Marcial Lalanda. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260114150000 +0100" stop="20260114160000 +0100" channel="Onetoro">
+    <title>Mario Vilau. Grana y Oro</title>
+    <desc>+16
+· El programa de Castilla y León televisión, Grana y Oro, del 21-11-2025, recibe como invitado al novillero catalán Mario Vilau, ganador de la Liga Nacional de Novilladas de la Fundación Toro de Lidia tras la final de Sanlúcar de Barrameda a la que llegaba tras imponerse en el circuito de novilladas de Valencia. Antes había triunfado, entre otros, en cosos como los de Aguascalientes, Ceret, Mejorada del Campo, Gavilanes o Íscar y ganaba el Piñón de Oro de de Pedrajas de San Esteban. También galas taurinas en Salamanca (con premio a Grana y Oro y pregón de su director), Soria, La Flecha, nuevo tú a tú en el Ateneo de Valladolid y la actualidad de México.</desc>
+	</programme>
+	<programme start="20260114160000 +0100" stop="20260114160300 +0100" channel="Onetoro">
+    <title>La colocación de la espada. Aprende a ver toros</title>
+    <desc>+16
+· Uceda Leal nos enseña la colocación que debe tener la espada.</desc>
+	</programme>
+	<programme start="20260114160300 +0100" stop="20260114160700 +0100" channel="Onetoro">
+    <title>Cuándo sacar la espada tras la estocada. Aprende a ver toros</title>
+    <desc>+16
+· Cuándo sacar la espada tras la estocada: aprendemos con David Adalid el momento idóneo para sacar la espada.</desc>
+	</programme>
+	<programme start="20260114160800 +0100" stop="20260114161200 +0100" channel="Onetoro">
+    <title>Los pañuelos de la presidencia. Aprende a ver toros</title>
+    <desc>+16
+· José María Costales nos habla de los distintos pañuelos que hay y de la función de cada uno de ellos.</desc>
+	</programme>
+	<programme start="20260114161200 +0100" stop="20260114161500 +0100" channel="Onetoro">
+    <title>Diferencia entre bernadinas y manoletinas. Aprende a ver toros</title>
+    <desc>+16
+· Alejandro Chicharro nos enseña la diferencia que hay entre bernardinas y manoletinas y cómo se llevan a cabo.</desc>
+	</programme>
+	<programme start="20260114161500 +0100" stop="20260114161700 +0100" channel="Onetoro">
+    <title>Diferencia entre estatuarios y ayudados por alto. Aprende a ver toros</title>
+    <desc>+16
+· Pepe Luis Cirugeda nos muestra la diferencia entre estatuarios y ayudados por alto.</desc>
+	</programme>
+	<programme start="20260114161700 +0100" stop="20260114162000 +0100" channel="Onetoro">
+    <title>Diferencia entre trincherilla y trincherazo. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Guillermo García Pulido la diferencia entre trincherilla y trincherazo.</desc>
+	</programme>
+	<programme start="20260114162000 +0100" stop="20260114163000 +0100" channel="Onetoro">
+    <title>Tipos de pares de banderillas. Aprende a ver toros</title>
+    <desc>+16
+· Juan Carlos Rey y Raúl Ruíz “Cachorro” nos enseñan los tipos de pares de banderillas que hay.</desc>
+	</programme>
+	<programme start="20260114163000 +0100" stop="20260114190800 +0100" channel="Onetoro">
+    <title>Clasificatoria de vacas mansas</title>
+    <desc>+16
+· Clasificatoria de vacas mansas.</desc>
+	</programme>
+	<programme start="20260114190800 +0100" stop="20260114193900 +0100" channel="Onetoro">
+    <title>Virgen Maria. Mayorales</title>
+    <desc>+16
+· Desde el año 1988 Andrés Tirado, mayoral de toros bravos, primero en la ganadería Victoriano del Río y ahora en Virgen María desde el 2011.</desc>
+	</programme>
+	<programme start="20260114193900 +0100" stop="20260114194700 +0100" channel="Onetoro">
+    <title>Victorino: lote de vacas Monteviejo. Inside</title>
+    <desc>+16
+· Victorino Martín permite a las cámaras de Onetoro TV adentrarse en esta legendaria ganadería.</desc>
+	</programme>
+	<programme start="20260114194700 +0100" stop="20260114200400 +0100" channel="Onetoro">
+    <title>Inside Victorino Martín. Cobradiezmos.</title>
+    <desc>+16
+· Inside Victorino Martín Cobradiezmos. Las cámaras de Onetoro de adentran dentro del lote de vacas del legendario toro indultado por el matador Manuel Escribano en la Real Maestranza de Caballería de Sevilla.</desc>
+	</programme>
+	<programme start="20260114200400 +0100" stop="20260114210100 +0100" channel="Onetoro">
+    <title>Rui Fernándes. Caballo Bravo</title>
+    <desc>+16
+· Conoceremos su historia peculiar, su cuadra, el futuro de Rui Fernándes.</desc>
+	</programme>
+	<programme start="20260114210100 +0100" stop="20260114210300 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Calle Arenal</title>
+    <desc>+16
+· Domingo Delgado de la Cámara nos cuenta la historia de la calle Arenal y su relación con Frascuelo.</desc>
+	</programme>
+	<programme start="20260114210300 +0100" stop="20260114211000 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 16-Toreo por alto.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña a ejecutar el toreo por alto.</desc>
+	</programme>
+	<programme start="20260114211000 +0100" stop="20260114211300 +0100" channel="Onetoro">
+    <title>Aprendiz 16. Los tercios de la Llidia . Aprende con Daiki</title>
+    <desc>+16
+· Domingo felicita al pequeño saltamontes por su gran trabajo. Eso sí, que no decaiga la fiesta, que de aprender no se deja nunca. ¿Cuáles son los tres tercios de la lidia.</desc>
+	</programme>
+	<programme start="20260114211300 +0100" stop="20260114211600 +0100" channel="Onetoro">
+    <title>Aprendiz 21. San Fermín . Aprende con Daiki</title>
+    <desc>+16
+· Domingo y Daiki se encuentran en la cuesta de Santo Domingo y se plantea un nuevo reto, Daiki tiene que averiguar quién fué San Fermín. ¿Lo conseguirá.</desc>
+	</programme>
+	<programme start="20260114211600 +0100" stop="20260114211900 +0100" channel="Onetoro">
+    <title>Plaza de Toros de Gijón. Historia de la Tauromaquia</title>
+    <desc>+16
+· Conocemos de manos de Domingo Delgado de la Cámara su historia e anécdotas.</desc>
+	</programme>
+	<programme start="20260114211900 +0100" stop="20260114212100 +0100" channel="Onetoro">
+    <title>Sevilla: la Virgen de la Macarena. Historia de la Tauromaquia</title>
+    <desc>+16
+· Domingo Delgado de la Cámara visita la Macarena, una de las Virgenes más ligadas a la tauromaquia que únicamente se vistió de luto el día en que falleció Joselito "El Gallo".</desc>
+	</programme>
+	<programme start="20260114212100 +0100" stop="20260114213300 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 4-Cómo coger el capote.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña como coger el capote.</desc>
+	</programme>
+	<programme start="20260114213300 +0100" stop="20260114221500 +0100" channel="Onetoro">
+    <title>¡VA POR USTDES!-05</title>
+    <desc>Toros | +16
+· En este emocionante capítulo de “¡Va por ustedes!”, te llevaremos a descubrir los secretos del toreo de salón de la mano de Toni Blanco, un maestro en Sanlúcar de Barrameda, donde el arte y la técnica se fusionan en cada paso. Desde Antequera, conoceremos a Juana Vegas, parte esencial del restaurante de su plaza de toros, donde cada cliente se convierte en testigo privilegiado de la emoción y la pasión que rodea a las corridas. Nos trasladaremos a Badajoz para adentrarnos en el fascinante mundo del recorte de la mano de Jesús González y su equipo, quienes nos mostrarán la destreza y valentía necesarias para enfrentarse a los toros de manera única. Finalmente, en Albacete, Alberto Nevado, director de la Unión Musical Ciudad de Albacete, nos revelará cómo la música realza la grandeza y la intensidad de las corridas, transportándonos a un universo de emociones y sensaciones inolvidables. ¡Prepárate para vivir una experiencia única en el mundo del toro! ¡Esto es ¡Va por ustedes!, nuestro apasionante viaje por la cultura taurina.</desc>
+	</programme>
+	<programme start="20260114221500 +0100" stop="20260114221700 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Iglesia de San Gines</title>
+    <desc>+16
+· Domingo Delgado de la Cámara nos cuenta la historia de la Iglesia de San Ginés.</desc>
+	</programme>
+	<programme start="20260114221700 +0100" stop="20260114222500 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 15-Pase de pecho.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña a ejecutar el pase de pecho.</desc>
+	</programme>
+	<programme start="20260114222500 +0100" stop="20260114222800 +0100" channel="Onetoro">
+    <title>Aprendiz 20. El color Blanco y el pañuelo rojo. Aprende con Daiki</title>
+    <desc>+16
+· Domingo encuentra a Daiki dormido en medio de la ciudad y descubre que no ha preguntado lo que le mandó en el capítulo anterior, toca hacerlo ahora.</desc>
+	</programme>
+	<programme start="20260114222800 +0100" stop="20260114223000 +0100" channel="Onetoro">
+    <title>Aprendiz 15. Primera Corrida en las Ventas. Aprende con Daiki</title>
+    <desc>+16
+· ¿Cuándo fue la primera corrida celebrada en Las Ventas? Daiki parece tenerlo claro, aunque Domingo se lo niega, y afirma que es más difícil de averiguar de lo que parece.</desc>
+	</programme>
+	<programme start="20260114223000 +0100" stop="20260114223300 +0100" channel="Onetoro">
+    <title>El 21 de abril de Juan Belmonte. Historias del Toreo</title>
+    <desc>+16
+· Hace 110 años, Juan Belmonte mataba su primera corrida de Miura, por culpa de una cogida días antes se especulaba que no estaría pero se presentó a las 5 de la tarde haciendo una faena memorable llegando a hombros hasta su casa en Triana.</desc>
+	</programme>
+	<programme start="20260114223300 +0100" stop="20260114223600 +0100" channel="Onetoro">
+    <title>Plaza de Toros de Málaga. Historia de la Tauromaquia</title>
+    <desc>+16
+· Conocemos con Domingo Delgado de la Cámara la historia de la plaza de Toros de Málaga.</desc>
+	</programme>
+	<programme start="20260114223600 +0100" stop="20260114223900 +0100" channel="Onetoro">
+    <title>Plaza de Toros de Huesca. Historia de la Tauromaquia</title>
+    <desc>+16
+· Domingo Delgado de la Cámara nos cuenta la historia de la Plaza de Toros de Huesca.</desc>
+	</programme>
+	<programme start="20260114223900 +0100" stop="20260114224100 +0100" channel="Onetoro">
+    <title>Aprendiz 2. Quiero ser torero. Aprende con Daiki</title>
+    <desc>+16
+· Daiki llega a La Real Maestranza de Sevilla para aprender el arte del toreo.</desc>
+	</programme>
+	<programme start="20260114224100 +0100" stop="20260114224400 +0100" channel="Onetoro">
+    <title>2. Los Jugadores del Madrid. Estar al Quite</title>
+    <desc>+16
+· Erika nos sigue mostrando los distintos estilos con los que se va a San Isidro y nos presenta a los invitados más especiales.</desc>
+	</programme>
+	<programme start="20260114224400 +0100" stop="20260114224600 +0100" channel="Onetoro">
+    <title>Plaza de Tetuán de las Victorias. Historia de la Tauromaquia</title>
+    <desc>+16
+· Domingo Delgado de la Cámara nos habla sobre la antigua Plaza de Toros de Tetuán.</desc>
+	</programme>
+	<programme start="20260114224600 +0100" stop="20260114224900 +0100" channel="Onetoro">
+    <title>Daniel Luque y Paco Camino. Historias del Toreo</title>
+    <desc>+16
+· Dos toreros comparados en muchas ocasiones por su dominio de todas las suertes, tanto con el capote como con la muleta.</desc>
+	</programme>
+	<programme start="20260114224900 +0100" stop="20260114225200 +0100" channel="Onetoro">
+    <title>Aprendiz 12. La Banda de Música.. Aprende con Daiki</title>
+    <desc>+16
+· Daiki conoce la banda de música de la plaza de Toros de las Ventas.</desc>
+	</programme>
+	<programme start="20260114225200 +0100" stop="20260114225900 +0100" channel="Onetoro">
+    <title>Marcial Lalanda. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260114230000 +0100" stop="20260115000000 +0100" channel="Onetoro">
+    <title>Mario Vilau. Grana y Oro</title>
+    <desc>+16
+· El programa de Castilla y León televisión, Grana y Oro, del 21-11-2025, recibe como invitado al novillero catalán Mario Vilau, ganador de la Liga Nacional de Novilladas de la Fundación Toro de Lidia tras la final de Sanlúcar de Barrameda a la que llegaba tras imponerse en el circuito de novilladas de Valencia. Antes había triunfado, entre otros, en cosos como los de Aguascalientes, Ceret, Mejorada del Campo, Gavilanes o Íscar y ganaba el Piñón de Oro de de Pedrajas de San Esteban. También galas taurinas en Salamanca (con premio a Grana y Oro y pregón de su director), Soria, La Flecha, nuevo tú a tú en el Ateneo de Valladolid y la actualidad de México.</desc>
+	</programme>
+	<programme start="20260115000000 +0100" stop="20260115000300 +0100" channel="Onetoro">
+    <title>La colocación de la espada. Aprende a ver toros</title>
+    <desc>+16
+· Uceda Leal nos enseña la colocación que debe tener la espada.</desc>
+	</programme>
+	<programme start="20260115000300 +0100" stop="20260115000700 +0100" channel="Onetoro">
+    <title>Cuándo sacar la espada tras la estocada. Aprende a ver toros</title>
+    <desc>+16
+· Cuándo sacar la espada tras la estocada: aprendemos con David Adalid el momento idóneo para sacar la espada.</desc>
+	</programme>
+	<programme start="20260115000800 +0100" stop="20260115001200 +0100" channel="Onetoro">
+    <title>Los pañuelos de la presidencia. Aprende a ver toros</title>
+    <desc>+16
+· José María Costales nos habla de los distintos pañuelos que hay y de la función de cada uno de ellos.</desc>
+	</programme>
+	<programme start="20260115001200 +0100" stop="20260115001500 +0100" channel="Onetoro">
+    <title>Diferencia entre bernadinas y manoletinas. Aprende a ver toros</title>
+    <desc>+16
+· Alejandro Chicharro nos enseña la diferencia que hay entre bernardinas y manoletinas y cómo se llevan a cabo.</desc>
+	</programme>
+	<programme start="20260115001500 +0100" stop="20260115001700 +0100" channel="Onetoro">
+    <title>Diferencia entre estatuarios y ayudados por alto. Aprende a ver toros</title>
+    <desc>+16
+· Pepe Luis Cirugeda nos muestra la diferencia entre estatuarios y ayudados por alto.</desc>
+	</programme>
+	<programme start="20260115001700 +0100" stop="20260115002000 +0100" channel="Onetoro">
+    <title>Diferencia entre trincherilla y trincherazo. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Guillermo García Pulido la diferencia entre trincherilla y trincherazo.</desc>
+	</programme>
+	<programme start="20260115002000 +0100" stop="20260115003000 +0100" channel="Onetoro">
+    <title>Tipos de pares de banderillas. Aprende a ver toros</title>
+    <desc>+16
+· Juan Carlos Rey y Raúl Ruíz “Cachorro” nos enseñan los tipos de pares de banderillas que hay.</desc>
+	</programme>
+	<programme start="20260115003000 +0100" stop="20260115030800 +0100" channel="Onetoro">
+    <title>Clasificatoria de vacas mansas</title>
+    <desc>+16
+· Clasificatoria de vacas mansas.</desc>
+	</programme>
+	<programme start="20260115030800 +0100" stop="20260115033900 +0100" channel="Onetoro">
+    <title>Virgen Maria. Mayorales</title>
+    <desc>+16
+· Desde el año 1988 Andrés Tirado, mayoral de toros bravos, primero en la ganadería Victoriano del Río y ahora en Virgen María desde el 2011.</desc>
+	</programme>
+	<programme start="20260115033900 +0100" stop="20260115034700 +0100" channel="Onetoro">
+    <title>Victorino: lote de vacas Monteviejo. Inside</title>
+    <desc>+16
+· Victorino Martín permite a las cámaras de Onetoro TV adentrarse en esta legendaria ganadería.</desc>
+	</programme>
+	<programme start="20260115034700 +0100" stop="20260115040400 +0100" channel="Onetoro">
+    <title>Inside Victorino Martín. Cobradiezmos.</title>
+    <desc>+16
+· Inside Victorino Martín Cobradiezmos. Las cámaras de Onetoro de adentran dentro del lote de vacas del legendario toro indultado por el matador Manuel Escribano en la Real Maestranza de Caballería de Sevilla.</desc>
+	</programme>
+	<programme start="20260115040400 +0100" stop="20260115050100 +0100" channel="Onetoro">
+    <title>Rui Fernándes. Caballo Bravo</title>
+    <desc>+16
+· Conoceremos su historia peculiar, su cuadra, el futuro de Rui Fernándes.</desc>
+	</programme>
+	<programme start="20260115050100 +0100" stop="20260115050300 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Calle Arenal</title>
+    <desc>+16
+· Domingo Delgado de la Cámara nos cuenta la historia de la calle Arenal y su relación con Frascuelo.</desc>
+	</programme>
+	<programme start="20260115050300 +0100" stop="20260115051000 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 16-Toreo por alto.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña a ejecutar el toreo por alto.</desc>
+	</programme>
+	<programme start="20260115051000 +0100" stop="20260115051300 +0100" channel="Onetoro">
+    <title>Aprendiz 16. Los tercios de la Llidia . Aprende con Daiki</title>
+    <desc>+16
+· Domingo felicita al pequeño saltamontes por su gran trabajo. Eso sí, que no decaiga la fiesta, que de aprender no se deja nunca. ¿Cuáles son los tres tercios de la lidia.</desc>
+	</programme>
+	<programme start="20260115051300 +0100" stop="20260115051600 +0100" channel="Onetoro">
+    <title>Aprendiz 21. San Fermín . Aprende con Daiki</title>
+    <desc>+16
+· Domingo y Daiki se encuentran en la cuesta de Santo Domingo y se plantea un nuevo reto, Daiki tiene que averiguar quién fué San Fermín. ¿Lo conseguirá.</desc>
+	</programme>
+	<programme start="20260115051600 +0100" stop="20260115051900 +0100" channel="Onetoro">
+    <title>Plaza de Toros de Gijón. Historia de la Tauromaquia</title>
+    <desc>+16
+· Conocemos de manos de Domingo Delgado de la Cámara su historia e anécdotas.</desc>
+	</programme>
+	<programme start="20260115051900 +0100" stop="20260115052100 +0100" channel="Onetoro">
+    <title>Sevilla: la Virgen de la Macarena. Historia de la Tauromaquia</title>
+    <desc>+16
+· Domingo Delgado de la Cámara visita la Macarena, una de las Virgenes más ligadas a la tauromaquia que únicamente se vistió de luto el día en que falleció Joselito "El Gallo".</desc>
+	</programme>
+	<programme start="20260115052100 +0100" stop="20260115053300 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 4-Cómo coger el capote.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña como coger el capote.</desc>
+	</programme>
+	<programme start="20260115053300 +0100" stop="20260115061500 +0100" channel="Onetoro">
+    <title>¡VA POR USTDES!-05</title>
+    <desc>Toros | +16
+· En este emocionante capítulo de “¡Va por ustedes!”, te llevaremos a descubrir los secretos del toreo de salón de la mano de Toni Blanco, un maestro en Sanlúcar de Barrameda, donde el arte y la técnica se fusionan en cada paso. Desde Antequera, conoceremos a Juana Vegas, parte esencial del restaurante de su plaza de toros, donde cada cliente se convierte en testigo privilegiado de la emoción y la pasión que rodea a las corridas. Nos trasladaremos a Badajoz para adentrarnos en el fascinante mundo del recorte de la mano de Jesús González y su equipo, quienes nos mostrarán la destreza y valentía necesarias para enfrentarse a los toros de manera única. Finalmente, en Albacete, Alberto Nevado, director de la Unión Musical Ciudad de Albacete, nos revelará cómo la música realza la grandeza y la intensidad de las corridas, transportándonos a un universo de emociones y sensaciones inolvidables. ¡Prepárate para vivir una experiencia única en el mundo del toro! ¡Esto es ¡Va por ustedes!, nuestro apasionante viaje por la cultura taurina.</desc>
+	</programme>
+	<programme start="20260115061500 +0100" stop="20260115061700 +0100" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Iglesia de San Gines</title>
+    <desc>+16
+· Domingo Delgado de la Cámara nos cuenta la historia de la Iglesia de San Ginés.</desc>
+	</programme>
+	<programme start="20260115061700 +0100" stop="20260115062500 +0100" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 15-Pase de pecho.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña a ejecutar el pase de pecho.</desc>
+	</programme>
+	<programme start="20260115062500 +0100" stop="20260115062800 +0100" channel="Onetoro">
+    <title>Aprendiz 20. El color Blanco y el pañuelo rojo. Aprende con Daiki</title>
+    <desc>+16
+· Domingo encuentra a Daiki dormido en medio de la ciudad y descubre que no ha preguntado lo que le mandó en el capítulo anterior, toca hacerlo ahora.</desc>
+	</programme>
+	<programme start="20260115062800 +0100" stop="20260115063000 +0100" channel="Onetoro">
+    <title>Aprendiz 15. Primera Corrida en las Ventas. Aprende con Daiki</title>
+    <desc>+16
+· ¿Cuándo fue la primera corrida celebrada en Las Ventas? Daiki parece tenerlo claro, aunque Domingo se lo niega, y afirma que es más difícil de averiguar de lo que parece.</desc>
+	</programme>
+	<programme start="20260115063000 +0100" stop="20260115063300 +0100" channel="Onetoro">
+    <title>El 21 de abril de Juan Belmonte. Historias del Toreo</title>
+    <desc>+16
+· Hace 110 años, Juan Belmonte mataba su primera corrida de Miura, por culpa de una cogida días antes se especulaba que no estaría pero se presentó a las 5 de la tarde haciendo una faena memorable llegando a hombros hasta su casa en Triana.</desc>
+	</programme>
+	<programme start="20260115063300 +0100" stop="20260115063600 +0100" channel="Onetoro">
+    <title>Plaza de Toros de Málaga. Historia de la Tauromaquia</title>
+    <desc>+16
+· Conocemos con Domingo Delgado de la Cámara la historia de la plaza de Toros de Málaga.</desc>
+	</programme>
+	<programme start="20260115063600 +0100" stop="20260115063900 +0100" channel="Onetoro">
+    <title>Plaza de Toros de Huesca. Historia de la Tauromaquia</title>
+    <desc>+16
+· Domingo Delgado de la Cámara nos cuenta la historia de la Plaza de Toros de Huesca.</desc>
+	</programme>
+	<programme start="20260115063900 +0100" stop="20260115064100 +0100" channel="Onetoro">
+    <title>Aprendiz 2. Quiero ser torero. Aprende con Daiki</title>
+    <desc>+16
+· Daiki llega a La Real Maestranza de Sevilla para aprender el arte del toreo.</desc>
+	</programme>
+	<programme start="20260115064100 +0100" stop="20260115064400 +0100" channel="Onetoro">
+    <title>2. Los Jugadores del Madrid. Estar al Quite</title>
+    <desc>+16
+· Erika nos sigue mostrando los distintos estilos con los que se va a San Isidro y nos presenta a los invitados más especiales.</desc>
+	</programme>
+	<programme start="20260115064400 +0100" stop="20260115064600 +0100" channel="Onetoro">
+    <title>Plaza de Tetuán de las Victorias. Historia de la Tauromaquia</title>
+    <desc>+16
+· Domingo Delgado de la Cámara nos habla sobre la antigua Plaza de Toros de Tetuán.</desc>
+	</programme>
+	<programme start="20260115064600 +0100" stop="20260115064900 +0100" channel="Onetoro">
+    <title>Daniel Luque y Paco Camino. Historias del Toreo</title>
+    <desc>+16
+· Dos toreros comparados en muchas ocasiones por su dominio de todas las suertes, tanto con el capote como con la muleta.</desc>
+	</programme>
+	<programme start="20260115064900 +0100" stop="20260115065200 +0100" channel="Onetoro">
+    <title>Aprendiz 12. La Banda de Música.. Aprende con Daiki</title>
+    <desc>+16
+· Daiki conoce la banda de música de la plaza de Toros de las Ventas.</desc>
+	</programme>
+	<programme start="20260115065200 +0100" stop="20260115065900 +0100" channel="Onetoro">
+    <title>Marcial Lalanda. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
+	</programme>
+	<programme start="20260115070000 +0100" stop="20260115074400 +0100" channel="Onetoro">
+    <title>Feria de Tovar</title>
+    <desc>Toros | +16
+· El venezolano Johan Santana después de una carrera profesional de leyenda en las grandes ligas de béisbol, fomenta su pasión por la tauromaquia organizando la feria Venezolana de Tovar que va ganando año a año en prestigio y reconocimiento. Para presentar los carteles de este año, Santana congregó en la Finca de Eduardo Flores a las figuras Antonio Ferrera (España), Juan Leal (Francia), Joaquín Galdós (Perú) y Jesús Enrique Colombo (Venezuela), todos ellos participarán en la internacional Feria de Tovar este año y disfrutaron un tentadero inolvidable.</desc>
+	</programme>
+	<programme start="20260115074400 +0100" stop="20260115074800 +0100" channel="Onetoro">
+    <title>Copa Chenel. San Agustín de Guadalix 30/3/25</title>
+    <desc>+16
+· Resumen de lo acontecido en este festejo.</desc>
+	</programme>
+	<programme start="20260115074800 +0100" stop="20260115075200 +0100" channel="Onetoro">
+    <title>Copa Chenel. Valdemoro 03/05/2025</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260115075200 +0100" stop="20260115080000 +0100" channel="Onetoro">
+    <title>Copa Chenel. Estremera 06/04/2025</title>
+    <desc>+16
+· Resumen de lo acontecido en este festejo.</desc>
+	</programme>
+	<programme start="20260115080000 +0100" stop="20260115080400 +0100" channel="Onetoro">
+    <title>Copa Chenel. Colmenar de Oreja 26/04/25</title>
+    <desc>+16
+· Resumen de lo acontecido en este festejo en el que se lidiaron toros de Ana Romero y Luis Algarra para Fernando Tendero, Carlos Olsina y García Pulido.</desc>
+	</programme>
+	<programme start="20260115080400 +0100" stop="20260115080700 +0100" channel="Onetoro">
+    <title>La colocación de la espada. Aprende a ver toros</title>
+    <desc>+16
+· Uceda Leal nos enseña la colocación que debe tener la espada.</desc>
+	</programme>
+	<programme start="20260115080700 +0100" stop="20260115081100 +0100" channel="Onetoro">
+    <title>Cuándo sacar la espada tras la estocada. Aprende a ver toros</title>
+    <desc>+16
+· Cuándo sacar la espada tras la estocada: aprendemos con David Adalid el momento idóneo para sacar la espada.</desc>
+	</programme>
+	<programme start="20260115081200 +0100" stop="20260115081600 +0100" channel="Onetoro">
+    <title>Los pañuelos de la presidencia. Aprende a ver toros</title>
+    <desc>+16
+· José María Costales nos habla de los distintos pañuelos que hay y de la función de cada uno de ellos.</desc>
+	</programme>
+	<programme start="20260115081600 +0100" stop="20260115081900 +0100" channel="Onetoro">
+    <title>Diferencia entre bernadinas y manoletinas. Aprende a ver toros</title>
+    <desc>+16
+· Alejandro Chicharro nos enseña la diferencia que hay entre bernardinas y manoletinas y cómo se llevan a cabo.</desc>
+	</programme>
+	<programme start="20260115081900 +0100" stop="20260115082100 +0100" channel="Onetoro">
+    <title>Diferencia entre estatuarios y ayudados por alto. Aprende a ver toros</title>
+    <desc>+16
+· Pepe Luis Cirugeda nos muestra la diferencia entre estatuarios y ayudados por alto.</desc>
+	</programme>
+	<programme start="20260115082100 +0100" stop="20260115082500 +0100" channel="Onetoro">
+    <title>Diferencia entre trincherilla y trincherazo. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Guillermo García Pulido la diferencia entre trincherilla y trincherazo.</desc>
+	</programme>
+	<programme start="20260115082500 +0100" stop="20260115082900 +0100" channel="Onetoro">
+    <title>Tipos de pares de banderillas. Aprende a ver toros</title>
+    <desc>+16
+· Juan Carlos Rey y Raúl Ruíz “Cachorro” nos enseñan los tipos de pares de banderillas que hay.</desc>
+	</programme>
+	<programme start="20260115082900 +0100" stop="20260115113900 +0100" channel="Onetoro">
+    <title>Redifusión Festival Villaseca Dana</title>
+    <desc>+16
+· Domingo 8 de diciembre: novillos de distintas ganaderías para Esaú Fernández, Cristian Escribano, Álvaro Lorenzo, Francisco Montero, García Pulido, Sergio Rodriguez, Jorge Molina y Álvaro Leseña.</desc>
+	</programme>
+	<programme start="20260115113900 +0100" stop="20260115114500 +0100" channel="Onetoro">
+    <title>El toreo con la derecha. Aprende a ver toros</title>
+    <desc>+16
+· Manuel Escribano nos enseña cómo torear con la mano derecha.</desc>
+	</programme>
+	<programme start="20260115114500 +0100" stop="20260115114800 +0100" channel="Onetoro">
+    <title>La salida del toro. Aprende a ver toros</title>
+    <desc>+16
+· José Pedro Prados “El Fundi” nos explica las distintas reacciones que tiene el toro al salir a la plaza.</desc>
+	</programme>
+	<programme start="20260115114800 +0100" stop="20260115115000 +0100" channel="Onetoro">
+    <title>Los avisos. Aprende a ver toros</title>
+    <desc>+16
+· Carmelo López nos enseña qué son los avisos y la importancia que tienen.</desc>
+	</programme>
+	<programme start="20260115115000 +0100" stop="20260115115200 +0100" channel="Onetoro">
+    <title>La alternativa. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Gonzalo Bienvenida todo sobre la alternativa.</desc>
+	</programme>
+	<programme start="20260115115200 +0100" stop="20260115115600 +0100" channel="Onetoro">
+    <title>El sorteo. Aprende a ver toros</title>
+    <desc>+16
+· Rafael González Amigo nos enseña que es un sorteo y los entresijos del mismo.</desc>
+	</programme>
+	<programme start="20260115115600 +0100" stop="20260115115800 +0100" channel="Onetoro">
+    <title>La categoría de las plazas. Aprende a ver toros</title>
+    <desc>+16
+· Sixto Naranjo nos explica las distintas categorías de plazas de toros y sus características.</desc>
+	</programme>
+	<programme start="20260115115800 +0100" stop="20260115120000 +0100" channel="Onetoro">
+    <title>La devolución de un toro. Aprende a ver toros</title>
+    <desc>+16
+· Javier Horcajada nos enseña los aspectos más importantes sobre la devolución de un toro en la plaza.</desc>
+	</programme>
+	<programme start="20260115120000 +0100" stop="20260115120300 +0100" channel="Onetoro">
+    <title>El toreo al natural. Aprende a ver toros.</title>
+    <desc>+16
+· Aprendemos con Manuel Escribano a torear al natural.</desc>
+	</programme>
+	<programme start="20260115120300 +0100" stop="20260115120900 +0100" channel="Onetoro">
+    <title>La Chicuelina. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con David Galván a como ejecutar la chicuelina.</desc>
+	</programme>
+	<programme start="20260115120900 +0100" stop="20260115121300 +0100" channel="Onetoro">
+    <title>Tipos de cornada. Aprende a ver toros</title>
+    <desc>+16
+· El Doctor Enrique Crespo nos da a conocer los tipos de cornadas que hay.</desc>
+	</programme>
+	<programme start="20260115121300 +0100" stop="20260115132700 +0100" channel="Onetoro">
+    <title>Boni y su San Isidro Dorado. A Toro Pasado</title>
+    <desc>Toros | +16
+· Los abonados de OneToro tienen a sus disposición una nueva entrega de «A Toro Pasado». El episodio 28 evoca la época de matador de uno de los toreros de plata más destacados de los últimos tiempos: Rafael Perea «El Boni». Javier Mardomingo repasará junto al protagonista una de las tardes más relevantes en su carrera como matador de toros y para ello retrocederemos 36 años en el tiempo. Viajamos al 23 de mayo de 1989, se lidian dos toros de José Ortega y cuatro de Sepúlveda para José Mari Manzanares, Juan Antonio Ruiz «Espartaco» y Rafael Perea «El Boni», que la entró en el cartel sustituyendo a Litri.</desc>
+	</programme>
+	<programme start="20260115132800 +0100" stop="20260115142500 +0100" channel="Onetoro">
+    <title>Lo Bravo. Las Ventas</title>
+    <desc>Toros | +16
+· La plaza de toros de Las Ventas es la más importante del mundo.</desc>
+	</programme>
+	<programme start="20260115142500 +0100" stop="20260115142800 +0100" channel="Onetoro">
+    <title>La alimentación. Aprende a ver toros</title>
+    <desc>+16
+· Miguel Ángel Sánchez 'Curro', mayoral de “Pedraza de Yeltes” nos explica en qué consiste la alimentación de un toro bravo.</desc>
+	</programme>
+	<programme start="20260115142800 +0100" stop="20260115143100 +0100" channel="Onetoro">
+    <title>El saneamiento. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260115143100 +0100" stop="20260115143400 +0100" channel="Onetoro">
+    <title>Apartar una corrida. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260115143500 +0100" stop="20260115143900 +0100" channel="Onetoro">
+    <title>El herradero. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260115143900 +0100" stop="20260115144500 +0100" channel="Onetoro">
+    <title>El mayoral. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260115144500 +0100" stop="20260115145000 +0100" channel="Onetoro">
+    <title>Tentadero de hembras. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260115145000 +0100" stop="20260115145900 +0100" channel="Onetoro">
+    <title>El desembarque. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260115150000 +0100" stop="20260115154400 +0100" channel="Onetoro">
+    <title>Feria de Tovar</title>
+    <desc>Toros | +16
+· El venezolano Johan Santana después de una carrera profesional de leyenda en las grandes ligas de béisbol, fomenta su pasión por la tauromaquia organizando la feria Venezolana de Tovar que va ganando año a año en prestigio y reconocimiento. Para presentar los carteles de este año, Santana congregó en la Finca de Eduardo Flores a las figuras Antonio Ferrera (España), Juan Leal (Francia), Joaquín Galdós (Perú) y Jesús Enrique Colombo (Venezuela), todos ellos participarán en la internacional Feria de Tovar este año y disfrutaron un tentadero inolvidable.</desc>
+	</programme>
+	<programme start="20260115154400 +0100" stop="20260115154800 +0100" channel="Onetoro">
+    <title>Copa Chenel. San Agustín de Guadalix 30/3/25</title>
+    <desc>+16
+· Resumen de lo acontecido en este festejo.</desc>
+	</programme>
+	<programme start="20260115154800 +0100" stop="20260115155200 +0100" channel="Onetoro">
+    <title>Copa Chenel. Valdemoro 03/05/2025</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260115155200 +0100" stop="20260115160000 +0100" channel="Onetoro">
+    <title>Copa Chenel. Estremera 06/04/2025</title>
+    <desc>+16
+· Resumen de lo acontecido en este festejo.</desc>
+	</programme>
+	<programme start="20260115160000 +0100" stop="20260115160400 +0100" channel="Onetoro">
+    <title>Copa Chenel. Colmenar de Oreja 26/04/25</title>
+    <desc>+16
+· Resumen de lo acontecido en este festejo en el que se lidiaron toros de Ana Romero y Luis Algarra para Fernando Tendero, Carlos Olsina y García Pulido.</desc>
+	</programme>
+	<programme start="20260115160400 +0100" stop="20260115160700 +0100" channel="Onetoro">
+    <title>La colocación de la espada. Aprende a ver toros</title>
+    <desc>+16
+· Uceda Leal nos enseña la colocación que debe tener la espada.</desc>
+	</programme>
+	<programme start="20260115160700 +0100" stop="20260115161100 +0100" channel="Onetoro">
+    <title>Cuándo sacar la espada tras la estocada. Aprende a ver toros</title>
+    <desc>+16
+· Cuándo sacar la espada tras la estocada: aprendemos con David Adalid el momento idóneo para sacar la espada.</desc>
+	</programme>
+	<programme start="20260115161200 +0100" stop="20260115161600 +0100" channel="Onetoro">
+    <title>Los pañuelos de la presidencia. Aprende a ver toros</title>
+    <desc>+16
+· José María Costales nos habla de los distintos pañuelos que hay y de la función de cada uno de ellos.</desc>
+	</programme>
+	<programme start="20260115161600 +0100" stop="20260115161900 +0100" channel="Onetoro">
+    <title>Diferencia entre bernadinas y manoletinas. Aprende a ver toros</title>
+    <desc>+16
+· Alejandro Chicharro nos enseña la diferencia que hay entre bernardinas y manoletinas y cómo se llevan a cabo.</desc>
+	</programme>
+	<programme start="20260115161900 +0100" stop="20260115162100 +0100" channel="Onetoro">
+    <title>Diferencia entre estatuarios y ayudados por alto. Aprende a ver toros</title>
+    <desc>+16
+· Pepe Luis Cirugeda nos muestra la diferencia entre estatuarios y ayudados por alto.</desc>
+	</programme>
+	<programme start="20260115162100 +0100" stop="20260115162500 +0100" channel="Onetoro">
+    <title>Diferencia entre trincherilla y trincherazo. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Guillermo García Pulido la diferencia entre trincherilla y trincherazo.</desc>
+	</programme>
+	<programme start="20260115162500 +0100" stop="20260115162900 +0100" channel="Onetoro">
+    <title>Tipos de pares de banderillas. Aprende a ver toros</title>
+    <desc>+16
+· Juan Carlos Rey y Raúl Ruíz “Cachorro” nos enseñan los tipos de pares de banderillas que hay.</desc>
+	</programme>
+	<programme start="20260115162900 +0100" stop="20260115193900 +0100" channel="Onetoro">
+    <title>Redifusión Festival Villaseca Dana</title>
+    <desc>+16
+· Domingo 8 de diciembre: novillos de distintas ganaderías para Esaú Fernández, Cristian Escribano, Álvaro Lorenzo, Francisco Montero, García Pulido, Sergio Rodriguez, Jorge Molina y Álvaro Leseña.</desc>
+	</programme>
+	<programme start="20260115193900 +0100" stop="20260115194500 +0100" channel="Onetoro">
+    <title>El toreo con la derecha. Aprende a ver toros</title>
+    <desc>+16
+· Manuel Escribano nos enseña cómo torear con la mano derecha.</desc>
+	</programme>
+	<programme start="20260115194500 +0100" stop="20260115194800 +0100" channel="Onetoro">
+    <title>La salida del toro. Aprende a ver toros</title>
+    <desc>+16
+· José Pedro Prados “El Fundi” nos explica las distintas reacciones que tiene el toro al salir a la plaza.</desc>
+	</programme>
+	<programme start="20260115194800 +0100" stop="20260115195000 +0100" channel="Onetoro">
+    <title>Los avisos. Aprende a ver toros</title>
+    <desc>+16
+· Carmelo López nos enseña qué son los avisos y la importancia que tienen.</desc>
+	</programme>
+	<programme start="20260115195000 +0100" stop="20260115195200 +0100" channel="Onetoro">
+    <title>La alternativa. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Gonzalo Bienvenida todo sobre la alternativa.</desc>
+	</programme>
+	<programme start="20260115195200 +0100" stop="20260115195600 +0100" channel="Onetoro">
+    <title>El sorteo. Aprende a ver toros</title>
+    <desc>+16
+· Rafael González Amigo nos enseña que es un sorteo y los entresijos del mismo.</desc>
+	</programme>
+	<programme start="20260115195600 +0100" stop="20260115195800 +0100" channel="Onetoro">
+    <title>La categoría de las plazas. Aprende a ver toros</title>
+    <desc>+16
+· Sixto Naranjo nos explica las distintas categorías de plazas de toros y sus características.</desc>
+	</programme>
+	<programme start="20260115195800 +0100" stop="20260115200000 +0100" channel="Onetoro">
+    <title>La devolución de un toro. Aprende a ver toros</title>
+    <desc>+16
+· Javier Horcajada nos enseña los aspectos más importantes sobre la devolución de un toro en la plaza.</desc>
+	</programme>
+	<programme start="20260115200000 +0100" stop="20260115200300 +0100" channel="Onetoro">
+    <title>El toreo al natural. Aprende a ver toros.</title>
+    <desc>+16
+· Aprendemos con Manuel Escribano a torear al natural.</desc>
+	</programme>
+	<programme start="20260115200300 +0100" stop="20260115200900 +0100" channel="Onetoro">
+    <title>La Chicuelina. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con David Galván a como ejecutar la chicuelina.</desc>
+	</programme>
+	<programme start="20260115200900 +0100" stop="20260115201300 +0100" channel="Onetoro">
+    <title>Tipos de cornada. Aprende a ver toros</title>
+    <desc>+16
+· El Doctor Enrique Crespo nos da a conocer los tipos de cornadas que hay.</desc>
+	</programme>
+	<programme start="20260115201300 +0100" stop="20260115212700 +0100" channel="Onetoro">
+    <title>Boni y su San Isidro Dorado. A Toro Pasado</title>
+    <desc>Toros | +16
+· Los abonados de OneToro tienen a sus disposición una nueva entrega de «A Toro Pasado». El episodio 28 evoca la época de matador de uno de los toreros de plata más destacados de los últimos tiempos: Rafael Perea «El Boni». Javier Mardomingo repasará junto al protagonista una de las tardes más relevantes en su carrera como matador de toros y para ello retrocederemos 36 años en el tiempo. Viajamos al 23 de mayo de 1989, se lidian dos toros de José Ortega y cuatro de Sepúlveda para José Mari Manzanares, Juan Antonio Ruiz «Espartaco» y Rafael Perea «El Boni», que la entró en el cartel sustituyendo a Litri.</desc>
+	</programme>
+	<programme start="20260115212800 +0100" stop="20260115215600 +0100" channel="Onetoro">
+    <title>EP17 Monteando La Mancha</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260115215600 +0100" stop="20260115225400 +0100" channel="Onetoro">
+    <title>Lo Bravo. Las Ventas</title>
+    <desc>Toros | +16
+· La plaza de toros de Las Ventas es la más importante del mundo.</desc>
+	</programme>
+	<programme start="20260115225400 +0100" stop="20260115225700 +0100" channel="Onetoro">
+    <title>La alimentación. Aprende a ver toros</title>
+    <desc>+16
+· Miguel Ángel Sánchez 'Curro', mayoral de “Pedraza de Yeltes” nos explica en qué consiste la alimentación de un toro bravo.</desc>
+	</programme>
+	<programme start="20260115225700 +0100" stop="20260115230000 +0100" channel="Onetoro">
+    <title>El saneamiento. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260115230000 +0100" stop="20260115230200 +0100" channel="Onetoro">
+    <title>Apartar una corrida. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260115230200 +0100" stop="20260115230400 +0100" channel="Onetoro">
+    <title>Los hierros. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260115230400 +0100" stop="20260115230800 +0100" channel="Onetoro">
+    <title>El herradero. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260115230800 +0100" stop="20260115231300 +0100" channel="Onetoro">
+    <title>El mayoral. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260115231300 +0100" stop="20260115231800 +0100" channel="Onetoro">
+    <title>Tentadero de hembras. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260115231800 +0100" stop="20260115232800 +0100" channel="Onetoro">
+    <title>El desembarque. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260115232800 +0100" stop="20260116001300 +0100" channel="Onetoro">
+    <title>Feria de Tovar</title>
+    <desc>Toros | +16
+· El venezolano Johan Santana después de una carrera profesional de leyenda en las grandes ligas de béisbol, fomenta su pasión por la tauromaquia organizando la feria Venezolana de Tovar que va ganando año a año en prestigio y reconocimiento. Para presentar los carteles de este año, Santana congregó en la Finca de Eduardo Flores a las figuras Antonio Ferrera (España), Juan Leal (Francia), Joaquín Galdós (Perú) y Jesús Enrique Colombo (Venezuela), todos ellos participarán en la internacional Feria de Tovar este año y disfrutaron un tentadero inolvidable.</desc>
+	</programme>
+	<programme start="20260116001300 +0100" stop="20260116001700 +0100" channel="Onetoro">
+    <title>Copa Chenel. San Agustín de Guadalix 30/3/25</title>
+    <desc>+16
+· Resumen de lo acontecido en este festejo.</desc>
+	</programme>
+	<programme start="20260116001700 +0100" stop="20260116002100 +0100" channel="Onetoro">
+    <title>Copa Chenel. Valdemoro 03/05/2025</title>
+    <desc>+16</desc>
+	</programme>
+	<programme start="20260116002100 +0100" stop="20260116002900 +0100" channel="Onetoro">
+    <title>Copa Chenel. Estremera 06/04/2025</title>
+    <desc>+16
+· Resumen de lo acontecido en este festejo.</desc>
+	</programme>
+	<programme start="20260116002900 +0100" stop="20260116003200 +0100" channel="Onetoro">
+    <title>Copa Chenel. Colmenar de Oreja 26/04/25</title>
+    <desc>+16
+· Resumen de lo acontecido en este festejo en el que se lidiaron toros de Ana Romero y Luis Algarra para Fernando Tendero, Carlos Olsina y García Pulido.</desc>
+	</programme>
+	<programme start="20260116003200 +0100" stop="20260116003500 +0100" channel="Onetoro">
+    <title>La colocación de la espada. Aprende a ver toros</title>
+    <desc>+16
+· Uceda Leal nos enseña la colocación que debe tener la espada.</desc>
+	</programme>
+	<programme start="20260116003500 +0100" stop="20260116004000 +0100" channel="Onetoro">
+    <title>Cuándo sacar la espada tras la estocada. Aprende a ver toros</title>
+    <desc>+16
+· Cuándo sacar la espada tras la estocada: aprendemos con David Adalid el momento idóneo para sacar la espada.</desc>
+	</programme>
+	<programme start="20260116004100 +0100" stop="20260116004500 +0100" channel="Onetoro">
+    <title>Los pañuelos de la presidencia. Aprende a ver toros</title>
+    <desc>+16
+· José María Costales nos habla de los distintos pañuelos que hay y de la función de cada uno de ellos.</desc>
+	</programme>
+	<programme start="20260116004500 +0100" stop="20260116004800 +0100" channel="Onetoro">
+    <title>Diferencia entre bernadinas y manoletinas. Aprende a ver toros</title>
+    <desc>+16
+· Alejandro Chicharro nos enseña la diferencia que hay entre bernardinas y manoletinas y cómo se llevan a cabo.</desc>
+	</programme>
+	<programme start="20260116004800 +0100" stop="20260116005000 +0100" channel="Onetoro">
+    <title>Diferencia entre estatuarios y ayudados por alto. Aprende a ver toros</title>
+    <desc>+16
+· Pepe Luis Cirugeda nos muestra la diferencia entre estatuarios y ayudados por alto.</desc>
+	</programme>
+	<programme start="20260116005000 +0100" stop="20260116005300 +0100" channel="Onetoro">
+    <title>Diferencia entre trincherilla y trincherazo. Aprende a ver toros</title>
+    <desc>+16
+· Aprendemos con Guillermo García Pulido la diferencia entre trincherilla y trincherazo.</desc>
+	</programme>
+	<programme start="20260116005300 +0100" stop="20260116005800 +0100" channel="Onetoro">
+    <title>Tipos de pares de banderillas. Aprende a ver toros</title>
+    <desc>+16
+· Juan Carlos Rey y Raúl Ruíz “Cachorro” nos enseñan los tipos de pares de banderillas que hay.</desc>
+	</programme>
+	<programme start="20260116005800 +0100" stop="20260116040800 +0100" channel="Onetoro">
+    <title>Redifusión Festival Villaseca Dana</title>
+    <desc>+16
+· Domingo 8 de diciembre: novillos de distintas ganaderías para Esaú Fernández, Cristian Escribano, Álvaro Lorenzo, Francisco Montero, García Pulido, Sergio Rodriguez, Jorge Molina y Álvaro Leseña.</desc>
 	</programme>
 	<programme start="20260111070000 +0100" stop="20260111100000 +0100" channel="La 1">
     <title>Noticias 24H</title>
@@ -23798,6 +26164,368 @@
     <title>Live Tennis</title>
     <desc>Sports Show,Tennis | 2026
 · Enjoy live action from the WTA and ATP Tours.</desc>
+	</programme>
+	<programme start="20260111000000 +0100" stop="20260111030000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live NHL: Tampa Bay Lightning @ Philadelphia Flyers · Philadelphia Flyers - Tampa Bay Lightning</title>
+    <desc>Sport | 2026 | TP
+· Die Reihe überträgt aktuelle Spiele der nordamerikanischen Eishockey Liga NHL.</desc>
+	</programme>
+	<programme start="20260111030000 +0100" stop="20260111060000 +0100" channel="DE | Sky Sport Top Event">
+    <title>NHL · Edmonton Oilers - Los Angeles Kings</title>
+    <desc>Sport | 2026 | TP
+· Die Oilers empfangen die Kings in der Rogers Place zu einem wichtigen Divisionsspiel. Im ersten Aufeinandertreffen der Rivalen seit ihrem letzten Playoff-Spiel wollen die Kings Edmontons Angriff stoppen. Adrian Kempe führt die Offensive der Kings an.</desc>
+	</programme>
+	<programme start="20260111060000 +0100" stop="20260111061500 +0100" channel="DE | Sky Sport Top Event">
+    <title>BL: Highlights XXL; SGE - BVB, 16. Spieltag</title>
+    <desc>Fußball | 2026 | TP
+· Gezeigt werden Highlights ausgewählter Spiele aus der ersten deutschen Fußball-Bundesliga.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260111061500 +0100" stop="20260111063000 +0100" channel="DE | Sky Sport Top Event">
+    <title>BL: Highlights XXL: STP - RBL, 16. Spieltag</title>
+    <desc>Fußball | 2026 | TP
+· Gezeigt werden Highlights ausgewählter Spiele aus der ersten deutschen Fußball-Bundesliga.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260111063000 +0100" stop="20260111090000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live United Cup: B. Bencic (SUI) - I. Swiatek (POL), Finale in Sydney (AUS), Damen Einzel</title>
+    <desc>TP
+· Aufschlag in Australien: Beim United Cup 2026 kämpfen 18 Nationalteams im Einzel und Doppel um den Sieg. Wer holt diesmal den Titel und beerbt den letztjährigen Champ USA?</desc>
+	</programme>
+	<programme start="20260111090000 +0100" stop="20260111113000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live United Cup: S. Wawrinka (SUI) - H. Hurkacz (POL), Finale in Sydney (AUS), Herren Einzel</title>
+    <desc>TP
+· Aufschlag in Australien: Beim United Cup 2026 kämpfen 18 Nationalteams im Einzel und Doppel um den Sieg. Wer holt diesmal den Titel und beerbt den letztjährigen Champ USA?</desc>
+	</programme>
+	<programme start="20260111113000 +0100" stop="20260111133000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live United Cup: Finale in Sydney (AUS), Mixed Doubles</title>
+    <desc>TP
+· Aufschlag in Australien: Beim United Cup 2026 kämpfen 18 Nationalteams im Einzel und Doppel um den Sieg. Wer holt diesmal den Titel und beerbt den letztjährigen Champ USA?</desc>
+	</programme>
+	<programme start="20260111133000 +0100" stop="20260111180000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live Fußball: Mercedes-Benz JuniorCup 2026 in Sindelfingen, Finaltag</title>
+    <desc>Sport | 2026 | TP
+· In Sindelfingen messen sich die Stars von morgen. Mit dabei sind u.a. der VfB Stuttgart, der FC Bayern München und Rapid Wien. Welches Team holt den Mercedes-Benz JuniorCup 2026?</desc>
+	</programme>
+	<programme start="20260111180000 +0100" stop="20260111200000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live LIV Golf: Promotions 2026, 4. Tag in Lecanto, FL (USA) · LIV Golf Promotions 2026, 4. Tag in Lecanto, FL (USA)</title>
+    <desc>Sport | 2026 | TP
+· Golf der Extraklasse: Bei dem Qualifying-Event "LIV Golf Promotions 2026" kämpfen die Golf-Pros in Florida um drei Wildcard-Plätze für die kommende Saison. Wer setzt sich durch?</desc>
+	</programme>
+	<programme start="20260111200000 +0100" stop="20260111223000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live NBA: New Orleans Pelicans @ Orlando Magic · Orlando Magic - New Orleans Pelicans</title>
+    <desc>Basketball | 2026 | TP
+· Vom Kia Center in Orlando, Florida, USA.</desc>
+	</programme>
+	<programme start="20260111223000 +0100" stop="20260112010000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live NHL: Pittsburgh Penguins @ Boston Bruins · Boston Bruins - Pittsburgh Penguins</title>
+    <desc>Sport | 2026 | TP
+· Vom TD Garden in Boston, Massachusetts, USA.</desc>
+	</programme>
+	<programme start="20260112010000 +0100" stop="20260112120000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Tennis: Adelaide International 2026 · ATP &amp; WTA Konferenz in Adelaide (AUS), 1. Tag</title>
+    <desc>Sport | 2026 | TP</desc>
+	</programme>
+	<programme start="20260112120000 +0100" stop="20260112140000 +0100" channel="DE | Sky Sport Top Event">
+    <title>NHL: New Jersey Devils @ Winnipeg Jets · Winnipeg Jets - New Jersey Devils</title>
+    <desc>Sport | 2026 | TP
+· Aus dem Canada Life Centre in Winnipeg, Kanada.</desc>
+	</programme>
+	<programme start="20260112140000 +0100" stop="20260112153000 +0100" channel="DE | Sky Sport Top Event">
+    <title>BL: Sky90 - Die Fußballdebatte</title>
+    <desc>Fußball,Sport | 2009 | TP
+· Jeden Sonntag begrüßt der Moderator Patrick Wasserziehr kompetente Gäste im Studio für einen kontroversen, unterhaltsamen und meinungsbildenden Fußball-Talk in Echtzeit. Gemeinsam führen sie umfassende Gespräche zum Thema Fußball.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260112153000 +0100" stop="20260112180000 +0100" channel="DE | Sky Sport Top Event">
+    <title>NBA: New Orleans Pelicans @ Orlando Magic · Orlando Magic - New Orleans Pelicans</title>
+    <desc>Basketball | 2026 | TP
+· Vom Kia Center in Orlando, Florida, USA.</desc>
+	</programme>
+	<programme start="20260112180000 +0100" stop="20260112190000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
+    <desc>Fußball | 2021 | TP
+· Die Sky-Kommentatoren Frank Buschmann, Wolff Fuss und Thomas Wagner liefern tolle Storys, klare Meinungen und viel Leidenschaft für den Fußball und sprechen über alles, was die Fans am Wochenende in der Bundesliga und darüber hinaus bewegt.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260112190000 +0100" stop="20260112213000 +0100" channel="DE | Sky Sport Top Event">
+    <title>ATP 250: Finale, Brisbane International presented by ANZ in Brisbane (AUS), Finale</title>
+    <desc>TP
+· Tennis: ATP 250 Finale, Brisbane International presented by ANZ in Brisbane (AUS), Finale.</desc>
+	</programme>
+	<programme start="20260112213000 +0100" stop="20260112220000 +0100" channel="DE | Sky Sport Top Event">
+    <title>BL: 90in30: B04 - VFB. 16. Spieltag</title>
+    <desc>Fußball | 2026 | TP
+· Das Topspiel der Bundesliga wird in komprimierter Form als 30-minütige Zusammenfassung übertragen.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260112220000 +0100" stop="20260112223000 +0100" channel="DE | Sky Sport Top Event">
+    <title>EFL: Highlights, 26. Spieltag · League One, 26. Spieltag</title>
+    <desc>Fußball | 2026 | TP
+· Englischer Fußball in kompakter Form: Die Highlights aus den Partien der EFL.</desc>
+	</programme>
+	<programme start="20260112223000 +0100" stop="20260112230000 +0100" channel="DE | Sky Sport Top Event">
+    <title>EFL: Highlights, 26. Spieltag · League Two, 26. Spieltag</title>
+    <desc>Fußball | 2026 | TP
+· Englischer Fußball in kompakter Form: Die Highlights aus den Partien der EFL.</desc>
+	</programme>
+	<programme start="20260112230000 +0100" stop="20260112233000 +0100" channel="DE | Sky Sport Top Event">
+    <title>NHL: On the Fly E19</title>
+    <desc>Sport | 2026 | TP
+· Es werden atemberaubende Treffer, spektakuläre Paraden und Analysen von namhaften Experten gezeigt. Es liefert alle Informationen rund um den Puck.</desc>
+	</programme>
+	<programme start="20260112233000 +0100" stop="20260113003000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live NBA: Showtime</title>
+    <desc>Basketball | 2025 | TP
+· Berichterstattung über die neuesten Storylines und Neuigkeiten aus der NBA, sowie Highlights.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260113003000 +0100" stop="20260113030000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live NBA: Boston Celtics @ Indiana Pacers · Indiana Pacers - Boston Celtics</title>
+    <desc>Basketball | 2026 | TP
+· Aus dem Gainbridge Fieldhouse in Indianapolis, USA.</desc>
+	</programme>
+	<programme start="20260113030000 +0100" stop="20260113033000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live NBA: Showtime - Post Show</title>
+    <desc>Basketball | 2025 | TP
+· Berichterstattung über die neuesten Storylines und Neuigkeiten aus der NBA, sowie Highlights.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260113033000 +0100" stop="20260113120000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live ATP &amp; WTA: Konferenz Adelaide International in Adelaide (AUS), 2. Tag</title>
+    <desc>TP
+· Tennis der Extraklasse: Sky zeigt das Adelaide International in Adelaide mit den Turnieren der ATP und WTA.</desc>
+	</programme>
+	<programme start="20260113120000 +0100" stop="20260113121500 +0100" channel="DE | Sky Sport Top Event">
+    <title>NHL: Highlights EDM@CHI E50</title>
+    <desc>Sport | 2026 | TP
+· Leon Draisaitl, Nathan MacKinnon, Connor McDavid - die NHL ist gespickt mit Stars, die auf dem Eis für Spektakel sorgen. Sky zeigt die Highlights aus der stärksten Eishockey-Liga der Welt live.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260113121500 +0100" stop="20260113141500 +0100" channel="DE | Sky Sport Top Event">
+    <title>NHL: Carolina Hurricanes @ Detroit Red Wings · Detroit Red Wings - Carolina Hurricanes</title>
+    <desc>Sport | 2026 | TP
+· Aus der Little Caesars Arena in Detroit, MI, USA.</desc>
+	</programme>
+	<programme start="20260113141500 +0100" stop="20260113151500 +0100" channel="DE | Sky Sport Top Event">
+    <title>NHL: On the Fly E21</title>
+    <desc>Sport | 2026 | TP
+· Das offizielle Highlight-Magazin der nordamerikanischen National Hockey League berichtet über die aktuellen NHL-Spiele. Gezeigt werden dabei Zusammenfassungen, News, Hintergrundberichte, Interviews und Pressekonferenzen sowie Highlight-Listen.</desc>
+	</programme>
+	<programme start="20260113151500 +0100" stop="20260113154500 +0100" channel="DE | Sky Sport Top Event">
+    <title>EFL: Highlights, 26. Spieltag · League Two, 26. Spieltag</title>
+    <desc>Fußball | 2026 | TP
+· Englischer Fußball in kompakter Form: Die Highlights aus den Partien der EFL.</desc>
+	</programme>
+	<programme start="20260113154500 +0100" stop="20260113161500 +0100" channel="DE | Sky Sport Top Event">
+    <title>EFL: Highlights, 26. Spieltag · League One, 26. Spieltag</title>
+    <desc>Fußball | 2026 | TP
+· Englischer Fußball in kompakter Form: Die Highlights aus den Partien der EFL.</desc>
+	</programme>
+	<programme start="20260113161500 +0100" stop="20260113163000 +0100" channel="DE | Sky Sport Top Event">
+    <title>BL: Torparade 16. Spieltag</title>
+    <desc>Fußball | 2026 | TP
+· In geballter Form zeigt die Sendung sämtliche Tore des aktuellen Bundesliga-Spieltags.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260113163000 +0100" stop="20260113192500 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live BL: VfB Stuttgart - Eintracht Frankfurt, 17. Spieltag</title>
+    <desc>Fußball | 2026 | TP
+· Aus der MHPArena in Stuttgart.</desc>
+	</programme>
+	<programme start="20260113192500 +0100" stop="20260113213000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live BL: Borussia Dortmund - Werder Bremen, 17. Spieltag · Borussia Dortmund - SV Werder Bremen</title>
+    <desc>Fußball | 2026 | TP
+· Aus dem Signal Iduna Park, Dortmund, Deutschland.</desc>
+	</programme>
+	<programme start="20260113213000 +0100" stop="20260113224500 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 17. Spieltag, Dienstag E3</title>
+    <desc>Fußball | 2026 | TP
+· Der 17. Spieltag mit VfB Stuttgart - Eintracht Frankfurt, Borussia Dortmund - Werder Bremen, Hamburger SV - Bayer Leverkusen und 1. FSV Mainz 05 - 1. FC Heidenheim. Moderation: Michael Leopold, Experte: Dietmar Hamann.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260113224500 +0100" stop="20260113231500 +0100" channel="DE | Sky Sport Top Event">
+    <title>Fußball: scooore Niederlande! Alle Tore · 18. Spieltag</title>
+    <desc>Fußball | 2026 | TP
+· Präsentiert werden die Fußball-Highlights der niederländische Spielklasse Eredivisie.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260113231500 +0100" stop="20260114001500 +0100" channel="DE | Sky Sport Top Event">
+    <title>MotoGP: Die Saison 2025 E156</title>
+    <desc>Sport | 2025 | TP
+· Die MotoGP-Saison 2025 bei Sky ist Geschichte. Mit einem phänomenalen Comeback sichert sich Marc Márquez den WM-Titel. Lisa Hofmann und Florian Alt blicken zurück auf die Highlights der Saison.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260114001500 +0100" stop="20260114003000 +0100" channel="DE | Sky Sport Top Event">
+    <title>NHL: Highlights CAR@DET E51</title>
+    <desc>Sport | 2026 | TP
+· Leon Draisaitl, Nathan MacKinnon, Connor McDavid - die NHL ist gespickt mit Stars, die auf dem Eis für Spektakel sorgen. Sky zeigt die Highlights aus der stärksten Eishockey-Liga der Welt live.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260114003000 +0100" stop="20260114010000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live NBA: Showtime</title>
+    <desc>Basketball | 2025 | TP
+· Berichterstattung über die neuesten Storylines und Neuigkeiten aus der NBA, sowie Highlights.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260114010000 +0100" stop="20260114040000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live NBA: San Antonio Spurs @ Oklahoma City Thunder · Milwaukee Bucks - Minnesota Timberwolves</title>
+    <desc>Basketball | 2026 | TP
+· Aus dem Fiserv Forum in Milwaukee, Wisconsin, USA.</desc>
+	</programme>
+	<programme start="20260114040000 +0100" stop="20260114070000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live NBA: Portland Trail Blazers @ Golden State Warriors · Golden State Warriors - Portland Trail Blazers</title>
+    <desc>Basketball | 2026 | TP
+· Aus dem Chase Center in San Francisco, USA.</desc>
+	</programme>
+	<programme start="20260114070000 +0100" stop="20260114120000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live ATP &amp; WTA: Konferenz Adelaide International in Adelaide (AUS), 3. Tag</title>
+    <desc>TP
+· Tennis der Extraklasse: Sky zeigt das Adelaide International in Adelaide mit den Turnieren der ATP und WTA.</desc>
+	</programme>
+	<programme start="20260114120000 +0100" stop="20260114140000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Carabao Cup: Newcastle United - Manchester City, Halbfinale Hinspiel</title>
+    <desc>Fußball | 2026 | TP
+· Aus dem St. James' Park in Newcastle upon Tyne, England.</desc>
+	</programme>
+	<programme start="20260114140000 +0100" stop="20260114151500 +0100" channel="DE | Sky Sport Top Event">
+    <title>BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 17. Spieltag, Dienstag E3</title>
+    <desc>Fußball | 2026 | TP
+· Der 17. Spieltag mit VfB Stuttgart - Eintracht Frankfurt, Borussia Dortmund - Werder Bremen, Hamburger SV - Bayer Leverkusen und 1. FSV Mainz 05 - 1. FC Heidenheim. Moderation: Michael Leopold, Experte: Dietmar Hamann.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260114151500 +0100" stop="20260114153000 +0100" channel="DE | Sky Sport Top Event">
+    <title>BL: Highlights XXL: BVB - SVW, 17. Spieltag</title>
+    <desc>Fußball | 2026 | TP
+· Die besten Szenen aus der Bundesliga und 2. Bundesliga: Highlights XXL zeigt die großen Momente der vergangenen Partien.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260114153000 +0100" stop="20260114163000 +0100" channel="DE | Sky Sport Top Event">
+    <title>NHL: On the Fly E23</title>
+    <desc>Sport | 2026 | TP
+· Das offizielle Highlight-Magazin der nordamerikanischen National Hockey League berichtet über die aktuellen NHL-Spiele. Gezeigt werden dabei Zusammenfassungen, News, Hintergrundberichte, Interviews und Pressekonferenzen sowie Highlight-Listen.</desc>
+	</programme>
+	<programme start="20260114163000 +0100" stop="20260114192500 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live BL: VfL Wolfsburg - FC St. Pauli, 17. Spieltag</title>
+    <desc>Fußball | 2026 | TP
+· Aus der Volkswagen Arena in Wolfsburg, Deutschland.</desc>
+	</programme>
+	<programme start="20260114192500 +0100" stop="20260114213000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live BL: 1. FC Köln - FC Bayern München, 17. Spieltag</title>
+    <desc>Fußball | 2026 | TP
+· Aus dem RheinEnergieSTADION, Köln, Deutschland.</desc>
+	</programme>
+	<programme start="20260114213000 +0100" stop="20260114224500 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 17. Spieltag, Mittwoch E4</title>
+    <desc>Fußball | 2026 | TP
+· Berichtet wird vom 17. Spieltag mit den Begegnungen VfL Wolfsburg gegen FC St. Pauli, 1. FC Köln gegen FC Bayern München, RB Leipzig gegen SC Freiburg und 1899 Hoffenheim gegen Borussia Mönchengladbach.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260114224500 +0100" stop="20260114231500 +0100" channel="DE | Sky Sport Top Event">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+    <desc>Fußball,Talkshow | 2023 | TP
+· Zum anstehenden Spieltag in der 2. Bundesliga wird vorab über die einzelnen Partien berichtet. Hartmut von Kameke und der Experte Torsten Mattuschka blicken dabei auf die wichtigsten Fragen des kommenden Spieltags und versuchen Antworten zu finden.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260114231500 +0100" stop="20260114234500 +0100" channel="DE | Sky Sport Top Event">
+    <title>F1: Die Saison 2025 E549</title>
+    <desc>Sport | 2025 | TP
+· In einer Zusammenfassung werden die besten Momente der Formel-1-Rennen noch einmal präsentiert. Die Zuschauer erhalten die Möglichkeit, sämtliche Emotionen der Wettbewerbe, die die Geschichte dieses Sports geprägt haben, zu erleben.</desc>
+	</programme>
+	<programme start="20260114234500 +0100" stop="20260115000000 +0100" channel="DE | Sky Sport Top Event">
+    <title>NHL: Highlights DET@BOS E54</title>
+    <desc>Sport | 2026 | TP
+· Leon Draisaitl, Nathan MacKinnon, Connor McDavid - die NHL ist gespickt mit Stars, die auf dem Eis für Spektakel sorgen. Sky zeigt die Highlights aus der stärksten Eishockey-Liga der Welt live.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260115000000 +0100" stop="20260115001500 +0100" channel="DE | Sky Sport Top Event">
+    <title>NHL: Highlights EDM@NSH E646</title>
+    <desc>Sport | 2024 | TP
+· Leon Draisaitl, Nathan MacKinnon, Connor McDavid - die NHL ist gespickt mit Stars, die auf dem Eis für Spektakel sorgen. Sky zeigt die Highlights aus der stärksten Eishockey-Liga der Welt live.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260115001500 +0100" stop="20260115003000 +0100" channel="DE | Sky Sport Top Event">
+    <title>NHL: Highlights VAN@OTT E55</title>
+    <desc>Sport | 2026 | TP
+· Leon Draisaitl, Nathan MacKinnon, Connor McDavid - die NHL ist gespickt mit Stars, die auf dem Eis für Spektakel sorgen. Sky zeigt die Highlights aus der stärksten Eishockey-Liga der Welt live.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260115003000 +0100" stop="20260115030000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live ATP &amp; WTA: Konferenz Adelaide International in Adelaide (AUS), 4. Tag</title>
+    <desc>TP
+· Tennis der Extraklasse: Sky zeigt das Adelaide International in Adelaide mit den Turnieren der ATP und WTA.</desc>
+	</programme>
+	<programme start="20260115030000 +0100" stop="20260115060000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live NHL: Vegas Golden Knights @ Los Angeles Kings · Los Angeles Kings - Vegas Golden Knights</title>
+    <desc>Sport | 2026 | TP
+· Aus der Crypto.com Arena in Los Angeles, Kalifornien, USA.</desc>
+	</programme>
+	<programme start="20260115060000 +0100" stop="20260115120000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live ATP &amp; WTA: Konferenz Adelaide International in Adelaide (AUS), 4. Tag</title>
+    <desc>TP
+· Tennis der Extraklasse: Sky zeigt das Adelaide International in Adelaide mit den Turnieren der ATP und WTA.</desc>
+	</programme>
+	<programme start="20260115120000 +0100" stop="20260115140000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Carabao Cup: FC Chelsea - FC Arsenal, Halbfinale Hinspiel</title>
+    <desc>Fußball | 2026 | TP
+· Aus dem Stamford Bridge Stadion in London, Großbritannien.</desc>
+	</programme>
+	<programme start="20260115140000 +0100" stop="20260115151500 +0100" channel="DE | Sky Sport Top Event">
+    <title>BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 17. Spieltag, Mittwoch E4</title>
+    <desc>Fußball | 2026 | TP
+· Berichtet wird vom 17. Spieltag mit den Begegnungen VfL Wolfsburg gegen FC St. Pauli, 1. FC Köln gegen FC Bayern München, RB Leipzig gegen SC Freiburg und 1899 Hoffenheim gegen Borussia Mönchengladbach.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260115151500 +0100" stop="20260115153000 +0100" channel="DE | Sky Sport Top Event">
+    <title>BL: Highlights XXL: KOE - FCB, 17. Spieltag</title>
+    <desc>Fußball | 2026 | TP
+· Die besten Szenen aus der Bundesliga und 2. Bundesliga: Highlights XXL zeigt die großen Momente der vergangenen Partien.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260115153000 +0100" stop="20260115160000 +0100" channel="DE | Sky Sport Top Event">
+    <title>NBA: Action</title>
+    <desc>Basketball | 2009 | TP
+· In dem Magazin gibt es das Neueste aus der nordamerikanischen Basketball Liga NBA. Gezeigt werden auch Zusammenfassungen der aktuellen Partien mit ausführlichen Statistiken und Profile von den besten Spielern und Teams.
+· País: Canadá</desc>
+	</programme>
+	<programme start="20260115160000 +0100" stop="20260115170000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live BL: Matchplan: XXX - YYY, 18. Spieltag</title>
+    <desc>Fußball,Sport | 2021 | TP
+· Es geht um ausführliche Analysen und wissenswerte Fakten zu den anstehenden Partien des aktuellen Bundesligaspieltags. Dabei kommen unter anderem Trainer zu Wort, die über die gegenüberstehenden Mannschaften und die Pläne für das Spiel sprechen.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260115170000 +0100" stop="20260115173000 +0100" channel="DE | Sky Sport Top Event">
+    <title>BL: Bundesliga Weekly</title>
+    <desc>Fußball | 2015 | TP
+· Das wöchentliche Magazin mit Themen rund um die Bundesliga. Bundesliga Weekly liefert einen Einblick in die Welt der höchsten deutschen Fußball-Liga.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260115173000 +0100" stop="20260115183000 +0100" channel="DE | Sky Sport Top Event">
+    <title>BL: Matchplan: XXX - YYY, 18. Spieltag</title>
+    <desc>Fußball,Sport | 2021 | TP
+· Es geht um ausführliche Analysen und wissenswerte Fakten zu den anstehenden Partien des aktuellen Bundesligaspieltags. Dabei kommen unter anderem Trainer zu Wort, die über die gegenüberstehenden Mannschaften und die Pläne für das Spiel sprechen.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260115183000 +0100" stop="20260115221500 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live BL: FC Augsburg - 1. FC Union Berlin, tipico Topspiel der Woche, 17. Spieltag</title>
+    <desc>Fußball | 2026 | TP
+· Aus der WWK Arena in Augsburg, Deutschland.</desc>
+	</programme>
+	<programme start="20260115221500 +0100" stop="20260115223000 +0100" channel="DE | Sky Sport Top Event">
+    <title>NHL: Highlights OTT@NYR E58</title>
+    <desc>Sport | 2026 | TP
+· Leon Draisaitl, Nathan MacKinnon, Connor McDavid - die NHL ist gespickt mit Stars, die auf dem Eis für Spektakel sorgen. Sky zeigt die Highlights aus der stärksten Eishockey-Liga der Welt live.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260115223000 +0100" stop="20260116003000 +0100" channel="DE | Sky Sport Top Event">
+    <title>BL: 1. FC Köln - FC Bayern München, 17. Spieltag</title>
+    <desc>Fußball | 2026 | TP
+· Aus dem RheinEnergieSTADION, Köln, Deutschland.</desc>
+	</programme>
+	<programme start="20260116003000 +0100" stop="20260116023000 +0100" channel="DE | Sky Sport Top Event">
+    <title>Live WTA 500: HF1, Adelaide International in Adelaide (AUS), Halbfinale 1</title>
+    <desc>TP
+· Tennis: WTA 500 HF1, Adelaide International in Adelaide (AUS), Halbfinale 1.</desc>
 	</programme>
 	<programme start="20260111000000 +0100" stop="20260111020000 +0100" channel="UK | Sky Sport Tennis">
     <title>Tennis: Day Highlights</title>
