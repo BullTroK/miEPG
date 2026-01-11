@@ -102,19 +102,17 @@ ESPN International,ESPN International
 TyC Sports,TyC Sports ar
 TUDN (Estados Unidos),TUDN (Estados Unidos)
 TUDN (México),TUDN (México)
-AZTECA 7.mx,AZTECA 7.mx
-FOX SPORTS PREMIUM.mx,FOX SPORTS PREMIUM.mx
 DSPORTS,DSPORTS ar
 DSPORTS 2,DSPORTS 2 ar
 DSPORTS+,DSPORTS+ ar
-ESPN 2.ar,ESPN 2.ar
-ESPN 3.ar,ESPN 3.ar
-ESPN 4.ar,ESPN 4.ar
-ESPN PREMIUM.ar,ESPN PREMIUM.ar
-ESPN.ar,ESPN.ar
-FOX SPORTS ARGENTINA.ar,FOX SPORTS ARGENTINA.ar
-FOX SPORTS 2.ar,FOX SPORTS 2.ar
-FOX SPORTS 3.ar,FOX SPORTS 3.ar
-Fox Deportes HD.us,Fox Deportes HD.us
-Univision  Eastern Feed HD.us,Univision  Eastern Feed HD.us
-UniMás  Network Central HD.us,UniMás  Network Central HD.us
+FOX SPORTS PREMIUM.mx,FOX SPORTS PREMIUM.mx,7
+AZTECA 7.mx,AZTECA 7.mx,7
+ESPN 2.ar,ESPN 2.ar,5
+ESPN 3.ar,ESPN 3.ar,5
+ESPN 4.ar,ESPN 4.ar,5
+ESPN PREMIUM.ar,ESPN PREMIUM.ar,5
+ESPN.ar,ESPN.ar,5
+FOX SPORTS ARGENTINA.ar,FOX SPORTS ARGENTINA.ar,5
+FOX SPORTS 2.ar,FOX SPORTS 2.ar,5
+FOX SPORTS 3.ar,FOX SPORTS 3.ar,5
+Fox Deportes HD.us,Fox Deportes HD.us,7
