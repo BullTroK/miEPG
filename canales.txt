@@ -54,6 +54,7 @@ DAZN Baloncesto 3,DAZN Baloncesto 3
 DAZN Liga F,DAZN Liga F
 DAZN Liga F 2,DAZN Liga F 2
 DAZN Liga F 3,DAZN Liga F 3
+Onetoro,Onetoro
 La 1 HD,La 1
 La 2,La 2
 Antena 3 HD,Antena 3
@@ -83,7 +84,7 @@ FR | beIN SPORTS 2,FR | beIN SPORTS 2
 FR | beIN SPORTS 3,FR | beIN SPORTS 3
 FR | CANAL+ Sport,FR | CANAL+ Sport
 UK | Sky Sport Main Event,UK | Sky Sport Main Event
-Top Event,DE | Sky Sport Top Event
+DE | Sky Sport Top Event,DE | Sky Sport Top Event
 UK | Sky Sport Tennis,UK | Sky Sport Tennis
 DE | Sky Sport Tennis,DE | Sky Sport Tennis
 UK | Sky Sport F1,UK | Sky Sport F1
