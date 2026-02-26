@@ -51,9 +51,6 @@ M+ Liga de Campeones 2 HDR,M+ Liga de Campeones 2 HDR
 DAZN Baloncesto,DAZN Baloncesto
 DAZN Baloncesto 2,DAZN Baloncesto 2
 DAZN Baloncesto 3,DAZN Baloncesto 3
-DAZN Liga F,DAZN Liga F
-DAZN Liga F 2,DAZN Liga F 2
-DAZN Liga F 3,DAZN Liga F 3
 Onetoro,Onetoro
 La 1 HD,La 1
 La 2,La 2
@@ -94,8 +91,8 @@ DE | Sky Sport Golf,DE | Sky Sport Golf
 FOX SPORTS,FOX SPORTS mx
 FOX SPORTS 2,FOX SPORTS 2 mx
 FOX SPORTS 3,FOX SPORTS 3 mx
-ESPN,ESPN mx
-ESPN 2,ESPN 2 mx
+ESPN,ESPN mx,1
+ESPN 2,ESPN 2 mx,1
 ESPN 3,ESPN 3 mx
 ESPN 4,ESPN 4 mx
 Sky Sports 16,Sky Sports 16
@@ -110,7 +107,7 @@ DSPORTS+,DSPORTS+ ar
 FOX SPORTS PREMIUM.mx,FOX SPORTS PREMIUM.mx,1
 AZTECA 7.mx,AZTECA 7.mx
 ESPN.ar,ESPN.ar,1
-ESPN 2.ar,ESPN 2.ar
+ESPN 2.ar,ESPN 2.ar,1
 ESPN 3.ar,ESPN 3.ar,1
 ESPN 4.ar,ESPN 4.ar,1
 ESPN PREMIUM.ar,ESPN PREMIUM.ar,1
