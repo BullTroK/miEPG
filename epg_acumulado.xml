@@ -30974,408 +30974,408 @@
 <title>SportsCenter</title>
 <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
 </programme>
-<programme start="20260226073000 +0000" stop="20260226093000 +0000" channel="ESPN 2.ar">
+<programme start="20260226093000 +0000" stop="20260226113000 +0000" channel="ESPN 2.ar">
 <title>ESPN F10</title>
 <desc>Los fines de semana se llenan de fútbol. Tras la finalizacion del partido de la fecha de la Copa de la Liga Profesional del fútbol argentino, llega el mejor análisis.</desc>
 </programme>
-<programme start="20260226093000 +0000" stop="20260226103000 +0000" channel="ESPN 2.ar">
+<programme start="20260226113000 +0000" stop="20260226123000 +0000" channel="ESPN 2.ar">
 <title>UEFA Europa and Conference League Magazine</title>
 <desc>Noticias, entrevistas, momentos destacados, historias y análisis de los equipos de la UEFA Europa League y la UEFA Conference League.</desc>
 </programme>
-<programme start="20260226103000 +0000" stop="20260226123000 +0000" channel="ESPN 2.ar">
+<programme start="20260226123000 +0000" stop="20260226143000 +0000" channel="ESPN 2.ar">
 <title>Fútbol UEFA Champions League : Juventus vs. Galatasaray</title>
 <sub-title>Juventus vs. Galatasaray</sub-title>
 <desc>Accion del partido de vuelta de la ronda de playoffs de la UEFA Champions League 2025-26.Desde el Allianz Stadium, en Turin.</desc>
 </programme>
-<programme start="20260226123000 +0000" stop="20260226130000 +0000" channel="ESPN 2.ar">
+<programme start="20260226143000 +0000" stop="20260226150000 +0000" channel="ESPN 2.ar">
 <title>UEFA Champions League Highlights</title>
 <desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
 </programme>
-<programme start="20260226130000 +0000" stop="20260226140000 +0000" channel="ESPN 2.ar">
+<programme start="20260226150000 +0000" stop="20260226160000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
 <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
 </programme>
-<programme start="20260226140000 +0000" stop="20260226150000 +0000" channel="ESPN 2.ar">
+<programme start="20260226160000 +0000" stop="20260226170000 +0000" channel="ESPN 2.ar">
 <title>ESPN Compact : UEFA Champions League: Real Madrid vs. SL Benfica</title>
 <sub-title>UEFA Champions League: Real Madrid vs. SL Benfica</sub-title>
 <desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Champions League 2025-26. Real Madrid se enfrenta a Benfica. Desde el estadio Santiago Bernabeu, en Madrid. Disputado el 25 de febrero de 2026.</desc>
 <episode-num system="xmltv_ns">.66.</episode-num>
 </programme>
-<programme start="20260226150000 +0000" stop="20260226160000 +0000" channel="ESPN 2.ar">
+<programme start="20260226170000 +0000" stop="20260226180000 +0000" channel="ESPN 2.ar">
 <title>ESPN Compact : UEFA Champions League: Paris Saint-Germain vs. AS Monaco</title>
 <sub-title>UEFA Champions League: Paris Saint-Germain vs. AS Monaco</sub-title>
 <desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Champions League 2025-26. Paris Saint-Germain se enfrenta a AS Monaco. Desde el Parc des Princes, en París. Disputado el 25 de febrero de 2026.</desc>
 <episode-num system="xmltv_ns">.65.</episode-num>
 </programme>
-<programme start="20260226160000 +0000" stop="20260226163000 +0000" channel="ESPN 2.ar">
+<programme start="20260226180000 +0000" stop="20260226183000 +0000" channel="ESPN 2.ar">
 <title>UEFA Champions League Highlights</title>
 <desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
 </programme>
-<programme start="20260226163000 +0000" stop="20260226184000 +0000" channel="ESPN 2.ar">
+<programme start="20260226183000 +0000" stop="20260226204000 +0000" channel="ESPN 2.ar">
 <title>Fútbol UEFA Europa League : Crvena Zvezda vs. Lille OSC</title>
 <sub-title>Crvena Zvezda vs. Lille OSC</sub-title>
 <desc>Accion del partido de vuelta de los playoffs de la UEFA Europa League 2025-26. Desde el Estadio Rajko Mitic.</desc>
 </programme>
-<programme start="20260226184000 +0000" stop="20260226205500 +0000" channel="ESPN 2.ar">
+<programme start="20260226204000 +0000" stop="20260226225500 +0000" channel="ESPN 2.ar">
 <title>Fútbol UEFA Europa League : Nottingham Forest vs. Fenerbahçe</title>
 <sub-title>Nottingham Forest vs. Fenerbahçe</sub-title>
 <desc>Eliminatoria, partido de vuelta de la UEFA Europa League 2025-26. Nottingham Forest (Inglaterra) recibe a Fenerbahçe (Turquía). Desde el City Ground, en Nottingham.</desc>
 </programme>
-<programme start="20260226205500 +0000" stop="20260226220000 +0000" channel="ESPN 2.ar">
+<programme start="20260226225500 +0000" stop="20260227000000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
 <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
 </programme>
-<programme start="20260226220000 +0000" stop="20260226223000 +0000" channel="ESPN 2.ar">
+<programme start="20260227000000 +0000" stop="20260227003000 +0000" channel="ESPN 2.ar">
 <title>UEFA Champions League Highlights</title>
 <desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
 </programme>
-<programme start="20260226223000 +0000" stop="20260226230000 +0000" channel="ESPN 2.ar">
+<programme start="20260227003000 +0000" stop="20260227010000 +0000" channel="ESPN 2.ar">
 <title>UEFA Champions League Highlights</title>
 <desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
 </programme>
-<programme start="20260226230000 +0000" stop="20260226233000 +0000" channel="ESPN 2.ar">
+<programme start="20260227010000 +0000" stop="20260227013000 +0000" channel="ESPN 2.ar">
 <title>ATP World Tour Weekly</title>
 <desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
 </programme>
-<programme start="20260226233000 +0000" stop="20260227020000 +0000" channel="ESPN 2.ar">
+<programme start="20260227013000 +0000" stop="20260227040000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
 <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
 </programme>
-<programme start="20260227020000 +0000" stop="20260227030000 +0000" channel="ESPN 2.ar">
+<programme start="20260227040000 +0000" stop="20260227050000 +0000" channel="ESPN 2.ar">
 <title>UEFA Europa League and UEFA Conference League</title>
 <desc>Un análisis completo con los momentos destacados de los últimos partidos de la UEFA Europa League y la UEFA Conference League.</desc>
 </programme>
-<programme start="20260227030000 +0000" stop="20260227040000 +0000" channel="ESPN 2.ar">
+<programme start="20260227050000 +0000" stop="20260227060000 +0000" channel="ESPN 2.ar">
 <title>ESPN Compact : UEFA Europa League: Stuttgart vs. Celtic</title>
 <sub-title>UEFA Europa League: Stuttgart vs. Celtic</sub-title>
 <desc>Los momentos más destacados del partido de vuelta de la UEFA Europa League 2025-26. Encuentro entre Stuttgart y Celtic. Disputado el 26 de febrero del 2026.</desc>
 <episode-num system="xmltv_ns">.67.</episode-num>
 </programme>
-<programme start="20260227040000 +0000" stop="20260227050000 +0000" channel="ESPN 2.ar">
+<programme start="20260227060000 +0000" stop="20260227070000 +0000" channel="ESPN 2.ar">
 <title>ESPN Compact : UEFA Europa League: Celta de Vigo vs. PAOK</title>
 <sub-title>UEFA Europa League: Celta de Vigo vs. PAOK</sub-title>
 <desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Europa League 2025-26. Celta de Vigo (España) se enfrenta a PAOK (Grecia).</desc>
 <episode-num system="xmltv_ns">.68.</episode-num>
 </programme>
-<programme start="20260227050000 +0000" stop="20260227060000 +0000" channel="ESPN 2.ar">
+<programme start="20260227070000 +0000" stop="20260227080000 +0000" channel="ESPN 2.ar">
 <title>UEFA Europa League and UEFA Conference League</title>
 <desc>Un análisis completo con los momentos destacados de los últimos partidos de la UEFA Europa League y la UEFA Conference League.</desc>
 </programme>
-<programme start="20260227060000 +0000" stop="20260227080000 +0000" channel="ESPN 2.ar">
+<programme start="20260227080000 +0000" stop="20260227100000 +0000" channel="ESPN 2.ar">
 <title>Fútbol UEFA Europa League : Nottingham Forest vs. Fenerbahçe</title>
 <sub-title>Nottingham Forest vs. Fenerbahçe</sub-title>
 <desc>Eliminatoria, partido de vuelta de la UEFA Europa League 2025-26. Nottingham Forest (Inglaterra) recibe a Fenerbahçe (Turquía). Desde el City Ground, en Nottingham.</desc>
 </programme>
-<programme start="20260227080000 +0000" stop="20260227090000 +0000" channel="ESPN 2.ar">
+<programme start="20260227100000 +0000" stop="20260227110000 +0000" channel="ESPN 2.ar">
 <title>PGA Tour Highlights : The Genesis Invitational 2022</title>
 <sub-title>The Genesis Invitational 2022</sub-title>
 <desc>Desde el Riviera Country Club, California, repaso de todo lo que fue un nuevo evento del PGA Tour y el triunfo del chileno Joaquín Niemann logrando así su segundo título en el Tour. Highlights, entrevistas y mucho más.</desc>
 <episode-num system="xmltv_ns">.18.</episode-num>
 </programme>
-<programme start="20260227090000 +0000" stop="20260227100000 +0000" channel="ESPN 2.ar">
+<programme start="20260227110000 +0000" stop="20260227120000 +0000" channel="ESPN 2.ar">
 <title>ESPN Compact : UEFA Europa League: Stuttgart vs. Celtic</title>
 <sub-title>UEFA Europa League: Stuttgart vs. Celtic</sub-title>
 <desc>Los momentos más destacados del partido de vuelta de la UEFA Europa League 2025-26. Encuentro entre Stuttgart y Celtic. Disputado el 26 de febrero del 2026.</desc>
 <episode-num system="xmltv_ns">.67.</episode-num>
 </programme>
-<programme start="20260227100000 +0000" stop="20260227110000 +0000" channel="ESPN 2.ar">
+<programme start="20260227120000 +0000" stop="20260227130000 +0000" channel="ESPN 2.ar">
 <title>ESPN Compact : Recopa Sudamericana: Flamengo vs. Lanús</title>
 <sub-title>Recopa Sudamericana: Flamengo vs. Lanús</sub-title>
 <desc>Los momentos más destacados de la final de vuelta de la Recopa Sudamericana 2026 entre Flamengo y Lanús. Desde el Estadio de Maracaná, en Río de Janeiro. Disputado el 26 de febrero de 2026.</desc>
 <episode-num system="xmltv_ns">.69.</episode-num>
 </programme>
-<programme start="20260227110000 +0000" stop="20260227120000 +0000" channel="ESPN 2.ar">
+<programme start="20260227130000 +0000" stop="20260227140000 +0000" channel="ESPN 2.ar">
 <title>ESPN Compact : UEFA Europa League: Celta de Vigo vs. PAOK</title>
 <sub-title>UEFA Europa League: Celta de Vigo vs. PAOK</sub-title>
 <desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Europa League 2025-26. Celta de Vigo (España) se enfrenta a PAOK (Grecia).</desc>
 <episode-num system="xmltv_ns">.68.</episode-num>
 </programme>
-<programme start="20260227120000 +0000" stop="20260227130000 +0000" channel="ESPN 2.ar">
+<programme start="20260227140000 +0000" stop="20260227150000 +0000" channel="ESPN 2.ar">
 <title>El Show de la Formula 1</title>
 <desc>Repaso de los acontecimientos más recientes de la Formula 1 antes y/o despues de cada carrera con entrevistas a los pilotos y mensajes de correo electronico enviado por televidentes.</desc>
 </programme>
-<programme start="20260227130000 +0000" stop="20260227140000 +0000" channel="ESPN 2.ar">
+<programme start="20260227150000 +0000" stop="20260227160000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
 <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
 </programme>
-<programme start="20260227140000 +0000" stop="20260227160000 +0000" channel="ESPN 2.ar">
+<programme start="20260227160000 +0000" stop="20260227180000 +0000" channel="ESPN 2.ar">
 <title>Fútbol CONMEBOL Recopa Sudamericana : Flamengo CR vs. Lanús</title>
 <sub-title>Flamengo CR vs. Lanús</sub-title>
 <desc>Partido de vuelta de la Recopa Sudamericana 2026. Desde el Estadio de Maracaná, en Río de Janeiro.</desc>
 </programme>
-<programme start="20260227160000 +0000" stop="20260227170000 +0000" channel="ESPN 2.ar">
+<programme start="20260227180000 +0000" stop="20260227190000 +0000" channel="ESPN 2.ar">
 <title>ESPN Compact : UEFA Europa League: Stuttgart vs. Celtic</title>
 <sub-title>UEFA Europa League: Stuttgart vs. Celtic</sub-title>
 <desc>Los momentos más destacados del partido de vuelta de la UEFA Europa League 2025-26. Encuentro entre Stuttgart y Celtic. Disputado el 26 de febrero del 2026.</desc>
 <episode-num system="xmltv_ns">.67.</episode-num>
 </programme>
-<programme start="20260227170000 +0000" stop="20260227173000 +0000" channel="ESPN 2.ar">
+<programme start="20260227190000 +0000" stop="20260227193000 +0000" channel="ESPN 2.ar">
 <title>Inside Serie A</title>
 <desc>Un repaso a las mejores previas y a todo el contenido de la Serie A de Italia.</desc>
 </programme>
-<programme start="20260227173000 +0000" stop="20260227183000 +0000" channel="ESPN 2.ar">
+<programme start="20260227193000 +0000" stop="20260227203000 +0000" channel="ESPN 2.ar">
 <title>El Show de la Formula 1</title>
 <desc>Repaso de los acontecimientos más recientes de la Formula 1 antes y/o despues de cada carrera con entrevistas a los pilotos y mensajes de correo electronico enviado por televidentes.</desc>
 </programme>
-<programme start="20260227183000 +0000" stop="20260227204500 +0000" channel="ESPN 2.ar">
+<programme start="20260227203000 +0000" stop="20260227224500 +0000" channel="ESPN 2.ar">
 <title>Fútbol Ligue 1 : RC Strasbourg Alsace vs. RC Lens</title>
 <sub-title>RC Strasbourg Alsace vs. RC Lens</sub-title>
 <desc>Jornada 24 de la Ligue 1, 2025-2026. Strasbourg se enfrenta al sublíder de la tabla, Lens. Desde el Stade de la Meinau, en Strasbourg.</desc>
 </programme>
-<programme start="20260227204500 +0000" stop="20260227223000 +0000" channel="ESPN 2.ar">
+<programme start="20260227224500 +0000" stop="20260228003000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
 <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
 </programme>
-<programme start="20260227223000 +0000" stop="20260227230000 +0000" channel="ESPN 2.ar">
+<programme start="20260228003000 +0000" stop="20260228010000 +0000" channel="ESPN 2.ar">
 <title>UEFA Champions League Weekly</title>
 <desc>Momentos destacados, entrevistas y toda la informacion de la jornada semanal de la UEFA Champions League.</desc>
 </programme>
-<programme start="20260227230000 +0000" stop="20260228013000 +0000" channel="ESPN 2.ar">
+<programme start="20260228010000 +0000" stop="20260228033000 +0000" channel="ESPN 2.ar">
 <title>Baloncesto NBA : Cleveland Cavaliers vs. Detroit Pistons</title>
 <sub-title>Cleveland Cavaliers vs. Detroit Pistons</sub-title>
 <desc>Semana 19 de la NBA 2025-26. La serie entre Cleveland Cavaliers y Detroit Pistons se encuentra igualada, con una victoria para cada equipo. En el duelo más reciente, Donovan Mitchell lidero la ofensiva de los Cavaliers con 30 puntos.</desc>
 </programme>
-<programme start="20260228013000 +0000" stop="20260228040000 +0000" channel="ESPN 2.ar">
+<programme start="20260228033000 +0000" stop="20260228060000 +0000" channel="ESPN 2.ar">
 <title>Baloncesto NBA : Denver Nuggets vs. Oklahoma City Thunder</title>
 <sub-title>Denver Nuggets vs. Oklahoma City Thunder</sub-title>
 <desc>Semana 19 de la temporada regular 2025-26 de la NBA. En el último enfrentamiento, Oklahoma City Thunder vencio 121-111 a Denver Nuggets. Tras 55 partidos, los Nuggets registraron una marca de 20-9 como visitantes.</desc>
 </programme>
-<programme start="20260228040000 +0000" stop="20260228043000 +0000" channel="ESPN 2.ar">
+<programme start="20260228060000 +0000" stop="20260228063000 +0000" channel="ESPN 2.ar">
 <title>Premier League Preview</title>
 <desc>Programa previo a la jornada de la Premier League con toda la informacion y el análisis sobre los equipos.</desc>
 </programme>
-<programme start="20260228043000 +0000" stop="20260228050000 +0000" channel="ESPN 2.ar">
+<programme start="20260228063000 +0000" stop="20260228070000 +0000" channel="ESPN 2.ar">
 <title>UEFA Champions League Weekly</title>
 <desc>Momentos destacados, entrevistas y toda la informacion de la jornada semanal de la UEFA Champions League.</desc>
 </programme>
-<programme start="20260228050000 +0000" stop="20260228060000 +0000" channel="ESPN 2.ar">
+<programme start="20260228070000 +0000" stop="20260228080000 +0000" channel="ESPN 2.ar">
 <title>ESPN KnockOut</title>
 <desc>Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamerica en ESPN.</desc>
 </programme>
-<programme start="20260228060000 +0000" stop="20260228063000 +0000" channel="ESPN 2.ar">
+<programme start="20260228080000 +0000" stop="20260228083000 +0000" channel="ESPN 2.ar">
 <title>Inside Serie A</title>
 <desc>Un repaso a las mejores previas y a todo el contenido de la Serie A de Italia.</desc>
 </programme>
-<programme start="20260228063000 +0000" stop="20260228074500 +0000" channel="ESPN 2.ar">
+<programme start="20260228083000 +0000" stop="20260228094500 +0000" channel="ESPN 2.ar">
 <title>Campeonato Mundial de MotoGP : Gran Premio de Tailandia: Carrera esprint</title>
 <sub-title>Gran Premio de Tailandia: Carrera esprint</sub-title>
 <desc>Cobertura de la carrera esprint de la ronda 1 del MotoGP 2026 con el Gran Premio de Tailandia. Desde el Circuito Internacional de Chang, en Buriram, Tailandia.</desc>
 </programme>
-<programme start="20260228074500 +0000" stop="20260228090000 +0000" channel="ESPN 2.ar">
+<programme start="20260228094500 +0000" stop="20260228110000 +0000" channel="ESPN 2.ar">
 <title>ESPN F10</title>
 <desc>Los fines de semana se llenan de fútbol. Tras la finalizacion del partido de la fecha de la Copa de la Liga Profesional del fútbol argentino, llega el mejor análisis.</desc>
 </programme>
-<programme start="20260228090000 +0000" stop="20260228094500 +0000" channel="ESPN 2.ar">
+<programme start="20260228110000 +0000" stop="20260228114500 +0000" channel="ESPN 2.ar">
 <title>ESPN 2 Argentina</title>
 <desc>Programacion por anunciarse.</desc>
 </programme>
-<programme start="20260226100000 +0000" stop="20260226110000 +0000" channel="ESPN 3.ar">
+<programme start="20260226110000 +0000" stop="20260226120000 +0000" channel="ESPN 3.ar">
 <title>ESPN Compact : UEFA Champions League: Paris Saint-Germain vs. AS Monaco</title>
 <sub-title>UEFA Champions League: Paris Saint-Germain vs. AS Monaco</sub-title>
 <desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Champions League 2025-26. Paris Saint-Germain se enfrenta a AS Monaco. Desde el Parc des Princes, en París. Disputado el 25 de febrero de 2026.</desc>
 <episode-num system="xmltv_ns">.65.</episode-num>
 </programme>
-<programme start="20260226110000 +0000" stop="20260226120000 +0000" channel="ESPN 3.ar">
+<programme start="20260226120000 +0000" stop="20260226130000 +0000" channel="ESPN 3.ar">
 <title>ESPN Compact : UEFA Champions League: Real Madrid vs. SL Benfica</title>
 <sub-title>UEFA Champions League: Real Madrid vs. SL Benfica</sub-title>
 <desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Champions League 2025-26. Real Madrid se enfrenta a Benfica. Desde el estadio Santiago Bernabeu, en Madrid. Disputado el 25 de febrero de 2026.</desc>
 <episode-num system="xmltv_ns">.66.</episode-num>
 </programme>
-<programme start="20260226120000 +0000" stop="20260226130000 +0000" channel="ESPN 3.ar">
+<programme start="20260226130000 +0000" stop="20260226140000 +0000" channel="ESPN 3.ar">
 <title>Dutch League Highlights</title>
 <desc>Momentos destacados de la Division de Honor de los Países Bajos.</desc>
 </programme>
-<programme start="20260226130000 +0000" stop="20260226140000 +0000" channel="ESPN 3.ar">
+<programme start="20260226140000 +0000" stop="20260226150000 +0000" channel="ESPN 3.ar">
 <title>PGA Tour Highlights : The Genesis Invitational 2022</title>
 <sub-title>The Genesis Invitational 2022</sub-title>
 <desc>Desde el Riviera Country Club, California, repaso de todo lo que fue un nuevo evento del PGA Tour y el triunfo del chileno Joaquín Niemann logrando así su segundo título en el Tour. Highlights, entrevistas y mucho más.</desc>
 <episode-num system="xmltv_ns">.18.</episode-num>
 </programme>
-<programme start="20260226140000 +0000" stop="20260226143000 +0000" channel="ESPN 3.ar">
+<programme start="20260226150000 +0000" stop="20260226153000 +0000" channel="ESPN 3.ar">
 <title>Bundesliga Preview Show</title>
 <desc>Programa de especialistas dedicados a analizar como se presentan las fechas de la Bundesliga y sus equipos.</desc>
 </programme>
-<programme start="20260226143000 +0000" stop="20260226150000 +0000" channel="ESPN 3.ar">
+<programme start="20260226153000 +0000" stop="20260226160000 +0000" channel="ESPN 3.ar">
 <title>ATP World Tour Weekly</title>
 <desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
 </programme>
-<programme start="20260226150000 +0000" stop="20260226173000 +0000" channel="ESPN 3.ar">
+<programme start="20260226160000 +0000" stop="20260226183000 +0000" channel="ESPN 3.ar">
 <title>Baloncesto NBA : Boston Celtics vs. Denver Nuggets</title>
 <sub-title>Boston Celtics vs. Denver Nuggets</sub-title>
 <desc>Semana 19 de la temporada regular 2025-26 de la NBA. Boston Celtics intenta empatar la serie de visita en el Ball Arena. Tras 55 partidos, Denver Nuggets registro una marca de 15-11 ante equipos de la Conferencia Este.</desc>
 </programme>
-<programme start="20260226173000 +0000" stop="20260226194000 +0000" channel="ESPN 3.ar">
+<programme start="20260226183000 +0000" stop="20260226204000 +0000" channel="ESPN 3.ar">
 <title>Fútbol UEFA Europa League : VfB Stuttgart vs. Celtic</title>
 <sub-title>VfB Stuttgart vs. Celtic</sub-title>
 <desc>Accion de la vuelta de playoffs de la UEFA Europa League 2025-26. Se enfrentan VfB Stuttgart contra Celtic en el MHPArena de Stuttgart.</desc>
 </programme>
-<programme start="20260226194000 +0000" stop="20260226215500 +0000" channel="ESPN 3.ar">
+<programme start="20260226204000 +0000" stop="20260226225500 +0000" channel="ESPN 3.ar">
 <title>Fútbol UEFA Europa League : RC Celta vs. PAOK</title>
 <sub-title>RC Celta vs. PAOK</sub-title>
 <desc>Partido de vuelta de playoffs de la UEFA Europa League 2025-26. Celta recibe a PAOK en el Estadio de Balaídos, en Vigo.</desc>
 </programme>
-<programme start="20260226215500 +0000" stop="20260226225800 +0000" channel="ESPN 3.ar">
+<programme start="20260226225500 +0000" stop="20260226235800 +0000" channel="ESPN 3.ar">
 <title>ESPN Compact : UEFA Champions League: Paris Saint-Germain vs. AS Monaco</title>
 <sub-title>UEFA Champions League: Paris Saint-Germain vs. AS Monaco</sub-title>
 <desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Champions League 2025-26. Paris Saint-Germain se enfrenta a AS Monaco. Desde el Parc des Princes, en París. Disputado el 25 de febrero de 2026.</desc>
 <episode-num system="xmltv_ns">.65.</episode-num>
 </programme>
-<programme start="20260226225800 +0000" stop="20260227000000 +0000" channel="ESPN 3.ar">
+<programme start="20260226235800 +0000" stop="20260227010000 +0000" channel="ESPN 3.ar">
 <title>El Show de la Formula 1</title>
 <desc>Repaso de los acontecimientos más recientes de la Formula 1 antes y/o despues de cada carrera con entrevistas a los pilotos y mensajes de correo electronico enviado por televidentes.</desc>
 </programme>
-<programme start="20260227000000 +0000" stop="20260227020000 +0000" channel="ESPN 3.ar">
+<programme start="20260227010000 +0000" stop="20260227030000 +0000" channel="ESPN 3.ar">
 <title>Fútbol UEFA Europa League : Nottingham Forest vs. Fenerbahçe</title>
 <sub-title>Nottingham Forest vs. Fenerbahçe</sub-title>
 <desc>Eliminatoria, partido de vuelta de la UEFA Europa League 2025-26. Nottingham Forest (Inglaterra) recibe a Fenerbahçe (Turquía). Desde el City Ground, en Nottingham.</desc>
 </programme>
-<programme start="20260227020000 +0000" stop="20260227030000 +0000" channel="ESPN 3.ar">
+<programme start="20260227030000 +0000" stop="20260227040000 +0000" channel="ESPN 3.ar">
 <title>PGA Tour Highlights : The Genesis Invitational 2022</title>
 <sub-title>The Genesis Invitational 2022</sub-title>
 <desc>Desde el Riviera Country Club, California, repaso de todo lo que fue un nuevo evento del PGA Tour y el triunfo del chileno Joaquín Niemann logrando así su segundo título en el Tour. Highlights, entrevistas y mucho más.</desc>
 <episode-num system="xmltv_ns">.18.</episode-num>
 </programme>
-<programme start="20260227030000 +0000" stop="20260227040000 +0000" channel="ESPN 3.ar">
+<programme start="20260227040000 +0000" stop="20260227050000 +0000" channel="ESPN 3.ar">
 <title>El Show de la Formula 1</title>
 <desc>Repaso de los acontecimientos más recientes de la Formula 1 antes y/o despues de cada carrera con entrevistas a los pilotos y mensajes de correo electronico enviado por televidentes.</desc>
 </programme>
-<programme start="20260227040000 +0000" stop="20260227043000 +0000" channel="ESPN 3.ar">
+<programme start="20260227050000 +0000" stop="20260227053000 +0000" channel="ESPN 3.ar">
 <title>Bundesliga Preview Show</title>
 <desc>Programa de especialistas dedicados a analizar como se presentan las fechas de la Bundesliga y sus equipos.</desc>
 </programme>
-<programme start="20260227043000 +0000" stop="20260227050000 +0000" channel="ESPN 3.ar">
+<programme start="20260227053000 +0000" stop="20260227060000 +0000" channel="ESPN 3.ar">
 <title>ATP World Tour Weekly</title>
 <desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
 </programme>
-<programme start="20260227050000 +0000" stop="20260227070000 +0000" channel="ESPN 3.ar">
+<programme start="20260227060000 +0000" stop="20260227080000 +0000" channel="ESPN 3.ar">
 <title>Fútbol CONMEBOL Recopa Sudamericana : Flamengo CR vs. Lanús</title>
 <sub-title>Flamengo CR vs. Lanús</sub-title>
 <desc>Partido de vuelta de la Recopa Sudamericana 2026. Desde el Estadio de Maracaná, en Río de Janeiro.</desc>
 </programme>
-<programme start="20260227070000 +0000" stop="20260227090000 +0000" channel="ESPN 3.ar">
+<programme start="20260227080000 +0000" stop="20260227100000 +0000" channel="ESPN 3.ar">
 <title>Rugby Seis Naciones : Francia vs. Italia</title>
 <sub-title>Francia vs. Italia</sub-title>
 <desc>Los mejores equipos de rugby de Europa compiten por el título del Seis Naciones.</desc>
 </programme>
-<programme start="20260227090000 +0000" stop="20260227100000 +0000" channel="ESPN 3.ar">
+<programme start="20260227100000 +0000" stop="20260227110000 +0000" channel="ESPN 3.ar">
 <title>UEFA Europa League and UEFA Conference League</title>
 <desc>Un análisis completo con los momentos destacados de los últimos partidos de la UEFA Europa League y la UEFA Conference League.</desc>
 </programme>
-<programme start="20260227100000 +0000" stop="20260227103000 +0000" channel="ESPN 3.ar">
+<programme start="20260227110000 +0000" stop="20260227113000 +0000" channel="ESPN 3.ar">
 <title>MotoGP: Resúmenes : Lo mejor de MotoGP 2025</title>
 <sub-title>Lo mejor de MotoGP 2025</sub-title>
 <desc>Los momentos más destacados de la temporada 2025 de MotoGP.</desc>
 <episode-num system="xmltv_ns">.1.</episode-num>
 </programme>
-<programme start="20260227103000 +0000" stop="20260227110000 +0000" channel="ESPN 3.ar">
+<programme start="20260227113000 +0000" stop="20260227120000 +0000" channel="ESPN 3.ar">
 <title>ATP World Tour Weekly</title>
 <desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
 </programme>
-<programme start="20260227110000 +0000" stop="20260227120000 +0000" channel="ESPN 3.ar">
+<programme start="20260227120000 +0000" stop="20260227130000 +0000" channel="ESPN 3.ar">
 <title>PGA Tour Highlights : The Genesis Invitational 2022</title>
 <sub-title>The Genesis Invitational 2022</sub-title>
 <desc>Desde el Riviera Country Club, California, repaso de todo lo que fue un nuevo evento del PGA Tour y el triunfo del chileno Joaquín Niemann logrando así su segundo título en el Tour. Highlights, entrevistas y mucho más.</desc>
 <episode-num system="xmltv_ns">.18.</episode-num>
 </programme>
-<programme start="20260227120000 +0000" stop="20260227123000 +0000" channel="ESPN 3.ar">
-<title>UEFA Champions League Highlights</title>
-<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
-</programme>
-<programme start="20260227123000 +0000" stop="20260227130000 +0000" channel="ESPN 3.ar">
-<title>UEFA Champions League Highlights</title>
-<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
-</programme>
 <programme start="20260227130000 +0000" stop="20260227133000 +0000" channel="ESPN 3.ar">
+<title>UEFA Champions League Highlights</title>
+<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
+</programme>
+<programme start="20260227133000 +0000" stop="20260227140000 +0000" channel="ESPN 3.ar">
+<title>UEFA Champions League Highlights</title>
+<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
+</programme>
+<programme start="20260227140000 +0000" stop="20260227143000 +0000" channel="ESPN 3.ar">
 <title>Accion de la NBA</title>
 <desc>Programa semanal con reportajes, entrevistas y toda la informacion de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.</desc>
 </programme>
-<programme start="20260227133000 +0000" stop="20260227140000 +0000" channel="ESPN 3.ar">
+<programme start="20260227143000 +0000" stop="20260227150000 +0000" channel="ESPN 3.ar">
 <title>Aguas arriba</title>
 <desc>La experiencia de la pesca con mosca en Latinoamerica. La búsqueda de truchas en la Patagonia, sea trout y salmones en Chile, dorados en el norte de Argentina y las magníficas especies como bonefish, pertmit y tarpon de Centroamerica y Caribe.</desc>
 </programme>
-<programme start="20260227140000 +0000" stop="20260227143000 +0000" channel="ESPN 3.ar">
+<programme start="20260227150000 +0000" stop="20260227153000 +0000" channel="ESPN 3.ar">
 <title>Inside Serie A</title>
 <desc>Un repaso a las mejores previas y a todo el contenido de la Serie A de Italia.</desc>
 </programme>
-<programme start="20260227143000 +0000" stop="20260227163000 +0000" channel="ESPN 3.ar">
+<programme start="20260227153000 +0000" stop="20260227173000 +0000" channel="ESPN 3.ar">
 <title>Fútbol UEFA Europa League : Crvena Zvezda vs. Lille OSC</title>
 <sub-title>Crvena Zvezda vs. Lille OSC</sub-title>
 <desc>Accion del partido de vuelta de los playoffs de la UEFA Europa League 2025-26. Desde el Estadio Rajko Mitic.</desc>
 </programme>
-<programme start="20260227163000 +0000" stop="20260227182500 +0000" channel="ESPN 3.ar">
+<programme start="20260227173000 +0000" stop="20260227192500 +0000" channel="ESPN 3.ar">
 <title>Fútbol UEFA Europa League : Nottingham Forest vs. Fenerbahçe</title>
 <sub-title>Nottingham Forest vs. Fenerbahçe</sub-title>
 <desc>Eliminatoria, partido de vuelta de la UEFA Europa League 2025-26. Nottingham Forest (Inglaterra) recibe a Fenerbahçe (Turquía). Desde el City Ground, en Nottingham.</desc>
 </programme>
-<programme start="20260227182500 +0000" stop="20260227185200 +0000" channel="ESPN 3.ar">
+<programme start="20260227192500 +0000" stop="20260227195200 +0000" channel="ESPN 3.ar">
 <title>ATP World Tour Weekly</title>
 <desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
 </programme>
-<programme start="20260227185200 +0000" stop="20260227192000 +0000" channel="ESPN 3.ar">
+<programme start="20260227195200 +0000" stop="20260227202000 +0000" channel="ESPN 3.ar">
 <title>Bundesliga Preview Show</title>
 <desc>Programa de especialistas dedicados a analizar como se presentan las fechas de la Bundesliga y sus equipos.</desc>
 </programme>
-<programme start="20260227192000 +0000" stop="20260227212500 +0000" channel="ESPN 3.ar">
+<programme start="20260227202000 +0000" stop="20260227222500 +0000" channel="ESPN 3.ar">
 <title>Fútbol Bundesliga : FC Augsburg vs. Koln</title>
 <sub-title>FC Augsburg vs. Koln</sub-title>
 <desc>Accion de la jornada 24 de la Bundesliga 2025-26. Augsburg busca su tercera victoria al hilo y Koln romper su racha de tres partidos sin ganar.</desc>
 </programme>
-<programme start="20260227212500 +0000" stop="20260227215700 +0000" channel="ESPN 3.ar">
+<programme start="20260227222500 +0000" stop="20260227225700 +0000" channel="ESPN 3.ar">
 <title>Accion de la NBA</title>
 <desc>Programa semanal con reportajes, entrevistas y toda la informacion de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.</desc>
 </programme>
-<programme start="20260227215700 +0000" stop="20260227230000 +0000" channel="ESPN 3.ar">
+<programme start="20260227225700 +0000" stop="20260228000000 +0000" channel="ESPN 3.ar">
 <title>ESPN Compact : Recopa Sudamericana: Flamengo vs. Lanús</title>
 <sub-title>Recopa Sudamericana: Flamengo vs. Lanús</sub-title>
 <desc>Los momentos más destacados de la final de vuelta de la Recopa Sudamericana 2026 entre Flamengo y Lanús. Desde el Estadio de Maracaná, en Río de Janeiro. Disputado el 26 de febrero de 2026.</desc>
 <episode-num system="xmltv_ns">.69.</episode-num>
 </programme>
-<programme start="20260227230000 +0000" stop="20260228010000 +0000" channel="ESPN 3.ar">
+<programme start="20260228000000 +0000" stop="20260228020000 +0000" channel="ESPN 3.ar">
 <title>Súper Rugby Americas : Peñarol Rugby vs. Tarucas</title>
 <sub-title>Peñarol Rugby vs. Tarucas</sub-title>
 <desc>Cobertura de la fecha 2 del Súper Rugby Americas 2026. Peñarol Rugby se enfrenta a Tarucas. Desde el Estadio Charrúa, en Montevideo, Uruguay.</desc>
 </programme>
-<programme start="20260228010000 +0000" stop="20260228020000 +0000" channel="ESPN 3.ar">
+<programme start="20260228020000 +0000" stop="20260228030000 +0000" channel="ESPN 3.ar">
 <title>ESPN KnockOut</title>
 <desc>Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamerica en ESPN.</desc>
 </programme>
-<programme start="20260228020000 +0000" stop="20260228050000 +0000" channel="ESPN 3.ar">
+<programme start="20260228030000 +0000" stop="20260228060000 +0000" channel="ESPN 3.ar">
 <title>ESPN KnockOut</title>
 <desc>Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamerica en ESPN.</desc>
 </programme>
-<programme start="20260228050000 +0000" stop="20260228060000 +0000" channel="ESPN 3.ar">
+<programme start="20260228060000 +0000" stop="20260228070000 +0000" channel="ESPN 3.ar">
 <title>El Show de la Formula 1</title>
 <desc>Repaso de los acontecimientos más recientes de la Formula 1 antes y/o despues de cada carrera con entrevistas a los pilotos y mensajes de correo electronico enviado por televidentes.</desc>
 </programme>
-<programme start="20260228060000 +0000" stop="20260228063000 +0000" channel="ESPN 3.ar">
+<programme start="20260228070000 +0000" stop="20260228073000 +0000" channel="ESPN 3.ar">
 <title>Aguas arriba</title>
 <desc>La experiencia de la pesca con mosca en Latinoamerica. La búsqueda de truchas en la Patagonia, sea trout y salmones en Chile, dorados en el norte de Argentina y las magníficas especies como bonefish, pertmit y tarpon de Centroamerica y Caribe.</desc>
 </programme>
-<programme start="20260228063000 +0000" stop="20260228070000 +0000" channel="ESPN 3.ar">
+<programme start="20260228073000 +0000" stop="20260228080000 +0000" channel="ESPN 3.ar">
 <title>Premier League Preview</title>
 <desc>Programa previo a la jornada de la Premier League con toda la informacion y el análisis sobre los equipos.</desc>
 </programme>
-<programme start="20260228070000 +0000" stop="20260228073000 +0000" channel="ESPN 3.ar">
+<programme start="20260228080000 +0000" stop="20260228083000 +0000" channel="ESPN 3.ar">
 <title>ATP World Tour Weekly</title>
 <desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
 </programme>
-<programme start="20260228073000 +0000" stop="20260228080000 +0000" channel="ESPN 3.ar">
+<programme start="20260228083000 +0000" stop="20260228090000 +0000" channel="ESPN 3.ar">
 <title>Bundesliga Preview Show</title>
 <desc>Programa de especialistas dedicados a analizar como se presentan las fechas de la Bundesliga y sus equipos.</desc>
 </programme>
-<programme start="20260228080000 +0000" stop="20260228090000 +0000" channel="ESPN 3.ar">
+<programme start="20260228090000 +0000" stop="20260228100000 +0000" channel="ESPN 3.ar">
 <title>ESPN KnockOut</title>
 <desc>Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamerica en ESPN.</desc>
 </programme>
-<programme start="20260228090000 +0000" stop="20260228093000 +0000" channel="ESPN 3.ar">
+<programme start="20260228100000 +0000" stop="20260228103000 +0000" channel="ESPN 3.ar">
 <title>Accion de la NBA</title>
 <desc>Programa semanal con reportajes, entrevistas y toda la informacion de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.</desc>
 </programme>
-<programme start="20260228093000 +0000" stop="20260228100000 +0000" channel="ESPN 3.ar">
+<programme start="20260228103000 +0000" stop="20260228110000 +0000" channel="ESPN 3.ar">
 <title>UEFA Champions League Weekly</title>
 <desc>Momentos destacados, entrevistas y toda la informacion de la jornada semanal de la UEFA Champions League.</desc>
 </programme>
-<programme start="20260228100000 +0000" stop="20260228102700 +0000" channel="ESPN 3.ar">
+<programme start="20260228110000 +0000" stop="20260228112700 +0000" channel="ESPN 3.ar">
 <title>Inside Serie A</title>
 <desc>Un repaso a las mejores previas y a todo el contenido de la Serie A de Italia.</desc>
 </programme>
@@ -31605,132 +31605,132 @@
 <programme start="20260228074500 +0000" stop="20260228150000 +0000" channel="ESPN 4.ar">
 <title>ESPN 4 Sur</title>
 </programme>
-<programme start="20260226090000 +0000" stop="20260226110000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260226100000 +0000" stop="20260226120000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Barracas Central vs. Tigre</title>
 <sub-title>Barracas Central vs. Tigre</sub-title>
 <desc>Accion de la Zona B, fecha 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Claudio "Chiqui" Tapia. Los Camioneros quieren evitar una racha de derrotas consecutivas, mientras que los Azules del Norte están cerca de tomar el liderato.</desc>
 </programme>
-<programme start="20260226110000 +0000" stop="20260226130000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260226120000 +0000" stop="20260226140000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Gimnasia (LP) vs. Rosario Central</title>
 <sub-title>Gimnasia (LP) vs. Rosario Central</sub-title>
 <desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Desde el Juan Carmelo Zerillo, en La Plata. El Lobo está cerca de tomar la tercera posicion de la Zona B, mientras que Los Canallas dos lugares atrás; la diferencia es de 2 puntos.</desc>
 </programme>
-<programme start="20260226130000 +0000" stop="20260226150000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260226140000 +0000" stop="20260226160000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Velez Sarsfield vs. Deportivo Riestra</title>
 <sub-title>Velez Sarsfield vs. Deportivo Riestra</sub-title>
 <desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Jose Amalfitani, en Buenos Aires. El Fortín quiere mantener el liderato de la Zona A con un triunfo sobre los Blanquinegros que, no han ganado en esta temporada.</desc>
 </programme>
-<programme start="20260226150000 +0000" stop="20260226170000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260226160000 +0000" stop="20260226180000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : San Lorenzo vs. Instituto</title>
 <sub-title>San Lorenzo vs. Instituto</sub-title>
 <desc>Jornada 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Pedro Bidegain, en Buenos Aires. La Gloria busca meterse entre los mejores ocho equipos de la Zona A si logra vencer a El Ciclon en casa.</desc>
 </programme>
-<programme start="20260226170000 +0000" stop="20260226180000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260226180000 +0000" stop="20260226190000 +0000" channel="ESPN PREMIUM.ar">
 <title>Review : LPF Torneo Apertura 2026: Boca Juniors vs. Racing Club</title>
 <sub-title>LPF Torneo Apertura 2026: Boca Juniors vs. Racing Club</sub-title>
 <desc>Los momentos más destacados del Clásico Boca-Racing en la fecha 6 del Torneo Apertura 2026 de la LPF. Desde el estadio Alberto J. Armando, en Buenos Aires. Disputado el 20 de febrero de 2026.</desc>
 </programme>
-<programme start="20260226180000 +0000" stop="20260226200000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260226190000 +0000" stop="20260226210000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Newells vs. Estudiantes (LP)</title>
 <sub-title>Newells vs. Estudiantes (LP)</sub-title>
 <desc>Jornada 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Marcelo Bielsa, en Rosario. La Lepra busca salir del fondo de la Zona A en su duelo ante El Pincha que, está muy cerca de tomar liderato.</desc>
 </programme>
-<programme start="20260226200000 +0000" stop="20260226221500 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260226210000 +0000" stop="20260226231500 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Racing Club vs. Independiente Rivadavia</title>
 <sub-title>Racing Club vs. Independiente Rivadavia</sub-title>
 <desc>Fecha 7 de la Zona B del Torneo Apertura 2026 de la LPF. Desde el estadio Presidente Peron, en Avellaneda. La Academia busca meterse en la zona de clasificacion, pero necesita vencer al Azul, líder del grupo.</desc>
 </programme>
-<programme start="20260226221500 +0000" stop="20260227002500 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260226231500 +0000" stop="20260227012500 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Estudiantes (LP) vs. Huracán</title>
 <sub-title>Estudiantes (LP) vs. Huracán</sub-title>
 <desc>Accion del partido de la jornada 2 del Torneo Clausura 2025 de la Liga Profesional de Fútbol. Estudiantes recibe a Huracán.</desc>
 </programme>
-<programme start="20260227002500 +0000" stop="20260227023000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260227012500 +0000" stop="20260227033000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Newells vs. Estudiantes (LP)</title>
 <sub-title>Newells vs. Estudiantes (LP)</sub-title>
 <desc>Jornada 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Marcelo Bielsa, en Rosario. La Lepra busca salir del fondo de la Zona A en su duelo ante El Pincha que, está muy cerca de tomar liderato.</desc>
 </programme>
-<programme start="20260227023000 +0000" stop="20260227043000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260227033000 +0000" stop="20260227053000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Sarmiento (J) vs. Union (SF)</title>
 <sub-title>Sarmiento (J) vs. Union (SF)</sub-title>
 <desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Sarmiento de Junín se enfrenta al Union de Santa Fe. Desde el estadio Eva Peron, en Junín, Buenos Aires.</desc>
 </programme>
-<programme start="20260227043000 +0000" stop="20260227063000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260227053000 +0000" stop="20260227073000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Estudiantes (LP) vs. Huracán</title>
 <sub-title>Estudiantes (LP) vs. Huracán</sub-title>
 <desc>Accion del partido de la jornada 2 del Torneo Clausura 2025 de la Liga Profesional de Fútbol. Estudiantes recibe a Huracán.</desc>
 </programme>
-<programme start="20260227063000 +0000" stop="20260227083000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260227073000 +0000" stop="20260227093000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : River Plate vs. Banfield</title>
 <sub-title>River Plate vs. Banfield</sub-title>
 <desc>Fecha 7 de la Zona B del Torneo Apertura 2026 en el Estadio Monumental. El Millonario busca terminar la mala racha de derrotas consecutivas ante El Taladro, que se encuentra en la octava posicion. Banfield tiene ventaja por diferencia de goles.</desc>
 </programme>
-<programme start="20260227083000 +0000" stop="20260227103000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260227093000 +0000" stop="20260227113000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Racing Club vs. Independiente Rivadavia</title>
 <sub-title>Racing Club vs. Independiente Rivadavia</sub-title>
 <desc>Fecha 7 de la Zona B del Torneo Apertura 2026 de la LPF. Desde el estadio Presidente Peron, en Avellaneda. La Academia busca meterse en la zona de clasificacion, pero necesita vencer al Azul, líder del grupo.</desc>
 </programme>
-<programme start="20260227103000 +0000" stop="20260227123000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260227113000 +0000" stop="20260227133000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Sarmiento (J) vs. Union (SF)</title>
 <sub-title>Sarmiento (J) vs. Union (SF)</sub-title>
 <desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Sarmiento de Junín se enfrenta al Union de Santa Fe. Desde el estadio Eva Peron, en Junín, Buenos Aires.</desc>
 </programme>
-<programme start="20260227123000 +0000" stop="20260227130000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260227133000 +0000" stop="20260227140000 +0000" channel="ESPN PREMIUM.ar">
 <title>Review : LPF Torneo Apertura: River Plate vs. Banfield</title>
 <sub-title>LPF Torneo Apertura: River Plate vs. Banfield</sub-title>
 <desc>Los momentos más destacados de la fecha 7 del Torneo Apertura 2026 de la LPF. River Plate recibe a Banfield. Desde el Estadio Monumental, en Buenos Aires. Disputado el 26 de febrero de 2026.</desc>
 </programme>
-<programme start="20260227130000 +0000" stop="20260227150000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260227140000 +0000" stop="20260227160000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Estudiantes (LP) vs. Huracán</title>
 <sub-title>Estudiantes (LP) vs. Huracán</sub-title>
 <desc>Accion del partido de la jornada 2 del Torneo Clausura 2025 de la Liga Profesional de Fútbol. Estudiantes recibe a Huracán.</desc>
 </programme>
-<programme start="20260227150000 +0000" stop="20260227170000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260227160000 +0000" stop="20260227180000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Racing Club vs. Independiente Rivadavia</title>
 <sub-title>Racing Club vs. Independiente Rivadavia</sub-title>
 <desc>Fecha 7 de la Zona B del Torneo Apertura 2026 de la LPF. Desde el estadio Presidente Peron, en Avellaneda. La Academia busca meterse en la zona de clasificacion, pero necesita vencer al Azul, líder del grupo.</desc>
 </programme>
-<programme start="20260227170000 +0000" stop="20260227190000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260227180000 +0000" stop="20260227200000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : River Plate vs. Banfield</title>
 <sub-title>River Plate vs. Banfield</sub-title>
 <desc>Fecha 7 de la Zona B del Torneo Apertura 2026 en el Estadio Monumental. El Millonario busca terminar la mala racha de derrotas consecutivas ante El Taladro, que se encuentra en la octava posicion. Banfield tiene ventaja por diferencia de goles.</desc>
 </programme>
-<programme start="20260227190000 +0000" stop="20260227210000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260227200000 +0000" stop="20260227220000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Gimnasia (LP) vs. Rosario Central</title>
 <sub-title>Gimnasia (LP) vs. Rosario Central</sub-title>
 <desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Desde el Juan Carmelo Zerillo, en La Plata. El Lobo está cerca de tomar la tercera posicion de la Zona B, mientras que Los Canallas dos lugares atrás; la diferencia es de 2 puntos.</desc>
 </programme>
-<programme start="20260227210000 +0000" stop="20260227230000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260227220000 +0000" stop="20260228000000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : River Plate vs. Banfield</title>
 <sub-title>River Plate vs. Banfield</sub-title>
 <desc>Fecha 7 de la Zona B del Torneo Apertura 2026 en el Estadio Monumental. El Millonario busca terminar la mala racha de derrotas consecutivas ante El Taladro, que se encuentra en la octava posicion. Banfield tiene ventaja por diferencia de goles.</desc>
 </programme>
-<programme start="20260227230000 +0000" stop="20260228010000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260228000000 +0000" stop="20260228020000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Newells vs. Estudiantes (LP)</title>
 <sub-title>Newells vs. Estudiantes (LP)</sub-title>
 <desc>Jornada 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Marcelo Bielsa, en Rosario. La Lepra busca salir del fondo de la Zona A en su duelo ante El Pincha que, está muy cerca de tomar liderato.</desc>
 </programme>
-<programme start="20260228010000 +0000" stop="20260228030000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260228020000 +0000" stop="20260228040000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Barracas Central vs. Tigre</title>
 <sub-title>Barracas Central vs. Tigre</sub-title>
 <desc>Accion de la Zona B, fecha 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Claudio "Chiqui" Tapia. Los Camioneros quieren evitar una racha de derrotas consecutivas, mientras que los Azules del Norte están cerca de tomar el liderato.</desc>
 </programme>
-<programme start="20260228030000 +0000" stop="20260228050000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260228040000 +0000" stop="20260228060000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : San Lorenzo vs. Instituto</title>
 <sub-title>San Lorenzo vs. Instituto</sub-title>
 <desc>Jornada 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Pedro Bidegain, en Buenos Aires. La Gloria busca meterse entre los mejores ocho equipos de la Zona A si logra vencer a El Ciclon en casa.</desc>
 </programme>
-<programme start="20260228050000 +0000" stop="20260228070000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260228060000 +0000" stop="20260228080000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Platense vs. Defensa y Justicia</title>
 <sub-title>Platense vs. Defensa y Justicia</sub-title>
 <desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Desde el Estadio Ciudad de Vicente Lopez, en Buenos Aires. El tercer lugar de la Zona A está en juego donde El Calamar tiene un punto de ventaja sobre El Halcon.</desc>
 </programme>
-<programme start="20260228070000 +0000" stop="20260228090000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260228080000 +0000" stop="20260228100000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Velez Sarsfield vs. Deportivo Riestra</title>
 <sub-title>Velez Sarsfield vs. Deportivo Riestra</sub-title>
 <desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Jose Amalfitani, en Buenos Aires. El Fortín quiere mantener el liderato de la Zona A con un triunfo sobre los Blanquinegros que, no han ganado en esta temporada.</desc>
 </programme>
-<programme start="20260228090000 +0000" stop="20260228110000 +0000" channel="ESPN PREMIUM.ar">
+<programme start="20260228100000 +0000" stop="20260228120000 +0000" channel="ESPN PREMIUM.ar">
 <title>Fútbol Argentino Primera Division : Estudiantes (LP) vs. Huracán</title>
 <sub-title>Estudiantes (LP) vs. Huracán</sub-title>
 <desc>Accion del partido de la jornada 2 del Torneo Clausura 2025 de la Liga Profesional de Fútbol. Estudiantes recibe a Huracán.</desc>
@@ -41350,6 +41350,358 @@
       <value>B15</value>
     </rating>
   </programme>
+<programme start="20260226073000 +0000" stop="20260226093000 +0000" channel="ESPN 2.ar">
+<title>ESPN F10</title>
+<desc>Los fines de semana se llenan de fútbol. Tras la finalizacion del partido de la fecha de la Copa de la Liga Profesional del fútbol argentino, llega el mejor análisis.</desc>
+</programme>
+<programme start="20260226103000 +0000" stop="20260226123000 +0000" channel="ESPN 2.ar">
+<title>Fútbol UEFA Champions League : Juventus vs. Galatasaray</title>
+<sub-title>Juventus vs. Galatasaray</sub-title>
+<desc>Accion del partido de vuelta de la ronda de playoffs de la UEFA Champions League 2025-26.Desde el Allianz Stadium, en Turin.</desc>
+</programme>
+<programme start="20260226130000 +0000" stop="20260226140000 +0000" channel="ESPN 2.ar">
+<title>SportsCenter</title>
+<desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20260226140000 +0000" stop="20260226150000 +0000" channel="ESPN 2.ar">
+<title>ESPN Compact : UEFA Champions League: Real Madrid vs. SL Benfica</title>
+<sub-title>UEFA Champions League: Real Madrid vs. SL Benfica</sub-title>
+<desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Champions League 2025-26. Real Madrid se enfrenta a Benfica. Desde el estadio Santiago Bernabeu, en Madrid. Disputado el 25 de febrero de 2026.</desc>
+<episode-num system="xmltv_ns">.66.</episode-num>
+</programme>
+<programme start="20260226163000 +0000" stop="20260226184000 +0000" channel="ESPN 2.ar">
+<title>Fútbol UEFA Europa League : Crvena Zvezda vs. Lille OSC</title>
+<sub-title>Crvena Zvezda vs. Lille OSC</sub-title>
+<desc>Accion del partido de vuelta de los playoffs de la UEFA Europa League 2025-26. Desde el Estadio Rajko Mitic.</desc>
+</programme>
+<programme start="20260226184000 +0000" stop="20260226205500 +0000" channel="ESPN 2.ar">
+<title>Fútbol UEFA Europa League : Nottingham Forest vs. Fenerbahçe</title>
+<sub-title>Nottingham Forest vs. Fenerbahçe</sub-title>
+<desc>Eliminatoria, partido de vuelta de la UEFA Europa League 2025-26. Nottingham Forest (Inglaterra) recibe a Fenerbahçe (Turquía). Desde el City Ground, en Nottingham.</desc>
+</programme>
+<programme start="20260226205500 +0000" stop="20260226220000 +0000" channel="ESPN 2.ar">
+<title>SportsCenter</title>
+<desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20260226220000 +0000" stop="20260226223000 +0000" channel="ESPN 2.ar">
+<title>UEFA Champions League Highlights</title>
+<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
+</programme>
+<programme start="20260226223000 +0000" stop="20260226230000 +0000" channel="ESPN 2.ar">
+<title>UEFA Champions League Highlights</title>
+<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
+</programme>
+<programme start="20260226230000 +0000" stop="20260226233000 +0000" channel="ESPN 2.ar">
+<title>ATP World Tour Weekly</title>
+<desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
+</programme>
+<programme start="20260226233000 +0000" stop="20260227020000 +0000" channel="ESPN 2.ar">
+<title>SportsCenter</title>
+<desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20260227020000 +0000" stop="20260227030000 +0000" channel="ESPN 2.ar">
+<title>UEFA Europa League and UEFA Conference League</title>
+<desc>Un análisis completo con los momentos destacados de los últimos partidos de la UEFA Europa League y la UEFA Conference League.</desc>
+</programme>
+<programme start="20260227030000 +0000" stop="20260227040000 +0000" channel="ESPN 2.ar">
+<title>ESPN Compact : UEFA Europa League: Stuttgart vs. Celtic</title>
+<sub-title>UEFA Europa League: Stuttgart vs. Celtic</sub-title>
+<desc>Los momentos más destacados del partido de vuelta de la UEFA Europa League 2025-26. Encuentro entre Stuttgart y Celtic. Disputado el 26 de febrero del 2026.</desc>
+<episode-num system="xmltv_ns">.67.</episode-num>
+</programme>
+<programme start="20260227090000 +0000" stop="20260227100000 +0000" channel="ESPN 2.ar">
+<title>ESPN Compact : UEFA Europa League: Stuttgart vs. Celtic</title>
+<sub-title>UEFA Europa League: Stuttgart vs. Celtic</sub-title>
+<desc>Los momentos más destacados del partido de vuelta de la UEFA Europa League 2025-26. Encuentro entre Stuttgart y Celtic. Disputado el 26 de febrero del 2026.</desc>
+<episode-num system="xmltv_ns">.67.</episode-num>
+</programme>
+<programme start="20260227170000 +0000" stop="20260227173000 +0000" channel="ESPN 2.ar">
+<title>Inside Serie A</title>
+<desc>Un repaso a las mejores previas y a todo el contenido de la Serie A de Italia.</desc>
+</programme>
+<programme start="20260227173000 +0000" stop="20260227183000 +0000" channel="ESPN 2.ar">
+<title>El Show de la Formula 1</title>
+<desc>Repaso de los acontecimientos más recientes de la Formula 1 antes y/o despues de cada carrera con entrevistas a los pilotos y mensajes de correo electronico enviado por televidentes.</desc>
+</programme>
+<programme start="20260227183000 +0000" stop="20260227204500 +0000" channel="ESPN 2.ar">
+<title>Fútbol Ligue 1 : RC Strasbourg Alsace vs. RC Lens</title>
+<sub-title>RC Strasbourg Alsace vs. RC Lens</sub-title>
+<desc>Jornada 24 de la Ligue 1, 2025-2026. Strasbourg se enfrenta al sublíder de la tabla, Lens. Desde el Stade de la Meinau, en Strasbourg.</desc>
+</programme>
+<programme start="20260227204500 +0000" stop="20260227223000 +0000" channel="ESPN 2.ar">
+<title>SportsCenter</title>
+<desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20260227223000 +0000" stop="20260227230000 +0000" channel="ESPN 2.ar">
+<title>UEFA Champions League Weekly</title>
+<desc>Momentos destacados, entrevistas y toda la informacion de la jornada semanal de la UEFA Champions League.</desc>
+</programme>
+<programme start="20260227230000 +0000" stop="20260228013000 +0000" channel="ESPN 2.ar">
+<title>Baloncesto NBA : Cleveland Cavaliers vs. Detroit Pistons</title>
+<sub-title>Cleveland Cavaliers vs. Detroit Pistons</sub-title>
+<desc>Semana 19 de la NBA 2025-26. La serie entre Cleveland Cavaliers y Detroit Pistons se encuentra igualada, con una victoria para cada equipo. En el duelo más reciente, Donovan Mitchell lidero la ofensiva de los Cavaliers con 30 puntos.</desc>
+</programme>
+<programme start="20260228013000 +0000" stop="20260228040000 +0000" channel="ESPN 2.ar">
+<title>Baloncesto NBA : Denver Nuggets vs. Oklahoma City Thunder</title>
+<sub-title>Denver Nuggets vs. Oklahoma City Thunder</sub-title>
+<desc>Semana 19 de la temporada regular 2025-26 de la NBA. En el último enfrentamiento, Oklahoma City Thunder vencio 121-111 a Denver Nuggets. Tras 55 partidos, los Nuggets registraron una marca de 20-9 como visitantes.</desc>
+</programme>
+<programme start="20260228040000 +0000" stop="20260228043000 +0000" channel="ESPN 2.ar">
+<title>Premier League Preview</title>
+<desc>Programa previo a la jornada de la Premier League con toda la informacion y el análisis sobre los equipos.</desc>
+</programme>
+<programme start="20260228043000 +0000" stop="20260228050000 +0000" channel="ESPN 2.ar">
+<title>UEFA Champions League Weekly</title>
+<desc>Momentos destacados, entrevistas y toda la informacion de la jornada semanal de la UEFA Champions League.</desc>
+</programme>
+<programme start="20260228050000 +0000" stop="20260228060000 +0000" channel="ESPN 2.ar">
+<title>ESPN KnockOut</title>
+<desc>Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamerica en ESPN.</desc>
+</programme>
+<programme start="20260228074500 +0000" stop="20260228090000 +0000" channel="ESPN 2.ar">
+<title>ESPN F10</title>
+<desc>Los fines de semana se llenan de fútbol. Tras la finalizacion del partido de la fecha de la Copa de la Liga Profesional del fútbol argentino, llega el mejor análisis.</desc>
+</programme>
+<programme start="20260228090000 +0000" stop="20260228094500 +0000" channel="ESPN 2.ar">
+<title>ESPN 2 Argentina</title>
+<desc>Programacion por anunciarse.</desc>
+</programme>
+<programme start="20260226100000 +0000" stop="20260226110000 +0000" channel="ESPN 3.ar">
+<title>ESPN Compact : UEFA Champions League: Paris Saint-Germain vs. AS Monaco</title>
+<sub-title>UEFA Champions League: Paris Saint-Germain vs. AS Monaco</sub-title>
+<desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Champions League 2025-26. Paris Saint-Germain se enfrenta a AS Monaco. Desde el Parc des Princes, en París. Disputado el 25 de febrero de 2026.</desc>
+<episode-num system="xmltv_ns">.65.</episode-num>
+</programme>
+<programme start="20260226143000 +0000" stop="20260226150000 +0000" channel="ESPN 3.ar">
+<title>ATP World Tour Weekly</title>
+<desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
+</programme>
+<programme start="20260226173000 +0000" stop="20260226194000 +0000" channel="ESPN 3.ar">
+<title>Fútbol UEFA Europa League : VfB Stuttgart vs. Celtic</title>
+<sub-title>VfB Stuttgart vs. Celtic</sub-title>
+<desc>Accion de la vuelta de playoffs de la UEFA Europa League 2025-26. Se enfrentan VfB Stuttgart contra Celtic en el MHPArena de Stuttgart.</desc>
+</programme>
+<programme start="20260226194000 +0000" stop="20260226215500 +0000" channel="ESPN 3.ar">
+<title>Fútbol UEFA Europa League : RC Celta vs. PAOK</title>
+<sub-title>RC Celta vs. PAOK</sub-title>
+<desc>Partido de vuelta de playoffs de la UEFA Europa League 2025-26. Celta recibe a PAOK en el Estadio de Balaídos, en Vigo.</desc>
+</programme>
+<programme start="20260226215500 +0000" stop="20260226225800 +0000" channel="ESPN 3.ar">
+<title>ESPN Compact : UEFA Champions League: Paris Saint-Germain vs. AS Monaco</title>
+<sub-title>UEFA Champions League: Paris Saint-Germain vs. AS Monaco</sub-title>
+<desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Champions League 2025-26. Paris Saint-Germain se enfrenta a AS Monaco. Desde el Parc des Princes, en París. Disputado el 25 de febrero de 2026.</desc>
+<episode-num system="xmltv_ns">.65.</episode-num>
+</programme>
+<programme start="20260226225800 +0000" stop="20260227000000 +0000" channel="ESPN 3.ar">
+<title>El Show de la Formula 1</title>
+<desc>Repaso de los acontecimientos más recientes de la Formula 1 antes y/o despues de cada carrera con entrevistas a los pilotos y mensajes de correo electronico enviado por televidentes.</desc>
+</programme>
+<programme start="20260227000000 +0000" stop="20260227020000 +0000" channel="ESPN 3.ar">
+<title>Fútbol UEFA Europa League : Nottingham Forest vs. Fenerbahçe</title>
+<sub-title>Nottingham Forest vs. Fenerbahçe</sub-title>
+<desc>Eliminatoria, partido de vuelta de la UEFA Europa League 2025-26. Nottingham Forest (Inglaterra) recibe a Fenerbahçe (Turquía). Desde el City Ground, en Nottingham.</desc>
+</programme>
+<programme start="20260227020000 +0000" stop="20260227030000 +0000" channel="ESPN 3.ar">
+<title>PGA Tour Highlights : The Genesis Invitational 2022</title>
+<sub-title>The Genesis Invitational 2022</sub-title>
+<desc>Desde el Riviera Country Club, California, repaso de todo lo que fue un nuevo evento del PGA Tour y el triunfo del chileno Joaquín Niemann logrando así su segundo título en el Tour. Highlights, entrevistas y mucho más.</desc>
+<episode-num system="xmltv_ns">.18.</episode-num>
+</programme>
+<programme start="20260227043000 +0000" stop="20260227050000 +0000" channel="ESPN 3.ar">
+<title>ATP World Tour Weekly</title>
+<desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
+</programme>
+<programme start="20260227070000 +0000" stop="20260227090000 +0000" channel="ESPN 3.ar">
+<title>Rugby Seis Naciones : Francia vs. Italia</title>
+<sub-title>Francia vs. Italia</sub-title>
+<desc>Los mejores equipos de rugby de Europa compiten por el título del Seis Naciones.</desc>
+</programme>
+<programme start="20260227090000 +0000" stop="20260227100000 +0000" channel="ESPN 3.ar">
+<title>UEFA Europa League and UEFA Conference League</title>
+<desc>Un análisis completo con los momentos destacados de los últimos partidos de la UEFA Europa League y la UEFA Conference League.</desc>
+</programme>
+<programme start="20260227103000 +0000" stop="20260227110000 +0000" channel="ESPN 3.ar">
+<title>ATP World Tour Weekly</title>
+<desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
+</programme>
+<programme start="20260227123000 +0000" stop="20260227130000 +0000" channel="ESPN 3.ar">
+<title>UEFA Champions League Highlights</title>
+<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
+</programme>
+<programme start="20260227163000 +0000" stop="20260227182500 +0000" channel="ESPN 3.ar">
+<title>Fútbol UEFA Europa League : Nottingham Forest vs. Fenerbahçe</title>
+<sub-title>Nottingham Forest vs. Fenerbahçe</sub-title>
+<desc>Eliminatoria, partido de vuelta de la UEFA Europa League 2025-26. Nottingham Forest (Inglaterra) recibe a Fenerbahçe (Turquía). Desde el City Ground, en Nottingham.</desc>
+</programme>
+<programme start="20260227182500 +0000" stop="20260227185200 +0000" channel="ESPN 3.ar">
+<title>ATP World Tour Weekly</title>
+<desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
+</programme>
+<programme start="20260227185200 +0000" stop="20260227192000 +0000" channel="ESPN 3.ar">
+<title>Bundesliga Preview Show</title>
+<desc>Programa de especialistas dedicados a analizar como se presentan las fechas de la Bundesliga y sus equipos.</desc>
+</programme>
+<programme start="20260227192000 +0000" stop="20260227212500 +0000" channel="ESPN 3.ar">
+<title>Fútbol Bundesliga : FC Augsburg vs. Koln</title>
+<sub-title>FC Augsburg vs. Koln</sub-title>
+<desc>Accion de la jornada 24 de la Bundesliga 2025-26. Augsburg busca su tercera victoria al hilo y Koln romper su racha de tres partidos sin ganar.</desc>
+</programme>
+<programme start="20260227212500 +0000" stop="20260227215700 +0000" channel="ESPN 3.ar">
+<title>Accion de la NBA</title>
+<desc>Programa semanal con reportajes, entrevistas y toda la informacion de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.</desc>
+</programme>
+<programme start="20260227215700 +0000" stop="20260227230000 +0000" channel="ESPN 3.ar">
+<title>ESPN Compact : Recopa Sudamericana: Flamengo vs. Lanús</title>
+<sub-title>Recopa Sudamericana: Flamengo vs. Lanús</sub-title>
+<desc>Los momentos más destacados de la final de vuelta de la Recopa Sudamericana 2026 entre Flamengo y Lanús. Desde el Estadio de Maracaná, en Río de Janeiro. Disputado el 26 de febrero de 2026.</desc>
+<episode-num system="xmltv_ns">.69.</episode-num>
+</programme>
+<programme start="20260227230000 +0000" stop="20260228010000 +0000" channel="ESPN 3.ar">
+<title>Súper Rugby Americas : Peñarol Rugby vs. Tarucas</title>
+<sub-title>Peñarol Rugby vs. Tarucas</sub-title>
+<desc>Cobertura de la fecha 2 del Súper Rugby Americas 2026. Peñarol Rugby se enfrenta a Tarucas. Desde el Estadio Charrúa, en Montevideo, Uruguay.</desc>
+</programme>
+<programme start="20260228010000 +0000" stop="20260228020000 +0000" channel="ESPN 3.ar">
+<title>ESPN KnockOut</title>
+<desc>Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamerica en ESPN.</desc>
+</programme>
+<programme start="20260228050000 +0000" stop="20260228060000 +0000" channel="ESPN 3.ar">
+<title>El Show de la Formula 1</title>
+<desc>Repaso de los acontecimientos más recientes de la Formula 1 antes y/o despues de cada carrera con entrevistas a los pilotos y mensajes de correo electronico enviado por televidentes.</desc>
+</programme>
+<programme start="20260228063000 +0000" stop="20260228070000 +0000" channel="ESPN 3.ar">
+<title>Premier League Preview</title>
+<desc>Programa previo a la jornada de la Premier League con toda la informacion y el análisis sobre los equipos.</desc>
+</programme>
+<programme start="20260228093000 +0000" stop="20260228100000 +0000" channel="ESPN 3.ar">
+<title>UEFA Champions League Weekly</title>
+<desc>Momentos destacados, entrevistas y toda la informacion de la jornada semanal de la UEFA Champions League.</desc>
+</programme>
+<programme start="20260226090000 +0000" stop="20260226110000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : Barracas Central vs. Tigre</title>
+<sub-title>Barracas Central vs. Tigre</sub-title>
+<desc>Accion de la Zona B, fecha 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Claudio "Chiqui" Tapia. Los Camioneros quieren evitar una racha de derrotas consecutivas, mientras que los Azules del Norte están cerca de tomar el liderato.</desc>
+</programme>
+<programme start="20260226110000 +0000" stop="20260226130000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : Gimnasia (LP) vs. Rosario Central</title>
+<sub-title>Gimnasia (LP) vs. Rosario Central</sub-title>
+<desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Desde el Juan Carmelo Zerillo, en La Plata. El Lobo está cerca de tomar la tercera posicion de la Zona B, mientras que Los Canallas dos lugares atrás; la diferencia es de 2 puntos.</desc>
+</programme>
+<programme start="20260226130000 +0000" stop="20260226150000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : Velez Sarsfield vs. Deportivo Riestra</title>
+<sub-title>Velez Sarsfield vs. Deportivo Riestra</sub-title>
+<desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Jose Amalfitani, en Buenos Aires. El Fortín quiere mantener el liderato de la Zona A con un triunfo sobre los Blanquinegros que, no han ganado en esta temporada.</desc>
+</programme>
+<programme start="20260226150000 +0000" stop="20260226170000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : San Lorenzo vs. Instituto</title>
+<sub-title>San Lorenzo vs. Instituto</sub-title>
+<desc>Jornada 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Pedro Bidegain, en Buenos Aires. La Gloria busca meterse entre los mejores ocho equipos de la Zona A si logra vencer a El Ciclon en casa.</desc>
+</programme>
+<programme start="20260226170000 +0000" stop="20260226180000 +0000" channel="ESPN PREMIUM.ar">
+<title>Review : LPF Torneo Apertura 2026: Boca Juniors vs. Racing Club</title>
+<sub-title>LPF Torneo Apertura 2026: Boca Juniors vs. Racing Club</sub-title>
+<desc>Los momentos más destacados del Clásico Boca-Racing en la fecha 6 del Torneo Apertura 2026 de la LPF. Desde el estadio Alberto J. Armando, en Buenos Aires. Disputado el 20 de febrero de 2026.</desc>
+</programme>
+<programme start="20260226200000 +0000" stop="20260226221500 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : Racing Club vs. Independiente Rivadavia</title>
+<sub-title>Racing Club vs. Independiente Rivadavia</sub-title>
+<desc>Fecha 7 de la Zona B del Torneo Apertura 2026 de la LPF. Desde el estadio Presidente Peron, en Avellaneda. La Academia busca meterse en la zona de clasificacion, pero necesita vencer al Azul, líder del grupo.</desc>
+</programme>
+<programme start="20260226221500 +0000" stop="20260227002500 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : Estudiantes (LP) vs. Huracán</title>
+<sub-title>Estudiantes (LP) vs. Huracán</sub-title>
+<desc>Accion del partido de la jornada 2 del Torneo Clausura 2025 de la Liga Profesional de Fútbol. Estudiantes recibe a Huracán.</desc>
+</programme>
+<programme start="20260227002500 +0000" stop="20260227023000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : Newells vs. Estudiantes (LP)</title>
+<sub-title>Newells vs. Estudiantes (LP)</sub-title>
+<desc>Jornada 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Marcelo Bielsa, en Rosario. La Lepra busca salir del fondo de la Zona A en su duelo ante El Pincha que, está muy cerca de tomar liderato.</desc>
+</programme>
+<programme start="20260227023000 +0000" stop="20260227043000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : Sarmiento (J) vs. Union (SF)</title>
+<sub-title>Sarmiento (J) vs. Union (SF)</sub-title>
+<desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Sarmiento de Junín se enfrenta al Union de Santa Fe. Desde el estadio Eva Peron, en Junín, Buenos Aires.</desc>
+</programme>
+<programme start="20260227043000 +0000" stop="20260227063000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : Estudiantes (LP) vs. Huracán</title>
+<sub-title>Estudiantes (LP) vs. Huracán</sub-title>
+<desc>Accion del partido de la jornada 2 del Torneo Clausura 2025 de la Liga Profesional de Fútbol. Estudiantes recibe a Huracán.</desc>
+</programme>
+<programme start="20260227063000 +0000" stop="20260227083000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : River Plate vs. Banfield</title>
+<sub-title>River Plate vs. Banfield</sub-title>
+<desc>Fecha 7 de la Zona B del Torneo Apertura 2026 en el Estadio Monumental. El Millonario busca terminar la mala racha de derrotas consecutivas ante El Taladro, que se encuentra en la octava posicion. Banfield tiene ventaja por diferencia de goles.</desc>
+</programme>
+<programme start="20260227083000 +0000" stop="20260227103000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : Racing Club vs. Independiente Rivadavia</title>
+<sub-title>Racing Club vs. Independiente Rivadavia</sub-title>
+<desc>Fecha 7 de la Zona B del Torneo Apertura 2026 de la LPF. Desde el estadio Presidente Peron, en Avellaneda. La Academia busca meterse en la zona de clasificacion, pero necesita vencer al Azul, líder del grupo.</desc>
+</programme>
+<programme start="20260227103000 +0000" stop="20260227123000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : Sarmiento (J) vs. Union (SF)</title>
+<sub-title>Sarmiento (J) vs. Union (SF)</sub-title>
+<desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Sarmiento de Junín se enfrenta al Union de Santa Fe. Desde el estadio Eva Peron, en Junín, Buenos Aires.</desc>
+</programme>
+<programme start="20260227123000 +0000" stop="20260227130000 +0000" channel="ESPN PREMIUM.ar">
+<title>Review : LPF Torneo Apertura: River Plate vs. Banfield</title>
+<sub-title>LPF Torneo Apertura: River Plate vs. Banfield</sub-title>
+<desc>Los momentos más destacados de la fecha 7 del Torneo Apertura 2026 de la LPF. River Plate recibe a Banfield. Desde el Estadio Monumental, en Buenos Aires. Disputado el 26 de febrero de 2026.</desc>
+</programme>
+<programme start="20260227130000 +0000" stop="20260227150000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : Estudiantes (LP) vs. Huracán</title>
+<sub-title>Estudiantes (LP) vs. Huracán</sub-title>
+<desc>Accion del partido de la jornada 2 del Torneo Clausura 2025 de la Liga Profesional de Fútbol. Estudiantes recibe a Huracán.</desc>
+</programme>
+<programme start="20260227150000 +0000" stop="20260227170000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : Racing Club vs. Independiente Rivadavia</title>
+<sub-title>Racing Club vs. Independiente Rivadavia</sub-title>
+<desc>Fecha 7 de la Zona B del Torneo Apertura 2026 de la LPF. Desde el estadio Presidente Peron, en Avellaneda. La Academia busca meterse en la zona de clasificacion, pero necesita vencer al Azul, líder del grupo.</desc>
+</programme>
+<programme start="20260227170000 +0000" stop="20260227190000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : River Plate vs. Banfield</title>
+<sub-title>River Plate vs. Banfield</sub-title>
+<desc>Fecha 7 de la Zona B del Torneo Apertura 2026 en el Estadio Monumental. El Millonario busca terminar la mala racha de derrotas consecutivas ante El Taladro, que se encuentra en la octava posicion. Banfield tiene ventaja por diferencia de goles.</desc>
+</programme>
+<programme start="20260227190000 +0000" stop="20260227210000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : Gimnasia (LP) vs. Rosario Central</title>
+<sub-title>Gimnasia (LP) vs. Rosario Central</sub-title>
+<desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Desde el Juan Carmelo Zerillo, en La Plata. El Lobo está cerca de tomar la tercera posicion de la Zona B, mientras que Los Canallas dos lugares atrás; la diferencia es de 2 puntos.</desc>
+</programme>
+<programme start="20260227210000 +0000" stop="20260227230000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : River Plate vs. Banfield</title>
+<sub-title>River Plate vs. Banfield</sub-title>
+<desc>Fecha 7 de la Zona B del Torneo Apertura 2026 en el Estadio Monumental. El Millonario busca terminar la mala racha de derrotas consecutivas ante El Taladro, que se encuentra en la octava posicion. Banfield tiene ventaja por diferencia de goles.</desc>
+</programme>
+<programme start="20260227230000 +0000" stop="20260228010000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : Newells vs. Estudiantes (LP)</title>
+<sub-title>Newells vs. Estudiantes (LP)</sub-title>
+<desc>Jornada 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Marcelo Bielsa, en Rosario. La Lepra busca salir del fondo de la Zona A en su duelo ante El Pincha que, está muy cerca de tomar liderato.</desc>
+</programme>
+<programme start="20260228010000 +0000" stop="20260228030000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : Barracas Central vs. Tigre</title>
+<sub-title>Barracas Central vs. Tigre</sub-title>
+<desc>Accion de la Zona B, fecha 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Claudio "Chiqui" Tapia. Los Camioneros quieren evitar una racha de derrotas consecutivas, mientras que los Azules del Norte están cerca de tomar el liderato.</desc>
+</programme>
+<programme start="20260228030000 +0000" stop="20260228050000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : San Lorenzo vs. Instituto</title>
+<sub-title>San Lorenzo vs. Instituto</sub-title>
+<desc>Jornada 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Pedro Bidegain, en Buenos Aires. La Gloria busca meterse entre los mejores ocho equipos de la Zona A si logra vencer a El Ciclon en casa.</desc>
+</programme>
+<programme start="20260228050000 +0000" stop="20260228070000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : Platense vs. Defensa y Justicia</title>
+<sub-title>Platense vs. Defensa y Justicia</sub-title>
+<desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Desde el Estadio Ciudad de Vicente Lopez, en Buenos Aires. El tercer lugar de la Zona A está en juego donde El Calamar tiene un punto de ventaja sobre El Halcon.</desc>
+</programme>
+<programme start="20260228070000 +0000" stop="20260228090000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : Velez Sarsfield vs. Deportivo Riestra</title>
+<sub-title>Velez Sarsfield vs. Deportivo Riestra</sub-title>
+<desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Jose Amalfitani, en Buenos Aires. El Fortín quiere mantener el liderato de la Zona A con un triunfo sobre los Blanquinegros que, no han ganado en esta temporada.</desc>
+</programme>
+<programme start="20260228090000 +0000" stop="20260228110000 +0000" channel="ESPN PREMIUM.ar">
+<title>Fútbol Argentino Primera Division : Estudiantes (LP) vs. Huracán</title>
+<sub-title>Estudiantes (LP) vs. Huracán</sub-title>
+<desc>Accion del partido de la jornada 2 del Torneo Clausura 2025 de la Liga Profesional de Fútbol. Estudiantes recibe a Huracán.</desc>
+</programme>
 <programme start="20260226090000 +0000" stop="20260226100000 +0000" channel="ESPN 3.ar">
 <title>ESPN Compact : UEFA Champions League: Paris Saint-Germain vs. AS Monaco</title>
 <sub-title>UEFA Champions League: Paris Saint-Germain vs. AS Monaco</sub-title>
@@ -41385,37 +41737,13 @@
 <sub-title>Nottingham Forest vs. Fenerbahçe</sub-title>
 <desc>Eliminatoria, partido de vuelta de la UEFA Europa League 2025-26. Nottingham Forest (Inglaterra) recibe a Fenerbahçe (Turquía). Desde el City Ground, en Nottingham.</desc>
 </programme>
-<programme start="20260227010000 +0000" stop="20260227020000 +0000" channel="ESPN 3.ar">
-<title>PGA Tour Highlights : The Genesis Invitational 2022</title>
-<sub-title>The Genesis Invitational 2022</sub-title>
-<desc>Desde el Riviera Country Club, California, repaso de todo lo que fue un nuevo evento del PGA Tour y el triunfo del chileno Joaquín Niemann logrando así su segundo título en el Tour. Highlights, entrevistas y mucho más.</desc>
-<episode-num system="xmltv_ns">.18.</episode-num>
-</programme>
 <programme start="20260227033000 +0000" stop="20260227040000 +0000" channel="ESPN 3.ar">
 <title>ATP World Tour Weekly</title>
 <desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
 </programme>
-<programme start="20260227060000 +0000" stop="20260227080000 +0000" channel="ESPN 3.ar">
-<title>Rugby Seis Naciones : Francia vs. Italia</title>
-<sub-title>Francia vs. Italia</sub-title>
-<desc>Los mejores equipos de rugby de Europa compiten por el título del Seis Naciones.</desc>
-</programme>
-<programme start="20260227080000 +0000" stop="20260227090000 +0000" channel="ESPN 3.ar">
-<title>UEFA Europa League and UEFA Conference League</title>
-<desc>Un análisis completo con los momentos destacados de los últimos partidos de la UEFA Europa League y la UEFA Conference League.</desc>
-</programme>
 <programme start="20260227093000 +0000" stop="20260227100000 +0000" channel="ESPN 3.ar">
 <title>ATP World Tour Weekly</title>
 <desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
-</programme>
-<programme start="20260227113000 +0000" stop="20260227120000 +0000" channel="ESPN 3.ar">
-<title>UEFA Champions League Highlights</title>
-<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
-</programme>
-<programme start="20260227153000 +0000" stop="20260227172500 +0000" channel="ESPN 3.ar">
-<title>Fútbol UEFA Europa League : Nottingham Forest vs. Fenerbahçe</title>
-<sub-title>Nottingham Forest vs. Fenerbahçe</sub-title>
-<desc>Eliminatoria, partido de vuelta de la UEFA Europa League 2025-26. Nottingham Forest (Inglaterra) recibe a Fenerbahçe (Turquía). Desde el City Ground, en Nottingham.</desc>
 </programme>
 <programme start="20260227172500 +0000" stop="20260227175200 +0000" channel="ESPN 3.ar">
 <title>ATP World Tour Weekly</title>
@@ -41445,10 +41773,6 @@
 <sub-title>Peñarol Rugby vs. Tarucas</sub-title>
 <desc>Cobertura de la fecha 2 del Súper Rugby Americas 2026. Peñarol Rugby se enfrenta a Tarucas. Desde el Estadio Charrúa, en Montevideo, Uruguay.</desc>
 </programme>
-<programme start="20260228000000 +0000" stop="20260228010000 +0000" channel="ESPN 3.ar">
-<title>ESPN KnockOut</title>
-<desc>Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamerica en ESPN.</desc>
-</programme>
 <programme start="20260228040000 +0000" stop="20260228050000 +0000" channel="ESPN 3.ar">
 <title>El Show de la Formula 1</title>
 <desc>Repaso de los acontecimientos más recientes de la Formula 1 antes y/o despues de cada carrera con entrevistas a los pilotos y mensajes de correo electronico enviado por televidentes.</desc>
@@ -41456,135 +41780,6 @@
 <programme start="20260228053000 +0000" stop="20260228060000 +0000" channel="ESPN 3.ar">
 <title>Premier League Preview</title>
 <desc>Programa previo a la jornada de la Premier League con toda la informacion y el análisis sobre los equipos.</desc>
-</programme>
-<programme start="20260228083000 +0000" stop="20260228090000 +0000" channel="ESPN 3.ar">
-<title>UEFA Champions League Weekly</title>
-<desc>Momentos destacados, entrevistas y toda la informacion de la jornada semanal de la UEFA Champions League.</desc>
-</programme>
-<programme start="20260226100000 +0000" stop="20260226120000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Barracas Central vs. Tigre</title>
-<sub-title>Barracas Central vs. Tigre</sub-title>
-<desc>Accion de la Zona B, fecha 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Claudio "Chiqui" Tapia. Los Camioneros quieren evitar una racha de derrotas consecutivas, mientras que los Azules del Norte están cerca de tomar el liderato.</desc>
-</programme>
-<programme start="20260226120000 +0000" stop="20260226140000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Gimnasia (LP) vs. Rosario Central</title>
-<sub-title>Gimnasia (LP) vs. Rosario Central</sub-title>
-<desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Desde el Juan Carmelo Zerillo, en La Plata. El Lobo está cerca de tomar la tercera posicion de la Zona B, mientras que Los Canallas dos lugares atrás; la diferencia es de 2 puntos.</desc>
-</programme>
-<programme start="20260226140000 +0000" stop="20260226160000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Velez Sarsfield vs. Deportivo Riestra</title>
-<sub-title>Velez Sarsfield vs. Deportivo Riestra</sub-title>
-<desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Jose Amalfitani, en Buenos Aires. El Fortín quiere mantener el liderato de la Zona A con un triunfo sobre los Blanquinegros que, no han ganado en esta temporada.</desc>
-</programme>
-<programme start="20260226160000 +0000" stop="20260226180000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : San Lorenzo vs. Instituto</title>
-<sub-title>San Lorenzo vs. Instituto</sub-title>
-<desc>Jornada 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Pedro Bidegain, en Buenos Aires. La Gloria busca meterse entre los mejores ocho equipos de la Zona A si logra vencer a El Ciclon en casa.</desc>
-</programme>
-<programme start="20260226190000 +0000" stop="20260226210000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Newells vs. Estudiantes (LP)</title>
-<sub-title>Newells vs. Estudiantes (LP)</sub-title>
-<desc>Jornada 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Marcelo Bielsa, en Rosario. La Lepra busca salir del fondo de la Zona A en su duelo ante El Pincha que, está muy cerca de tomar liderato.</desc>
-</programme>
-<programme start="20260226210000 +0000" stop="20260226231500 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Racing Club vs. Independiente Rivadavia</title>
-<sub-title>Racing Club vs. Independiente Rivadavia</sub-title>
-<desc>Fecha 7 de la Zona B del Torneo Apertura 2026 de la LPF. Desde el estadio Presidente Peron, en Avellaneda. La Academia busca meterse en la zona de clasificacion, pero necesita vencer al Azul, líder del grupo.</desc>
-</programme>
-<programme start="20260226231500 +0000" stop="20260227012500 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Estudiantes (LP) vs. Huracán</title>
-<sub-title>Estudiantes (LP) vs. Huracán</sub-title>
-<desc>Accion del partido de la jornada 2 del Torneo Clausura 2025 de la Liga Profesional de Fútbol. Estudiantes recibe a Huracán.</desc>
-</programme>
-<programme start="20260227012500 +0000" stop="20260227033000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Newells vs. Estudiantes (LP)</title>
-<sub-title>Newells vs. Estudiantes (LP)</sub-title>
-<desc>Jornada 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Marcelo Bielsa, en Rosario. La Lepra busca salir del fondo de la Zona A en su duelo ante El Pincha que, está muy cerca de tomar liderato.</desc>
-</programme>
-<programme start="20260227033000 +0000" stop="20260227053000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Sarmiento (J) vs. Union (SF)</title>
-<sub-title>Sarmiento (J) vs. Union (SF)</sub-title>
-<desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Sarmiento de Junín se enfrenta al Union de Santa Fe. Desde el estadio Eva Peron, en Junín, Buenos Aires.</desc>
-</programme>
-<programme start="20260227053000 +0000" stop="20260227073000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Estudiantes (LP) vs. Huracán</title>
-<sub-title>Estudiantes (LP) vs. Huracán</sub-title>
-<desc>Accion del partido de la jornada 2 del Torneo Clausura 2025 de la Liga Profesional de Fútbol. Estudiantes recibe a Huracán.</desc>
-</programme>
-<programme start="20260227073000 +0000" stop="20260227093000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : River Plate vs. Banfield</title>
-<sub-title>River Plate vs. Banfield</sub-title>
-<desc>Fecha 7 de la Zona B del Torneo Apertura 2026 en el Estadio Monumental. El Millonario busca terminar la mala racha de derrotas consecutivas ante El Taladro, que se encuentra en la octava posicion. Banfield tiene ventaja por diferencia de goles.</desc>
-</programme>
-<programme start="20260227093000 +0000" stop="20260227113000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Racing Club vs. Independiente Rivadavia</title>
-<sub-title>Racing Club vs. Independiente Rivadavia</sub-title>
-<desc>Fecha 7 de la Zona B del Torneo Apertura 2026 de la LPF. Desde el estadio Presidente Peron, en Avellaneda. La Academia busca meterse en la zona de clasificacion, pero necesita vencer al Azul, líder del grupo.</desc>
-</programme>
-<programme start="20260227113000 +0000" stop="20260227133000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Sarmiento (J) vs. Union (SF)</title>
-<sub-title>Sarmiento (J) vs. Union (SF)</sub-title>
-<desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Sarmiento de Junín se enfrenta al Union de Santa Fe. Desde el estadio Eva Peron, en Junín, Buenos Aires.</desc>
-</programme>
-<programme start="20260227133000 +0000" stop="20260227140000 +0000" channel="ESPN PREMIUM.ar">
-<title>Review : LPF Torneo Apertura: River Plate vs. Banfield</title>
-<sub-title>LPF Torneo Apertura: River Plate vs. Banfield</sub-title>
-<desc>Los momentos más destacados de la fecha 7 del Torneo Apertura 2026 de la LPF. River Plate recibe a Banfield. Desde el Estadio Monumental, en Buenos Aires. Disputado el 26 de febrero de 2026.</desc>
-</programme>
-<programme start="20260227140000 +0000" stop="20260227160000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Estudiantes (LP) vs. Huracán</title>
-<sub-title>Estudiantes (LP) vs. Huracán</sub-title>
-<desc>Accion del partido de la jornada 2 del Torneo Clausura 2025 de la Liga Profesional de Fútbol. Estudiantes recibe a Huracán.</desc>
-</programme>
-<programme start="20260227160000 +0000" stop="20260227180000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Racing Club vs. Independiente Rivadavia</title>
-<sub-title>Racing Club vs. Independiente Rivadavia</sub-title>
-<desc>Fecha 7 de la Zona B del Torneo Apertura 2026 de la LPF. Desde el estadio Presidente Peron, en Avellaneda. La Academia busca meterse en la zona de clasificacion, pero necesita vencer al Azul, líder del grupo.</desc>
-</programme>
-<programme start="20260227180000 +0000" stop="20260227200000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : River Plate vs. Banfield</title>
-<sub-title>River Plate vs. Banfield</sub-title>
-<desc>Fecha 7 de la Zona B del Torneo Apertura 2026 en el Estadio Monumental. El Millonario busca terminar la mala racha de derrotas consecutivas ante El Taladro, que se encuentra en la octava posicion. Banfield tiene ventaja por diferencia de goles.</desc>
-</programme>
-<programme start="20260227200000 +0000" stop="20260227220000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Gimnasia (LP) vs. Rosario Central</title>
-<sub-title>Gimnasia (LP) vs. Rosario Central</sub-title>
-<desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Desde el Juan Carmelo Zerillo, en La Plata. El Lobo está cerca de tomar la tercera posicion de la Zona B, mientras que Los Canallas dos lugares atrás; la diferencia es de 2 puntos.</desc>
-</programme>
-<programme start="20260227220000 +0000" stop="20260228000000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : River Plate vs. Banfield</title>
-<sub-title>River Plate vs. Banfield</sub-title>
-<desc>Fecha 7 de la Zona B del Torneo Apertura 2026 en el Estadio Monumental. El Millonario busca terminar la mala racha de derrotas consecutivas ante El Taladro, que se encuentra en la octava posicion. Banfield tiene ventaja por diferencia de goles.</desc>
-</programme>
-<programme start="20260228000000 +0000" stop="20260228020000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Newells vs. Estudiantes (LP)</title>
-<sub-title>Newells vs. Estudiantes (LP)</sub-title>
-<desc>Jornada 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Marcelo Bielsa, en Rosario. La Lepra busca salir del fondo de la Zona A en su duelo ante El Pincha que, está muy cerca de tomar liderato.</desc>
-</programme>
-<programme start="20260228020000 +0000" stop="20260228040000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Barracas Central vs. Tigre</title>
-<sub-title>Barracas Central vs. Tigre</sub-title>
-<desc>Accion de la Zona B, fecha 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Claudio "Chiqui" Tapia. Los Camioneros quieren evitar una racha de derrotas consecutivas, mientras que los Azules del Norte están cerca de tomar el liderato.</desc>
-</programme>
-<programme start="20260228040000 +0000" stop="20260228060000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : San Lorenzo vs. Instituto</title>
-<sub-title>San Lorenzo vs. Instituto</sub-title>
-<desc>Jornada 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Pedro Bidegain, en Buenos Aires. La Gloria busca meterse entre los mejores ocho equipos de la Zona A si logra vencer a El Ciclon en casa.</desc>
-</programme>
-<programme start="20260228060000 +0000" stop="20260228080000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Platense vs. Defensa y Justicia</title>
-<sub-title>Platense vs. Defensa y Justicia</sub-title>
-<desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Desde el Estadio Ciudad de Vicente Lopez, en Buenos Aires. El tercer lugar de la Zona A está en juego donde El Calamar tiene un punto de ventaja sobre El Halcon.</desc>
-</programme>
-<programme start="20260228080000 +0000" stop="20260228100000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Velez Sarsfield vs. Deportivo Riestra</title>
-<sub-title>Velez Sarsfield vs. Deportivo Riestra</sub-title>
-<desc>Fecha 7 del Torneo Apertura 2026 de la LPF. Desde el estadio Jose Amalfitani, en Buenos Aires. El Fortín quiere mantener el liderato de la Zona A con un triunfo sobre los Blanquinegros que, no han ganado en esta temporada.</desc>
-</programme>
-<programme start="20260228100000 +0000" stop="20260228120000 +0000" channel="ESPN PREMIUM.ar">
-<title>Fútbol Argentino Primera Division : Estudiantes (LP) vs. Huracán</title>
-<sub-title>Estudiantes (LP) vs. Huracán</sub-title>
-<desc>Accion del partido de la jornada 2 del Torneo Clausura 2025 de la Liga Profesional de Fútbol. Estudiantes recibe a Huracán.</desc>
 </programme>
   <programme start="20260225103000 +0000" stop="20260225110000 +0000" channel="Univision Network HD">
     <title lang="es">La familia P. Luche</title>
@@ -43635,18 +43830,6 @@
 <title>UEFA Champions League Highlights</title>
 <desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
 </programme>
-<programme start="20260226170000 +0000" stop="20260226180000 +0000" channel="ESPN 2.ar">
-<title>ESPN Compact : UEFA Champions League: Real Madrid vs. SL Benfica</title>
-<sub-title>UEFA Champions League: Real Madrid vs. SL Benfica</sub-title>
-<desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Champions League 2025-26. Real Madrid se enfrenta a Benfica. Desde el estadio Santiago Bernabeu, en Madrid. Disputado el 25 de febrero de 2026.</desc>
-<episode-num system="xmltv_ns">.66.</episode-num>
-</programme>
-<programme start="20260226180000 +0000" stop="20260226190000 +0000" channel="ESPN 2.ar">
-<title>ESPN Compact : UEFA Champions League: Paris Saint-Germain vs. AS Monaco</title>
-<sub-title>UEFA Champions League: Paris Saint-Germain vs. AS Monaco</sub-title>
-<desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Champions League 2025-26. Paris Saint-Germain se enfrenta a AS Monaco. Desde el Parc des Princes, en París. Disputado el 25 de febrero de 2026.</desc>
-<episode-num system="xmltv_ns">.65.</episode-num>
-</programme>
 <programme start="20260226190000 +0000" stop="20260226193000 +0000" channel="ESPN 2.ar">
 <title>UEFA Champions League Highlights</title>
 <desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
@@ -43665,41 +43848,13 @@
 <title>SportsCenter</title>
 <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
 </programme>
-<programme start="20260227010000 +0000" stop="20260227013000 +0000" channel="ESPN 2.ar">
-<title>UEFA Champions League Highlights</title>
-<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
-</programme>
-<programme start="20260227013000 +0000" stop="20260227020000 +0000" channel="ESPN 2.ar">
-<title>UEFA Champions League Highlights</title>
-<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
-</programme>
 <programme start="20260227023000 +0000" stop="20260227050000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
 <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
 </programme>
-<programme start="20260227070000 +0000" stop="20260227080000 +0000" channel="ESPN 2.ar">
-<title>ESPN Compact : UEFA Europa League: Celta de Vigo vs. PAOK</title>
-<sub-title>UEFA Europa League: Celta de Vigo vs. PAOK</sub-title>
-<desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Europa League 2025-26. Celta de Vigo (España) se enfrenta a PAOK (Grecia).</desc>
-<episode-num system="xmltv_ns">.68.</episode-num>
-</programme>
-<programme start="20260227150000 +0000" stop="20260227160000 +0000" channel="ESPN 2.ar">
-<title>El Show de la Formula 1</title>
-<desc>Repaso de los acontecimientos más recientes de la Formula 1 antes y/o despues de cada carrera con entrevistas a los pilotos y mensajes de correo electronico enviado por televidentes.</desc>
-</programme>
-<programme start="20260227190000 +0000" stop="20260227200000 +0000" channel="ESPN 2.ar">
-<title>ESPN Compact : UEFA Europa League: Stuttgart vs. Celtic</title>
-<sub-title>UEFA Europa League: Stuttgart vs. Celtic</sub-title>
-<desc>Los momentos más destacados del partido de vuelta de la UEFA Europa League 2025-26. Encuentro entre Stuttgart y Celtic. Disputado el 26 de febrero del 2026.</desc>
-<episode-num system="xmltv_ns">.67.</episode-num>
-</programme>
 <programme start="20260227200000 +0000" stop="20260227203000 +0000" channel="ESPN 2.ar">
 <title>Inside Serie A</title>
 <desc>Un repaso a las mejores previas y a todo el contenido de la Serie A de Italia.</desc>
-</programme>
-<programme start="20260227203000 +0000" stop="20260227213000 +0000" channel="ESPN 2.ar">
-<title>El Show de la Formula 1</title>
-<desc>Repaso de los acontecimientos más recientes de la Formula 1 antes y/o despues de cada carrera con entrevistas a los pilotos y mensajes de correo electronico enviado por televidentes.</desc>
 </programme>
 <programme start="20260227213000 +0000" stop="20260227234500 +0000" channel="ESPN 2.ar">
 <title>Fútbol Ligue 1 : RC Strasbourg Alsace vs. RC Lens</title>
@@ -43715,17 +43870,9 @@
 <sub-title>Cleveland Cavaliers vs. Detroit Pistons</sub-title>
 <desc>Semana 19 de la NBA 2025-26. La serie entre Cleveland Cavaliers y Detroit Pistons se encuentra igualada, con una victoria para cada equipo. En el duelo más reciente, Donovan Mitchell lidero la ofensiva de los Cavaliers con 30 puntos.</desc>
 </programme>
-<programme start="20260228070000 +0000" stop="20260228073000 +0000" channel="ESPN 2.ar">
-<title>Premier League Preview</title>
-<desc>Programa previo a la jornada de la Premier League con toda la informacion y el análisis sobre los equipos.</desc>
-</programme>
 <programme start="20260228073000 +0000" stop="20260228080000 +0000" channel="ESPN 2.ar">
 <title>UEFA Champions League Weekly</title>
 <desc>Momentos destacados, entrevistas y toda la informacion de la jornada semanal de la UEFA Champions League.</desc>
-</programme>
-<programme start="20260228080000 +0000" stop="20260228090000 +0000" channel="ESPN 2.ar">
-<title>ESPN KnockOut</title>
-<desc>Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamerica en ESPN.</desc>
 </programme>
 <programme start="20260228093000 +0000" stop="20260228104500 +0000" channel="ESPN 2.ar">
 <title>Campeonato Mundial de MotoGP : Gran Premio de Tailandia: Carrera esprint</title>
@@ -43739,83 +43886,6 @@
 <programme start="20260228120000 +0000" stop="20260228124500 +0000" channel="ESPN 2.ar">
 <title>ESPN 2 Argentina</title>
 <desc>Programacion por anunciarse.</desc>
-</programme>
-<programme start="20260226153000 +0000" stop="20260226160000 +0000" channel="ESPN 3.ar">
-<title>ATP World Tour Weekly</title>
-<desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
-</programme>
-<programme start="20260226160000 +0000" stop="20260226183000 +0000" channel="ESPN 3.ar">
-<title>Baloncesto NBA : Boston Celtics vs. Denver Nuggets</title>
-<sub-title>Boston Celtics vs. Denver Nuggets</sub-title>
-<desc>Semana 19 de la temporada regular 2025-26 de la NBA. Boston Celtics intenta empatar la serie de visita en el Ball Arena. Tras 55 partidos, Denver Nuggets registro una marca de 15-11 ante equipos de la Conferencia Este.</desc>
-</programme>
-<programme start="20260226183000 +0000" stop="20260226204000 +0000" channel="ESPN 3.ar">
-<title>Fútbol UEFA Europa League : VfB Stuttgart vs. Celtic</title>
-<sub-title>VfB Stuttgart vs. Celtic</sub-title>
-<desc>Accion de la vuelta de playoffs de la UEFA Europa League 2025-26. Se enfrentan VfB Stuttgart contra Celtic en el MHPArena de Stuttgart.</desc>
-</programme>
-<programme start="20260226204000 +0000" stop="20260226225500 +0000" channel="ESPN 3.ar">
-<title>Fútbol UEFA Europa League : RC Celta vs. PAOK</title>
-<sub-title>RC Celta vs. PAOK</sub-title>
-<desc>Partido de vuelta de playoffs de la UEFA Europa League 2025-26. Celta recibe a PAOK en el Estadio de Balaídos, en Vigo.</desc>
-</programme>
-<programme start="20260226225500 +0000" stop="20260226235800 +0000" channel="ESPN 3.ar">
-<title>ESPN Compact : UEFA Champions League: Paris Saint-Germain vs. AS Monaco</title>
-<sub-title>UEFA Champions League: Paris Saint-Germain vs. AS Monaco</sub-title>
-<desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Champions League 2025-26. Paris Saint-Germain se enfrenta a AS Monaco. Desde el Parc des Princes, en París. Disputado el 25 de febrero de 2026.</desc>
-<episode-num system="xmltv_ns">.65.</episode-num>
-</programme>
-<programme start="20260226235800 +0000" stop="20260227010000 +0000" channel="ESPN 3.ar">
-<title>El Show de la Formula 1</title>
-<desc>Repaso de los acontecimientos más recientes de la Formula 1 antes y/o despues de cada carrera con entrevistas a los pilotos y mensajes de correo electronico enviado por televidentes.</desc>
-</programme>
-<programme start="20260227053000 +0000" stop="20260227060000 +0000" channel="ESPN 3.ar">
-<title>ATP World Tour Weekly</title>
-<desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
-</programme>
-<programme start="20260227150000 +0000" stop="20260227153000 +0000" channel="ESPN 3.ar">
-<title>Inside Serie A</title>
-<desc>Un repaso a las mejores previas y a todo el contenido de la Serie A de Italia.</desc>
-</programme>
-<programme start="20260227173000 +0000" stop="20260227192500 +0000" channel="ESPN 3.ar">
-<title>Fútbol UEFA Europa League : Nottingham Forest vs. Fenerbahçe</title>
-<sub-title>Nottingham Forest vs. Fenerbahçe</sub-title>
-<desc>Eliminatoria, partido de vuelta de la UEFA Europa League 2025-26. Nottingham Forest (Inglaterra) recibe a Fenerbahçe (Turquía). Desde el City Ground, en Nottingham.</desc>
-</programme>
-<programme start="20260227192500 +0000" stop="20260227195200 +0000" channel="ESPN 3.ar">
-<title>ATP World Tour Weekly</title>
-<desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
-</programme>
-<programme start="20260227195200 +0000" stop="20260227202000 +0000" channel="ESPN 3.ar">
-<title>Bundesliga Preview Show</title>
-<desc>Programa de especialistas dedicados a analizar como se presentan las fechas de la Bundesliga y sus equipos.</desc>
-</programme>
-<programme start="20260227202000 +0000" stop="20260227222500 +0000" channel="ESPN 3.ar">
-<title>Fútbol Bundesliga : FC Augsburg vs. Koln</title>
-<sub-title>FC Augsburg vs. Koln</sub-title>
-<desc>Accion de la jornada 24 de la Bundesliga 2025-26. Augsburg busca su tercera victoria al hilo y Koln romper su racha de tres partidos sin ganar.</desc>
-</programme>
-<programme start="20260227222500 +0000" stop="20260227225700 +0000" channel="ESPN 3.ar">
-<title>Accion de la NBA</title>
-<desc>Programa semanal con reportajes, entrevistas y toda la informacion de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.</desc>
-</programme>
-<programme start="20260227225700 +0000" stop="20260228000000 +0000" channel="ESPN 3.ar">
-<title>ESPN Compact : Recopa Sudamericana: Flamengo vs. Lanús</title>
-<sub-title>Recopa Sudamericana: Flamengo vs. Lanús</sub-title>
-<desc>Los momentos más destacados de la final de vuelta de la Recopa Sudamericana 2026 entre Flamengo y Lanús. Desde el Estadio de Maracaná, en Río de Janeiro. Disputado el 26 de febrero de 2026.</desc>
-<episode-num system="xmltv_ns">.69.</episode-num>
-</programme>
-<programme start="20260228030000 +0000" stop="20260228060000 +0000" channel="ESPN 3.ar">
-<title>ESPN KnockOut</title>
-<desc>Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamerica en ESPN.</desc>
-</programme>
-<programme start="20260228103000 +0000" stop="20260228110000 +0000" channel="ESPN 3.ar">
-<title>UEFA Champions League Weekly</title>
-<desc>Momentos destacados, entrevistas y toda la informacion de la jornada semanal de la UEFA Champions League.</desc>
-</programme>
-<programme start="20260228110000 +0000" stop="20260228112700 +0000" channel="ESPN 3.ar">
-<title>Inside Serie A</title>
-<desc>Un repaso a las mejores previas y a todo el contenido de la Serie A de Italia.</desc>
 </programme>
   <programme start="20260225093000 +0000" stop="20260225100000 +0000" channel="Univision Network HD">
     <title lang="es">La familia P. Luche</title>
@@ -45303,77 +45373,6 @@
     <desc>Sport (allgemein)
 · Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
 	</programme>
-<programme start="20260226113000 +0000" stop="20260226123000 +0000" channel="ESPN 2.ar">
-<title>UEFA Europa and Conference League Magazine</title>
-<desc>Noticias, entrevistas, momentos destacados, historias y análisis de los equipos de la UEFA Europa League y la UEFA Conference League.</desc>
-</programme>
-<programme start="20260226143000 +0000" stop="20260226150000 +0000" channel="ESPN 2.ar">
-<title>UEFA Champions League Highlights</title>
-<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
-</programme>
-<programme start="20260226183000 +0000" stop="20260226204000 +0000" channel="ESPN 2.ar">
-<title>Fútbol UEFA Europa League : Crvena Zvezda vs. Lille OSC</title>
-<sub-title>Crvena Zvezda vs. Lille OSC</sub-title>
-<desc>Accion del partido de vuelta de los playoffs de la UEFA Europa League 2025-26. Desde el Estadio Rajko Mitic.</desc>
-</programme>
-<programme start="20260226204000 +0000" stop="20260226225500 +0000" channel="ESPN 2.ar">
-<title>Fútbol UEFA Europa League : Nottingham Forest vs. Fenerbahçe</title>
-<sub-title>Nottingham Forest vs. Fenerbahçe</sub-title>
-<desc>Eliminatoria, partido de vuelta de la UEFA Europa League 2025-26. Nottingham Forest (Inglaterra) recibe a Fenerbahçe (Turquía). Desde el City Ground, en Nottingham.</desc>
-</programme>
-<programme start="20260226225500 +0000" stop="20260227000000 +0000" channel="ESPN 2.ar">
-<title>SportsCenter</title>
-<desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20260227000000 +0000" stop="20260227003000 +0000" channel="ESPN 2.ar">
-<title>UEFA Champions League Highlights</title>
-<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
-</programme>
-<programme start="20260227003000 +0000" stop="20260227010000 +0000" channel="ESPN 2.ar">
-<title>UEFA Champions League Highlights</title>
-<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
-</programme>
-<programme start="20260227180000 +0000" stop="20260227190000 +0000" channel="ESPN 2.ar">
-<title>ESPN Compact : UEFA Europa League: Stuttgart vs. Celtic</title>
-<sub-title>UEFA Europa League: Stuttgart vs. Celtic</sub-title>
-<desc>Los momentos más destacados del partido de vuelta de la UEFA Europa League 2025-26. Encuentro entre Stuttgart y Celtic. Disputado el 26 de febrero del 2026.</desc>
-<episode-num system="xmltv_ns">.67.</episode-num>
-</programme>
-<programme start="20260227193000 +0000" stop="20260227203000 +0000" channel="ESPN 2.ar">
-<title>El Show de la Formula 1</title>
-<desc>Repaso de los acontecimientos más recientes de la Formula 1 antes y/o despues de cada carrera con entrevistas a los pilotos y mensajes de correo electronico enviado por televidentes.</desc>
-</programme>
-<programme start="20260227224500 +0000" stop="20260228003000 +0000" channel="ESPN 2.ar">
-<title>SportsCenter</title>
-<desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20260228003000 +0000" stop="20260228010000 +0000" channel="ESPN 2.ar">
-<title>UEFA Champions League Weekly</title>
-<desc>Momentos destacados, entrevistas y toda la informacion de la jornada semanal de la UEFA Champions League.</desc>
-</programme>
-<programme start="20260228010000 +0000" stop="20260228033000 +0000" channel="ESPN 2.ar">
-<title>Baloncesto NBA : Cleveland Cavaliers vs. Detroit Pistons</title>
-<sub-title>Cleveland Cavaliers vs. Detroit Pistons</sub-title>
-<desc>Semana 19 de la NBA 2025-26. La serie entre Cleveland Cavaliers y Detroit Pistons se encuentra igualada, con una victoria para cada equipo. En el duelo más reciente, Donovan Mitchell lidero la ofensiva de los Cavaliers con 30 puntos.</desc>
-</programme>
-<programme start="20260228033000 +0000" stop="20260228060000 +0000" channel="ESPN 2.ar">
-<title>Baloncesto NBA : Denver Nuggets vs. Oklahoma City Thunder</title>
-<sub-title>Denver Nuggets vs. Oklahoma City Thunder</sub-title>
-<desc>Semana 19 de la temporada regular 2025-26 de la NBA. En el último enfrentamiento, Oklahoma City Thunder vencio 121-111 a Denver Nuggets. Tras 55 partidos, los Nuggets registraron una marca de 20-9 como visitantes.</desc>
-</programme>
-<programme start="20260228083000 +0000" stop="20260228094500 +0000" channel="ESPN 2.ar">
-<title>Campeonato Mundial de MotoGP : Gran Premio de Tailandia: Carrera esprint</title>
-<sub-title>Gran Premio de Tailandia: Carrera esprint</sub-title>
-<desc>Cobertura de la carrera esprint de la ronda 1 del MotoGP 2026 con el Gran Premio de Tailandia. Desde el Circuito Internacional de Chang, en Buriram, Tailandia.</desc>
-</programme>
-<programme start="20260228094500 +0000" stop="20260228110000 +0000" channel="ESPN 2.ar">
-<title>ESPN F10</title>
-<desc>Los fines de semana se llenan de fútbol. Tras la finalizacion del partido de la fecha de la Copa de la Liga Profesional del fútbol argentino, llega el mejor análisis.</desc>
-</programme>
-<programme start="20260228110000 +0000" stop="20260228114500 +0000" channel="ESPN 2.ar">
-<title>ESPN 2 Argentina</title>
-<desc>Programacion por anunciarse.</desc>
-</programme>
 	<programme start="20260226020000 +0100" stop="20260226023000 +0100" channel="ESPN 2 mx">
     <title>NBA Esta noche</title>
     <desc>· Sin detalles...</desc>
