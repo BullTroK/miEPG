@@ -29031,11 +29031,17 @@
 <programme start="20260228070000 +0000" stop="20260228093000 +0000" channel="FOX SPORTS PREMIUM.mx">
 <title>Major Arena Soccer League - Baltimore Bl...</title>
 </programme>
-<programme start="20260226070000 +0000" stop="20260226080000 +0000" channel="AZTECA 7.mx">
+<programme start="20260226060000 +0000" stop="20260226070000 +0000" channel="AZTECA 7.mx">
 <title>From</title>
 </programme>
-<programme start="20260226080000 +0000" stop="20260226083000 +0000" channel="AZTECA 7.mx">
+<programme start="20260226070000 +0000" stop="20260226073000 +0000" channel="AZTECA 7.mx">
 <title>Farmacias similares</title>
+</programme>
+<programme start="20260226073000 +0000" stop="20260226080000 +0000" channel="AZTECA 7.mx">
+<title>Inova</title>
+</programme>
+<programme start="20260226080000 +0000" stop="20260226083000 +0000" channel="AZTECA 7.mx">
+<title>Inova</title>
 </programme>
 <programme start="20260226083000 +0000" stop="20260226090000 +0000" channel="AZTECA 7.mx">
 <title>Inova</title>
@@ -29052,86 +29058,86 @@
 <programme start="20260226103000 +0000" stop="20260226110000 +0000" channel="AZTECA 7.mx">
 <title>Inova</title>
 </programme>
-<programme start="20260226110000 +0000" stop="20260226113000 +0000" channel="AZTECA 7.mx">
-<title>Inova</title>
+<programme start="20260226110000 +0000" stop="20260226111500 +0000" channel="AZTECA 7.mx">
+<title>Barras de ajuste</title>
+</programme>
+<programme start="20260226111500 +0000" stop="20260226113000 +0000" channel="AZTECA 7.mx">
+<title>RTC</title>
 </programme>
 <programme start="20260226113000 +0000" stop="20260226120000 +0000" channel="AZTECA 7.mx">
 <title>Inova</title>
 </programme>
-<programme start="20260226120000 +0000" stop="20260226121500 +0000" channel="AZTECA 7.mx">
-<title>Barras de ajuste</title>
-</programme>
-<programme start="20260226121500 +0000" stop="20260226123000 +0000" channel="AZTECA 7.mx">
-<title>RTC</title>
-</programme>
-<programme start="20260226123000 +0000" stop="20260226130000 +0000" channel="AZTECA 7.mx">
-<title>Inova</title>
-</programme>
-<programme start="20260226130000 +0000" stop="20260226133000 +0000" channel="AZTECA 7.mx">
+<programme start="20260226120000 +0000" stop="20260226123000 +0000" channel="AZTECA 7.mx">
 <title>Bernard Bear</title>
 </programme>
-<programme start="20260226133000 +0000" stop="20260226140000 +0000" channel="AZTECA 7.mx">
+<programme start="20260226123000 +0000" stop="20260226130000 +0000" channel="AZTECA 7.mx">
 <title>Robocar Poli</title>
 </programme>
-<programme start="20260226140000 +0000" stop="20260226143000 +0000" channel="AZTECA 7.mx">
+<programme start="20260226130000 +0000" stop="20260226133000 +0000" channel="AZTECA 7.mx">
 <title>44 gatos</title>
 </programme>
-<programme start="20260226143000 +0000" stop="20260226150000 +0000" channel="AZTECA 7.mx">
+<programme start="20260226133000 +0000" stop="20260226140000 +0000" channel="AZTECA 7.mx">
 <title>LEGO City Adventures</title>
 </programme>
-<programme start="20260226150000 +0000" stop="20260226153000 +0000" channel="AZTECA 7.mx">
+<programme start="20260226140000 +0000" stop="20260226143000 +0000" channel="AZTECA 7.mx">
 <title>Gigantosaurus</title>
 </programme>
-<programme start="20260226153000 +0000" stop="20260226160000 +0000" channel="AZTECA 7.mx">
+<programme start="20260226143000 +0000" stop="20260226150000 +0000" channel="AZTECA 7.mx">
 <title>Masha y el oso</title>
 </programme>
-<programme start="20260226160000 +0000" stop="20260226163000 +0000" channel="AZTECA 7.mx">
+<programme start="20260226150000 +0000" stop="20260226153000 +0000" channel="AZTECA 7.mx">
 <title>Bluey</title>
 </programme>
-<programme start="20260226163000 +0000" stop="20260226170000 +0000" channel="AZTECA 7.mx">
+<programme start="20260226153000 +0000" stop="20260226160000 +0000" channel="AZTECA 7.mx">
 <title>La casa de Mickey Mouse</title>
 </programme>
-<programme start="20260226170000 +0000" stop="20260226173000 +0000" channel="AZTECA 7.mx">
+<programme start="20260226160000 +0000" stop="20260226163000 +0000" channel="AZTECA 7.mx">
 <title>Pokemon</title>
 </programme>
-<programme start="20260226173000 +0000" stop="20260226183000 +0000" channel="AZTECA 7.mx">
+<programme start="20260226163000 +0000" stop="20260226173000 +0000" channel="AZTECA 7.mx">
 <title>Escandalositos</title>
 </programme>
-<programme start="20260226183000 +0000" stop="20260226200000 +0000" channel="AZTECA 7.mx">
+<programme start="20260226173000 +0000" stop="20260226190000 +0000" channel="AZTECA 7.mx">
 <title>El amanecer de los Croods</title>
 </programme>
-<programme start="20260226200000 +0000" stop="20260226210000 +0000" channel="AZTECA 7.mx">
+<programme start="20260226190000 +0000" stop="20260226200000 +0000" channel="AZTECA 7.mx">
 <title>Los padrinos mágicos</title>
 </programme>
-<programme start="20260226210000 +0000" stop="20260226220000 +0000" channel="AZTECA 7.mx">
+<programme start="20260226200000 +0000" stop="20260226210000 +0000" channel="AZTECA 7.mx">
 <title>El show de Garfield</title>
 </programme>
-<programme start="20260226220000 +0000" stop="20260226230000 +0000" channel="AZTECA 7.mx">
+<programme start="20260226210000 +0000" stop="20260226220000 +0000" channel="AZTECA 7.mx">
 <title>El increíble mundo de Gumball</title>
 </programme>
-<programme start="20260226230000 +0000" stop="20260227000000 +0000" channel="AZTECA 7.mx">
+<programme start="20260226220000 +0000" stop="20260226230000 +0000" channel="AZTECA 7.mx">
 <title>El mundo de Craig</title>
 </programme>
-<programme start="20260227000000 +0000" stop="20260227010000 +0000" channel="AZTECA 7.mx">
+<programme start="20260226230000 +0000" stop="20260227000000 +0000" channel="AZTECA 7.mx">
 <title>Dragon Ball Z</title>
 </programme>
-<programme start="20260227010000 +0000" stop="20260227023000 +0000" channel="AZTECA 7.mx">
+<programme start="20260227000000 +0000" stop="20260227013000 +0000" channel="AZTECA 7.mx">
 <title>La voz de tu amor</title>
 </programme>
-<programme start="20260227023000 +0000" stop="20260227033000 +0000" channel="AZTECA 7.mx">
+<programme start="20260227013000 +0000" stop="20260227023000 +0000" channel="AZTECA 7.mx">
 <title>Yo soy Betty, la fea</title>
 </programme>
-<programme start="20260227033000 +0000" stop="20260227043000 +0000" channel="AZTECA 7.mx">
+<programme start="20260227023000 +0000" stop="20260227033000 +0000" channel="AZTECA 7.mx">
 <title>Un día para vivir</title>
 </programme>
-<programme start="20260227043000 +0000" stop="20260227053000 +0000" channel="AZTECA 7.mx">
+<programme start="20260227033000 +0000" stop="20260227043000 +0000" channel="AZTECA 7.mx">
 <title>Dra. Lucía, un don extraordinario</title>
 </programme>
-<programme start="20260227053000 +0000" stop="20260227063000 +0000" channel="AZTECA 7.mx">
+<programme start="20260227043000 +0000" stop="20260227053000 +0000" channel="AZTECA 7.mx">
 <title>NCIS: Hawaii</title>
 </programme>
-<programme start="20260227063000 +0000" stop="20260227073000 +0000" channel="AZTECA 7.mx">
+<programme start="20260227053000 +0000" stop="20260227063000 +0000" channel="AZTECA 7.mx">
 <title>From</title>
+</programme>
+<programme start="20260227063000 +0000" stop="20260227070000 +0000" channel="AZTECA 7.mx">
+<title>Inova</title>
+</programme>
+<programme start="20260227070000 +0000" stop="20260227073000 +0000" channel="AZTECA 7.mx">
+<title>Inova</title>
 </programme>
 <programme start="20260227073000 +0000" stop="20260227080000 +0000" channel="AZTECA 7.mx">
 <title>Inova</title>
@@ -29154,72 +29160,66 @@
 <programme start="20260227103000 +0000" stop="20260227110000 +0000" channel="AZTECA 7.mx">
 <title>Inova</title>
 </programme>
-<programme start="20260227110000 +0000" stop="20260227113000 +0000" channel="AZTECA 7.mx">
-<title>Inova</title>
+<programme start="20260227110000 +0000" stop="20260227111500 +0000" channel="AZTECA 7.mx">
+<title>Barras de ajuste</title>
+</programme>
+<programme start="20260227111500 +0000" stop="20260227113000 +0000" channel="AZTECA 7.mx">
+<title>RTC</title>
 </programme>
 <programme start="20260227113000 +0000" stop="20260227120000 +0000" channel="AZTECA 7.mx">
 <title>Inova</title>
 </programme>
-<programme start="20260227120000 +0000" stop="20260227121500 +0000" channel="AZTECA 7.mx">
-<title>Barras de ajuste</title>
-</programme>
-<programme start="20260227121500 +0000" stop="20260227123000 +0000" channel="AZTECA 7.mx">
-<title>RTC</title>
-</programme>
-<programme start="20260227123000 +0000" stop="20260227130000 +0000" channel="AZTECA 7.mx">
-<title>Inova</title>
-</programme>
-<programme start="20260227130000 +0000" stop="20260227140000 +0000" channel="AZTECA 7.mx">
+<programme start="20260227120000 +0000" stop="20260227130000 +0000" channel="AZTECA 7.mx">
 <title>Bernard Bear</title>
 </programme>
-<programme start="20260227140000 +0000" stop="20260227150000 +0000" channel="AZTECA 7.mx">
+<programme start="20260227130000 +0000" stop="20260227140000 +0000" channel="AZTECA 7.mx">
 <title>Rosita Fresita en la gran ciudad</title>
 </programme>
-<programme start="20260227150000 +0000" stop="20260227163000 +0000" channel="AZTECA 7.mx">
+<programme start="20260227140000 +0000" stop="20260227153000 +0000" channel="AZTECA 7.mx">
 <title>Maraton Masha y el oso</title>
 </programme>
-<programme start="20260227163000 +0000" stop="20260227173000 +0000" channel="AZTECA 7.mx">
+<programme start="20260227153000 +0000" stop="20260227163000 +0000" channel="AZTECA 7.mx">
 <title>Las nuevas películas de Scooby-Doo</title>
 </programme>
-<programme start="20260227173000 +0000" stop="20260227190000 +0000" channel="AZTECA 7.mx">
+<programme start="20260227163000 +0000" stop="20260227180000 +0000" channel="AZTECA 7.mx">
 <title>La película Pokemon: Hoopa y un duelo historico</title>
 </programme>
-<programme start="20260227190000 +0000" stop="20260227210000 +0000" channel="AZTECA 7.mx">
+<programme start="20260227180000 +0000" stop="20260227200000 +0000" channel="AZTECA 7.mx">
 <title>La película Pokemon: Volcanion y La Maravilla Mecánica</title>
 </programme>
-<programme start="20260227210000 +0000" stop="20260227220000 +0000" channel="AZTECA 7.mx">
+<programme start="20260227200000 +0000" stop="20260227210000 +0000" channel="AZTECA 7.mx">
 <title>Los caballeros del Zodíaco y la gran batalla de los Dioses</title>
 </programme>
-<programme start="20260227220000 +0000" stop="20260227234500 +0000" channel="AZTECA 7.mx">
+<programme start="20260227210000 +0000" stop="20260227224500 +0000" channel="AZTECA 7.mx">
 <title>Los Caballeros del Zodíaco contraatacan</title>
 </programme>
-<programme start="20260227234500 +0000" stop="20260228014500 +0000" channel="AZTECA 7.mx">
+<programme start="20260227224500 +0000" stop="20260228004500 +0000" channel="AZTECA 7.mx">
 <title>Hancock</title>
 </programme>
-<programme start="20260228014500 +0000" stop="20260228040000 +0000" channel="AZTECA 7.mx">
+<programme start="20260228004500 +0000" stop="20260228030000 +0000" channel="AZTECA 7.mx">
 <title>Liga MX</title>
 <sub-title>Mazatlán vs. Pachuca, Fecha 8, Estadio de Mazatlán</sub-title>
 </programme>
-<programme start="20260228040000 +0000" stop="20260228060000 +0000" channel="AZTECA 7.mx">
+<programme start="20260228030000 +0000" stop="20260228050000 +0000" channel="AZTECA 7.mx">
 <title>Liga MX</title>
 <sub-title>Juárez vs. Atlas, Fecha 8, Estadio Olímpico Benito Juárez</sub-title>
 </programme>
-<programme start="20260228060000 +0000" stop="20260228070000 +0000" channel="AZTECA 7.mx">
+<programme start="20260228050000 +0000" stop="20260228060000 +0000" channel="AZTECA 7.mx">
 <title>FBI: Internacional</title>
 </programme>
-<programme start="20260228070000 +0000" stop="20260228073000 +0000" channel="AZTECA 7.mx">
+<programme start="20260228060000 +0000" stop="20260228063000 +0000" channel="AZTECA 7.mx">
 <title>WPT Mexico</title>
+</programme>
+<programme start="20260228063000 +0000" stop="20260228070000 +0000" channel="AZTECA 7.mx">
+<title>Inova</title>
+</programme>
+<programme start="20260228070000 +0000" stop="20260228073000 +0000" channel="AZTECA 7.mx">
+<title>Inova</title>
 </programme>
 <programme start="20260228073000 +0000" stop="20260228080000 +0000" channel="AZTECA 7.mx">
 <title>Inova</title>
 </programme>
 <programme start="20260228080000 +0000" stop="20260228083000 +0000" channel="AZTECA 7.mx">
-<title>Inova</title>
-</programme>
-<programme start="20260228083000 +0000" stop="20260228090000 +0000" channel="AZTECA 7.mx">
-<title>Inova</title>
-</programme>
-<programme start="20260228090000 +0000" stop="20260228093000 +0000" channel="AZTECA 7.mx">
 <title>Inova</title>
 </programme>
 <programme start="20260226110000 +0000" stop="20260226120000 +0000" channel="ESPN.ar">
@@ -29340,198 +29340,198 @@
 <title>SportsCenter</title>
 <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
 </programme>
-<programme start="20260226103000 +0000" stop="20260226123000 +0000" channel="ESPN 2.ar">
+<programme start="20260226083000 +0000" stop="20260226103000 +0000" channel="ESPN 2.ar">
 <title>ESPN F10</title>
 <desc>Los fines de semana se llenan de fútbol. Tras la finalizacion del partido de la fecha de la Copa de la Liga Profesional del fútbol argentino, llega el mejor análisis.</desc>
 </programme>
-<programme start="20260226123000 +0000" stop="20260226133000 +0000" channel="ESPN 2.ar">
+<programme start="20260226103000 +0000" stop="20260226113000 +0000" channel="ESPN 2.ar">
 <title>UEFA Europa and Conference League Magazine</title>
 <desc>Noticias, entrevistas, momentos destacados, historias y análisis de los equipos de la UEFA Europa League y la UEFA Conference League.</desc>
 </programme>
-<programme start="20260226133000 +0000" stop="20260226153000 +0000" channel="ESPN 2.ar">
+<programme start="20260226113000 +0000" stop="20260226133000 +0000" channel="ESPN 2.ar">
 <title>Fútbol UEFA Champions League : Juventus vs. Galatasaray</title>
 <sub-title>Juventus vs. Galatasaray</sub-title>
 <desc>Accion del partido de vuelta de la ronda de playoffs de la UEFA Champions League 2025-26.Desde el Allianz Stadium, en Turin.</desc>
 </programme>
-<programme start="20260226153000 +0000" stop="20260226160000 +0000" channel="ESPN 2.ar">
+<programme start="20260226133000 +0000" stop="20260226140000 +0000" channel="ESPN 2.ar">
 <title>UEFA Champions League Highlights</title>
 <desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
 </programme>
-<programme start="20260226160000 +0000" stop="20260226170000 +0000" channel="ESPN 2.ar">
+<programme start="20260226140000 +0000" stop="20260226150000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
 <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
 </programme>
-<programme start="20260226170000 +0000" stop="20260226180000 +0000" channel="ESPN 2.ar">
+<programme start="20260226150000 +0000" stop="20260226160000 +0000" channel="ESPN 2.ar">
 <title>ESPN Compact : UEFA Champions League: Real Madrid vs. SL Benfica</title>
 <sub-title>UEFA Champions League: Real Madrid vs. SL Benfica</sub-title>
 <desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Champions League 2025-26. Real Madrid se enfrenta a Benfica. Desde el estadio Santiago Bernabeu, en Madrid. Disputado el 25 de febrero de 2026.</desc>
 <episode-num system="xmltv_ns">.66.</episode-num>
 </programme>
-<programme start="20260226180000 +0000" stop="20260226190000 +0000" channel="ESPN 2.ar">
+<programme start="20260226160000 +0000" stop="20260226170000 +0000" channel="ESPN 2.ar">
 <title>ESPN Compact : UEFA Champions League: Paris Saint-Germain vs. AS Monaco</title>
 <sub-title>UEFA Champions League: Paris Saint-Germain vs. AS Monaco</sub-title>
 <desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Champions League 2025-26. Paris Saint-Germain se enfrenta a AS Monaco. Desde el Parc des Princes, en París. Disputado el 25 de febrero de 2026.</desc>
 <episode-num system="xmltv_ns">.65.</episode-num>
 </programme>
-<programme start="20260226190000 +0000" stop="20260226193000 +0000" channel="ESPN 2.ar">
+<programme start="20260226170000 +0000" stop="20260226173000 +0000" channel="ESPN 2.ar">
 <title>UEFA Champions League Highlights</title>
 <desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
 </programme>
-<programme start="20260226193000 +0000" stop="20260226214000 +0000" channel="ESPN 2.ar">
+<programme start="20260226173000 +0000" stop="20260226194000 +0000" channel="ESPN 2.ar">
 <title>Fútbol UEFA Europa League : Crvena Zvezda vs. Lille OSC</title>
 <sub-title>Crvena Zvezda vs. Lille OSC</sub-title>
 <desc>Accion del partido de vuelta de los playoffs de la UEFA Europa League 2025-26. Desde el Estadio Rajko Mitic.</desc>
 </programme>
-<programme start="20260226214000 +0000" stop="20260226235500 +0000" channel="ESPN 2.ar">
+<programme start="20260226194000 +0000" stop="20260226215500 +0000" channel="ESPN 2.ar">
 <title>Fútbol UEFA Europa League : Nottingham Forest vs. Fenerbahçe</title>
 <sub-title>Nottingham Forest vs. Fenerbahçe</sub-title>
 <desc>Eliminatoria, partido de vuelta de la UEFA Europa League 2025-26. Nottingham Forest (Inglaterra) recibe a Fenerbahçe (Turquía). Desde el City Ground, en Nottingham.</desc>
 </programme>
-<programme start="20260226235500 +0000" stop="20260227010000 +0000" channel="ESPN 2.ar">
+<programme start="20260226215500 +0000" stop="20260226230000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
 <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
 </programme>
-<programme start="20260227010000 +0000" stop="20260227013000 +0000" channel="ESPN 2.ar">
+<programme start="20260226230000 +0000" stop="20260226233000 +0000" channel="ESPN 2.ar">
 <title>UEFA Champions League Highlights</title>
 <desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
 </programme>
-<programme start="20260227013000 +0000" stop="20260227020000 +0000" channel="ESPN 2.ar">
+<programme start="20260226233000 +0000" stop="20260227000000 +0000" channel="ESPN 2.ar">
 <title>UEFA Champions League Highlights</title>
 <desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
 </programme>
-<programme start="20260227020000 +0000" stop="20260227023000 +0000" channel="ESPN 2.ar">
+<programme start="20260227000000 +0000" stop="20260227003000 +0000" channel="ESPN 2.ar">
 <title>ATP World Tour Weekly</title>
 <desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
 </programme>
-<programme start="20260227023000 +0000" stop="20260227050000 +0000" channel="ESPN 2.ar">
+<programme start="20260227003000 +0000" stop="20260227030000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
 <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
 </programme>
-<programme start="20260227050000 +0000" stop="20260227060000 +0000" channel="ESPN 2.ar">
+<programme start="20260227030000 +0000" stop="20260227040000 +0000" channel="ESPN 2.ar">
 <title>UEFA Europa League and UEFA Conference League</title>
 <desc>Un análisis completo con los momentos destacados de los últimos partidos de la UEFA Europa League y la UEFA Conference League.</desc>
 </programme>
-<programme start="20260227060000 +0000" stop="20260227070000 +0000" channel="ESPN 2.ar">
+<programme start="20260227040000 +0000" stop="20260227050000 +0000" channel="ESPN 2.ar">
 <title>ESPN Compact : UEFA Europa League: Stuttgart vs. Celtic</title>
 <sub-title>UEFA Europa League: Stuttgart vs. Celtic</sub-title>
 <desc>Los momentos más destacados del partido de vuelta de la UEFA Europa League 2025-26. Encuentro entre Stuttgart y Celtic. Disputado el 26 de febrero del 2026.</desc>
 <episode-num system="xmltv_ns">.67.</episode-num>
 </programme>
-<programme start="20260227070000 +0000" stop="20260227080000 +0000" channel="ESPN 2.ar">
+<programme start="20260227050000 +0000" stop="20260227060000 +0000" channel="ESPN 2.ar">
 <title>ESPN Compact : UEFA Europa League: Celta de Vigo vs. PAOK</title>
 <sub-title>UEFA Europa League: Celta de Vigo vs. PAOK</sub-title>
 <desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Europa League 2025-26. Celta de Vigo (España) se enfrenta a PAOK (Grecia).</desc>
 <episode-num system="xmltv_ns">.68.</episode-num>
 </programme>
-<programme start="20260227080000 +0000" stop="20260227090000 +0000" channel="ESPN 2.ar">
+<programme start="20260227060000 +0000" stop="20260227070000 +0000" channel="ESPN 2.ar">
 <title>UEFA Europa League and UEFA Conference League</title>
 <desc>Un análisis completo con los momentos destacados de los últimos partidos de la UEFA Europa League y la UEFA Conference League.</desc>
 </programme>
-<programme start="20260227090000 +0000" stop="20260227110000 +0000" channel="ESPN 2.ar">
+<programme start="20260227070000 +0000" stop="20260227090000 +0000" channel="ESPN 2.ar">
 <title>Fútbol UEFA Europa League : Nottingham Forest vs. Fenerbahçe</title>
 <sub-title>Nottingham Forest vs. Fenerbahçe</sub-title>
 <desc>Eliminatoria, partido de vuelta de la UEFA Europa League 2025-26. Nottingham Forest (Inglaterra) recibe a Fenerbahçe (Turquía). Desde el City Ground, en Nottingham.</desc>
 </programme>
-<programme start="20260227110000 +0000" stop="20260227120000 +0000" channel="ESPN 2.ar">
+<programme start="20260227090000 +0000" stop="20260227100000 +0000" channel="ESPN 2.ar">
 <title>PGA Tour Highlights : The Genesis Invitational 2022</title>
 <sub-title>The Genesis Invitational 2022</sub-title>
 <desc>Desde el Riviera Country Club, California, repaso de todo lo que fue un nuevo evento del PGA Tour y el triunfo del chileno Joaquín Niemann logrando así su segundo título en el Tour. Highlights, entrevistas y mucho más.</desc>
 <episode-num system="xmltv_ns">.18.</episode-num>
 </programme>
-<programme start="20260227120000 +0000" stop="20260227130000 +0000" channel="ESPN 2.ar">
+<programme start="20260227100000 +0000" stop="20260227110000 +0000" channel="ESPN 2.ar">
 <title>ESPN Compact : UEFA Europa League: Stuttgart vs. Celtic</title>
 <sub-title>UEFA Europa League: Stuttgart vs. Celtic</sub-title>
 <desc>Los momentos más destacados del partido de vuelta de la UEFA Europa League 2025-26. Encuentro entre Stuttgart y Celtic. Disputado el 26 de febrero del 2026.</desc>
 <episode-num system="xmltv_ns">.67.</episode-num>
 </programme>
-<programme start="20260227130000 +0000" stop="20260227140000 +0000" channel="ESPN 2.ar">
+<programme start="20260227110000 +0000" stop="20260227120000 +0000" channel="ESPN 2.ar">
 <title>ESPN Compact : Recopa Sudamericana: Flamengo vs. Lanús</title>
 <sub-title>Recopa Sudamericana: Flamengo vs. Lanús</sub-title>
 <desc>Los momentos más destacados de la final de vuelta de la Recopa Sudamericana 2026 entre Flamengo y Lanús. Desde el Estadio de Maracaná, en Río de Janeiro. Disputado el 26 de febrero de 2026.</desc>
 <episode-num system="xmltv_ns">.69.</episode-num>
 </programme>
-<programme start="20260227140000 +0000" stop="20260227150000 +0000" channel="ESPN 2.ar">
+<programme start="20260227120000 +0000" stop="20260227130000 +0000" channel="ESPN 2.ar">
 <title>ESPN Compact : UEFA Europa League: Celta de Vigo vs. PAOK</title>
 <sub-title>UEFA Europa League: Celta de Vigo vs. PAOK</sub-title>
 <desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Europa League 2025-26. Celta de Vigo (España) se enfrenta a PAOK (Grecia).</desc>
 <episode-num system="xmltv_ns">.68.</episode-num>
 </programme>
-<programme start="20260227150000 +0000" stop="20260227160000 +0000" channel="ESPN 2.ar">
+<programme start="20260227130000 +0000" stop="20260227140000 +0000" channel="ESPN 2.ar">
 <title>El Show de la Formula 1</title>
 <desc>Repaso de los acontecimientos más recientes de la Formula 1 antes y/o despues de cada carrera con entrevistas a los pilotos y mensajes de correo electronico enviado por televidentes.</desc>
 </programme>
-<programme start="20260227160000 +0000" stop="20260227170000 +0000" channel="ESPN 2.ar">
+<programme start="20260227140000 +0000" stop="20260227150000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
 <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
 </programme>
-<programme start="20260227170000 +0000" stop="20260227190000 +0000" channel="ESPN 2.ar">
+<programme start="20260227150000 +0000" stop="20260227170000 +0000" channel="ESPN 2.ar">
 <title>Fútbol CONMEBOL Recopa Sudamericana : Flamengo CR vs. Lanús</title>
 <sub-title>Flamengo CR vs. Lanús</sub-title>
 <desc>Partido de vuelta de la Recopa Sudamericana 2026. Desde el Estadio de Maracaná, en Río de Janeiro.</desc>
 </programme>
-<programme start="20260227190000 +0000" stop="20260227200000 +0000" channel="ESPN 2.ar">
+<programme start="20260227170000 +0000" stop="20260227180000 +0000" channel="ESPN 2.ar">
 <title>ESPN Compact : UEFA Europa League: Stuttgart vs. Celtic</title>
 <sub-title>UEFA Europa League: Stuttgart vs. Celtic</sub-title>
 <desc>Los momentos más destacados del partido de vuelta de la UEFA Europa League 2025-26. Encuentro entre Stuttgart y Celtic. Disputado el 26 de febrero del 2026.</desc>
 <episode-num system="xmltv_ns">.67.</episode-num>
 </programme>
-<programme start="20260227200000 +0000" stop="20260227203000 +0000" channel="ESPN 2.ar">
+<programme start="20260227180000 +0000" stop="20260227183000 +0000" channel="ESPN 2.ar">
 <title>Inside Serie A</title>
 <desc>Un repaso a las mejores previas y a todo el contenido de la Serie A de Italia.</desc>
 </programme>
-<programme start="20260227203000 +0000" stop="20260227213000 +0000" channel="ESPN 2.ar">
+<programme start="20260227183000 +0000" stop="20260227193000 +0000" channel="ESPN 2.ar">
 <title>El Show de la Formula 1</title>
 <desc>Repaso de los acontecimientos más recientes de la Formula 1 antes y/o despues de cada carrera con entrevistas a los pilotos y mensajes de correo electronico enviado por televidentes.</desc>
 </programme>
-<programme start="20260227213000 +0000" stop="20260227234500 +0000" channel="ESPN 2.ar">
+<programme start="20260227193000 +0000" stop="20260227214500 +0000" channel="ESPN 2.ar">
 <title>Fútbol Ligue 1 : RC Strasbourg Alsace vs. RC Lens</title>
 <sub-title>RC Strasbourg Alsace vs. RC Lens</sub-title>
 <desc>Jornada 24 de la Ligue 1, 2025-2026. Strasbourg se enfrenta al sublíder de la tabla, Lens. Desde el Stade de la Meinau, en Strasbourg.</desc>
 </programme>
-<programme start="20260227234500 +0000" stop="20260228013000 +0000" channel="ESPN 2.ar">
+<programme start="20260227214500 +0000" stop="20260227233000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
 <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
 </programme>
-<programme start="20260228013000 +0000" stop="20260228020000 +0000" channel="ESPN 2.ar">
+<programme start="20260227233000 +0000" stop="20260228000000 +0000" channel="ESPN 2.ar">
 <title>UEFA Champions League Weekly</title>
 <desc>Momentos destacados, entrevistas y toda la informacion de la jornada semanal de la UEFA Champions League.</desc>
 </programme>
-<programme start="20260228020000 +0000" stop="20260228043000 +0000" channel="ESPN 2.ar">
+<programme start="20260228000000 +0000" stop="20260228023000 +0000" channel="ESPN 2.ar">
 <title>Baloncesto NBA : Cleveland Cavaliers vs. Detroit Pistons</title>
 <sub-title>Cleveland Cavaliers vs. Detroit Pistons</sub-title>
 <desc>Semana 19 de la NBA 2025-26. La serie entre Cleveland Cavaliers y Detroit Pistons se encuentra igualada, con una victoria para cada equipo. En el duelo más reciente, Donovan Mitchell lidero la ofensiva de los Cavaliers con 30 puntos.</desc>
 </programme>
-<programme start="20260228043000 +0000" stop="20260228070000 +0000" channel="ESPN 2.ar">
+<programme start="20260228023000 +0000" stop="20260228050000 +0000" channel="ESPN 2.ar">
 <title>Baloncesto NBA : Denver Nuggets vs. Oklahoma City Thunder</title>
 <sub-title>Denver Nuggets vs. Oklahoma City Thunder</sub-title>
 <desc>Semana 19 de la temporada regular 2025-26 de la NBA. En el último enfrentamiento, Oklahoma City Thunder vencio 121-111 a Denver Nuggets. Tras 55 partidos, los Nuggets registraron una marca de 20-9 como visitantes.</desc>
 </programme>
-<programme start="20260228070000 +0000" stop="20260228073000 +0000" channel="ESPN 2.ar">
+<programme start="20260228050000 +0000" stop="20260228053000 +0000" channel="ESPN 2.ar">
 <title>Premier League Preview</title>
 <desc>Programa previo a la jornada de la Premier League con toda la informacion y el análisis sobre los equipos.</desc>
 </programme>
-<programme start="20260228073000 +0000" stop="20260228080000 +0000" channel="ESPN 2.ar">
+<programme start="20260228053000 +0000" stop="20260228060000 +0000" channel="ESPN 2.ar">
 <title>UEFA Champions League Weekly</title>
 <desc>Momentos destacados, entrevistas y toda la informacion de la jornada semanal de la UEFA Champions League.</desc>
 </programme>
-<programme start="20260228080000 +0000" stop="20260228090000 +0000" channel="ESPN 2.ar">
+<programme start="20260228060000 +0000" stop="20260228070000 +0000" channel="ESPN 2.ar">
 <title>ESPN KnockOut</title>
 <desc>Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamerica en ESPN.</desc>
 </programme>
-<programme start="20260228090000 +0000" stop="20260228093000 +0000" channel="ESPN 2.ar">
+<programme start="20260228070000 +0000" stop="20260228073000 +0000" channel="ESPN 2.ar">
 <title>Inside Serie A</title>
 <desc>Un repaso a las mejores previas y a todo el contenido de la Serie A de Italia.</desc>
 </programme>
-<programme start="20260228093000 +0000" stop="20260228104500 +0000" channel="ESPN 2.ar">
+<programme start="20260228073000 +0000" stop="20260228084500 +0000" channel="ESPN 2.ar">
 <title>Campeonato Mundial de MotoGP : Gran Premio de Tailandia: Carrera esprint</title>
 <sub-title>Gran Premio de Tailandia: Carrera esprint</sub-title>
 <desc>Cobertura de la carrera esprint de la ronda 1 del MotoGP 2026 con el Gran Premio de Tailandia. Desde el Circuito Internacional de Chang, en Buriram, Tailandia.</desc>
 </programme>
-<programme start="20260228104500 +0000" stop="20260228120000 +0000" channel="ESPN 2.ar">
+<programme start="20260228084500 +0000" stop="20260228100000 +0000" channel="ESPN 2.ar">
 <title>ESPN F10</title>
 <desc>Los fines de semana se llenan de fútbol. Tras la finalizacion del partido de la fecha de la Copa de la Liga Profesional del fútbol argentino, llega el mejor análisis.</desc>
 </programme>
-<programme start="20260228120000 +0000" stop="20260228124500 +0000" channel="ESPN 2.ar">
+<programme start="20260228100000 +0000" stop="20260228104500 +0000" channel="ESPN 2.ar">
 <title>ESPN 2 Argentina</title>
 <desc>Programacion por anunciarse.</desc>
 </programme>
@@ -37530,6 +37530,167 @@
       <value>K16</value>
     </rating>
   </programme>
+<programme start="20260226121500 +0000" stop="20260226123000 +0000" channel="AZTECA 7.mx">
+<title>RTC</title>
+</programme>
+<programme start="20260226170000 +0000" stop="20260226173000 +0000" channel="AZTECA 7.mx">
+<title>Pokemon</title>
+</programme>
+<programme start="20260226183000 +0000" stop="20260226200000 +0000" channel="AZTECA 7.mx">
+<title>El amanecer de los Croods</title>
+</programme>
+<programme start="20260227010000 +0000" stop="20260227023000 +0000" channel="AZTECA 7.mx">
+<title>La voz de tu amor</title>
+</programme>
+<programme start="20260227121500 +0000" stop="20260227123000 +0000" channel="AZTECA 7.mx">
+<title>RTC</title>
+</programme>
+<programme start="20260227123000 +0000" stop="20260227130000 +0000" channel="AZTECA 7.mx">
+<title>Inova</title>
+</programme>
+<programme start="20260227150000 +0000" stop="20260227163000 +0000" channel="AZTECA 7.mx">
+<title>Maraton Masha y el oso</title>
+</programme>
+<programme start="20260227173000 +0000" stop="20260227190000 +0000" channel="AZTECA 7.mx">
+<title>La película Pokemon: Hoopa y un duelo historico</title>
+</programme>
+<programme start="20260227190000 +0000" stop="20260227210000 +0000" channel="AZTECA 7.mx">
+<title>La película Pokemon: Volcanion y La Maravilla Mecánica</title>
+</programme>
+<programme start="20260227220000 +0000" stop="20260227234500 +0000" channel="AZTECA 7.mx">
+<title>Los Caballeros del Zodíaco contraatacan</title>
+</programme>
+<programme start="20260227234500 +0000" stop="20260228014500 +0000" channel="AZTECA 7.mx">
+<title>Hancock</title>
+</programme>
+<programme start="20260228014500 +0000" stop="20260228040000 +0000" channel="AZTECA 7.mx">
+<title>Liga MX</title>
+<sub-title>Mazatlán vs. Pachuca, Fecha 8, Estadio de Mazatlán</sub-title>
+</programme>
+<programme start="20260228040000 +0000" stop="20260228060000 +0000" channel="AZTECA 7.mx">
+<title>Liga MX</title>
+<sub-title>Juárez vs. Atlas, Fecha 8, Estadio Olímpico Benito Juárez</sub-title>
+</programme>
+<programme start="20260228083000 +0000" stop="20260228090000 +0000" channel="AZTECA 7.mx">
+<title>Inova</title>
+</programme>
+<programme start="20260228090000 +0000" stop="20260228093000 +0000" channel="AZTECA 7.mx">
+<title>Inova</title>
+</programme>
+<programme start="20260226123000 +0000" stop="20260226133000 +0000" channel="ESPN 2.ar">
+<title>UEFA Europa and Conference League Magazine</title>
+<desc>Noticias, entrevistas, momentos destacados, historias y análisis de los equipos de la UEFA Europa League y la UEFA Conference League.</desc>
+</programme>
+<programme start="20260226153000 +0000" stop="20260226160000 +0000" channel="ESPN 2.ar">
+<title>UEFA Champions League Highlights</title>
+<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
+</programme>
+<programme start="20260226180000 +0000" stop="20260226190000 +0000" channel="ESPN 2.ar">
+<title>ESPN Compact : UEFA Champions League: Paris Saint-Germain vs. AS Monaco</title>
+<sub-title>UEFA Champions League: Paris Saint-Germain vs. AS Monaco</sub-title>
+<desc>Los momentos más destacados del partido de vuelta de la ronda eliminatoria de la UEFA Champions League 2025-26. Paris Saint-Germain se enfrenta a AS Monaco. Desde el Parc des Princes, en París. Disputado el 25 de febrero de 2026.</desc>
+<episode-num system="xmltv_ns">.65.</episode-num>
+</programme>
+<programme start="20260226190000 +0000" stop="20260226193000 +0000" channel="ESPN 2.ar">
+<title>UEFA Champions League Highlights</title>
+<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
+</programme>
+<programme start="20260226193000 +0000" stop="20260226214000 +0000" channel="ESPN 2.ar">
+<title>Fútbol UEFA Europa League : Crvena Zvezda vs. Lille OSC</title>
+<sub-title>Crvena Zvezda vs. Lille OSC</sub-title>
+<desc>Accion del partido de vuelta de los playoffs de la UEFA Europa League 2025-26. Desde el Estadio Rajko Mitic.</desc>
+</programme>
+<programme start="20260226214000 +0000" stop="20260226235500 +0000" channel="ESPN 2.ar">
+<title>Fútbol UEFA Europa League : Nottingham Forest vs. Fenerbahçe</title>
+<sub-title>Nottingham Forest vs. Fenerbahçe</sub-title>
+<desc>Eliminatoria, partido de vuelta de la UEFA Europa League 2025-26. Nottingham Forest (Inglaterra) recibe a Fenerbahçe (Turquía). Desde el City Ground, en Nottingham.</desc>
+</programme>
+<programme start="20260226235500 +0000" stop="20260227010000 +0000" channel="ESPN 2.ar">
+<title>SportsCenter</title>
+<desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20260227010000 +0000" stop="20260227013000 +0000" channel="ESPN 2.ar">
+<title>UEFA Champions League Highlights</title>
+<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
+</programme>
+<programme start="20260227013000 +0000" stop="20260227020000 +0000" channel="ESPN 2.ar">
+<title>UEFA Champions League Highlights</title>
+<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
+</programme>
+<programme start="20260227020000 +0000" stop="20260227023000 +0000" channel="ESPN 2.ar">
+<title>ATP World Tour Weekly</title>
+<desc>Las noticias semanales sobre el tenis, llevadas desde la cancha de juego hacia usted.</desc>
+</programme>
+<programme start="20260227023000 +0000" stop="20260227050000 +0000" channel="ESPN 2.ar">
+<title>SportsCenter</title>
+<desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20260227080000 +0000" stop="20260227090000 +0000" channel="ESPN 2.ar">
+<title>UEFA Europa League and UEFA Conference League</title>
+<desc>Un análisis completo con los momentos destacados de los últimos partidos de la UEFA Europa League y la UEFA Conference League.</desc>
+</programme>
+<programme start="20260227160000 +0000" stop="20260227170000 +0000" channel="ESPN 2.ar">
+<title>SportsCenter</title>
+<desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20260227190000 +0000" stop="20260227200000 +0000" channel="ESPN 2.ar">
+<title>ESPN Compact : UEFA Europa League: Stuttgart vs. Celtic</title>
+<sub-title>UEFA Europa League: Stuttgart vs. Celtic</sub-title>
+<desc>Los momentos más destacados del partido de vuelta de la UEFA Europa League 2025-26. Encuentro entre Stuttgart y Celtic. Disputado el 26 de febrero del 2026.</desc>
+<episode-num system="xmltv_ns">.67.</episode-num>
+</programme>
+<programme start="20260227200000 +0000" stop="20260227203000 +0000" channel="ESPN 2.ar">
+<title>Inside Serie A</title>
+<desc>Un repaso a las mejores previas y a todo el contenido de la Serie A de Italia.</desc>
+</programme>
+<programme start="20260227203000 +0000" stop="20260227213000 +0000" channel="ESPN 2.ar">
+<title>El Show de la Formula 1</title>
+<desc>Repaso de los acontecimientos más recientes de la Formula 1 antes y/o despues de cada carrera con entrevistas a los pilotos y mensajes de correo electronico enviado por televidentes.</desc>
+</programme>
+<programme start="20260227213000 +0000" stop="20260227234500 +0000" channel="ESPN 2.ar">
+<title>Fútbol Ligue 1 : RC Strasbourg Alsace vs. RC Lens</title>
+<sub-title>RC Strasbourg Alsace vs. RC Lens</sub-title>
+<desc>Jornada 24 de la Ligue 1, 2025-2026. Strasbourg se enfrenta al sublíder de la tabla, Lens. Desde el Stade de la Meinau, en Strasbourg.</desc>
+</programme>
+<programme start="20260227234500 +0000" stop="20260228013000 +0000" channel="ESPN 2.ar">
+<title>SportsCenter</title>
+<desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20260228013000 +0000" stop="20260228020000 +0000" channel="ESPN 2.ar">
+<title>UEFA Champions League Weekly</title>
+<desc>Momentos destacados, entrevistas y toda la informacion de la jornada semanal de la UEFA Champions League.</desc>
+</programme>
+<programme start="20260228020000 +0000" stop="20260228043000 +0000" channel="ESPN 2.ar">
+<title>Baloncesto NBA : Cleveland Cavaliers vs. Detroit Pistons</title>
+<sub-title>Cleveland Cavaliers vs. Detroit Pistons</sub-title>
+<desc>Semana 19 de la NBA 2025-26. La serie entre Cleveland Cavaliers y Detroit Pistons se encuentra igualada, con una victoria para cada equipo. En el duelo más reciente, Donovan Mitchell lidero la ofensiva de los Cavaliers con 30 puntos.</desc>
+</programme>
+<programme start="20260228043000 +0000" stop="20260228070000 +0000" channel="ESPN 2.ar">
+<title>Baloncesto NBA : Denver Nuggets vs. Oklahoma City Thunder</title>
+<sub-title>Denver Nuggets vs. Oklahoma City Thunder</sub-title>
+<desc>Semana 19 de la temporada regular 2025-26 de la NBA. En el último enfrentamiento, Oklahoma City Thunder vencio 121-111 a Denver Nuggets. Tras 55 partidos, los Nuggets registraron una marca de 20-9 como visitantes.</desc>
+</programme>
+<programme start="20260228080000 +0000" stop="20260228090000 +0000" channel="ESPN 2.ar">
+<title>ESPN KnockOut</title>
+<desc>Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamerica en ESPN.</desc>
+</programme>
+<programme start="20260228090000 +0000" stop="20260228093000 +0000" channel="ESPN 2.ar">
+<title>Inside Serie A</title>
+<desc>Un repaso a las mejores previas y a todo el contenido de la Serie A de Italia.</desc>
+</programme>
+<programme start="20260228093000 +0000" stop="20260228104500 +0000" channel="ESPN 2.ar">
+<title>Campeonato Mundial de MotoGP : Gran Premio de Tailandia: Carrera esprint</title>
+<sub-title>Gran Premio de Tailandia: Carrera esprint</sub-title>
+<desc>Cobertura de la carrera esprint de la ronda 1 del MotoGP 2026 con el Gran Premio de Tailandia. Desde el Circuito Internacional de Chang, en Buriram, Tailandia.</desc>
+</programme>
+<programme start="20260228104500 +0000" stop="20260228120000 +0000" channel="ESPN 2.ar">
+<title>ESPN F10</title>
+<desc>Los fines de semana se llenan de fútbol. Tras la finalizacion del partido de la fecha de la Copa de la Liga Profesional del fútbol argentino, llega el mejor análisis.</desc>
+</programme>
+<programme start="20260228120000 +0000" stop="20260228124500 +0000" channel="ESPN 2.ar">
+<title>ESPN 2 Argentina</title>
+<desc>Programacion por anunciarse.</desc>
+</programme>
 	<programme start="20260302084500 +0100" stop="20260302100000 +0100" channel="M+ Vamos">
     <title>DeportePlus+ con Juanma Castaño T25/26 E21</title>
     <desc>Deportes,Programa deportes | TP | *6.0/10
@@ -37566,17 +37727,9 @@
 <title>ESPN F10</title>
 <desc>Los fines de semana se llenan de fútbol. Tras la finalizacion del partido de la fecha de la Copa de la Liga Profesional del fútbol argentino, llega el mejor análisis.</desc>
 </programme>
-<programme start="20260226113000 +0000" stop="20260226123000 +0000" channel="ESPN 2.ar">
-<title>UEFA Europa and Conference League Magazine</title>
-<desc>Noticias, entrevistas, momentos destacados, historias y análisis de los equipos de la UEFA Europa League y la UEFA Conference League.</desc>
-</programme>
 <programme start="20260226143000 +0000" stop="20260226150000 +0000" channel="ESPN 2.ar">
 <title>UEFA Champions League Highlights</title>
 <desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
-</programme>
-<programme start="20260226150000 +0000" stop="20260226160000 +0000" channel="ESPN 2.ar">
-<title>SportsCenter</title>
-<desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
 </programme>
 <programme start="20260226183000 +0000" stop="20260226204000 +0000" channel="ESPN 2.ar">
 <title>Fútbol UEFA Europa League : Crvena Zvezda vs. Lille OSC</title>
@@ -37591,34 +37744,6 @@
 <programme start="20260226225500 +0000" stop="20260227000000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
 <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20260227000000 +0000" stop="20260227003000 +0000" channel="ESPN 2.ar">
-<title>UEFA Champions League Highlights</title>
-<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
-</programme>
-<programme start="20260227003000 +0000" stop="20260227010000 +0000" channel="ESPN 2.ar">
-<title>UEFA Champions League Highlights</title>
-<desc>Los acontecimientos más destacados y la mejor informacion sobre la Champions League, el torneo de fútbol internacional europeo más importante organizado por la Union de Asociaciones de Fútbol Europeas, UEFA.</desc>
-</programme>
-<programme start="20260227040000 +0000" stop="20260227050000 +0000" channel="ESPN 2.ar">
-<title>UEFA Europa League and UEFA Conference League</title>
-<desc>Un análisis completo con los momentos destacados de los últimos partidos de la UEFA Europa League y la UEFA Conference League.</desc>
-</programme>
-<programme start="20260227100000 +0000" stop="20260227110000 +0000" channel="ESPN 2.ar">
-<title>PGA Tour Highlights : The Genesis Invitational 2022</title>
-<sub-title>The Genesis Invitational 2022</sub-title>
-<desc>Desde el Riviera Country Club, California, repaso de todo lo que fue un nuevo evento del PGA Tour y el triunfo del chileno Joaquín Niemann logrando así su segundo título en el Tour. Highlights, entrevistas y mucho más.</desc>
-<episode-num system="xmltv_ns">.18.</episode-num>
-</programme>
-<programme start="20260227180000 +0000" stop="20260227190000 +0000" channel="ESPN 2.ar">
-<title>ESPN Compact : UEFA Europa League: Stuttgart vs. Celtic</title>
-<sub-title>UEFA Europa League: Stuttgart vs. Celtic</sub-title>
-<desc>Los momentos más destacados del partido de vuelta de la UEFA Europa League 2025-26. Encuentro entre Stuttgart y Celtic. Disputado el 26 de febrero del 2026.</desc>
-<episode-num system="xmltv_ns">.67.</episode-num>
-</programme>
-<programme start="20260227193000 +0000" stop="20260227203000 +0000" channel="ESPN 2.ar">
-<title>El Show de la Formula 1</title>
-<desc>Repaso de los acontecimientos más recientes de la Formula 1 antes y/o despues de cada carrera con entrevistas a los pilotos y mensajes de correo electronico enviado por televidentes.</desc>
 </programme>
 <programme start="20260227224500 +0000" stop="20260228003000 +0000" channel="ESPN 2.ar">
 <title>SportsCenter</title>
@@ -37637,10 +37762,6 @@
 <title>Baloncesto NBA : Denver Nuggets vs. Oklahoma City Thunder</title>
 <sub-title>Denver Nuggets vs. Oklahoma City Thunder</sub-title>
 <desc>Semana 19 de la temporada regular 2025-26 de la NBA. En el último enfrentamiento, Oklahoma City Thunder vencio 121-111 a Denver Nuggets. Tras 55 partidos, los Nuggets registraron una marca de 20-9 como visitantes.</desc>
-</programme>
-<programme start="20260228060000 +0000" stop="20260228063000 +0000" channel="ESPN 2.ar">
-<title>Premier League Preview</title>
-<desc>Programa previo a la jornada de la Premier League con toda la informacion y el análisis sobre los equipos.</desc>
 </programme>
 <programme start="20260228063000 +0000" stop="20260228070000 +0000" channel="ESPN 2.ar">
 <title>UEFA Champions League Weekly</title>
@@ -46010,9 +46131,6 @@
 </programme>
 <programme start="20260226050000 +0000" stop="20260226060000 +0000" channel="AZTECA 7.mx">
 <title>Dra. Lucía, un don extraordinario</title>
-</programme>
-<programme start="20260226060000 +0000" stop="20260226070000 +0000" channel="AZTECA 7.mx">
-<title>NCIS: Hawaii</title>
 </programme>
 <programme start="20260225023000 +0000" stop="20260225043000 +0000" channel="ESPN 2.ar">
 <title>Fútbol UEFA Champions League : Internazionale vs. FK Bodø/Glimt</title>
