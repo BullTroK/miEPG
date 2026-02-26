@@ -129,3 +129,4 @@ TV PUBLICA.ar,TV PUBLICA.ar,1
 Fox.Deportes.HD.us2,Fox Deportes HD,1
 Univision.Network.HD.us2,Univision Network HD,2
 UniMas.us2,UniMas,-1
+UNIVERSO.HD.us2,UNIVERSO HD,1
