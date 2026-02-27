@@ -119,25 +119,25 @@ DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.p
 DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
 DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
 DSPORTS Fight,DSPORTS Fight,https://dsports-widgets.tbxnet.com/assets/images/channels/1615.png
-ESPN.ar,ESPN.ar,https://i.postimg.cc/wTSqsnNT/espnar.webp,-5
-ESPN HD.ar,ESPN HD.ar,https://i.postimg.cc/wTSqsnNT/espnar.webp,-5
-ESPN 2 HD.ar,ESPN 2 HD.ar,https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png,-5
-ESPN 2.ar,ESPN 2.ar,https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png,-5
-ESPN 3 HD.ar,ESPN 3 HD.ar,https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png,-5
-ESPN 3.ar,ESPN 3.ar,https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png,-5
-ESPN 4 HD.ar,ESPN 4 HD.ar,-5
-ESPN 6 HD.ar,ESPN 6 HD.ar,-5
-ESPN PREMIUM HD.ar,ESPN PREMIUM HD.ar,https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg,-5
-ESPN PREMIUM.ar,ESPN PREMIUM.ar,https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg,-5
-FOX SPORTS HD.ar,FOX SPORTS HD.ar,https://i.postimg.cc/9XDHtJCW/ec5xf51707916511.png,-5
-FOX SPORTS.ar,FOX SPORTS.ar,https://i.postimg.cc/9XDHtJCW/ec5xf51707916511.png,-5
-FOX SPORTS 2 HD.ar,FOX SPORTS 2 HD.ar,https://i.postimg.cc/y6g2SxyH/d96btm1707916453.png,-5
-FOX SPORTS 2.ar,FOX SPORTS 2.ar,https://i.postimg.cc/y6g2SxyH/d96btm1707916453.png,-5
-FOX SPORTS 3.ar,FOX SPORTS 3.ar,https://i.postimg.cc/25SKjSSs/cyfsdc1707916479.png,-5
-TNT SPORTS HD.ar,TNT SPORTS HD.ar,https://i.postimg.cc/ryNxjCJb/tntsportspremium.webp,-5
-TNT SPORTS.ar,TNT SPORTS.ar,https://i.postimg.cc/ryNxjCJb/tntsportspremium.webp,-5
-TV PUBLICA HD.ar,TV PUBLICA HD.ar,https://i.postimg.cc/XJwHQGHg/tvp.webp,-5
-TV PUBLICA.ar,TV PUBLICA.ar,https://i.postimg.cc/XJwHQGHg/tvp.webp,-5
+ESPN.ar,ESPN.ar,https://i.postimg.cc/wTSqsnNT/espnar.webp,+4
+ESPN HD.ar,ESPN HD.ar,https://i.postimg.cc/wTSqsnNT/espnar.webp,+4
+ESPN 2 HD.ar,ESPN 2 HD.ar,https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png,+4
+ESPN 2.ar,ESPN 2.ar,https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png,+4
+ESPN 3 HD.ar,ESPN 3 HD.ar,https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png,+4
+ESPN 3.ar,ESPN 3.ar,https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png,+4
+ESPN 4 HD.ar,ESPN 4 HD.ar,+4
+ESPN 6 HD.ar,ESPN 6 HD.ar,+4
+ESPN PREMIUM HD.ar,ESPN PREMIUM HD.ar,https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg,+4
+ESPN PREMIUM.ar,ESPN PREMIUM.ar,https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg,+4
+FOX SPORTS HD.ar,FOX SPORTS HD.ar,https://i.postimg.cc/9XDHtJCW/ec5xf51707916511.png,+4
+FOX SPORTS.ar,FOX SPORTS.ar,https://i.postimg.cc/9XDHtJCW/ec5xf51707916511.png,+4
+FOX SPORTS 2 HD.ar,FOX SPORTS 2 HD.ar,https://i.postimg.cc/y6g2SxyH/d96btm1707916453.png,+4
+FOX SPORTS 2.ar,FOX SPORTS 2.ar,https://i.postimg.cc/y6g2SxyH/d96btm1707916453.png,+4
+FOX SPORTS 3.ar,FOX SPORTS 3.ar,https://i.postimg.cc/25SKjSSs/cyfsdc1707916479.png,+4
+TNT SPORTS HD.ar,TNT SPORTS HD.ar,https://i.postimg.cc/ryNxjCJb/tntsportspremium.webp,+4
+TNT SPORTS.ar,TNT SPORTS.ar,https://i.postimg.cc/ryNxjCJb/tntsportspremium.webp,+4
+TV PUBLICA HD.ar,TV PUBLICA HD.ar,https://i.postimg.cc/XJwHQGHg/tvp.webp,+4
+TV PUBLICA.ar,TV PUBLICA.ar,https://i.postimg.cc/XJwHQGHg/tvp.webp,+4
 Fox.Deportes.HD.us2,Fox Deportes HD,https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png
 Univision.Network.HD.us2,Univision Network HD,https://i.postimg.cc/j2zNYRHk/univision.webp
 UniMas.us2,UniMas,https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/unimas-1200-x-674-network-logo.png
