@@ -114,9 +114,9 @@ ESPN,ESPN MX,https://i.postimg.cc/qvkkLpzc/espnmx.webp
 ESPN 2,ESPN 2 MX,https://r2.thesportsdb.com/images/media/channel/logo/f6gq9s1660760610.png
 ESPN 3,ESPN 3 MX,https://r2.thesportsdb.com/images/media/channel/logo/xtqms51749408993.png
 ESPN 4,ESPN 4 MX,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png
-SkySports1.mx,Sky Sports 1 MX,https://iptv-epg.org/logos/Mexico/SkySports1.mx.png
-SkySports16.mx,Sky Sports 16 MX,https://i.postimg.cc/mkQYHkNk/IMG-20260227-142715.png
-SkySports24.mx,Sky Sports 24 MX,https://i.postimg.cc/bvB9XKwj/IMG-20260227-142732.png
+SkySports1.mx,Sky Sports 1 MX,https://i.postimg.cc/g0DD2NHP/skysports1.png
+SkySports16.mx,Sky Sports 16 MX,https://i.postimg.cc/RV4Zcd7z/skylaliga.webp
+SkySports24.mx,Sky Sports 24 MX,https://i.postimg.cc/rFfM5kyT/skybundesliga.webp
 FOXSportsPremium.mx,FOX Sports Premium MX,https://r2.thesportsdb.com/images/media/channel/logo/uot48c1743576677.png
 Azteca7.mx,Azteca 7,https://i.postimg.cc/LXPfc5Wj/IMG-20260227-142913.png
 DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
