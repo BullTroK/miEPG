@@ -110,10 +110,10 @@ ESPN International,ESPN International,https://raw.githubusercontent.com/davidmum
 FOX SPORTS,FOX SPORTS MX,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png
 FOX SPORTS 2,FOX SPORTS 2 MX,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/3840px-Fox_sports_2_logo.svg.png
 FOX SPORTS 3,FOX SPORTS 3 MX,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/3840px-Fox_sports_3_logo.svg.png
-ESPN,ESPN MX,https://i.postimg.cc/qvkkLpzc/espnmx.webp
-ESPN 2,ESPN 2 MX,https://r2.thesportsdb.com/images/media/channel/logo/f6gq9s1660760610.png
-ESPN 3,ESPN 3 MX,https://r2.thesportsdb.com/images/media/channel/logo/xtqms51749408993.png
-ESPN 4,ESPN 4 MX,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png
+ESPN,ESPN,https://i.postimg.cc/qvkkLpzc/espnmx.webp
+ESPN 2,ESPN 2,https://i.postimg.cc/j51kRMR2/f6gq9s1660760610.png
+ESPN 3,ESPN 3,https://i.postimg.cc/3wxTRbQN/xtqms51749408993.png
+ESPN 4,ESPN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png
 SkySports1.mx,Sky Sports 1 MX,https://i.postimg.cc/g0DD2NHP/skysports1.png
 SkySports16.mx,Sky Sports 16 MX,https://i.postimg.cc/RV4Zcd7z/skylaliga.webp
 SkySports24.mx,Sky Sports 24 MX,https://i.postimg.cc/rFfM5kyT/skybundesliga.webp
@@ -126,8 +126,8 @@ DSPORTS Fight,DSPORTS Fight,https://dsports-widgets.tbxnet.com/assets/images/cha
 TyC Sports,TyC Sports,https://r2.thesportsdb.com/images/media/channel/logo/8wjzn31605555626.png
 TyCSports2.ar,TyC Sports 2,https://iptv-epg.org/logos/Argentina/TyCSports2.ar.png
 ESPN.ar,ESPN AR,https://i.postimg.cc/wTSqsnNT/espnar.webp
-ESPN2.ar,ESPN 2 AR,https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png
-ESPN3.ar,ESPN 3 AR,https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png
+ESPN2.ar,ESPN 2 AR,https://i.postimg.cc/sXGbQk61/wcualh1660760950.png
+ESPN3.ar,ESPN 3 AR,https://i.postimg.cc/qvkfbZqV/wkdrnd1660760961.png
 ESPN4.ar,ESPN 4 AR,https://iptv-epg.org/logos/Argentina/ESPN4.ar.png
 ESPNExtra.ar,ESPN Extra AR,https://iptv-epg.org/logos/Argentina/ESPNExtra.ar.png
 FOXSportsConoSur.ar,FOX Sports Cono Sur,https://iptv-epg.org/logos/Argentina/FOXSportsConoSur.ar.png
