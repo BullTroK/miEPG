@@ -854,7 +854,7 @@
     <display-name>ESPN MX 4K</display-name>
     <display-name>ESPN MX FHD</display-name>
     <display-name>ESPN MX UHD</display-name>
-    <icon src="https://i.postimg.cc/qvkkLpzc/espnmx.webp" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" />
   </channel>
   <channel id="ESPN 2 MX">
     <display-name>ESPN 2 MX SD</display-name>
@@ -862,7 +862,7 @@
     <display-name>ESPN 2 MX 4K</display-name>
     <display-name>ESPN 2 MX FHD</display-name>
     <display-name>ESPN 2 MX UHD</display-name>
-    <icon src="https://i.imgur.com/mfLcEe6.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" />
   </channel>
   <channel id="ESPN 3 MX">
     <display-name>ESPN 3 MX SD</display-name>
@@ -870,7 +870,7 @@
     <display-name>ESPN 3 MX 4K</display-name>
     <display-name>ESPN 3 MX FHD</display-name>
     <display-name>ESPN 3 MX UHD</display-name>
-    <icon src="https://i.imgur.com/2hVEAw6.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png" />
   </channel>
   <channel id="ESPN 4 MX">
     <display-name>ESPN 4 MX SD</display-name>
@@ -934,7 +934,7 @@
     <display-name>ESPN AR 4K</display-name>
     <display-name>ESPN AR FHD</display-name>
     <display-name>ESPN AR UHD</display-name>
-    <icon src="https://i.postimg.cc/wTSqsnNT/espnar.webp" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" />
   </channel>
   <channel id="ESPN 2 AR">
     <display-name>ESPN 2 AR SD</display-name>
@@ -942,7 +942,7 @@
     <display-name>ESPN 2 AR 4K</display-name>
     <display-name>ESPN 2 AR FHD</display-name>
     <display-name>ESPN 2 AR UHD</display-name>
-    <icon src="https://i.postimg.cc/sXGbQk61/wcualh1660760950.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" />
   </channel>
   <channel id="ESPN 3 AR">
     <display-name>ESPN 3 AR SD</display-name>
@@ -950,7 +950,7 @@
     <display-name>ESPN 3 AR 4K</display-name>
     <display-name>ESPN 3 AR FHD</display-name>
     <display-name>ESPN 3 AR UHD</display-name>
-    <icon src="https://i.postimg.cc/qvkfbZqV/wkdrnd1660760961.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png" />
   </channel>
   <channel id="ESPN 4 AR">
     <display-name>ESPN 4 AR SD</display-name>
@@ -958,7 +958,7 @@
     <display-name>ESPN 4 AR 4K</display-name>
     <display-name>ESPN 4 AR FHD</display-name>
     <display-name>ESPN 4 AR UHD</display-name>
-    <icon src="https://iptv-epg.org/logos/Argentina/ESPN4.ar.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png" />
   </channel>
   <channel id="ESPN Extra AR">
     <display-name>ESPN Extra AR SD</display-name>
