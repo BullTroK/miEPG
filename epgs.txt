@@ -1,4 +1,4 @@
 https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
 https://iptv-epg.org/files/epg-ar.xml
 https://iptv-epg.org/files/epg-mx.xml
-https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz
+https://iptv-epg.org/files/epg-us.xml
