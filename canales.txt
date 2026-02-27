@@ -130,7 +130,7 @@ FOX SPORTS 2.ar,FOX SPORTS 2.ar,https://i.postimg.cc/y6g2SxyH/d96btm1707916453.p
 FOX SPORTS 3.ar,FOX SPORTS 3.ar,https://i.postimg.cc/25SKjSSs/cyfsdc1707916479.png,-5
 TELEFE.ar,TELEFE.ar,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/821px-Telefe_%28nuevo_logo%29.png,-5
 TV PUBLICA.ar,TV PUBLICA.ar,https://i.postimg.cc/XJwHQGHg/tvp.webp,-5
-Fox.Deportes.HD.us2,Fox Deportes HD,https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png,-2
-Univision.Network.HD.us2,Univision Network HD,https://i.postimg.cc/j2zNYRHk/univision.webp,-2
-UniMas.us2,UniMas,https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/unimas-1200-x-674-network-logo.png,-2
-UNIVERSO.HD.us2,UNIVERSO HD,https://r2.thesportsdb.com/images/media/channel/logo/Universo.png,-2
+Fox.Deportes.HD.us2,Fox Deportes HD,https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png
+Univision.Network.HD.us2,Univision Network HD,https://i.postimg.cc/j2zNYRHk/univision.webp
+UniMas.us2,UniMas,https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/unimas-1200-x-674-network-logo.png
+UNIVERSO.HD.us2,UNIVERSO HD,https://r2.thesportsdb.com/images/media/channel/logo/Universo.png
