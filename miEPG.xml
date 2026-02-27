@@ -862,7 +862,7 @@
     <display-name>ESPN 2 4K</display-name>
     <display-name>ESPN 2 FHD</display-name>
     <display-name>ESPN 2 UHD</display-name>
-    <icon src="https://i.postimg.cc/j51kRMR2/f6gq9s1660760610.png" />
+    <icon src="https://ibb.co/svq20c01" />
   </channel>
   <channel id="ESPN 3">
     <display-name>ESPN 3 SD</display-name>
@@ -870,7 +870,7 @@
     <display-name>ESPN 3 4K</display-name>
     <display-name>ESPN 3 FHD</display-name>
     <display-name>ESPN 3 UHD</display-name>
-    <icon src="https://i.postimg.cc/3wxTRbQN/xtqms51749408993.png" />
+    <icon src="https://ibb.co/xSnn5YCj" />
   </channel>
   <channel id="ESPN 4">
     <display-name>ESPN 4 SD</display-name>
@@ -55253,6 +55253,27 @@ Luego de la muerte de Daniela, Marco roba el bolso de la fallecida para saldar d
     <desc lang="en">S06 E14 Déjala tranquila
 Nayeli busca una oportunidad de trabajo como contadora, pero debido a su apariencia nadie la toma en serio. Por eso, quiere demostrar que es inteligente y no solo una cara bonita.</desc>
   </programme>
+  <programme start="20260302130000 +0000" stop="20260302133500 +0000" channel="Univision West">
+    <title lang="en">Tal para cual</title>
+    <desc lang="en">S01 E10 Los golpes de la vida
+Nacaranda y Nacasia abren un gimnasio, pero no pueden pagar los aparatos, así que sus amigos se inscriben al torneo de boxeo para ganar doscientos mil pesos.</desc>
+  </programme>
+  <programme start="20260302133500 +0000" stop="20260302140000 +0000" channel="Univision West">
+    <title lang="en">Noticiero Univisión: Fin de semana</title>
+    <desc lang="en">Edición nocturna
+La información más importante y actualizada de lo que ha sucedido en el mundo durante el fin de semana, realizado por un equipo de periodistas apasionados por su trabajo, objetivos y veraces que dan las últimas noticias y el resumen de la semana.</desc>
+  </programme>
+  <programme start="20260302140000 +0000" stop="20260302150000 +0000" channel="Univision West">
+    <title lang="en">Como dice el dicho  ᴺᵉʷ</title>
+    <desc lang="en">S14 E100 A quien te quiere bien, en la cara se le ve
+Oswaldo pierde a su esposa y ahora que se ha casado con Rebeca, ella intentará ganarse el amor de los hijos de Oswaldo.</desc>
+    <new/>
+  </programme>
+  <programme start="20260302150000 +0000" stop="20260302190000 +0000" channel="Univision West">
+    <title lang="en">¡Despierta América!  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Revista matutina con noticias, temas de actualidad, reportajes de farándula, música e información práctica.</desc>
+    <live/>
+  </programme>
   <programme start="20260227000000 +0000" stop="20260227010000 +0000" channel="Univision WXTV">
     <title lang="en">La rosa de Guadalupe  ᴺᵉʷ</title>
     <desc lang="en">S01 E2236 La mujer triste
@@ -56314,6 +56335,25 @@ Una artista llama al Chapulín Colorado cuando no puede encontrar las llaves de 
     <desc lang="en">S12 E111 La vejez tiene su encanto, pero hay que saberla llevar
 Amparo finge estar enferma para que su novio esté con ella a escondidas de su nieta, pero la joven descubre la verdad y está en desacuerdo con su relación.</desc>
   </programme>
+  <programme start="20260302130000 +0000" stop="20260302140000 +0000" channel="UniMas">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">S13 E103 El maestro llega cuando el alumno está preparado
+Después de perder a su padre, Marcos solo busca terminar sus estudios y ahorrar para pagar su graduación, no obstante, Salvador, su tío, le muestra el camino de las apuestas.</desc>
+  </programme>
+  <programme start="20260302140000 +0000" stop="20260302143000 +0000" channel="UniMas">
+    <title lang="en">El Chavo</title>
+    <desc lang="en">S01 E41 El duelo
+El profesor Jirafales rechaza cruelmente a Doña Florinda al sentir celos de verla abrazada de Don Ramón así que decide retarlo a un duelo de esgrima.</desc>
+  </programme>
+  <programme start="20260302143000 +0000" stop="20260302150000 +0000" channel="UniMas">
+    <title lang="en">El Chavo</title>
+    <desc lang="en">S01 E259 El Chavo comienza a pedirle a la gente de la vecindad donar sangre o dinero para ayudar a la Cruz Roja. Don Ramón ensaya para una obra, pero los inquilinos piensan que se ha vuelto loco.</desc>
+  </programme>
+  <programme start="20260302150000 +0000" stop="20260302160000 +0000" channel="UniMas">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">S13 E108 Mentiroso sin memoria pierde el hilo de la historia
+Sofía es una influencer que habla de la historia a jóvenes, y su canal ha tenido muchas visitas, pero, Pamela, una de sus compañeras intentará manchar su imagen con un video editado.</desc>
+  </programme>
   <programme start="20260225180000 +0000" stop="20260225200000 +0000" channel="Universo">
     <title lang="en">El fuego del destino</title>
     <desc lang="en">S01 E07 El fuego del destino</desc>
@@ -56831,6 +56871,18 @@ Un programa de concurso picante, ligero y excitante el cual busca formar una o v
   <programme start="20260302120000 +0000" stop="20260302130000 +0000" channel="Universo">
     <title lang="en">Acércate a Rocío</title>
     <desc lang="en">Hablar de los problemas es el primer paso para superarlos y, por eso, Rocío trae un programa único para hablar de las preocupaciones de cada día y, en conjunto, encontrar una solución.</desc>
+  </programme>
+  <programme start="20260302130000 +0000" stop="20260302140000 +0000" channel="Universo">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en">La doctora Ana María Polo interviene en batallas legales que afectan a los latinos. Como en una corte, las partes presentan testigos y evidencias para que ella emita su decisión. Además, expertos contribuyen con sus conocimientos.</desc>
+  </programme>
+  <programme start="20260302140000 +0000" stop="20260302150000 +0000" channel="Universo">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en">La doctora Ana María Polo interviene en batallas legales que afectan a los latinos. Como en una corte, las partes presentan testigos y evidencias para que ella emita su decisión. Además, expertos contribuyen con sus conocimientos.</desc>
+  </programme>
+  <programme start="20260302150000 +0000" stop="20260302160000 +0000" channel="Universo">
+    <title lang="en">Historias de la Virgen morena</title>
+    <desc lang="en">Historias dramáticas de la vida diaria donde sólo un milagro de la Virgen de Guadalupe puede ayudar a superar desafíos y problemas.</desc>
   </programme>
 	<programme start="20260227000000 +0100" stop="20260227010000 +0100" channel="ESPN MX">
     <title>SportsCenter</title>
