@@ -1,4 +1,4 @@
 https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
-https://www.open-epg.com/files/argentina3.xml.gz
+https://iptv-epg.org/files/epg-ar.xml
 https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz
