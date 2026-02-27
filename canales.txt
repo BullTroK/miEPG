@@ -115,7 +115,7 @@ Sky.Sports.24.mx,Sky Sports 24,https://imagenes.gatotv.com/logos/canales/oscuros
 FOX.SPORTS.PREMIUM.mx,FOX SPORTS PREMIUM,https://www.reportv.com.ar/buscador/img/Logos/1989079776.jpg,-2
 Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx,Azteca 7 (XHLAT) Nuevo Laredo MX,https://cdn.tvpassport.com/image/station/240x135/v2/s116154_h15_ac.png,-2
 TyC Sports,TyC Sports,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TyC%20Sports.png
-DSPORTS,DSPORTS,https://dsports-
+DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
 DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
 DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
 DSPORTS Fight,DSPORTS Fight,https://dsports-widgets.tbxnet.com/assets/images/channels/1615.png
