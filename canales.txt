@@ -71,56 +71,60 @@ Telecinco HD,Telecinco,https://raw.githubusercontent.com/davidmuma/picons_dobleM
 La Sexta HD,La Sexta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png
 Teledeporte,Teledeporte,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png
 Mega,Mega,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png
-UK | TNT Sports 1,UK | TNT Sports 1
-UK | TNT Sports 2,UK | TNT Sports 2
-UK | TNT Sports 3,UK | TNT Sports 3
-UK | TNT Sports 4,UK | TNT Sports 4
-DE | DAZN 1,DE | DAZN 1
-DE | DAZN 2,DE | DAZN 2
-PT | Sport TV 1,PT | Sport TV 1
-PT | Sport TV 2,PT | Sport TV 2
-PT | Sport TV 3,PT | Sport TV 3
-PT | Sport TV 4,PT | Sport TV 4
-PT | Sport TV 5,PT | Sport TV 5
-PT | Sport TV 6,PT | Sport TV 6
-PT | DAZN 1,PT | DAZN 1
-PT | DAZN 2,PT | DAZN 2
-PT | DAZN 3,PT | DAZN 3
-PT | DAZN 4,PT | DAZN 4
-FR | beIN SPORTS 1,FR | beIN SPORTS 1
-FR | beIN SPORTS 2,FR | beIN SPORTS 2
-FR | beIN SPORTS 3,FR | beIN SPORTS 3
-FR | CANAL+ Sport,FR | CANAL+ Sport
-UK | Sky Sport Main Event,UK | Sky Sport Main Event
-DE | Sky Sport Top Event,DE | Sky Sport Top Event
-UK | Sky Sport Tennis,UK | Sky Sport Tennis
-DE | Sky Sport Tennis,DE | Sky Sport Tennis
-UK | Sky Sport F1,UK | Sky Sport F1
-DE | Sky Sport F1,DE | Sky Sport F1
-UK | Sky Sport Golf,UK | Sky Sport Golf
-DE | Sky Sport Golf,DE | Sky Sport Golf
-FOX SPORTS,FOX SPORTS,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png
-FOX SPORTS 2,FOX SPORTS 2,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/3840px-Fox_sports_2_logo.svg.png
-FOX SPORTS 3,FOX SPORTS 3,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/3840px-Fox_sports_3_logo.svg.png
-ESPN,ESPN,https://i.postimg.cc/qvkkLpzc/espnmx.webp
-ESPN 2,ESPN 2,https://r2.thesportsdb.com/images/media/channel/logo/f6gq9s1660760610.png
-ESPN 3,ESPN 3,https://r2.thesportsdb.com/images/media/channel/logo/xtqms51749408993.png
-ESPN 4,ESPN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png
+ETB1,ETB1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB1.png
+ETB2,ETB2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB2.png
+ETB3,ETB3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB3.png
+ETB4,ETB4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB4.png
+TVG,TVG,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG.png
+TVG2,TVG2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG2.png
+Canal Extremadura,Canal Extremadura,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura.png
+Canal Extremadura SAT,Canal Extremadura SAT,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura%20SAT.png
+Telemadrid,Telemadrid,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png
+La Otra,La Otra,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Otra.png
+TV3,TV3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3.png
+TV3CAT Catalunya,TV3CAT Catalunya,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3CAT%20Catalunya.png
+Esport 3,Esport 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png
+Canal Sur HD,Canal Sur,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur.png
+Canal Sur Andalucía,Canal Sur Andalucía,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png
+CMM TV,CMM TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png
+À Punt,À Punt,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/%C3%80%20Punt.png
+Punt 3,Punt 3,https://www.punt3.es/android-icon-192x192.png
+Aragón TV,Aragón TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV.png
+Aragón TV Internacional,Aragón TV Internacional,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png
+M+ Estrenos HD,M+ Estrenos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png
+M+ Hits HD,M+ Hits,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png
+M+ Clásicos HD,M+ Clásicos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png
+M+ Acción HD,M+ Acción,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png
+M+ Comedia HD,M+ Comedia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png
+M+ Drama HD,M+ Drama,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png
+M+ Indie HD,M+ Indie,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png
+M+ Cine Español,M+ Cine Español,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png
+M+ Originales HD,M+ Originales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png
+M+ Documentales HD,M+ Documentales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png
+Alquiler HD,Alquiler,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png
+Alquiler 1,Alquiler 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler%201.png
 ESPN Deportes,ESPN Deportes,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png
 ESPN International,ESPN International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20International.png
 TUDN (Estados Unidos),TUDN (Estados Unidos),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png
 TUDN (México),TUDN (México),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png
-Sky Sports 16,Sky Sports 16,https://i.postimg.cc/Hs8Wx6Fd/skylaliga.webp
-Sky.Sports.24.mx,Sky Sports 24,https://i.postimg.cc/9MfCjbGy/skybundesliga.webp,-2
-FOX.SPORTS.PREMIUM.mx,FOX SPORTS PREMIUM,https://r2.thesportsdb.com/images/media/channel/logo/uot48c1743576677.png,-2
-Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx,Azteca 7 (XHLAT) Nuevo Laredo MX,https://i.postimg.cc/Gpsd3Ktr/azteca7.webp,-2
-
-TyC Sports,TyC Sports,https://r2.thesportsdb.com/images/media/channel/logo/8wjzn31605555626.png
-TyCSports2.ar,AR - TyC Sports 2,https://iptv-epg.org/logos/Argentina/TyCSports2.ar.png
+FOXSports.mx,MX - FOX Sports,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png
+FOXSports2.mx,MX - FOX Sports 2,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/3840px-Fox_sports_2_logo.svg.png
+FOXSports3.mx,MX - FOX Sports 3,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/3840px-Fox_sports_3_logo.svg.png
+ESPN.mx,MX - ESPN,https://i.postimg.cc/qvkkLpzc/espnmx.webp
+ESPN2.mx,MX - ESPN 2,https://r2.thesportsdb.com/images/media/channel/logo/f6gq9s1660760610.png
+ESPN3.mx,MX - ESPN 3,https://r2.thesportsdb.com/images/media/channel/logo/xtqms51749408993.png
+ESPN+.mx,MX - ESPN+,https://iptv-epg.org/logos/Mexico/ESPN%2B.mx.png
+SkySports1.mx,MX - Sky Sports 1,https://iptv-epg.org/logos/Mexico/SkySports1.mx.png
+SkySports16.mx,MX - Sky Sports 16,https://i.postimg.cc/mkQYHkNk/IMG-20260227-142715.png
+SkySports24.mx,MX - Sky Sports 24,https://i.postimg.cc/bvB9XKwj/IMG-20260227-142732.png
+FOXSportsPremium.mx,MX - FOX Sports Premium,https://r2.thesportsdb.com/images/media/channel/logo/uot48c1743576677.png
+Azteca7.mx,MX - Azteca 7,https://i.postimg.cc/LXPfc5Wj/IMG-20260227-142913.png
 DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
 DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
 DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
 DSPORTS Fight,DSPORTS Fight,https://dsports-widgets.tbxnet.com/assets/images/channels/1615.png
+TyC Sports,TyC Sports,https://r2.thesportsdb.com/images/media/channel/logo/8wjzn31605555626.png
+TyCSports2.ar,AR - TyC Sports 2,https://iptv-epg.org/logos/Argentina/TyCSports2.ar.png
 ESPN.ar,AR - ESPN,https://i.postimg.cc/wTSqsnNT/espnar.webp
 ESPN2.ar,AR - ESPN 2,https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png
 ESPN3.ar,AR - ESPN 3,https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png
