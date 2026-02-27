@@ -134,12 +134,8 @@ FOX SPORTS.ar,FOX SPORTS.ar,https://i.postimg.cc/9XDHtJCW/ec5xf51707916511.png,-
 FOX SPORTS 2 HD.ar,FOX SPORTS 2 HD.ar,https://i.postimg.cc/y6g2SxyH/d96btm1707916453.png,-5
 FOX SPORTS 2.ar,FOX SPORTS 2.ar,https://i.postimg.cc/y6g2SxyH/d96btm1707916453.png,-5
 FOX SPORTS 3.ar,FOX SPORTS 3.ar,https://i.postimg.cc/25SKjSSs/cyfsdc1707916479.png,-5
-
-
-TNT SPORTS PREMIUM.ar,TNT SPORTS PREMIUM.ar,https://i.postimg.cc/ryNxjCJb/tntsportspremium.webp,-5
-
-
-
+TNT SPORTS HD.ar,TNT SPORTS HD.ar,https://i.postimg.cc/ryNxjCJb/tntsportspremium.webp,-5
+TNT SPORTS.ar,TNT SPORTS.ar,https://i.postimg.cc/ryNxjCJb/tntsportspremium.webp,-5
 TV PUBLICA HD.ar,TV PUBLICA HD.ar,https://i.postimg.cc/XJwHQGHg/tvp.webp,-5
 TV PUBLICA.ar,TV PUBLICA.ar,https://i.postimg.cc/XJwHQGHg/tvp.webp,-5
 Fox.Deportes.HD.us2,Fox Deportes HD,https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png
