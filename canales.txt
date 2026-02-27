@@ -110,8 +110,8 @@ ESPN Deportes,ESPN Deportes,https://raw.githubusercontent.com/davidmuma/picons_d
 ESPN International,ESPN International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20International.png
 TUDN (Estados Unidos),TUDN (Estados Unidos),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png
 TUDN (México),TUDN (México),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png
-Sky Sports 16,Sky Sports 16,https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_LaLiga_II.svg/revision/latest?cb=20231120144248
-Sky.Sports.24.mx,Sky Sports 24,https://static.wikia.nocookie.net/logopedia/images/3/39/Sky_Sports_Bundesliga_Mexico.svg/revision/latest?cb=20231120144251,-2
+Sky Sports 16,Sky Sports 16,https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_LaLiga_II.svg
+Sky.Sports.24.mx,Sky Sports 24,https://static.wikia.nocookie.net/logopedia/images/3/39/Sky_Sports_Bundesliga_Mexico.svg,-2
 FOX.SPORTS.PREMIUM.mx,FOX SPORTS PREMIUM,https://r2.thesportsdb.com/images/media/channel/logo/uot48c1743576677.png,-2
 Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx,Azteca 7 (XHLAT) Nuevo Laredo MX,https://r2.thesportsdb.com/images/media/channel/logo/29l4pe1621868410.png,-2
 TyC Sports,TyC Sports,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TyC%20Sports.png
@@ -132,5 +132,5 @@ TELEFE.ar,TELEFE.ar,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Te
 TV PUBLICA.ar,TV PUBLICA.ar,https://r2.thesportsdb.com/images/media/channel/logo/si21ru1624296330.png,-5
 Fox.Deportes.HD.us2,Fox Deportes HD,https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png,-4
 Univision.Network.HD.us2,Univision Network HD,https://www.pngall.com/wp-content/uploads/15/Univision-Logo-Background-PNG.png,-4
-UniMas.us2,UniMas,https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/unimas-1200-x-674-network-logo.png?q=70&fit=crop&w=1200&h=628&dpr=1,-4
+UniMas.us2,UniMas,https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/unimas-1200-x-674-network-logo.png,-4
 UNIVERSO.HD.us2,UNIVERSO HD,https://r2.thesportsdb.com/images/media/channel/logo/Universo.png,-1
