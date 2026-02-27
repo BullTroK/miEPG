@@ -116,8 +116,8 @@ DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.p
 DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
 DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
 DSPORTS Fight,DSPORTS Fight,https://dsports-widgets.tbxnet.com/assets/images/channels/1615.png
-FOX SPORTS PREMIUM.mx,FOX SPORTS PREMIUM.mx,1
-AZTECA 7.mx,AZTECA 7.mx
+FOX SPORTS PREMIUM.mx,FOX SPORTS PREMIUM.mx,-2
+AZTECA 7.mx,AZTECA 7.mx,-2
 ESPN.ar,ESPN.ar
 ESPN 2.ar,ESPN 2.ar
 ESPN 3.ar,ESPN 3.ar
