@@ -104,40 +104,40 @@ M+ Documentales HD,M+ Documentales,https://raw.githubusercontent.com/davidmuma/p
 Alquiler HD,Alquiler,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png
 Alquiler 1,Alquiler 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler%201.png
 ESPN Deportes,ESPN Deportes,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png
-ESPN International,ESPN International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20International.png
 TUDN (Estados Unidos),TUDN (Estados Unidos),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png
 TUDN (México),TUDN (México),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png
-FOXSports.mx,MX - FOX Sports,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png
-FOXSports2.mx,MX - FOX Sports 2,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/3840px-Fox_sports_2_logo.svg.png
-FOXSports3.mx,MX - FOX Sports 3,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/3840px-Fox_sports_3_logo.svg.png
-ESPN.mx,MX - ESPN,https://i.postimg.cc/qvkkLpzc/espnmx.webp
-ESPN2.mx,MX - ESPN 2,https://r2.thesportsdb.com/images/media/channel/logo/f6gq9s1660760610.png
-ESPN3.mx,MX - ESPN 3,https://r2.thesportsdb.com/images/media/channel/logo/xtqms51749408993.png
-ESPN+.mx,MX - ESPN+,https://iptv-epg.org/logos/Mexico/ESPN%2B.mx.png
-SkySports1.mx,MX - Sky Sports 1,https://iptv-epg.org/logos/Mexico/SkySports1.mx.png
-SkySports16.mx,MX - Sky Sports 16,https://i.postimg.cc/mkQYHkNk/IMG-20260227-142715.png
-SkySports24.mx,MX - Sky Sports 24,https://i.postimg.cc/bvB9XKwj/IMG-20260227-142732.png
-FOXSportsPremium.mx,MX - FOX Sports Premium,https://r2.thesportsdb.com/images/media/channel/logo/uot48c1743576677.png
-Azteca7.mx,MX - Azteca 7,https://i.postimg.cc/LXPfc5Wj/IMG-20260227-142913.png
+ESPN International,ESPN International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20International.png
+FOX SPORTS,FOX SPORTS MX,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png
+FOX SPORTS 2,FOX SPORTS 2 MX,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/3840px-Fox_sports_2_logo.svg.png
+FOX SPORTS 3,FOX SPORTS 3 MX,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/3840px-Fox_sports_3_logo.svg.png
+ESPN,ESPN MX,https://i.postimg.cc/qvkkLpzc/espnmx.webp
+ESPN 2,ESPN 2 MX,https://r2.thesportsdb.com/images/media/channel/logo/f6gq9s1660760610.png
+ESPN 3,ESPN 3 MX,https://r2.thesportsdb.com/images/media/channel/logo/xtqms51749408993.png
+ESPN 4,ESPN 4 MX,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png
+SkySports1.mx,Sky Sports 1 MX,https://iptv-epg.org/logos/Mexico/SkySports1.mx.png
+SkySports16.mx,Sky Sports 16 MX,https://i.postimg.cc/mkQYHkNk/IMG-20260227-142715.png
+SkySports24.mx,Sky Sports 24 MX,https://i.postimg.cc/bvB9XKwj/IMG-20260227-142732.png
+FOXSportsPremium.mx,FOX Sports Premium MX,https://r2.thesportsdb.com/images/media/channel/logo/uot48c1743576677.png
+Azteca7.mx,Azteca 7,https://i.postimg.cc/LXPfc5Wj/IMG-20260227-142913.png
 DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
 DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
 DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
 DSPORTS Fight,DSPORTS Fight,https://dsports-widgets.tbxnet.com/assets/images/channels/1615.png
 TyC Sports,TyC Sports,https://r2.thesportsdb.com/images/media/channel/logo/8wjzn31605555626.png
-TyCSports2.ar,AR - TyC Sports 2,https://iptv-epg.org/logos/Argentina/TyCSports2.ar.png
-ESPN.ar,AR - ESPN,https://i.postimg.cc/wTSqsnNT/espnar.webp
-ESPN2.ar,AR - ESPN 2,https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png
-ESPN3.ar,AR - ESPN 3,https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png
-ESPN4.ar,AR - ESPN 4,https://iptv-epg.org/logos/Argentina/ESPN4.ar.png
-ESPNExtra.ar,AR - ESPN Extra,https://iptv-epg.org/logos/Argentina/ESPNExtra.ar.png
-FOXSportsConoSur.ar,AR - FOX Sports Cono Sur,https://iptv-epg.org/logos/Argentina/FOXSportsConoSur.ar.png
-FOX Sports,FOX Sports,https://iptv-epg.org/logos/Argentina/FOXSportsConoSur.ar.png
-FOXSports2.ar,AR - FOX Sports 2,https://iptv-epg.org/logos/Argentina/FOXSports2.ar.png
-FOXSports3.ar,AR - FOX Sports 3,https://iptv-epg.org/logos/Argentina/FOXSports3.ar.png
-TVPublica.ar,AR - TV Publica,https://iptv-epg.org/logos/Argentina/TVPublica.ar.png
-Telefe.ar,AR - Telefe,https://iptv-epg.org/logos/Argentina/Telefe.ar.png
-Univision.us,US - Univision East,https://iptv-epg.org/logos/USA/Univision.us.png
-UnivisionWest.us,US - Univision West,https://iptv-epg.org/logos/USA/UnivisionWest.us.png
-UnivisionWXTV.us,US - Univision WXTV PATERSON NYC NJ,https://iptv-epg.org/logos/USA/UnivisionWXTV.us.png
-UniMas.us,US - UniMas,https://iptv-epg.org/logos/USA/UniMas.us.png
-UNIVERSO.us,US - Universo,https://iptv-epg.org/logos/USA/UNIVERSO.us.png
+TyCSports2.ar,TyC Sports 2,https://iptv-epg.org/logos/Argentina/TyCSports2.ar.png
+ESPN.ar,ESPN AR,https://i.postimg.cc/wTSqsnNT/espnar.webp
+ESPN2.ar,ESPN 2 AR,https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png
+ESPN3.ar,ESPN 3 AR,https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png
+ESPN4.ar,ESPN 4 AR,https://iptv-epg.org/logos/Argentina/ESPN4.ar.png
+ESPNExtra.ar,ESPN Extra AR,https://iptv-epg.org/logos/Argentina/ESPNExtra.ar.png
+FOXSportsConoSur.ar,FOX Sports Cono Sur,https://iptv-epg.org/logos/Argentina/FOXSportsConoSur.ar.png
+FOX Sports,FOX Sports AR,https://iptv-epg.org/logos/Argentina/FOXSportsConoSur.ar.png
+FOXSports2.ar,FOX Sports 2 AR,https://iptv-epg.org/logos/Argentina/FOXSports2.ar.png
+FOXSports3.ar,FOX Sports 3 AR,https://iptv-epg.org/logos/Argentina/FOXSports3.ar.png
+TVPublica.ar,TV Publica,https://iptv-epg.org/logos/Argentina/TVPublica.ar.png
+Telefe.ar,Telefe,https://iptv-epg.org/logos/Argentina/Telefe.ar.png
+Univision.us,Univision East,https://iptv-epg.org/logos/USA/Univision.us.png
+UnivisionWest.us,Univision West,https://iptv-epg.org/logos/USA/UnivisionWest.us.png
+UnivisionWXTV.us,Univision WXTV,https://iptv-epg.org/logos/USA/UnivisionWest.us.png
+UniMas.us,UniMas,https://iptv-epg.org/logos/USA/UniMas.us.png
+UNIVERSO.us,Universo,https://iptv-epg.org/logos/USA/UNIVERSO.us.png
