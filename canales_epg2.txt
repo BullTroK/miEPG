@@ -1,179 +1,184 @@
-# Fuente: https://www.open-epg.com/files/argentina3.xml.gz
-26 TV.ar,26 TV.ar,
-AandE HD.ar,AandE HD.ar,
-AandE.ar,AandE.ar,
-ADRENALINA SPORTS HD.ar,ADRENALINA SPORTS HD.ar,
-ADULT SWIM HD.ar,ADULT SWIM HD.ar,
-ADULT SWIM.ar,ADULT SWIM.ar,
-ALIENTOVISION.ar,ALIENTOVISION.ar,
-ALLEGRO HD.ar,ALLEGRO HD.ar,
-AMC.ar,AMC.ar,
-AMERICA 2.ar,AMERICA 2.ar,
-AMERICA 24.ar,AMERICA 24.ar,
-AMERICA SPORTS.ar,AMERICA SPORTS.ar,
-ANIMAL PLANET HD.ar,ANIMAL PLANET HD.ar,
-ANIMAL PLANET.ar,ANIMAL PLANET.ar,
-AREA PLUS.ar,AREA PLUS.ar,
-ARGENTINISIMA.ar,ARGENTINISIMA.ar,
-AXN HD.ar,AXN HD.ar,
-AXN.ar,AXN.ar,
-BOLIVIA TV.ar,BOLIVIA TV.ar,
-C5N.ar,C5N.ar,
-CANAL 3 ROSARIO.ar,CANAL 3 ROSARIO.ar,
-CANAL 4 SALTA.ar,CANAL 4 SALTA.ar,
-CANAL 4 SGO.ar,CANAL 4 SGO.ar,
-CANAL 7 SGO.ar,CANAL 7 SGO.ar,
-CANAL A.ar,CANAL A.ar,
-CANAL LUZ.ar,CANAL LUZ.ar,
-CANAL RURAL.ar,CANAL RURAL.ar,
-CANAL VASCO.ar,CANAL VASCO.ar,
-CARTOON NETWORK HD.ar,CARTOON NETWORK HD.ar,
-CARTOON NETWORK.ar,CARTOON NETWORK.ar,
-CARTOONITO.ar,CARTOONITO.ar,
-CINE.AR.ar,CINE.AR.ar,
-CINECANAL HD.ar,CINECANAL HD.ar,
-CINECANAL.ar,CINECANAL.ar,
-CINEMAX HD.ar,CINEMAX HD.ar,
-CINEMAX.ar,CINEMAX.ar,
-CM MUSICAL.ar,CM MUSICAL.ar,
-CNN EN ESPAÑOL.ar,CNN EN ESPAÑOL.ar,
-CNN.ar,CNN.ar,
-CRONICA TV.ar,CRONICA TV.ar,
-DEPORTV HD.ar,DEPORTV HD.ar,
-DEPORTV.ar,DEPORTV.ar,
-DHE HD.ar,DHE HD.ar,
-DISCOVERY CHANNEL HD.ar,DISCOVERY CHANNEL HD.ar,
-DISCOVERY CHANNEL.ar,DISCOVERY CHANNEL.ar,
-DISCOVERY HOME AND HEALTH HD.ar,DISCOVERY HOME AND HEALTH HD.ar,
-DISCOVERY HOME AND HEALTH.ar,DISCOVERY HOME AND HEALTH.ar,
-DISCOVERY ID HD.ar,DISCOVERY ID HD.ar,
-DISCOVERY ID.ar,DISCOVERY ID.ar,
-DISCOVERY KIDS HD.ar,DISCOVERY KIDS HD.ar,
-DISCOVERY KIDS.ar,DISCOVERY KIDS.ar,
-DISCOVERY SCIENCE.ar,DISCOVERY SCIENCE.ar,
-DISCOVERY THEATER HD.ar,DISCOVERY THEATER HD.ar,
-DISCOVERY TURBO.ar,DISCOVERY TURBO.ar,
-DISCOVERY WORLD HD.ar,DISCOVERY WORLD HD.ar,
-DISNEY HD.ar,DISNEY HD.ar,
-DISNEY JR.ar,DISNEY JR.ar,
-DISNEY.ar,DISNEY.ar,
-DW ESPAÑOL.ar,DW ESPAÑOL.ar,
-EL GARAGE HD.ar,EL GARAGE HD.ar,
-EL GARAGE.ar,EL GARAGE.ar,
-EL GOURMET.ar,EL GOURMET.ar,
-EL NUEVE HD.ar,EL NUEVE HD.ar,
-EL NUEVE.ar,EL NUEVE.ar,
-EL TRECE HD.ar,EL TRECE HD.ar,
-EL TRECE.ar,EL TRECE.ar,
-ENCUENTRO.ar,ENCUENTRO.ar,
-ENLACE TBN.ar,ENLACE TBN.ar,
-ENTERTAINMENT TELEVISION HD.ar,ENTERTAINMENT TELEVISION HD.ar,
-ENTERTAINMENT.ar,ENTERTAINMENT.ar,
-ESPN 2 HD.ar,ESPN 2 HD.ar,
-ESPN 2.ar,ESPN 2.ar,
-ESPN 3 HD.ar,ESPN 3 HD.ar,
-ESPN 3.ar,ESPN 3.ar,
-ESPN 4 HD.ar,ESPN 4 HD.ar,
-ESPN 6 HD.ar,ESPN 6 HD.ar,
-ESPN HD.ar,ESPN HD.ar,
-ESPN PREMIUM HD.ar,ESPN PREMIUM HD.ar,
-ESPN PREMIUM.ar,ESPN PREMIUM.ar,
-ESPN.ar,ESPN.ar,
-EUROCHANNEL.ar,EUROCHANNEL.ar,
-EUROPA EUROPA.ar,EUROPA EUROPA.ar,
-EWTN.ar,EWTN.ar,
-EXPRESS FAN.ar,EXPRESS FAN.ar,
-FILM AND ARTS.ar,FILM AND ARTS.ar,
-FOX SPORTS 2 HD.ar,FOX SPORTS 2 HD.ar,
-FOX SPORTS 2.ar,FOX SPORTS 2.ar,
-FOX SPORTS 3.ar,FOX SPORTS 3.ar,
-FOX SPORTS HD.ar,FOX SPORTS HD.ar,
-FOX SPORTS.ar,FOX SPORTS.ar,
-FX.ar,FX.ar,
-GALICIA TV.ar,GALICIA TV.ar,
-GOLDEN.ar,GOLDEN.ar,
-H2 HD.ar,H2 HD.ar,
-H2.ar,H2.ar,
-HBO 2 HD.ar,HBO 2 HD.ar,
-HBO 2.ar,HBO 2.ar,
-HBO FAMILY.ar,HBO FAMILY.ar,
-HBO HD.ar,HBO HD.ar,
-HBO MUNDI.ar,HBO MUNDI.ar,
-HBO PLUS HD.ar,HBO PLUS HD.ar,
-HBO PLUS.ar,HBO PLUS.ar,
-HBO POP HD.ar,HBO POP HD.ar,
-HBO SIGNATURE.ar,HBO SIGNATURE.ar,
-HBO XTREME.ar,HBO XTREME.ar,
-HBO.ar,HBO.ar,
-HGTV.ar,HGTV.ar,
-HISTORY HD.ar,HISTORY HD.ar,
-HISTORY.ar,HISTORY.ar,
-LA NACION +.ar,LA NACION +.ar,
-LAS ESTRELLAS.ar,LAS ESTRELLAS.ar,
-LIFETIME HD.ar,LIFETIME HD.ar,
-LIFETIME.ar,LIFETIME.ar,
-LOVE NATURE HD.ar,LOVE NATURE HD.ar,
-MAGAZINE.ar,MAGAZINE.ar,
-MAS CHIC.ar,MAS CHIC.ar,
-MTV 80S.ar,MTV 80S.ar,
-MTV HITS.ar,MTV HITS.ar,
-MTV.ar,MTV.ar,
-MTV00.ar,MTV00.ar,
-MULTIVISIÓN FEDERAL.ar,MULTIVISIÓN FEDERAL.ar,
-NAT GEO.ar,NAT GEO.ar,
-NET TV.ar,NET TV.ar,
-NICK JR.ar,NICK JR.ar,
-NICKELODEON.ar,NICKELODEON.ar,
-NUEVO TIEMPO.ar,NUEVO TIEMPO.ar,
-PAKAPAKA.ar,PAKAPAKA.ar,
-QUIERO.ar,QUIERO.ar,
-RADIO NACIONAL.ar,RADIO NACIONAL.ar,
-RAI.ar,RAI.ar,
-RTS TELEVISIÓN SANTAFESINA.ar,RTS TELEVISIÓN SANTAFESINA.ar,
-SBT BRASIL.ar,SBT BRASIL.ar,
-SONY HD.ar,SONY HD.ar,
-SONY MOVIES.ar,SONY MOVIES.ar,
-SONY.ar,SONY.ar,
-SPACE HD.ar,SPACE HD.ar,
-SPACE.ar,SPACE.ar,
-STAR CHANNEL HD.ar,STAR CHANNEL HD.ar,
-STAR CHANNEL.ar,STAR CHANNEL.ar,
-STUDIO UNIVERSAL HD.ar,STUDIO UNIVERSAL HD.ar,
-STUDIO UNIVERSAL.ar,STUDIO UNIVERSAL.ar,
-TCM.ar,TCM.ar,
-TEC TV.ar,TEC TV.ar,
-TELE 10.ar,TELE 10.ar,
-TELEFE HD.ar,TELEFE HD.ar,
-TELEFE ROSARIO.ar,TELEFE ROSARIO.ar,
-TELEFE SALTA.ar,TELEFE SALTA.ar,
-TELEFE.ar,TELEFE.ar,
-TELEMAX.ar,TELEMAX.ar,
-TELEMUNDO HD.ar,TELEMUNDO HD.ar,
-TELEMUNDO.ar,TELEMUNDO.ar,
-TELESUR.ar,TELESUR.ar,
-TLC.ar,TLC.ar,
-TLNOVELAS.ar,TLNOVELAS.ar,
-TN HD.ar,TN HD.ar,
-TN.ar,TN.ar,
-TNT HD.ar,TNT HD.ar,
-TNT NOVELAS.ar,TNT NOVELAS.ar,
-TNT SERIES HD.ar,TNT SERIES HD.ar,
-TNT SERIES.ar,TNT SERIES.ar,
-TNT SPORTS HD.ar,TNT SPORTS HD.ar,
-TNT SPORTS.ar,TNT SPORTS.ar,
-TNT.ar,TNT.ar,
-TOONCAST.ar,TOONCAST.ar,
-TV 5.ar,TV 5.ar,
-TV CHILE.ar,TV CHILE.ar,
-TV PUBLICA HD.ar,TV PUBLICA HD.ar,
-TV PUBLICA.ar,TV PUBLICA.ar,
-TVE.ar,TVE.ar,
-TYC SPORTS 2.ar,TYC SPORTS 2.ar,
-TYC SPORTS HD.ar,TYC SPORTS HD.ar,
-TYC SPORTS.ar,TYC SPORTS.ar,
-UNIVERSAL TV HD.ar,UNIVERSAL TV HD.ar,
-UNIVERSAL TV.ar,UNIVERSAL TV.ar,
-VOLVER.ar,VOLVER.ar,
-WARNER CHANNEL HD.ar,WARNER CHANNEL HD.ar,
-WARNER CHANNEL.ar,WARNER CHANNEL.ar,
-ZOOMOO HD.ar,ZOOMOO HD.ar,
+# Fuente: https://iptv-epg.org/files/epg-ar.xml
+24/7CanaldeNoticias.ar,AR - 24/7 Canal de Noticias,
+A24.ar,AR - A24,https://iptv-epg.org/logos/Argentina/A24.ar.png
+AandE.ar,AR - A&amp;E,https://iptv-epg.org/logos/Argentina/AandE.ar.png
+AMC.ar,AR - AMC,https://iptv-epg.org/logos/Argentina/AMC.ar.png
+AmericaSports.ar,AR - América Sports,https://iptv-epg.org/logos/Argentina/AmericaSports.ar.png
+AnimalPlanet.ar,AR - Animal Planet,https://iptv-epg.org/logos/Argentina/AnimalPlanet.ar.png
+ArgentinisimaSatelital.ar,AR - Argentinísima Satelital,https://iptv-epg.org/logos/Argentina/ArgentinisimaSatelital.ar.png
+Atreseries.ar,AR - Atreseries,https://iptv-epg.org/logos/Argentina/Atreseries.ar.png
+AXN.ar,AR - AXN,https://iptv-epg.org/logos/Argentina/AXN.ar.png
+BabyTV.ar,AR - BabyTV,https://iptv-epg.org/logos/Argentina/BabyTV.ar.png
+Bloomberg.ar,AR - Bloomberg,https://iptv-epg.org/logos/Argentina/Bloomberg.ar.png
+Cartoonito.ar,AR - Cartoonito,https://iptv-epg.org/logos/Argentina/Cartoonito.ar.png
+C5N.ar,AR - C5N,https://iptv-epg.org/logos/Argentina/C5N.ar.png
+ELTrece.ar,AR - El Trece,https://iptvboss.xyz/logos/Argentina/ElTrece.ar.png
+Canal21.ar,AR - Canal Orbe 21,https://iptv-epg.org/logos/Argentina/Canal21.ar.png
+Canal26.ar,AR - Canal 26,https://iptv-epg.org/logos/Argentina/Canal26.ar.png
+ELNueve.ar,AR - El Nueve,https://iptvboss.xyz/logos/Argentina/ElNueve.ar.png
+CanalDeLaCiudad.ar,AR - Canal de la Ciudad,https://iptvboss.xyz/logos/Argentina/CanaldelaCiudad.ar.png
+CanalRural.ar,AR - Canal Rural,https://iptv-epg.org/logos/Argentina/CanalRural.ar.png
+CiudadMagazine.ar,AR - Ciudad Magazine,https://iptv-epg.org/logos/Argentina/CiudadMagazine.ar.png
+CartoonNetwork.ar,AR - Cartoon Network,https://iptv-epg.org/logos/Argentina/CartoonNetwork.ar.png
+CineAr.ar,AR - CineAr,https://iptv-epg.org/logos/Argentina/CineAr.ar.png
+Cinecanal.ar,AR - Cinecanal,https://iptv-epg.org/logos/Argentina/Cinecanal.ar.png
+Cinelatino.ar,AR - Cinelatino,https://iptv-epg.org/logos/Argentina/Cinelatino.ar.png
+Cinemax.ar,AR - Cinemax,https://iptv-epg.org/logos/Argentina/Cinemax.ar.png
+Cinemax(Sur).ar,AR - Cinemax (Sur),https://iptv-epg.org/logos/Argentina/Cinemax%28Sur%29.ar.png
+CN23.ar,AR - CN23,https://iptv-epg.org/logos/Argentina/CN23.ar.png
+CNN.ar,AR - CNN,https://iptv-epg.org/logos/Argentina/CNN.ar.png
+CNNenEspanol.ar,AR - CNN en Español,https://iptv-epg.org/logos/Argentina/CNNenEspanol.ar.png
+ComedyCentral.ar,AR - Comedy Central,https://iptv-epg.org/logos/Argentina/ComedyCentral.ar.png
+ConexionEducativa.ar,AR - Conexión Educativa,https://iptv-epg.org/logos/Argentina/ConexionEducativa.ar.png
+ConstruirTV.ar,AR - Construir TV,https://iptv-epg.org/logos/Argentina/ConstruirTV.ar.png
+CronicaTV.ar,AR - Cronica TV,https://iptv-epg.org/logos/Argentina/CronicaTV.ar.png
+Discovery.ar,AR - Discovery,https://iptv-epg.org/logos/Argentina/Discovery.ar.png
+DiscoveryChannel.ar,AR - Discovery Channel,https://iptv-epg.org/logos/Argentina/DiscoveryChannel.ar.png
+DiscoveryHomeAndHealth.ar,AR - Discovery Home &amp; Health,https://iptv-epg.org/logos/Argentina/DiscoveryHomeAndHealth.ar.png
+DiscoveryKids.ar,AR - Discovery Kids,https://iptv-epg.org/logos/Argentina/DiscoveryKids.ar.png
+DiscoveryTurbo.ar,AR - Discovery Turbo,https://iptv-epg.org/logos/Argentina/DiscoveryTurbo.ar.png
+DisneyChannel.ar,AR - Disney Channel,https://iptv-epg.org/logos/Argentina/DisneyChannel.ar.png
+DisneyJunior.ar,AR - Disney Junior,https://iptv-epg.org/logos/Argentina/DisneyJunior.ar.png
+DisneyXD.ar,AR - Disney XD,https://iptv-epg.org/logos/Argentina/DisneyXD.ar.png
+E!.ar,AR - E!,https://iptv-epg.org/logos/Argentina/E%21.ar.png
+ElGarageTv.ar,AR - El Garage Tv,https://iptv-epg.org/logos/Argentina/ElGarageTv.ar.png
+ElGourmet.ar,AR - El Gourmet,https://iptv-epg.org/logos/Argentina/ElGourmet.ar.png
+Encuentro.ar,AR - Encuentro,https://iptv-epg.org/logos/Argentina/Encuentro.ar.png
+EuropaEuropa.ar,AR - Europa Europa,https://iptv-epg.org/logos/Argentina/EuropaEuropa.ar.png
+EWTN.ar,AR - EWTN,https://iptv-epg.org/logos/Argentina/EWTN.ar.png
+filmAndarts.ar,AR - film&amp;arts,https://iptv-epg.org/logos/Argentina/filmAndarts.ar.png
+FOXSportsConoSur.ar,AR - FOX Sports Cono Sur,https://iptv-epg.org/logos/Argentina/FOXSportsConoSur.ar.png
+France24enEspanol.ar,AR - France 24 en Español,https://iptv-epg.org/logos/Argentina/France24enEspanol.ar.png
+FX.ar,AR - FX,https://iptv-epg.org/logos/Argentina/FX.ar.png
+FXMovies.ar,AR - FX Movies,https://iptv-epg.org/logos/Argentina/FXMovies.ar.png
+GaliciaTV.ar,AR - Galicia TV,https://iptv-epg.org/logos/Argentina/GaliciaTV.ar.png
+Glitz.ar,AR - Glitz,https://iptv-epg.org/logos/Argentina/Glitz.ar.png
+Golden.ar,AR - Golden,https://iptv-epg.org/logos/Argentina/Golden.ar.png
+GoldenEdge.ar,AR - Golden Edge,https://iptv-epg.org/logos/Argentina/GoldenEdge.ar.png
+GolTV.ar,AR - Gol TV,https://iptv-epg.org/logos/Argentina/GolTV.ar.png
+HAPSATV.ar,AR - HAPSATV,https://iptv-epg.org/logos/Argentina/HAPSATV.ar.png
+HBO2.ar,AR - HBO 2,https://iptv-epg.org/logos/Argentina/HBO2.ar.png
+HBOFamily.ar,AR - HBO Family,https://iptv-epg.org/logos/Argentina/HBOFamily.ar.png
+HBO.ar,AR - HBO,https://iptv-epg.org/logos/Argentina/HBO.ar.png
+HBOMundi.ar,AR - HBO Mundi,https://iptv-epg.org/logos/Argentina/HBOMundi.ar.png
+HBOOeste.ar,AR - HBO Oeste,https://iptv-epg.org/logos/Argentina/HBOOeste.ar.png
+HBOPlus(Panamericano).ar,AR - HBO Plus (Panamericano),https://iptv-epg.org/logos/Argentina/HBOPlus%28Panamericano%29.ar.png
+HBOPlusEste.ar,AR - HBO Plus Este,https://iptv-epg.org/logos/Argentina/HBOPlusEste.ar.png
+HBOPlusPanregional.ar,AR - HBO Plus Panregional,https://iptv-epg.org/logos/Argentina/HBOPlusPanregional.ar.png
+HBOPop.ar,AR - HBO Pop,https://iptv-epg.org/logos/Argentina/HBOPop.ar.png
+HBOSignature.ar,AR - HBO Signature,https://iptv-epg.org/logos/Argentina/HBOSignature.ar.png
+HBOXtreme.ar,AR - HBO Xtreme,https://iptv-epg.org/logos/Argentina/HBOXtreme.ar.png
+HBOXtreme(Oeste).ar,AR - HBO Xtreme (Oeste),https://iptv-epg.org/logos/Argentina/HBOXtreme%28Oeste%29.ar.png
+HBOXtreme(Panamericano).ar,AR - HBO Xtreme (Panamericano),https://iptv-epg.org/logos/Argentina/HBOXtreme%28Panamericano%29.ar.png
+HBOXtreme(Panregional).ar,AR - HBO Xtreme (Panregional),https://iptv-epg.org/logos/Argentina/HBOXtreme%28Panregional%29.ar.png
+HGTV.ar,AR - HGTV,https://iptv-epg.org/logos/Argentina/HGTV.ar.png
+HispanTV.ar,AR - HispanTV,https://iptv-epg.org/logos/Argentina/HispanTV.ar.png
+History.ar,AR - History,https://iptv-epg.org/logos/Argentina/History.ar.png
+History2.ar,AR - History 2,https://iptv-epg.org/logos/Argentina/History2.ar.png
+HolaTV.ar,AR - Hola TV,https://iptv-epg.org/logos/Argentina/HolaTV.ar.png
+HTV.ar,AR - HTV,https://iptv-epg.org/logos/Argentina/HTV.ar.png
+I-SAT.ar,AR - I-SAT,https://iptv-epg.org/logos/Argentina/I-SAT.ar.png
+InvestigationDiscovery.ar,AR - Investigation Discovery,https://iptv-epg.org/logos/Argentina/InvestigationDiscovery.ar.png
+IVC.ar,AR - IVC,https://iptv-epg.org/logos/Argentina/IVC.ar.png
+LasEstrellas.ar,AR - Las Estrellas,https://iptv-epg.org/logos/Argentina/LasEstrellas.ar.png
+Lifetime.ar,AR - Lifetime,https://iptv-epg.org/logos/Argentina/Lifetime.ar.png
+LN+.ar,AR - LN+,https://iptv-epg.org/logos/Argentina/LN%2B.ar.png
+Metro.ar,AR - Metro,https://iptv-epg.org/logos/Argentina/Metro.ar.png
+MTV.ar,AR - MTV,https://iptv-epg.org/logos/Argentina/MTV.ar.png
+MTVHits.ar,AR - MTV Hits,https://iptv-epg.org/logos/Argentina/MTVHits.ar.png
+MuchMusic.ar,AR - MuchMusic,https://iptv-epg.org/logos/Argentina/MuchMusic.ar.png
+Musictop.ar,AR - Musictop,https://iptv-epg.org/logos/Argentina/Musictop.ar.png
+MasChic.ar,AR - Más Chic,https://iptv-epg.org/logos/Argentina/MasChic.ar.png
+NatGeoKids.ar,AR - Nat Geo Kids,https://iptv-epg.org/logos/Argentina/NatGeoKids.ar.png
+NationalGeographic.ar,AR - National Geographic,https://iptv-epg.org/logos/Argentina/NationalGeographic.ar.png
+NationalGeographicWild.ar,AR - National Geographic Wild,https://iptv-epg.org/logos/Argentina/NationalGeographicWild.ar.png
+NBATV.ar,AR - NBA TV,https://iptv-epg.org/logos/Argentina/NBATV.ar.png
+NetTV.ar,AR - Net TV,https://iptv-epg.org/logos/Argentina/NetTV.ar.png
+Nick2.ar,AR - Nick 2,https://iptv-epg.org/logos/Argentina/Nick2.ar.png
+NickJr..ar,AR - Nick Jr.,https://iptv-epg.org/logos/Argentina/NickJr..ar.png
+NickToons.ar,AR - NickToons,https://iptv-epg.org/logos/Argentina/NickToons.ar.png
+Pakapaka.ar,AR - Pakapaka,https://iptv-epg.org/logos/Argentina/Pakapaka.ar.png
+ParamountNetwork.ar,AR - Paramount Network,https://iptv-epg.org/logos/Argentina/ParamountNetwork.ar.png
+Pasiones.ar,AR - Pasiones,https://iptv-epg.org/logos/Argentina/Pasiones.ar.png
+PenthouseGold.ar,AR - Penthouse Gold,https://iptv-epg.org/logos/Argentina/PenthouseGold.ar.png
+Playboy.ar,AR - Playboy,https://iptv-epg.org/logos/Argentina/Playboy.ar.png
+Quiero.ar,AR - Quiero,https://iptv-epg.org/logos/Argentina/Quiero.ar.png
+RaiItalia.ar,AR - Rai Italia,https://iptv-epg.org/logos/Argentina/RaiItalia.ar.png
+RussiaToday.ar,AR - Russia Today,https://iptv-epg.org/logos/Argentina/RussiaToday.ar.png
+SmithsonianChannel.ar,AR - Smithsonian Channel,https://iptv-epg.org/logos/Argentina/SmithsonianChannel.ar.png
+Sony.ar,AR - Sony,https://iptv-epg.org/logos/Argentina/Sony.ar.png
+Space.ar,AR - Space,https://iptv-epg.org/logos/Argentina/Space.ar.png
+StarAction(Oeste).ar,AR - Star Action (Oeste),https://iptv-epg.org/logos/Argentina/StarAction%28Oeste%29.ar.png
+StarAction.ar,AR - Star Action,https://iptv-epg.org/logos/Argentina/StarAction.ar.png
+StarChannel.ar,AR - Star Channel,https://iptv-epg.org/logos/Argentina/StarChannel.ar.png
+StarCinema.ar,AR - Star Cinema,https://iptv-epg.org/logos/Argentina/StarCinema.ar.png
+StarClassics.ar,AR - Star Classics,https://iptv-epg.org/logos/Argentina/StarClassics.ar.png
+StarComedy.ar,AR - Star Comedy,https://iptv-epg.org/logos/Argentina/StarComedy.ar.png
+StarFun(Oeste).ar,AR - Star Fun (Oeste),https://iptv-epg.org/logos/Argentina/StarFun%28Oeste%29.ar.png
+StarFun.ar,AR - Star Fun,https://iptv-epg.org/logos/Argentina/StarFun.ar.png
+StarHits.ar,AR - Star Hits,https://iptv-epg.org/logos/Argentina/StarHits.ar.png
+StarLife.ar,AR - Star Life,https://iptv-epg.org/logos/Argentina/StarLife.ar.png
+StarSeries(Oeste).ar,AR - Star Series (Oeste),https://iptv-epg.org/logos/Argentina/StarSeries%28Oeste%29.ar.png
+StarSeries.ar,AR - Star Series,https://iptv-epg.org/logos/Argentina/StarSeries.ar.png
+StudioUniversal.ar,AR - Studio Universal,https://iptv-epg.org/logos/Argentina/StudioUniversal.ar.png
+Syfy.ar,AR - Syfy,https://iptv-epg.org/logos/Argentina/Syfy.ar.png
+TaTeTi.ar,AR - TaTeTi,https://iptv-epg.org/logos/Argentina/TaTeTi.ar.png
+TBS.ar,AR - TBS,https://iptv-epg.org/logos/Argentina/TBS.ar.png
+TCM.ar,AR - TCM,https://iptv-epg.org/logos/Argentina/TCM.ar.png
+TECtv.ar,AR - TECtv,https://iptv-epg.org/logos/Argentina/TECtv.ar.png
+Telediario.ar,AR - Telediario,https://iptv-epg.org/logos/Argentina/Telediario.ar.png
+Telefe.ar,AR - Telefe,https://iptv-epg.org/logos/Argentina/Telefe.ar.png
+TelefeCordoba.ar,AR - Telefe Córdoba,https://iptv-epg.org/logos/Argentina/TelefeCordoba.ar.png
+TelefeRosario.ar,AR - Telefe Rosario,https://iptv-epg.org/logos/Argentina/TelefeRosario.ar.png
+TelefeSantaFe.ar,AR - Telefe Santa Fe,https://iptv-epg.org/logos/Argentina/TelefeSantaFe.ar.png
+Telehit.ar,AR - Telehit,https://iptv-epg.org/logos/Argentina/Telehit.ar.png
+Telemax.ar,AR - Telemax,https://iptv-epg.org/logos/Argentina/Telemax.ar.png
+TelemundoInternacional.ar,AR - Telemundo Internacional,https://iptv-epg.org/logos/Argentina/TelemundoInternacional.ar.png
+teleSUR.ar,AR - teleSUR,https://iptv-epg.org/logos/Argentina/teleSUR.ar.png
+TelevisionPublica.ar,AR - Televisión Pública,https://iptv-epg.org/logos/Argentina/TelevisionPublica.ar.png
+TierraMiaTV.ar,AR - Tierra Mía TV,https://iptv-epg.org/logos/Argentina/TierraMiaTV.ar.png
+TLC.ar,AR - TLC,https://iptv-epg.org/logos/Argentina/TLC.ar.png
+TLNovelas.ar,AR - TLNovelas,https://iptv-epg.org/logos/Argentina/TLNovelas.ar.png
+TN.ar,AR - TN,https://iptv-epg.org/logos/Argentina/TN.ar.png
+TNT.ar,AR - TNT,https://iptv-epg.org/logos/Argentina/TNT.ar.png
+TNTSeries.ar,AR - TNT Series,https://iptv-epg.org/logos/Argentina/TNTSeries.ar.png
+Tooncast.ar,AR - Tooncast,https://iptv-epg.org/logos/Argentina/Tooncast.ar.png
+TruTV.ar,AR - TruTV,https://iptv-epg.org/logos/Argentina/TruTV.ar.png
+TurismoVisionArgentina.ar,AR - Turismo Visión Argentina,https://iptv-epg.org/logos/Argentina/TurismoVisionArgentina.ar.png
+TV5.ar,AR - TV 5,https://iptv-epg.org/logos/Argentina/TV5.ar.png
+TVCiudad.ar,AR - TV Ciudad,https://iptv-epg.org/logos/Argentina/TVCiudad.ar.png
+TVCortos.ar,AR - TV Cortos,https://iptv-epg.org/logos/Argentina/TVCortos.ar.png
+TVE.ar,AR - TVE,https://iptv-epg.org/logos/Argentina/TVE.ar.png
+TVGlobo.ar,AR - TV Globo,https://iptv-epg.org/logos/Argentina/TVGlobo.ar.png
+TVNacionalUruguay.ar,AR - TV Nacional Uruguay,https://iptv-epg.org/logos/Argentina/TVNacionalUruguay.ar.png
+TVNCHILE.ar,AR - TVN CHILE,https://iptv-epg.org/logos/Argentina/TVNCHILE.ar.png
+TVPublica.ar,AR - TV Publica,https://iptv-epg.org/logos/Argentina/TVPublica.ar.png
+TyCSports2.ar,AR - TyC Sports 2,https://iptv-epg.org/logos/Argentina/TyCSports2.ar.png
+UniversalTV.ar,AR - Universal TV,https://iptv-epg.org/logos/Argentina/UniversalTV.ar.png
+UruguayNaturalTV.ar,AR - Uruguay Natural TV,https://iptv-epg.org/logos/Argentina/UruguayNaturalTV.ar.png
+Venus.ar,AR - Venus,https://iptv-epg.org/logos/Argentina/Venus.ar.png
+VH1.ar,AR - VH1,https://iptv-epg.org/logos/Argentina/VH1.ar.png
+VH1MegaHits.ar,AR - VH1 Mega Hits,https://iptv-epg.org/logos/Argentina/VH1MegaHits.ar.png
+Viajar.ar,AR - Viajar,https://iptv-epg.org/logos/Argentina/Viajar.ar.png
+Volver.ar,AR - Volver,https://iptv-epg.org/logos/Argentina/Volver.ar.png
+VTV.ar,AR - VTV,https://iptv-epg.org/logos/Argentina/VTV.ar.png
+WarnerChannel.ar,AR - Warner Channel,https://iptv-epg.org/logos/Argentina/WarnerChannel.ar.png
+ZooMoo.ar,AR - ZooMoo,https://iptv-epg.org/logos/Argentina/ZooMoo.ar.png
+AmericaTV.ar,AR - América TV,https://iptv-epg.org/logos/Argentina/AmericaTV.ar.png
+CanalDeLaMusica.ar,AR - Canal de la Música,https://iptv-epg.org/logos/Argentina/CanalDeLaMusica.ar.png
+KZO.ar,AR - KZO,https://iptv-epg.org/logos/Argentina/KZO.ar.png
+ESPNExtra.ar,AR - ESPN Extra,https://iptv-epg.org/logos/Argentina/ESPNExtra.ar.png
+Dreamworks.ar,AR - Dreamworks,https://iptv-epg.org/logos/Argentina/Dreamworks.ar.png
+ESPN.ar,AR - ESPN,https://iptv-epg.org/logos/Argentina/ESPN.ar.png
+ESPN2.ar,AR - ESPN 2,https://iptv-epg.org/logos/Argentina/ESPN2.ar.png
+ESPN3.ar,AR - ESPN 3,https://iptv-epg.org/logos/Argentina/ESPN3.ar.png
+ESPN4.ar,AR - ESPN 4,https://iptv-epg.org/logos/Argentina/ESPN4.ar.png
+TyCSports.ar,AR - TyC Sports,https://iptv-epg.org/logos/Argentina/TyCSports.ar.png
+FOX Sports,FOX Sports,
+FOXSports2.ar,AR - FOX Sports 2,https://iptv-epg.org/logos/Argentina/FOXSports2.ar.png
+FOXSports3.ar,AR - FOX Sports 3,https://iptv-epg.org/logos/Argentina/FOXSports3.ar.png
+GolfChannel.ar,AR - Golf Channel,https://iptv-epg.org/logos/Argentina/GolfChannel.ar.png
+ESPNSur.ar,AR - ESPN Sur,
+ESPNSur2.ar,AR - ESPN Sur 2,
+ESPNSur3.ar,AR - ESPN Sur 3,
+ESPNSur4.ar,AR - ESPN Sur 4,

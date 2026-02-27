@@ -792,30 +792,6 @@
     <display-name>Sky Sports 16 UHD</display-name>
     <icon src="https://i.postimg.cc/Hs8Wx6Fd/skylaliga.webp" />
   </channel>
-  <channel id="Sky Sports 24">
-    <display-name>Sky Sports 24 SD</display-name>
-    <display-name>Sky Sports 24 HD</display-name>
-    <display-name>Sky Sports 24 4K</display-name>
-    <display-name>Sky Sports 24 FHD</display-name>
-    <display-name>Sky Sports 24 UHD</display-name>
-    <icon src="https://i.postimg.cc/9MfCjbGy/skybundesliga.webp" />
-  </channel>
-  <channel id="FOX SPORTS PREMIUM">
-    <display-name>FOX SPORTS PREMIUM SD</display-name>
-    <display-name>FOX SPORTS PREMIUM HD</display-name>
-    <display-name>FOX SPORTS PREMIUM 4K</display-name>
-    <display-name>FOX SPORTS PREMIUM FHD</display-name>
-    <display-name>FOX SPORTS PREMIUM UHD</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/channel/logo/uot48c1743576677.png" />
-  </channel>
-  <channel id="Azteca 7 (XHLAT) Nuevo Laredo MX">
-    <display-name>Azteca 7 (XHLAT) Nuevo Laredo MX SD</display-name>
-    <display-name>Azteca 7 (XHLAT) Nuevo Laredo MX HD</display-name>
-    <display-name>Azteca 7 (XHLAT) Nuevo Laredo MX 4K</display-name>
-    <display-name>Azteca 7 (XHLAT) Nuevo Laredo MX FHD</display-name>
-    <display-name>Azteca 7 (XHLAT) Nuevo Laredo MX UHD</display-name>
-    <icon src="https://i.postimg.cc/Gpsd3Ktr/azteca7.webp" />
-  </channel>
   <channel id="TyC Sports">
     <display-name>TyC Sports SD</display-name>
     <display-name>TyC Sports HD</display-name>
@@ -831,182 +807,6 @@
     <display-name>ESPN.ar FHD</display-name>
     <display-name>ESPN.ar UHD</display-name>
     <icon src="https://i.postimg.cc/wTSqsnNT/espnar.webp" />
-  </channel>
-  <channel id="ESPN HD.ar">
-    <display-name>ESPN HD.ar SD</display-name>
-    <display-name>ESPN HD.ar HD</display-name>
-    <display-name>ESPN HD.ar 4K</display-name>
-    <display-name>ESPN HD.ar FHD</display-name>
-    <display-name>ESPN HD.ar UHD</display-name>
-    <icon src="https://i.postimg.cc/wTSqsnNT/espnar.webp" />
-  </channel>
-  <channel id="ESPN 2 HD.ar">
-    <display-name>ESPN 2 HD.ar SD</display-name>
-    <display-name>ESPN 2 HD.ar HD</display-name>
-    <display-name>ESPN 2 HD.ar 4K</display-name>
-    <display-name>ESPN 2 HD.ar FHD</display-name>
-    <display-name>ESPN 2 HD.ar UHD</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png" />
-  </channel>
-  <channel id="ESPN 2.ar">
-    <display-name>ESPN 2.ar SD</display-name>
-    <display-name>ESPN 2.ar HD</display-name>
-    <display-name>ESPN 2.ar 4K</display-name>
-    <display-name>ESPN 2.ar FHD</display-name>
-    <display-name>ESPN 2.ar UHD</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png" />
-  </channel>
-  <channel id="ESPN 3 HD.ar">
-    <display-name>ESPN 3 HD.ar SD</display-name>
-    <display-name>ESPN 3 HD.ar HD</display-name>
-    <display-name>ESPN 3 HD.ar 4K</display-name>
-    <display-name>ESPN 3 HD.ar FHD</display-name>
-    <display-name>ESPN 3 HD.ar UHD</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png" />
-  </channel>
-  <channel id="ESPN 3.ar">
-    <display-name>ESPN 3.ar SD</display-name>
-    <display-name>ESPN 3.ar HD</display-name>
-    <display-name>ESPN 3.ar 4K</display-name>
-    <display-name>ESPN 3.ar FHD</display-name>
-    <display-name>ESPN 3.ar UHD</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png" />
-  </channel>
-  <channel id="ESPN 4 HD.ar">
-    <display-name>ESPN 4 HD.ar SD</display-name>
-    <display-name>ESPN 4 HD.ar HD</display-name>
-    <display-name>ESPN 4 HD.ar 4K</display-name>
-    <display-name>ESPN 4 HD.ar FHD</display-name>
-    <display-name>ESPN 4 HD.ar UHD</display-name>
-    
-  </channel>
-  <channel id="ESPN 6 HD.ar">
-    <display-name>ESPN 6 HD.ar SD</display-name>
-    <display-name>ESPN 6 HD.ar HD</display-name>
-    <display-name>ESPN 6 HD.ar 4K</display-name>
-    <display-name>ESPN 6 HD.ar FHD</display-name>
-    <display-name>ESPN 6 HD.ar UHD</display-name>
-    
-  </channel>
-  <channel id="ESPN PREMIUM HD.ar">
-    <display-name>ESPN PREMIUM HD.ar SD</display-name>
-    <display-name>ESPN PREMIUM HD.ar HD</display-name>
-    <display-name>ESPN PREMIUM HD.ar 4K</display-name>
-    <display-name>ESPN PREMIUM HD.ar FHD</display-name>
-    <display-name>ESPN PREMIUM HD.ar UHD</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" />
-  </channel>
-  <channel id="ESPN PREMIUM.ar">
-    <display-name>ESPN PREMIUM.ar SD</display-name>
-    <display-name>ESPN PREMIUM.ar HD</display-name>
-    <display-name>ESPN PREMIUM.ar 4K</display-name>
-    <display-name>ESPN PREMIUM.ar FHD</display-name>
-    <display-name>ESPN PREMIUM.ar UHD</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" />
-  </channel>
-  <channel id="FOX SPORTS HD.ar">
-    <display-name>FOX SPORTS HD.ar SD</display-name>
-    <display-name>FOX SPORTS HD.ar HD</display-name>
-    <display-name>FOX SPORTS HD.ar 4K</display-name>
-    <display-name>FOX SPORTS HD.ar FHD</display-name>
-    <display-name>FOX SPORTS HD.ar UHD</display-name>
-    <icon src="https://i.postimg.cc/9XDHtJCW/ec5xf51707916511.png" />
-  </channel>
-  <channel id="FOX SPORTS.ar">
-    <display-name>FOX SPORTS.ar SD</display-name>
-    <display-name>FOX SPORTS.ar HD</display-name>
-    <display-name>FOX SPORTS.ar 4K</display-name>
-    <display-name>FOX SPORTS.ar FHD</display-name>
-    <display-name>FOX SPORTS.ar UHD</display-name>
-    <icon src="https://i.postimg.cc/9XDHtJCW/ec5xf51707916511.png" />
-  </channel>
-  <channel id="FOX SPORTS 2 HD.ar">
-    <display-name>FOX SPORTS 2 HD.ar SD</display-name>
-    <display-name>FOX SPORTS 2 HD.ar HD</display-name>
-    <display-name>FOX SPORTS 2 HD.ar 4K</display-name>
-    <display-name>FOX SPORTS 2 HD.ar FHD</display-name>
-    <display-name>FOX SPORTS 2 HD.ar UHD</display-name>
-    <icon src="https://i.postimg.cc/y6g2SxyH/d96btm1707916453.png" />
-  </channel>
-  <channel id="FOX SPORTS 2.ar">
-    <display-name>FOX SPORTS 2.ar SD</display-name>
-    <display-name>FOX SPORTS 2.ar HD</display-name>
-    <display-name>FOX SPORTS 2.ar 4K</display-name>
-    <display-name>FOX SPORTS 2.ar FHD</display-name>
-    <display-name>FOX SPORTS 2.ar UHD</display-name>
-    <icon src="https://i.postimg.cc/y6g2SxyH/d96btm1707916453.png" />
-  </channel>
-  <channel id="FOX SPORTS 3.ar">
-    <display-name>FOX SPORTS 3.ar SD</display-name>
-    <display-name>FOX SPORTS 3.ar HD</display-name>
-    <display-name>FOX SPORTS 3.ar 4K</display-name>
-    <display-name>FOX SPORTS 3.ar FHD</display-name>
-    <display-name>FOX SPORTS 3.ar UHD</display-name>
-    <icon src="https://i.postimg.cc/25SKjSSs/cyfsdc1707916479.png" />
-  </channel>
-  <channel id="TNT SPORTS HD.ar">
-    <display-name>TNT SPORTS HD.ar SD</display-name>
-    <display-name>TNT SPORTS HD.ar HD</display-name>
-    <display-name>TNT SPORTS HD.ar 4K</display-name>
-    <display-name>TNT SPORTS HD.ar FHD</display-name>
-    <display-name>TNT SPORTS HD.ar UHD</display-name>
-    <icon src="https://i.postimg.cc/ryNxjCJb/tntsportspremium.webp" />
-  </channel>
-  <channel id="TNT SPORTS.ar">
-    <display-name>TNT SPORTS.ar SD</display-name>
-    <display-name>TNT SPORTS.ar HD</display-name>
-    <display-name>TNT SPORTS.ar 4K</display-name>
-    <display-name>TNT SPORTS.ar FHD</display-name>
-    <display-name>TNT SPORTS.ar UHD</display-name>
-    <icon src="https://i.postimg.cc/ryNxjCJb/tntsportspremium.webp" />
-  </channel>
-  <channel id="TV PUBLICA HD.ar">
-    <display-name>TV PUBLICA HD.ar SD</display-name>
-    <display-name>TV PUBLICA HD.ar HD</display-name>
-    <display-name>TV PUBLICA HD.ar 4K</display-name>
-    <display-name>TV PUBLICA HD.ar FHD</display-name>
-    <display-name>TV PUBLICA HD.ar UHD</display-name>
-    <icon src="https://i.postimg.cc/XJwHQGHg/tvp.webp" />
-  </channel>
-  <channel id="TV PUBLICA.ar">
-    <display-name>TV PUBLICA.ar SD</display-name>
-    <display-name>TV PUBLICA.ar HD</display-name>
-    <display-name>TV PUBLICA.ar 4K</display-name>
-    <display-name>TV PUBLICA.ar FHD</display-name>
-    <display-name>TV PUBLICA.ar UHD</display-name>
-    <icon src="https://i.postimg.cc/XJwHQGHg/tvp.webp" />
-  </channel>
-  <channel id="Fox Deportes HD">
-    <display-name>Fox Deportes HD SD</display-name>
-    <display-name>Fox Deportes HD HD</display-name>
-    <display-name>Fox Deportes HD 4K</display-name>
-    <display-name>Fox Deportes HD FHD</display-name>
-    <display-name>Fox Deportes HD UHD</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png" />
-  </channel>
-  <channel id="Univision Network HD">
-    <display-name>Univision Network HD SD</display-name>
-    <display-name>Univision Network HD HD</display-name>
-    <display-name>Univision Network HD 4K</display-name>
-    <display-name>Univision Network HD FHD</display-name>
-    <display-name>Univision Network HD UHD</display-name>
-    <icon src="https://i.postimg.cc/j2zNYRHk/univision.webp" />
-  </channel>
-  <channel id="UniMas">
-    <display-name>UniMas SD</display-name>
-    <display-name>UniMas HD</display-name>
-    <display-name>UniMas 4K</display-name>
-    <display-name>UniMas FHD</display-name>
-    <display-name>UniMas UHD</display-name>
-    <icon src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/unimas-1200-x-674-network-logo.png" />
-  </channel>
-  <channel id="UNIVERSO HD">
-    <display-name>UNIVERSO HD SD</display-name>
-    <display-name>UNIVERSO HD HD</display-name>
-    <display-name>UNIVERSO HD 4K</display-name>
-    <display-name>UNIVERSO HD FHD</display-name>
-    <display-name>UNIVERSO HD UHD</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/channel/logo/Universo.png" />
   </channel>
 	<programme start="20260227060900 +0100" stop="20260227070100 +0100" channel="Movistar Plus+">
     <title>Moncloa: cuatro estaciones · Invierno</title>
@@ -31636,6 +31436,506 @@
     <title>Real Madrid vs. Getafe</title>
     <desc>· Desde el estadio Santiago Bernabéu en la ciudad de Madrid, España, se enfrentan los equipos Real Madrid Club de Fútbol versus Getafe Club de Fútbol de Madrid.</desc>
 	</programme>
+	<programme start="20260227013000 +0100" stop="20260227033000 +0100" channel="TyC Sports">
+    <title>Presión alta</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260227033000 +0100" stop="20260227050000 +0100" channel="TyC Sports">
+    <title>La noche de TyC Sports</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260227050000 +0100" stop="20260227060000 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260227060000 +0100" stop="20260227070000 +0100" channel="TyC Sports">
+    <title>Uno Contra Uno</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260227070000 +0100" stop="20260227090000 +0100" channel="TyC Sports">
+    <title>Sarmiento (J) vs. Unión (SF) · Fútbol Argentino Primera División</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260227090000 +0100" stop="20260227110000 +0100" channel="TyC Sports">
+    <title>Presión alta</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260227110000 +0100" stop="20260227120000 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260227120000 +0100" stop="20260227140000 +0100" channel="TyC Sports">
+    <title>Estudiantes (RC) vs. Huracán · Fútbol Argentino Primera División</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260227140000 +0100" stop="20260227150000 +0100" channel="TyC Sports">
+    <title>Superfútbol</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260227150000 +0100" stop="20260227160000 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260227160000 +0100" stop="20260227180000 +0100" channel="TyC Sports">
+    <title>Dale al medio</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260227180000 +0100" stop="20260227200000 +0100" channel="TyC Sports">
+    <title>Líbero</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260227200000 +0100" stop="20260227230000 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260227230000 +0100" stop="20260228012000 +0100" channel="TyC Sports">
+    <title>Presión alta</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260228012000 +0100" stop="20260228033000 +0100" channel="TyC Sports">
+    <title>River Plate vs. Banfield · Fútbol Argentino Primera División</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260228033000 +0100" stop="20260228043000 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260228043000 +0100" stop="20260228063000 +0100" channel="TyC Sports">
+    <title>Gimnasia y Esgrima (M) vs. Independiente · Fútbol Argentino Primera División</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260228063000 +0100" stop="20260228083000 +0100" channel="TyC Sports">
+    <title>San Lorenzo vs. Instituto · Fútbol Argentino Primera División</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260228083000 +0100" stop="20260228094000 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260228094000 +0100" stop="20260228100000 +0100" channel="TyC Sports">
+    <title>Presión alta</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260228100000 +0100" stop="20260228110000 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260228110000 +0100" stop="20260228120000 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260228120000 +0100" stop="20260228130000 +0100" channel="TyC Sports">
+    <title>Uno Contra Uno</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260228130000 +0100" stop="20260228140000 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260228140000 +0100" stop="20260228160000 +0100" channel="TyC Sports">
+    <title>Boca Juniors vs. Gimnasia y Esgrima de Chivilcoy · Fútbol Copa Argentina</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260228160000 +0100" stop="20260228170000 +0100" channel="TyC Sports">
+    <title>Hay Equipo</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260228170000 +0100" stop="20260228205000 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260228205000 +0100" stop="20260228214000 +0100" channel="TyC Sports">
+    <title>Club Miami</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260228214000 +0100" stop="20260228235500 +0100" channel="TyC Sports">
+    <title>Boca vs. Gimnasia y Esgrima de Mendoza: Boca Juniors vs. Gimnasia y Esgrima (M) · Fútbol Argentino Primera División</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260228235500 +0100" stop="20260301020000 +0100" channel="TyC Sports">
+    <title>Independiente vs. Central Córdoba (SE) · Fútbol Argentino Primera División</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260301020000 +0100" stop="20260301040000 +0100" channel="TyC Sports">
+    <title>Talleres (C) vs. San Lorenzo · Fútbol Argentino Primera División</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260301040000 +0100" stop="20260301070000 +0100" channel="TyC Sports">
+    <title>Yamil Peralta vs. Juan Díaz; Moussa Gholam vs. Melving López; Guido Schramm vs. Paul Wall · Boxeo de primera</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260301070000 +0100" stop="20260301080000 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260301080000 +0100" stop="20260301103000 +0100" channel="TyC Sports">
+    <title>Talleres (C) vs. San Lorenzo · Fútbol Argentino Primera División</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260301103000 +0100" stop="20260301110000 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260301110000 +0100" stop="20260301113000 +0100" channel="TyC Sports">
+    <title>Los Especiales de TyC Sports</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260301113000 +0100" stop="20260301120000 +0100" channel="TyC Sports">
+    <title>Noveno Chukker</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260301120000 +0100" stop="20260301140000 +0100" channel="TyC Sports">
+    <title>Independiente vs. Central Córdoba (SE) · Fútbol Argentino Primera División</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260301140000 +0100" stop="20260301170000 +0100" channel="TyC Sports">
+    <title>Carburando Categorías · PROCAR - Finales</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260301170000 +0100" stop="20260301190000 +0100" channel="TyC Sports">
+    <title>Talleres (C) vs. San Lorenzo · Fútbol Argentino Primera División</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260301190000 +0100" stop="20260301205500 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260301205500 +0100" stop="20260301230000 +0100" channel="TyC Sports">
+    <title>Newell's vs. Rosario Central · Fútbol Argentino Primera División</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260301230000 +0100" stop="20260301231000 +0100" channel="TyC Sports">
+    <title>Club Miami</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260301231000 +0100" stop="20260302011000 +0100" channel="TyC Sports">
+    <title>Defensa y Justicia vs. Lanús · Fútbol Argentino Primera División</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260302011000 +0100" stop="20260302012500 +0100" channel="TyC Sports">
+    <title>Club Miami</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260302012500 +0100" stop="20260302033000 +0100" channel="TyC Sports">
+    <title>Instituto vs. Unión (SF) · Fútbol Argentino Primera División</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260302033000 +0100" stop="20260302050000 +0100" channel="TyC Sports">
+    <title>Paso a Paso</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260302050000 +0100" stop="20260302060000 +0100" channel="TyC Sports">
+    <title>Club Miami</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260302060000 +0100" stop="20260302063000 +0100" channel="TyC Sports">
+    <title>Carburando PGM</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260302063000 +0100" stop="20260302073000 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260302073000 +0100" stop="20260302093000 +0100" channel="TyC Sports">
+    <title>Tigre vs. Gimnasia (LP) · Fútbol Argentino Primera División</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260302093000 +0100" stop="20260302113000 +0100" channel="TyC Sports">
+    <title>Argentinos Juniors vs. Barracas Central · Fútbol Argentino Primera División</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260302113000 +0100" stop="20260302120000 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260302120000 +0100" stop="20260302123000 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260302123000 +0100" stop="20260302140000 +0100" channel="TyC Sports">
+    <title>Paso a Paso</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260302140000 +0100" stop="20260302150000 +0100" channel="TyC Sports">
+    <title>Superfútbol</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260302150000 +0100" stop="20260302160000 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260302160000 +0100" stop="20260302180000 +0100" channel="TyC Sports">
+    <title>Dale al medio</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260302180000 +0100" stop="20260302200000 +0100" channel="TyC Sports">
+    <title>Líbero</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260302200000 +0100" stop="20260302222000 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260302222000 +0100" stop="20260302231000 +0100" channel="TyC Sports">
+    <title>Sportia</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+	<programme start="20260302231000 +0100" stop="20260303011500 +0100" channel="TyC Sports">
+    <title>Deportivo Riestra vs. Platense · Fútbol Argentino Primera División</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260226050000 +0000" stop="20260226060000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260226060000 +0000" stop="20260226070000 +0000" channel="ESPN.ar">
+    <title lang="es">ESPN F10</title>
+    <desc lang="es">No hay mejor manera que terminar el día bien informado con el repaso de todo lo sucedido en materia fútbol. Sumate al equipo liderado por Germán Paoloski para encenderte con los debates de un gran panel de especialistas.</desc>
+  </programme>
+  <programme start="20260226070000 +0000" stop="20260226080000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260226080000 +0000" stop="20260226090000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260226090000 +0000" stop="20260226100000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260226100000 +0000" stop="20260226110000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260226110000 +0000" stop="20260226120000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260226120000 +0000" stop="20260226130000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260226130000 +0000" stop="20260226140000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260226140000 +0000" stop="20260226150000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260226150000 +0000" stop="20260226180000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260226180000 +0000" stop="20260226200000 +0000" channel="ESPN.ar">
+    <title lang="es">ESPN F12</title>
+    <desc lang="es">Espacio informativo para analizar todo lo que sucede en el ámbito local e internacional, con periodistas en vivo desde los entrenamientos de los más destacados equipos del fútbol argentino.</desc>
+  </programme>
+  <programme start="20260226200000 +0000" stop="20260226213000 +0000" channel="ESPN.ar">
+    <title lang="es">ESPN F90 - Primera edición</title>
+    <desc lang="es">Primera edición
+Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional. El debate más picante, las mejores entrevistas y el más profundo análisis.</desc>
+  </programme>
+  <programme start="20260226213000 +0000" stop="20260226234000 +0000" channel="ESPN.ar">
+    <title lang="es">Stuttgart (Ale) vs. Celtic (Esc)</title>
+    <desc lang="es">Vuelta, MHPArena
+Disfruta las emociones de la 55º edición de la UEFA Europa League, la segunda competición más importante de fútbol en la región que otorga un lugar en la UEFA Champions League al campeón.</desc>
+  </programme>
+  <programme start="20260226234000 +0000" stop="20260227015500 +0000" channel="ESPN.ar">
+    <title lang="es">Celta de Vigo (Esp) vs. PAOK (Gre)</title>
+    <desc lang="es">Vuelta, Estadio de Abanca Balaídos
+Disfruta las emociones de la 55º edición de la UEFA Europa League, la segunda competición más importante de fútbol en la región que otorga un lugar en la UEFA Champions League al campeón.</desc>
+  </programme>
+  <programme start="20260227015500 +0000" stop="20260227041500 +0000" channel="ESPN.ar">
+    <title lang="es">River Plate vs. Banfield</title>
+    <desc lang="es">Relato
+El relato en vivo de los partidos más destacados de la Primera División del fútbol argentino.</desc>
+  </programme>
+  <programme start="20260227041500 +0000" stop="20260227064500 +0000" channel="ESPN.ar">
+    <title lang="es">Flamengo (Bra) vs. Lanús (Arg)</title>
+    <desc lang="es">Vuelta
+Vive las emociones de la 34º edición de la Recopa Sudamericana, torneo de CONMEBOL que enfrenta al campeón de la Copa Libertadores y al campeón de la Copa Sudamericana.</desc>
+  </programme>
+  <programme start="20260227064500 +0000" stop="20260227080000 +0000" channel="ESPN.ar">
+    <title lang="es">ESPN F10</title>
+    <desc lang="es">No hay mejor manera que terminar el día bien informado con el repaso de todo lo sucedido en materia fútbol. Sumate al equipo liderado por Germán Paoloski para encenderte con los debates de un gran panel de especialistas.</desc>
+  </programme>
+  <programme start="20260227080000 +0000" stop="20260227090000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+  </programme>
+  <programme start="20260227090000 +0000" stop="20260227100000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260227100000 +0000" stop="20260227110000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260227110000 +0000" stop="20260227120000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260227120000 +0000" stop="20260227130000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260227130000 +0000" stop="20260227140000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260227140000 +0000" stop="20260227180000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260227180000 +0000" stop="20260227200000 +0000" channel="ESPN.ar">
+    <title lang="es">ESPN F12</title>
+    <desc lang="es">Espacio informativo para analizar todo lo que sucede en el ámbito local e internacional, con periodistas en vivo desde los entrenamientos de los más destacados equipos del fútbol argentino.</desc>
+  </programme>
+  <programme start="20260227200000 +0000" stop="20260227220000 +0000" channel="ESPN.ar">
+    <title lang="es">ESPN F90 - Primera edición</title>
+    <desc lang="es">Primera edición
+Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional. El debate más picante, las mejores entrevistas y el más profundo análisis.</desc>
+  </programme>
+  <programme start="20260227220000 +0000" stop="20260227233000 +0000" channel="ESPN.ar">
+    <title lang="es">ESPN F3</title>
+    <desc lang="es">Martín Souto conduce un espacio que aborda la agenda futbolística de forma descontracturada y junto a diversos expertos invitados. Los panelistas deberán elegir sus podios de mejores futbolistas, equipos, jugadas, goles y mucho más.</desc>
+  </programme>
+  <programme start="20260227233000 +0000" stop="20260227235000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260227235000 +0000" stop="20260228015500 +0000" channel="ESPN.ar">
+    <title lang="es">Wolverhampton Wanderers vs. Aston Villa</title>
+    <desc lang="es">Fecha 28, Molineux Stadium
+Vive los partidos de la 34º edición de la máxima competición profesional de fútbol en Inglaterra con un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
+  </programme>
+  <programme start="20260228015500 +0000" stop="20260228033000 +0000" channel="ESPN.ar">
+    <title lang="es">Equipo F</title>
+    <desc lang="es">Gustavo López conduce un panel lleno de figuras para analizar y debatir sobre el fútbol argentino, más la Conmebol Libertadores y la Conmebol Sudamericana.</desc>
+  </programme>
+  <programme start="20260228033000 +0000" stop="20260228050000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260228050000 +0000" stop="20260228060000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260228060000 +0000" stop="20260228070000 +0000" channel="ESPN.ar">
+    <title lang="es">ESPN F10</title>
+    <desc lang="es">No hay mejor manera que terminar el día bien informado con el repaso de todo lo sucedido en materia fútbol. Sumate al equipo liderado por Germán Paoloski para encenderte con los debates de un gran panel de especialistas.</desc>
+  </programme>
+  <programme start="20260228070000 +0000" stop="20260228142000 +0000" channel="ESPN.ar">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20260228142000 +0000" stop="20260228152000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+  </programme>
+  <programme start="20260228152000 +0000" stop="20260228162000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+  </programme>
+  <programme start="20260228162000 +0000" stop="20260228182500 +0000" channel="ESPN.ar">
+    <title lang="es">Bournemouth vs. Sunderland</title>
+    <desc lang="es">Vitality Stadium
+Vive los partidos de la 34º edición de la máxima competición profesional de fútbol en Inglaterra con un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
+  </programme>
+  <programme start="20260228182500 +0000" stop="20260228185000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter+</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260228185000 +0000" stop="20260228205500 +0000" channel="ESPN.ar">
+    <title lang="es">Liverpool vs. West Ham Utd.</title>
+    <desc lang="es">Fecha 28, Anfield
+Vive los partidos de la 34º edición de la máxima competición profesional de fútbol en Inglaterra con un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
+  </programme>
+  <programme start="20260228205500 +0000" stop="20260228212000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter+</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260228212000 +0000" stop="20260228232500 +0000" channel="ESPN.ar">
+    <title lang="es">Leeds Utd. vs. Manchester City</title>
+    <desc lang="es">Fecha 28, Elland Road
+Vive los partidos de la 34º edición de la máxima competición profesional de fútbol en Inglaterra con un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
+  </programme>
+  <programme start="20260228232500 +0000" stop="20260301003000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+  </programme>
+  <programme start="20260301003000 +0000" stop="20260301024500 +0000" channel="ESPN.ar">
+    <title lang="es">Boca Juniors vs. Gimnasia y Esgrima (Mza)</title>
+    <desc lang="es">Relato
+El relato en vivo de los partidos más destacados de la Primera División del fútbol argentino.</desc>
+  </programme>
+  <programme start="20260301024500 +0000" stop="20260301074500 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+  </programme>
+  <programme start="20260301074500 +0000" stop="20260301084500 +0000" channel="ESPN.ar">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20260301084500 +0000" stop="20260301131500 +0000" channel="ESPN.ar">
+    <title lang="es">Gran Premio de Tailandia, Circuito Internacional de Chang</title>
+    <desc lang="es">Moto GP
+Vive las emociones y toda la adrenalina de las carreras de la 78º edición de la Moto GP, la categoría principal del Campeonato Mundial de Motociclismo.</desc>
+  </programme>
+  <programme start="20260301131500 +0000" stop="20260301141800 +0000" channel="ESPN.ar">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20260301141800 +0000" stop="20260301152000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+  </programme>
+  <programme start="20260301152000 +0000" stop="20260301172500 +0000" channel="ESPN.ar">
+    <title lang="es">Cremonese vs. Milan</title>
+    <desc lang="es">Fecha 27, Stadio Giovanni Zini
+Vive los partidos de la 94º edición de la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti.</desc>
+  </programme>
+  <programme start="20260301172500 +0000" stop="20260301175000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter+</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260301175000 +0000" stop="20260301195500 +0000" channel="ESPN.ar">
+    <title lang="es">Manchester Utd. vs. Crystal Palace</title>
+    <desc lang="es">Fecha 28, Old Trafford
+Vive los partidos de la 34º edición de la máxima competición profesional de fútbol en Inglaterra con un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
+  </programme>
+  <programme start="20260301195500 +0000" stop="20260301202000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter+</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+  </programme>
+  <programme start="20260301202000 +0000" stop="20260301222500 +0000" channel="ESPN.ar">
+    <title lang="es">Arsenal vs. Chelsea</title>
+    <desc lang="es">Fecha 28, Emirates Stadium
+Vive los partidos de la 34º edición de la máxima competición profesional de fútbol en Inglaterra con un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
+  </programme>
+  <programme start="20260301222500 +0000" stop="20260302020000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+  </programme>
+  <programme start="20260302020000 +0000" stop="20260302041000 +0000" channel="ESPN.ar">
+    <title lang="es">Instituto vs. Unión</title>
+    <desc lang="es">Grupo A, Estadio Presidente Peron
+Vive los partidos del primer torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
+  </programme>
+  <programme start="20260302041000 +0000" stop="20260302050000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+  </programme>
+  <programme start="20260302050000 +0000" stop="20260302070000 +0000" channel="ESPN.ar">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20260302070000 +0000" stop="20260302083000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+  </programme>
+  <programme start="20260302083000 +0000" stop="20260302100000 +0000" channel="ESPN.ar">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+  </programme>
   <programme start="20260226010000 -0600" stop="20260226030000 -0600" channel="Sky Sports 24">
     <title lang="es">Schalke 04 vs. 1. FC Magdebu</title>
   </programme>
@@ -33690,337 +33990,6 @@ Repetición</title>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8055910_b_v8_aa.jpg" />
     <previously-shown />
   </programme>
-	<programme start="20260227013000 +0100" stop="20260227033000 +0100" channel="TyC Sports">
-    <title>Presión alta</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260227033000 +0100" stop="20260227050000 +0100" channel="TyC Sports">
-    <title>La noche de TyC Sports</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260227050000 +0100" stop="20260227060000 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260227060000 +0100" stop="20260227070000 +0100" channel="TyC Sports">
-    <title>Uno Contra Uno</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260227070000 +0100" stop="20260227090000 +0100" channel="TyC Sports">
-    <title>Sarmiento (J) vs. Unión (SF) · Fútbol Argentino Primera División</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260227090000 +0100" stop="20260227110000 +0100" channel="TyC Sports">
-    <title>Presión alta</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260227110000 +0100" stop="20260227120000 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260227120000 +0100" stop="20260227140000 +0100" channel="TyC Sports">
-    <title>Estudiantes (RC) vs. Huracán · Fútbol Argentino Primera División</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260227140000 +0100" stop="20260227150000 +0100" channel="TyC Sports">
-    <title>Superfútbol</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260227150000 +0100" stop="20260227160000 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260227160000 +0100" stop="20260227180000 +0100" channel="TyC Sports">
-    <title>Dale al medio</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260227180000 +0100" stop="20260227200000 +0100" channel="TyC Sports">
-    <title>Líbero</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260227200000 +0100" stop="20260227230000 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260227230000 +0100" stop="20260228012000 +0100" channel="TyC Sports">
-    <title>Presión alta</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260228012000 +0100" stop="20260228033000 +0100" channel="TyC Sports">
-    <title>River Plate vs. Banfield · Fútbol Argentino Primera División</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260228033000 +0100" stop="20260228043000 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260228043000 +0100" stop="20260228063000 +0100" channel="TyC Sports">
-    <title>Gimnasia y Esgrima (M) vs. Independiente · Fútbol Argentino Primera División</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260228063000 +0100" stop="20260228083000 +0100" channel="TyC Sports">
-    <title>San Lorenzo vs. Instituto · Fútbol Argentino Primera División</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260228083000 +0100" stop="20260228094000 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260228094000 +0100" stop="20260228100000 +0100" channel="TyC Sports">
-    <title>Presión alta</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260228100000 +0100" stop="20260228110000 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260228110000 +0100" stop="20260228120000 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260228120000 +0100" stop="20260228130000 +0100" channel="TyC Sports">
-    <title>Uno Contra Uno</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260228130000 +0100" stop="20260228140000 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260228140000 +0100" stop="20260228160000 +0100" channel="TyC Sports">
-    <title>Boca Juniors vs. Gimnasia y Esgrima de Chivilcoy · Fútbol Copa Argentina</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260228160000 +0100" stop="20260228170000 +0100" channel="TyC Sports">
-    <title>Hay Equipo</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260228170000 +0100" stop="20260228205000 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260228205000 +0100" stop="20260228214000 +0100" channel="TyC Sports">
-    <title>Club Miami</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260228214000 +0100" stop="20260228235500 +0100" channel="TyC Sports">
-    <title>Boca vs. Gimnasia y Esgrima de Mendoza: Boca Juniors vs. Gimnasia y Esgrima (M) · Fútbol Argentino Primera División</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260228235500 +0100" stop="20260301020000 +0100" channel="TyC Sports">
-    <title>Independiente vs. Central Córdoba (SE) · Fútbol Argentino Primera División</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260301020000 +0100" stop="20260301040000 +0100" channel="TyC Sports">
-    <title>Talleres (C) vs. San Lorenzo · Fútbol Argentino Primera División</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260301040000 +0100" stop="20260301070000 +0100" channel="TyC Sports">
-    <title>Yamil Peralta vs. Juan Díaz; Moussa Gholam vs. Melving López; Guido Schramm vs. Paul Wall · Boxeo de primera</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260301070000 +0100" stop="20260301080000 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260301080000 +0100" stop="20260301103000 +0100" channel="TyC Sports">
-    <title>Talleres (C) vs. San Lorenzo · Fútbol Argentino Primera División</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260301103000 +0100" stop="20260301110000 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260301110000 +0100" stop="20260301113000 +0100" channel="TyC Sports">
-    <title>Los Especiales de TyC Sports</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260301113000 +0100" stop="20260301120000 +0100" channel="TyC Sports">
-    <title>Noveno Chukker</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260301120000 +0100" stop="20260301140000 +0100" channel="TyC Sports">
-    <title>Independiente vs. Central Córdoba (SE) · Fútbol Argentino Primera División</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260301140000 +0100" stop="20260301170000 +0100" channel="TyC Sports">
-    <title>Carburando Categorías · PROCAR - Finales</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260301170000 +0100" stop="20260301190000 +0100" channel="TyC Sports">
-    <title>Talleres (C) vs. San Lorenzo · Fútbol Argentino Primera División</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260301190000 +0100" stop="20260301205500 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260301205500 +0100" stop="20260301230000 +0100" channel="TyC Sports">
-    <title>Newell's vs. Rosario Central · Fútbol Argentino Primera División</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260301230000 +0100" stop="20260301231000 +0100" channel="TyC Sports">
-    <title>Club Miami</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260301231000 +0100" stop="20260302011000 +0100" channel="TyC Sports">
-    <title>Defensa y Justicia vs. Lanús · Fútbol Argentino Primera División</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260302011000 +0100" stop="20260302012500 +0100" channel="TyC Sports">
-    <title>Club Miami</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260302012500 +0100" stop="20260302033000 +0100" channel="TyC Sports">
-    <title>Instituto vs. Unión (SF) · Fútbol Argentino Primera División</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260302033000 +0100" stop="20260302050000 +0100" channel="TyC Sports">
-    <title>Paso a Paso</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260302050000 +0100" stop="20260302060000 +0100" channel="TyC Sports">
-    <title>Club Miami</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260302060000 +0100" stop="20260302063000 +0100" channel="TyC Sports">
-    <title>Carburando PGM</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260302063000 +0100" stop="20260302073000 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260302073000 +0100" stop="20260302093000 +0100" channel="TyC Sports">
-    <title>Tigre vs. Gimnasia (LP) · Fútbol Argentino Primera División</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260302093000 +0100" stop="20260302113000 +0100" channel="TyC Sports">
-    <title>Argentinos Juniors vs. Barracas Central · Fútbol Argentino Primera División</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260302113000 +0100" stop="20260302120000 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260302120000 +0100" stop="20260302123000 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260302123000 +0100" stop="20260302140000 +0100" channel="TyC Sports">
-    <title>Paso a Paso</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260302140000 +0100" stop="20260302150000 +0100" channel="TyC Sports">
-    <title>Superfútbol</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260302150000 +0100" stop="20260302160000 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260302160000 +0100" stop="20260302180000 +0100" channel="TyC Sports">
-    <title>Dale al medio</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260302180000 +0100" stop="20260302200000 +0100" channel="TyC Sports">
-    <title>Líbero</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260302200000 +0100" stop="20260302222000 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260302222000 +0100" stop="20260302231000 +0100" channel="TyC Sports">
-    <title>Sportia</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-	<programme start="20260302231000 +0100" stop="20260303011500 +0100" channel="TyC Sports">
-    <title>Deportivo Riestra vs. Platense · Fútbol Argentino Primera División</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-<programme start="20260227080000 +0000" stop="20260227090000 +0000" channel="ESPN.ar">
-<title>SportsCenter</title>
-</programme>
-<programme start="20260227090000 +0000" stop="20260227100000 +0000" channel="ESPN.ar">
-<title>SportsCenter</title>
-</programme>
-<programme start="20260227100000 +0000" stop="20260227110000 +0000" channel="ESPN.ar">
-<title>SportsCenter</title>
-</programme>
-<programme start="20260227110000 +0000" stop="20260227120000 +0000" channel="ESPN.ar">
-<title>SportsCenter</title>
-</programme>
-<programme start="20260227120000 +0000" stop="20260227130000 +0000" channel="ESPN.ar">
-<title>SportsCenter</title>
-</programme>
-<programme start="20260227130000 +0000" stop="20260227140000 +0000" channel="ESPN.ar">
-<title>SportsCenter</title>
-</programme>
-<programme start="20260227140000 +0000" stop="20260227180000 +0000" channel="ESPN.ar">
-<title>SportsCenter</title>
-</programme>
-<programme start="20260227180000 +0000" stop="20260227200000 +0000" channel="ESPN.ar">
-<title>ESPN F12</title>
-</programme>
-<programme start="20260227200000 +0000" stop="20260227220000 +0000" channel="ESPN.ar">
-<title>ESPN F90 - Primera edicion</title>
-</programme>
-<programme start="20260227220000 +0000" stop="20260227233000 +0000" channel="ESPN.ar">
-<title>ESPN F3</title>
-</programme>
-<programme start="20260227233000 +0000" stop="20260227235000 +0000" channel="ESPN.ar">
-<title>SportsCenter</title>
-</programme>
-<programme start="20260227235000 +0000" stop="20260228015500 +0000" channel="ESPN.ar">
-<title>Premier League</title>
-<sub-title>Wolverhampton Wanderers vs. Aston Villa, Fecha 28, Molineux Stadium</sub-title>
-</programme>
-<programme start="20260228015500 +0000" stop="20260228033000 +0000" channel="ESPN.ar">
-<title>Equipo F</title>
-</programme>
-<programme start="20260228033000 +0000" stop="20260228050000 +0000" channel="ESPN.ar">
-<title>SportsCenter</title>
-</programme>
-<programme start="20260228050000 +0000" stop="20260228060000 +0000" channel="ESPN.ar">
-<title>SportsCenter</title>
-</programme>
-<programme start="20260228060000 +0000" stop="20260228070000 +0000" channel="ESPN.ar">
-<title>ESPN F10</title>
-</programme>
-<programme start="20260228070000 +0000" stop="20260228142000 +0000" channel="ESPN.ar">
-<title>A confirmar</title>
-</programme>
-<programme start="20260228142000 +0000" stop="20260228152000 +0000" channel="ESPN.ar">
-<title>SportsCenter</title>
-</programme>
-<programme start="20260228152000 +0000" stop="20260228162000 +0000" channel="ESPN.ar">
-<title>SportsCenter</title>
-</programme>
-<programme start="20260228162000 +0000" stop="20260228182500 +0000" channel="ESPN.ar">
-<title>Premier League</title>
-<sub-title>Bournemouth vs. Sunderland, Fecha 28, Dean Court - Vitality Stadium</sub-title>
-</programme>
-<programme start="20260228182500 +0000" stop="20260228185000 +0000" channel="ESPN.ar">
-<title>SportsCenter+</title>
-</programme>
-<programme start="20260228185000 +0000" stop="20260228205500 +0000" channel="ESPN.ar">
-<title>Premier League</title>
-<sub-title>Liverpool vs. West Ham Utd., Fecha 28, Anfield</sub-title>
-</programme>
-<programme start="20260228205500 +0000" stop="20260228212000 +0000" channel="ESPN.ar">
-<title>SportsCenter+</title>
-</programme>
-<programme start="20260228212000 +0000" stop="20260228232500 +0000" channel="ESPN.ar">
-<title>Premier League</title>
-<sub-title>Leeds Utd. vs. Manchester City, Fecha 28, Elland Road</sub-title>
-</programme>
-<programme start="20260228232500 +0000" stop="20260301003000 +0000" channel="ESPN.ar">
-<title>SportsCenter</title>
-</programme>
-<programme start="20260301003000 +0000" stop="20260301024500 +0000" channel="ESPN.ar">
-<title>SportsCenter - Relato</title>
-<sub-title>Boca Juniors vs. Gimnasia y Esgrima (Mza)</sub-title>
-</programme>
 <programme start="20260227080000 +0000" stop="20260227090000 +0000" channel="ESPN HD.ar">
 <title>SportsCenter</title>
 </programme>
@@ -58725,26 +58694,6 @@ Repetición</title>
     <title>River Plate vs. Banfield · Fútbol Argentino Primera División</title>
     <desc>· Sin detalles...</desc>
 	</programme>
-<programme start="20260226050000 +0000" stop="20260226060000 +0000" channel="ESPN.ar">
-<title>SportsCenter</title>
-<desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20260226060000 +0000" stop="20260226090000 +0000" channel="ESPN.ar">
-<title>SportsCenter AM</title>
-<desc>La edicion matutina del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20260226090000 +0000" stop="20260226110000 +0000" channel="ESPN.ar">
-<title>ESPN F12</title>
-<desc>Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.</desc>
-</programme>
-<programme start="20260226110000 +0000" stop="20260226130000 +0000" channel="ESPN.ar">
-<title>ESPN F90 Primera edicion</title>
-<desc>Un clásico de la television con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.</desc>
-</programme>
-<programme start="20260226130000 +0000" stop="20260226143000 +0000" channel="ESPN.ar">
-<title>ESPN F3</title>
-<desc>Programacion deportiva dedicada a la agenda futbolística, resúmenes, análisis y seguimientos que dan de que hablar.</desc>
-</programme>
 <programme start="20260226143000 +0000" stop="20260226160000 +0000" channel="ESPN.ar">
 <title>SportsCenter</title>
 <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
@@ -65314,14 +65263,6 @@ Repetición</title>
     <icon src="http://dshm.tmsimg.com/assets/p30680364_i_h10_ab.jpg?w=960&amp;h=540" />
     <premiere lang="es" />
   </programme>
-<programme start="20260226120000 +0000" stop="20260226150000 +0000" channel="ESPN.ar">
-<title>SportsCenter AM</title>
-<desc>La edicion matutina del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20260226150000 +0000" stop="20260226170000 +0000" channel="ESPN.ar">
-<title>ESPN F12</title>
-<desc>Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.</desc>
-</programme>
 <programme start="20260226190000 +0000" stop="20260226203000 +0000" channel="ESPN.ar">
 <title>ESPN F3</title>
 <desc>Programacion deportiva dedicada a la agenda futbolística, resúmenes, análisis y seguimientos que dan de que hablar.</desc>
@@ -67502,18 +67443,6 @@ Repetición</title>
 </programme>
 <programme start="20260228080000 +0000" stop="20260228083000 +0000" channel="AZTECA 7.mx">
 <title>Inova</title>
-</programme>
-<programme start="20260226100000 +0000" stop="20260226110000 +0000" channel="ESPN.ar">
-<title>SportsCenter</title>
-<desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20260226140000 +0000" stop="20260226160000 +0000" channel="ESPN.ar">
-<title>ESPN F12</title>
-<desc>Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.</desc>
-</programme>
-<programme start="20260226180000 +0000" stop="20260226193000 +0000" channel="ESPN.ar">
-<title>ESPN F3</title>
-<desc>Programacion deportiva dedicada a la agenda futbolística, resúmenes, análisis y seguimientos que dan de que hablar.</desc>
 </programme>
 <programme start="20260226193000 +0000" stop="20260226210000 +0000" channel="ESPN.ar">
 <title>SportsCenter</title>
@@ -72141,14 +72070,6 @@ Repetición</title>
     <title>WTA Tour 500 - Mérida Open Akron · Cuartos de final, Yucatán Country Club, Mérida, México</title>
     <desc>· Sin detalles...</desc>
 	</programme>
-<programme start="20260226200000 +0000" stop="20260226213000 +0000" channel="ESPN.ar">
-<title>ESPN F3</title>
-<desc>Programacion deportiva dedicada a la agenda futbolística, resúmenes, análisis y seguimientos que dan de que hablar.</desc>
-</programme>
-<programme start="20260226213000 +0000" stop="20260226230000 +0000" channel="ESPN.ar">
-<title>SportsCenter</title>
-<desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
 <programme start="20260227021500 +0000" stop="20260227044500 +0000" channel="ESPN.ar">
 <title>Fútbol CONMEBOL Recopa Sudamericana : Flamengo CR vs. Lanús</title>
 <sub-title>Flamengo CR vs. Lanús</sub-title>
@@ -82671,14 +82592,6 @@ Repetición</title>
 <desc>Los fines de semana se llenan de fútbol. Tras la finalizacion del partido de la fecha de la Copa de la Liga Profesional del fútbol argentino, llega el mejor análisis.</desc>
 </programme>
 <programme start="20260226040000 +0000" stop="20260226050000 +0000" channel="ESPN.ar">
-<title>SportsCenter</title>
-<desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20260226070000 +0000" stop="20260226080000 +0000" channel="ESPN.ar">
-<title>SportsCenter</title>
-<desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20260226080000 +0000" stop="20260226090000 +0000" channel="ESPN.ar">
 <title>SportsCenter</title>
 <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
 </programme>
