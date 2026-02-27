@@ -129,13 +129,20 @@ ESPN 4 HD.ar,ESPN 4 HD.ar,-5
 ESPN 6 HD.ar,ESPN 6 HD.ar,-5
 ESPN PREMIUM HD.ar,ESPN PREMIUM HD.ar,https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg,-5
 ESPN PREMIUM.ar,ESPN PREMIUM.ar,https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg,-5
-
-TNT SPORTS PREMIUM.ar,TNT SPORTS PREMIUM.ar,https://i.postimg.cc/ryNxjCJb/tntsportspremium.webp,-5
-FOX SPORTS ARGENTINA.ar,FOX SPORTS ARGENTINA.ar,https://i.postimg.cc/9XDHtJCW/ec5xf51707916511.png,-5
+FOX SPORTS HD.ar,FOX SPORTS HD.ar,https://i.postimg.cc/9XDHtJCW/ec5xf51707916511.png,-5
+FOX SPORTS.ar,FOX SPORTS.ar,https://i.postimg.cc/9XDHtJCW/ec5xf51707916511.png,-5
+FOX SPORTS 2 HD.ar,FOX SPORTS 2 HD.ar,https://i.postimg.cc/y6g2SxyH/d96btm1707916453.png,-5
 FOX SPORTS 2.ar,FOX SPORTS 2.ar,https://i.postimg.cc/y6g2SxyH/d96btm1707916453.png,-5
 FOX SPORTS 3.ar,FOX SPORTS 3.ar,https://i.postimg.cc/25SKjSSs/cyfsdc1707916479.png,-5
+
+
+TNT SPORTS PREMIUM.ar,TNT SPORTS PREMIUM.ar,https://i.postimg.cc/ryNxjCJb/tntsportspremium.webp,-5
+
 TELEFE.ar,TELEFE.ar,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/821px-Telefe_%28nuevo_logo%29.png,-5
+
 TV PUBLICA.ar,TV PUBLICA.ar,https://i.postimg.cc/XJwHQGHg/tvp.webp,-5
+
+
 Fox.Deportes.HD.us2,Fox Deportes HD,https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png
 Univision.Network.HD.us2,Univision Network HD,https://i.postimg.cc/j2zNYRHk/univision.webp
 UniMas.us2,UniMas,https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/unimas-1200-x-674-network-logo.png
