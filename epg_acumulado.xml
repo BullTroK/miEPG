@@ -832,6 +832,22 @@
     <display-name>ESPN.ar UHD</display-name>
     <icon src="https://i.postimg.cc/wTSqsnNT/espnar.webp" />
   </channel>
+  <channel id="ESPN HD.ar">
+    <display-name>ESPN HD.ar SD</display-name>
+    <display-name>ESPN HD.ar HD</display-name>
+    <display-name>ESPN HD.ar 4K</display-name>
+    <display-name>ESPN HD.ar FHD</display-name>
+    <display-name>ESPN HD.ar UHD</display-name>
+    <icon src="https://i.postimg.cc/wTSqsnNT/espnar.webp" />
+  </channel>
+  <channel id="ESPN 2 HD.ar">
+    <display-name>ESPN 2 HD.ar SD</display-name>
+    <display-name>ESPN 2 HD.ar HD</display-name>
+    <display-name>ESPN 2 HD.ar 4K</display-name>
+    <display-name>ESPN 2 HD.ar FHD</display-name>
+    <display-name>ESPN 2 HD.ar UHD</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png" />
+  </channel>
   <channel id="ESPN 2.ar">
     <display-name>ESPN 2.ar SD</display-name>
     <display-name>ESPN 2.ar HD</display-name>
@@ -839,6 +855,14 @@
     <display-name>ESPN 2.ar FHD</display-name>
     <display-name>ESPN 2.ar UHD</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png" />
+  </channel>
+  <channel id="ESPN 3 HD.ar">
+    <display-name>ESPN 3 HD.ar SD</display-name>
+    <display-name>ESPN 3 HD.ar HD</display-name>
+    <display-name>ESPN 3 HD.ar 4K</display-name>
+    <display-name>ESPN 3 HD.ar FHD</display-name>
+    <display-name>ESPN 3 HD.ar UHD</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png" />
   </channel>
   <channel id="ESPN 3.ar">
     <display-name>ESPN 3.ar SD</display-name>
@@ -848,6 +872,30 @@
     <display-name>ESPN 3.ar UHD</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png" />
   </channel>
+  <channel id="ESPN 4 HD.ar">
+    <display-name>ESPN 4 HD.ar SD</display-name>
+    <display-name>ESPN 4 HD.ar HD</display-name>
+    <display-name>ESPN 4 HD.ar 4K</display-name>
+    <display-name>ESPN 4 HD.ar FHD</display-name>
+    <display-name>ESPN 4 HD.ar UHD</display-name>
+    
+  </channel>
+  <channel id="ESPN 6 HD.ar">
+    <display-name>ESPN 6 HD.ar SD</display-name>
+    <display-name>ESPN 6 HD.ar HD</display-name>
+    <display-name>ESPN 6 HD.ar 4K</display-name>
+    <display-name>ESPN 6 HD.ar FHD</display-name>
+    <display-name>ESPN 6 HD.ar UHD</display-name>
+    
+  </channel>
+  <channel id="ESPN PREMIUM HD.ar">
+    <display-name>ESPN PREMIUM HD.ar SD</display-name>
+    <display-name>ESPN PREMIUM HD.ar HD</display-name>
+    <display-name>ESPN PREMIUM HD.ar 4K</display-name>
+    <display-name>ESPN PREMIUM HD.ar FHD</display-name>
+    <display-name>ESPN PREMIUM HD.ar UHD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" />
+  </channel>
   <channel id="ESPN PREMIUM.ar">
     <display-name>ESPN PREMIUM.ar SD</display-name>
     <display-name>ESPN PREMIUM.ar HD</display-name>
@@ -855,6 +903,30 @@
     <display-name>ESPN PREMIUM.ar FHD</display-name>
     <display-name>ESPN PREMIUM.ar UHD</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" />
+  </channel>
+  <channel id="FOX SPORTS HD.ar">
+    <display-name>FOX SPORTS HD.ar SD</display-name>
+    <display-name>FOX SPORTS HD.ar HD</display-name>
+    <display-name>FOX SPORTS HD.ar 4K</display-name>
+    <display-name>FOX SPORTS HD.ar FHD</display-name>
+    <display-name>FOX SPORTS HD.ar UHD</display-name>
+    <icon src="https://i.postimg.cc/9XDHtJCW/ec5xf51707916511.png" />
+  </channel>
+  <channel id="FOX SPORTS.ar">
+    <display-name>FOX SPORTS.ar SD</display-name>
+    <display-name>FOX SPORTS.ar HD</display-name>
+    <display-name>FOX SPORTS.ar 4K</display-name>
+    <display-name>FOX SPORTS.ar FHD</display-name>
+    <display-name>FOX SPORTS.ar UHD</display-name>
+    <icon src="https://i.postimg.cc/9XDHtJCW/ec5xf51707916511.png" />
+  </channel>
+  <channel id="FOX SPORTS 2 HD.ar">
+    <display-name>FOX SPORTS 2 HD.ar SD</display-name>
+    <display-name>FOX SPORTS 2 HD.ar HD</display-name>
+    <display-name>FOX SPORTS 2 HD.ar 4K</display-name>
+    <display-name>FOX SPORTS 2 HD.ar FHD</display-name>
+    <display-name>FOX SPORTS 2 HD.ar UHD</display-name>
+    <icon src="https://i.postimg.cc/y6g2SxyH/d96btm1707916453.png" />
   </channel>
   <channel id="FOX SPORTS 2.ar">
     <display-name>FOX SPORTS 2.ar SD</display-name>
@@ -872,13 +944,29 @@
     <display-name>FOX SPORTS 3.ar UHD</display-name>
     <icon src="https://i.postimg.cc/25SKjSSs/cyfsdc1707916479.png" />
   </channel>
-  <channel id="TELEFE.ar">
-    <display-name>TELEFE.ar SD</display-name>
-    <display-name>TELEFE.ar HD</display-name>
-    <display-name>TELEFE.ar 4K</display-name>
-    <display-name>TELEFE.ar FHD</display-name>
-    <display-name>TELEFE.ar UHD</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/821px-Telefe_%28nuevo_logo%29.png" />
+  <channel id="TNT SPORTS HD.ar">
+    <display-name>TNT SPORTS HD.ar SD</display-name>
+    <display-name>TNT SPORTS HD.ar HD</display-name>
+    <display-name>TNT SPORTS HD.ar 4K</display-name>
+    <display-name>TNT SPORTS HD.ar FHD</display-name>
+    <display-name>TNT SPORTS HD.ar UHD</display-name>
+    <icon src="https://i.postimg.cc/ryNxjCJb/tntsportspremium.webp" />
+  </channel>
+  <channel id="TNT SPORTS.ar">
+    <display-name>TNT SPORTS.ar SD</display-name>
+    <display-name>TNT SPORTS.ar HD</display-name>
+    <display-name>TNT SPORTS.ar 4K</display-name>
+    <display-name>TNT SPORTS.ar FHD</display-name>
+    <display-name>TNT SPORTS.ar UHD</display-name>
+    <icon src="https://i.postimg.cc/ryNxjCJb/tntsportspremium.webp" />
+  </channel>
+  <channel id="TV PUBLICA HD.ar">
+    <display-name>TV PUBLICA HD.ar SD</display-name>
+    <display-name>TV PUBLICA HD.ar HD</display-name>
+    <display-name>TV PUBLICA HD.ar 4K</display-name>
+    <display-name>TV PUBLICA HD.ar FHD</display-name>
+    <display-name>TV PUBLICA HD.ar UHD</display-name>
+    <icon src="https://i.postimg.cc/XJwHQGHg/tvp.webp" />
   </channel>
   <channel id="TV PUBLICA.ar">
     <display-name>TV PUBLICA.ar SD</display-name>
@@ -33933,6 +34021,220 @@ Repetición</title>
 <title>SportsCenter - Relato</title>
 <sub-title>Boca Juniors vs. Gimnasia y Esgrima (Mza)</sub-title>
 </programme>
+<programme start="20260226230000 +0000" stop="20260227000000 +0000" channel="ESPN HD.ar">
+<title>SportsCenter</title>
+</programme>
+<programme start="20260227000000 +0000" stop="20260227010000 +0000" channel="ESPN HD.ar">
+<title>SportsCenter</title>
+</programme>
+<programme start="20260227010000 +0000" stop="20260227020000 +0000" channel="ESPN HD.ar">
+<title>SportsCenter</title>
+</programme>
+<programme start="20260227020000 +0000" stop="20260227030000 +0000" channel="ESPN HD.ar">
+<title>SportsCenter</title>
+</programme>
+<programme start="20260227030000 +0000" stop="20260227040000 +0000" channel="ESPN HD.ar">
+<title>SportsCenter</title>
+</programme>
+<programme start="20260227040000 +0000" stop="20260227050000 +0000" channel="ESPN HD.ar">
+<title>SportsCenter</title>
+</programme>
+<programme start="20260227050000 +0000" stop="20260227090000 +0000" channel="ESPN HD.ar">
+<title>SportsCenter</title>
+</programme>
+<programme start="20260227090000 +0000" stop="20260227110000 +0000" channel="ESPN HD.ar">
+<title>ESPN F12</title>
+</programme>
+<programme start="20260227110000 +0000" stop="20260227130000 +0000" channel="ESPN HD.ar">
+<title>ESPN F90 - Primera edicion</title>
+</programme>
+<programme start="20260227130000 +0000" stop="20260227143000 +0000" channel="ESPN HD.ar">
+<title>ESPN F3</title>
+</programme>
+<programme start="20260227143000 +0000" stop="20260227145000 +0000" channel="ESPN HD.ar">
+<title>SportsCenter</title>
+</programme>
+<programme start="20260227145000 +0000" stop="20260227165500 +0000" channel="ESPN HD.ar">
+<title>Premier League</title>
+<sub-title>Wolverhampton Wanderers vs. Aston Villa, Fecha 28, Molineux Stadium</sub-title>
+</programme>
+<programme start="20260227165500 +0000" stop="20260227183000 +0000" channel="ESPN HD.ar">
+<title>Equipo F</title>
+</programme>
+<programme start="20260227183000 +0000" stop="20260227200000 +0000" channel="ESPN HD.ar">
+<title>SportsCenter</title>
+</programme>
+<programme start="20260227200000 +0000" stop="20260227210000 +0000" channel="ESPN HD.ar">
+<title>SportsCenter</title>
+</programme>
+<programme start="20260227210000 +0000" stop="20260227220000 +0000" channel="ESPN HD.ar">
+<title>ESPN F10</title>
+</programme>
+<programme start="20260227220000 +0000" stop="20260228052000 +0000" channel="ESPN HD.ar">
+<title>A confirmar</title>
+</programme>
+<programme start="20260228052000 +0000" stop="20260228062000 +0000" channel="ESPN HD.ar">
+<title>SportsCenter</title>
+</programme>
+<programme start="20260228062000 +0000" stop="20260228072000 +0000" channel="ESPN HD.ar">
+<title>SportsCenter</title>
+</programme>
+<programme start="20260228072000 +0000" stop="20260228092500 +0000" channel="ESPN HD.ar">
+<title>Premier League</title>
+<sub-title>Bournemouth vs. Sunderland, Fecha 28, Dean Court - Vitality Stadium</sub-title>
+</programme>
+<programme start="20260228092500 +0000" stop="20260228095000 +0000" channel="ESPN HD.ar">
+<title>SportsCenter+</title>
+</programme>
+<programme start="20260228095000 +0000" stop="20260228115500 +0000" channel="ESPN HD.ar">
+<title>Premier League</title>
+<sub-title>Liverpool vs. West Ham Utd., Fecha 28, Anfield</sub-title>
+</programme>
+<programme start="20260228115500 +0000" stop="20260228122000 +0000" channel="ESPN HD.ar">
+<title>SportsCenter+</title>
+</programme>
+<programme start="20260228122000 +0000" stop="20260228142500 +0000" channel="ESPN HD.ar">
+<title>Premier League</title>
+<sub-title>Leeds Utd. vs. Manchester City, Fecha 28, Elland Road</sub-title>
+</programme>
+<programme start="20260228142500 +0000" stop="20260228153000 +0000" channel="ESPN HD.ar">
+<title>SportsCenter</title>
+</programme>
+<programme start="20260228153000 +0000" stop="20260228174500 +0000" channel="ESPN HD.ar">
+<title>SportsCenter - Relato</title>
+<sub-title>Boca Juniors vs. Gimnasia y Esgrima (Mza)</sub-title>
+</programme>
+<programme start="20260226220000 +0000" stop="20260226230000 +0000" channel="ESPN 2 HD.ar">
+<title>Goles de la UEFA Europa League and UEFA Co...</title>
+</programme>
+<programme start="20260226230000 +0000" stop="20260227000000 +0000" channel="ESPN 2 HD.ar">
+<title>ESPN Compact - UEFA Europa League - Stut...</title>
+</programme>
+<programme start="20260227000000 +0000" stop="20260227010000 +0000" channel="ESPN 2 HD.ar">
+<title>ESPN Compact - UEFA Europa League</title>
+<sub-title>Celta de Vigo (Esp) vs. PAOK (Gre), 16vos de final - Vuelta, Estadio de Abanca Balaídos</sub-title>
+</programme>
+<programme start="20260227010000 +0000" stop="20260227020000 +0000" channel="ESPN 2 HD.ar">
+<title>UEFA Europa League and UEFA Conference League Highlights</title>
+</programme>
+<programme start="20260227020000 +0000" stop="20260227040000 +0000" channel="ESPN 2 HD.ar">
+<title>UEFA Europa League</title>
+<sub-title>Nottingham Forest (Ing) vs. Fenerbahce (Tur), 16vos de final - Vuelta, City Ground</sub-title>
+</programme>
+<programme start="20260227040000 +0000" stop="20260227050000 +0000" channel="ESPN 2 HD.ar">
+<title>PGA Tour Highlights - The Genesis Invitational</title>
+</programme>
+<programme start="20260227050000 +0000" stop="20260227060000 +0000" channel="ESPN 2 HD.ar">
+<title>ESPN Compact - UEFA Europa League</title>
+<sub-title>Stuttgart (Ale) vs. Celtic (Esc), 16vos de final - Vuelta, MHPArena</sub-title>
+</programme>
+<programme start="20260227060000 +0000" stop="20260227070000 +0000" channel="ESPN 2 HD.ar">
+<title>ESPN Compact - Recopa Sudamericana</title>
+<sub-title>Flamengo (Bra) vs. Lanús (Arg), Final - Vuelta</sub-title>
+</programme>
+<programme start="20260227070000 +0000" stop="20260227080000 +0000" channel="ESPN 2 HD.ar">
+<title>ESPN Compact - UEFA Europa League</title>
+<sub-title>Celta de Vigo (Esp) vs. PAOK (Gre), 16vos de final - Vuelta, Estadio de Abanca Balaídos</sub-title>
+</programme>
+<programme start="20260227080000 +0000" stop="20260227090000 +0000" channel="ESPN 2 HD.ar">
+<title>El show de la F1</title>
+</programme>
+<programme start="20260227090000 +0000" stop="20260227100000 +0000" channel="ESPN 2 HD.ar">
+<title>SportsCenter</title>
+</programme>
+<programme start="20260227100000 +0000" stop="20260227120000 +0000" channel="ESPN 2 HD.ar">
+<title>Recopa Sudamericana</title>
+<sub-title>Flamengo (Bra) vs. Lanús (Arg), Vuelta</sub-title>
+</programme>
+<programme start="20260227120000 +0000" stop="20260227130000 +0000" channel="ESPN 2 HD.ar">
+<title>ESPN Compact - UEFA Europa League</title>
+<sub-title>Stuttgart (Ale) vs. Celtic (Esc), 16vos de final - Vuelta, MHPArena</sub-title>
+</programme>
+<programme start="20260227130000 +0000" stop="20260227133000 +0000" channel="ESPN 2 HD.ar">
+<title>Inside Serie A</title>
+</programme>
+<programme start="20260227133000 +0000" stop="20260227143000 +0000" channel="ESPN 2 HD.ar">
+<title>El show de la F1</title>
+</programme>
+<programme start="20260227143000 +0000" stop="20260227164500 +0000" channel="ESPN 2 HD.ar">
+<title>Ligue 1</title>
+<sub-title>RC Strasbourg vs. RC Lens, Fecha 24, Stade de la Meinau</sub-title>
+</programme>
+<programme start="20260227164500 +0000" stop="20260227183000 +0000" channel="ESPN 2 HD.ar">
+<title>SportsCenter</title>
+</programme>
+<programme start="20260227183000 +0000" stop="20260227190000 +0000" channel="ESPN 2 HD.ar">
+<title>UEFA Champions League Weekly</title>
+</programme>
+<programme start="20260227190000 +0000" stop="20260227213000 +0000" channel="ESPN 2 HD.ar">
+<title>NBA Friday</title>
+<sub-title>Cleveland Cavaliers vs. Detroit Pistons, Temporada regular, Little Caesars Arena</sub-title>
+</programme>
+<programme start="20260227213000 +0000" stop="20260228000000 +0000" channel="ESPN 2 HD.ar">
+<title>NBA Friday</title>
+<sub-title>Denver Nuggets vs. Oklahoma City Thunder, Temporada regular, Paycom Center</sub-title>
+</programme>
+<programme start="20260228000000 +0000" stop="20260228003000 +0000" channel="ESPN 2 HD.ar">
+<title>Premier League Preview Show</title>
+</programme>
+<programme start="20260228003000 +0000" stop="20260228010000 +0000" channel="ESPN 2 HD.ar">
+<title>UEFA Champions League Weekly</title>
+</programme>
+<programme start="20260228010000 +0000" stop="20260228020000 +0000" channel="ESPN 2 HD.ar">
+<title>ESPN Knockout</title>
+</programme>
+<programme start="20260228020000 +0000" stop="20260228023000 +0000" channel="ESPN 2 HD.ar">
+<title>Inside Serie A</title>
+</programme>
+<programme start="20260228023000 +0000" stop="20260228034500 +0000" channel="ESPN 2 HD.ar">
+<title>Moto GP - Sprint</title>
+<sub-title>Gran Premio de Tailandia, Circuito Internacional de Chang</sub-title>
+</programme>
+<programme start="20260228034500 +0000" stop="20260228044500 +0000" channel="ESPN 2 HD.ar">
+<title>ESPN F10</title>
+</programme>
+<programme start="20260228044500 +0000" stop="20260228054500 +0000" channel="ESPN 2 HD.ar">
+<title>ESPN Knockout</title>
+</programme>
+<programme start="20260228054500 +0000" stop="20260228075000 +0000" channel="ESPN 2 HD.ar">
+<title>Premier League</title>
+<sub-title>Wolverhampton Wanderers vs. Aston Villa, Fecha 28, Molineux Stadium</sub-title>
+</programme>
+<programme start="20260228075000 +0000" stop="20260228100000 +0000" channel="ESPN 2 HD.ar">
+<title>LaLiga</title>
+<sub-title>Rayo Vallecano vs. Ath. Bilbao, Fecha 26, Estadio Vallecas</sub-title>
+</programme>
+<programme start="20260228100000 +0000" stop="20260228120000 +0000" channel="ESPN 2 HD.ar">
+<title>Dubai Duty Free Tennis Championship</title>
+<sub-title>Final, The Dubai Duty Free Tennis Centre, Dubai, S, United Arab Emirates</sub-title>
+</programme>
+<programme start="20260228120000 +0000" stop="20260228122000 +0000" channel="ESPN 2 HD.ar">
+<title>Bayern Munich campeon de la Bundesliga 2024-2025</title>
+</programme>
+<programme start="20260228122000 +0000" stop="20260228142500 +0000" channel="ESPN 2 HD.ar">
+<title>Bundesliga</title>
+<sub-title>Borussia Dortmund vs. Bayern Múnich, Fecha 24, Signal Iduna Park</sub-title>
+</programme>
+<programme start="20260228142500 +0000" stop="20260228145000 +0000" channel="ESPN 2 HD.ar">
+<title>UEFA Champions League Weekly</title>
+</programme>
+<programme start="20260228145000 +0000" stop="20260228165500 +0000" channel="ESPN 2 HD.ar">
+<title>LaLiga</title>
+<sub-title>Real Oviedo vs. Atl. de Madrid, Fecha 26, Estadio Carlos Tartiere</sub-title>
+</programme>
+<programme start="20260228165500 +0000" stop="20260228180000 +0000" channel="ESPN 2 HD.ar">
+<title>SportsCenter</title>
+</programme>
+<programme start="20260228180000 +0000" stop="20260228183000 +0000" channel="ESPN 2 HD.ar">
+<title>UEFA Champions League Weekly</title>
+</programme>
+<programme start="20260228183000 +0000" stop="20260228203000 +0000" channel="ESPN 2 HD.ar">
+<title>Rugby Super League</title>
+<sub-title>Pampas vs. Dogos XV</sub-title>
+</programme>
+<programme start="20260228203000 +0000" stop="20260228210000 +0000" channel="ESPN 2 HD.ar">
+<title>ATP Tour: This Week</title>
+</programme>
 <programme start="20260226220000 +0000" stop="20260226230000 +0000" channel="ESPN 2.ar">
 <title>Goles de la UEFA Europa League and UEFA Co...</title>
 </programme>
@@ -34063,6 +34365,151 @@ Repetición</title>
 </programme>
 <programme start="20260228203000 +0000" stop="20260228210000 +0000" channel="ESPN 2.ar">
 <title>ATP Tour: This Week</title>
+</programme>
+<programme start="20260226220000 +0000" stop="20260226230000 +0000" channel="ESPN 3 HD.ar">
+<title>El show de la F1</title>
+</programme>
+<programme start="20260226230000 +0000" stop="20260226233000 +0000" channel="ESPN 3 HD.ar">
+<title>Bundesliga Preview Show</title>
+</programme>
+<programme start="20260226233000 +0000" stop="20260227000000 +0000" channel="ESPN 3 HD.ar">
+<title>ATP Tour: This Week</title>
+</programme>
+<programme start="20260227000000 +0000" stop="20260227020000 +0000" channel="ESPN 3 HD.ar">
+<title>Recopa Sudamericana</title>
+<sub-title>Flamengo (Bra) vs. Lanús (Arg), Vuelta</sub-title>
+</programme>
+<programme start="20260227020000 +0000" stop="20260227040000 +0000" channel="ESPN 3 HD.ar">
+<title>6 Nations Rugby Tournament</title>
+<sub-title>Francia vs. Italia, Fecha 3, Stade Pierre-Mauroy</sub-title>
+</programme>
+<programme start="20260227040000 +0000" stop="20260227050000 +0000" channel="ESPN 3 HD.ar">
+<title>UEFA Europa League and UEFA Conference League Highlights</title>
+</programme>
+<programme start="20260227050000 +0000" stop="20260227053000 +0000" channel="ESPN 3 HD.ar">
+<title>Lo mejor de MotoGP</title>
+</programme>
+<programme start="20260227053000 +0000" stop="20260227060000 +0000" channel="ESPN 3 HD.ar">
+<title>ATP Tour: This Week</title>
+</programme>
+<programme start="20260227060000 +0000" stop="20260227070000 +0000" channel="ESPN 3 HD.ar">
+<title>PGA Tour Highlights - The Genesis Invitational</title>
+</programme>
+<programme start="20260227070000 +0000" stop="20260227073000 +0000" channel="ESPN 3 HD.ar">
+<title>UEFA Champions League Highlights</title>
+</programme>
+<programme start="20260227073000 +0000" stop="20260227080000 +0000" channel="ESPN 3 HD.ar">
+<title>UEFA Champions League Highlights</title>
+</programme>
+<programme start="20260227080000 +0000" stop="20260227083000 +0000" channel="ESPN 3 HD.ar">
+<title>NBA Action</title>
+</programme>
+<programme start="20260227083000 +0000" stop="20260227090000 +0000" channel="ESPN 3 HD.ar">
+<title>Aguas arriba</title>
+</programme>
+<programme start="20260227090000 +0000" stop="20260227093000 +0000" channel="ESPN 3 HD.ar">
+<title>Inside Serie A</title>
+</programme>
+<programme start="20260227093000 +0000" stop="20260227113000 +0000" channel="ESPN 3 HD.ar">
+<title>UEFA Europa League</title>
+<sub-title>Estrella Roja (Srb) vs. LOSC Lille (Fra), 16vos de final - Vuelta, Stadion Rajko Mitic</sub-title>
+</programme>
+<programme start="20260227113000 +0000" stop="20260227132500 +0000" channel="ESPN 3 HD.ar">
+<title>UEFA Europa League</title>
+<sub-title>Nottingham Forest (Ing) vs. Fenerbahce (Tur), 16vos de final - Vuelta, City Ground</sub-title>
+</programme>
+<programme start="20260227132500 +0000" stop="20260227135200 +0000" channel="ESPN 3 HD.ar">
+<title>ATP Tour: This Week</title>
+</programme>
+<programme start="20260227135200 +0000" stop="20260227142000 +0000" channel="ESPN 3 HD.ar">
+<title>Bundesliga Preview Show</title>
+</programme>
+<programme start="20260227142000 +0000" stop="20260227162500 +0000" channel="ESPN 3 HD.ar">
+<title>Bundesliga</title>
+<sub-title>Augsburgo vs. Colonia, Fecha 24, WWK Arena</sub-title>
+</programme>
+<programme start="20260227162500 +0000" stop="20260227165700 +0000" channel="ESPN 3 HD.ar">
+<title>NBA Action</title>
+</programme>
+<programme start="20260227165700 +0000" stop="20260227180000 +0000" channel="ESPN 3 HD.ar">
+<title>ESPN Compact - Recopa Sudamericana</title>
+<sub-title>Flamengo (Bra) vs. Lanús (Arg), Final - Vuelta</sub-title>
+</programme>
+<programme start="20260227180000 +0000" stop="20260227200000 +0000" channel="ESPN 3 HD.ar">
+<title>Super Rugby Americas</title>
+<sub-title>Peñarol Rugby vs. Tarucas</sub-title>
+</programme>
+<programme start="20260227200000 +0000" stop="20260227210000 +0000" channel="ESPN 3 HD.ar">
+<title>ESPN Knockout</title>
+</programme>
+<programme start="20260227210000 +0000" stop="20260228000000 +0000" channel="ESPN 3 HD.ar">
+<title>ESPN Knockout</title>
+<sub-title>Edward Vazquez vs. Grimardi Machuca</sub-title>
+</programme>
+<programme start="20260228000000 +0000" stop="20260228010000 +0000" channel="ESPN 3 HD.ar">
+<title>El show de la F1</title>
+</programme>
+<programme start="20260228010000 +0000" stop="20260228013000 +0000" channel="ESPN 3 HD.ar">
+<title>Aguas arriba</title>
+</programme>
+<programme start="20260228013000 +0000" stop="20260228020000 +0000" channel="ESPN 3 HD.ar">
+<title>Premier League Preview Show</title>
+</programme>
+<programme start="20260228020000 +0000" stop="20260228023000 +0000" channel="ESPN 3 HD.ar">
+<title>ATP Tour: This Week</title>
+</programme>
+<programme start="20260228023000 +0000" stop="20260228030000 +0000" channel="ESPN 3 HD.ar">
+<title>Bundesliga Preview Show</title>
+</programme>
+<programme start="20260228030000 +0000" stop="20260228040000 +0000" channel="ESPN 3 HD.ar">
+<title>ESPN KnockOut</title>
+</programme>
+<programme start="20260228040000 +0000" stop="20260228043000 +0000" channel="ESPN 3 HD.ar">
+<title>NBA Action</title>
+</programme>
+<programme start="20260228043000 +0000" stop="20260228050000 +0000" channel="ESPN 3 HD.ar">
+<title>UEFA Champions League Weekly</title>
+</programme>
+<programme start="20260228050000 +0000" stop="20260228052700 +0000" channel="ESPN 3 HD.ar">
+<title>Inside Serie A</title>
+</programme>
+<programme start="20260228052700 +0000" stop="20260228055500 +0000" channel="ESPN 3 HD.ar">
+<title>Premier League Preview Show</title>
+</programme>
+<programme start="20260228055500 +0000" stop="20260228075000 +0000" channel="ESPN 3 HD.ar">
+<title>Ligue 1</title>
+<sub-title>RC Strasbourg vs. RC Lens, Fecha 24, Stade de la Meinau</sub-title>
+</programme>
+<programme start="20260228075000 +0000" stop="20260228085000 +0000" channel="ESPN 3 HD.ar">
+<title>Moto GP - Sprint Race</title>
+<sub-title>Gran Premio de Tailandia, Circuito Internacional de Chang</sub-title>
+</programme>
+<programme start="20260228085000 +0000" stop="20260228110000 +0000" channel="ESPN 3 HD.ar">
+<title>Serie A</title>
+<sub-title>Como vs. Lecce, Fecha 27, Stadio Giuseppe Sinigaglia</sub-title>
+</programme>
+<programme start="20260228110000 +0000" stop="20260228125000 +0000" channel="ESPN 3 HD.ar">
+<title>Super Rugby Americas</title>
+<sub-title>Peñarol Rugby vs. Tarucas</sub-title>
+</programme>
+<programme start="20260228125000 +0000" stop="20260228145500 +0000" channel="ESPN 3 HD.ar">
+<title>Ligue 1</title>
+<sub-title>AS Monaco vs. Angers SCO, Fecha 24, Stade Louis II</sub-title>
+</programme>
+<programme start="20260228145500 +0000" stop="20260228170000 +0000" channel="ESPN 3 HD.ar">
+<title>Ligue 1</title>
+<sub-title>Le Havre vs. Paris Saint-Germain, Fecha 24, Stade Oceane</sub-title>
+</programme>
+<programme start="20260228170000 +0000" stop="20260228190000 +0000" channel="ESPN 3 HD.ar">
+<title>Premier League</title>
+<sub-title>Liverpool vs. West Ham Utd., Fecha 28, Anfield</sub-title>
+</programme>
+<programme start="20260228190000 +0000" stop="20260228200000 +0000" channel="ESPN 3 HD.ar">
+<title>ESPN Compact - Bundesliga</title>
+<sub-title>Borussia Dortmund vs. Bayern Múnich, Fecha 24, Signal Iduna Park</sub-title>
+</programme>
+<programme start="20260228200000 +0000" stop="20260228203000 +0000" channel="ESPN 3 HD.ar">
+<title>NBA Action</title>
 </programme>
 <programme start="20260226220000 +0000" stop="20260226230000 +0000" channel="ESPN 3.ar">
 <title>El show de la F1</title>
@@ -34209,6 +34656,379 @@ Repetición</title>
 <programme start="20260228200000 +0000" stop="20260228203000 +0000" channel="ESPN 3.ar">
 <title>NBA Action</title>
 </programme>
+<programme start="20260226220000 +0000" stop="20260226223000 +0000" channel="ESPN 4 HD.ar">
+<title>Lo mejor de MotoGP</title>
+</programme>
+<programme start="20260226223000 +0000" stop="20260226230000 +0000" channel="ESPN 4 HD.ar">
+<title>ATP Tour: This Week</title>
+</programme>
+<programme start="20260226230000 +0000" stop="20260227010000 +0000" channel="ESPN 4 HD.ar">
+<title>UEFA Europa League</title>
+<sub-title>Nottingham Forest (Ing) vs. Fenerbahce (Tur), 16vos de final - Vuelta, City Ground</sub-title>
+</programme>
+<programme start="20260227010000 +0000" stop="20260227020000 +0000" channel="ESPN 4 HD.ar">
+<title>PGA Tour Highlights - The Genesis Invitational</title>
+</programme>
+<programme start="20260227020000 +0000" stop="20260227040000 +0000" channel="ESPN 4 HD.ar">
+<title>UEFA Europa League</title>
+<sub-title>Plzen (Cze) vs. Panathinaikos (Gre), 16vos de final - Vuelta, Doosan Arena</sub-title>
+</programme>
+<programme start="20260227040000 +0000" stop="20260227060000 +0000" channel="ESPN 4 HD.ar">
+<title>UEFA Europa League</title>
+<sub-title>Bologna (Ita) vs. Brann (Nor), 16vos de final - Ida, Stadio Renato DallAra</sub-title>
+</programme>
+<programme start="20260227060000 +0000" stop="20260227070000 +0000" channel="ESPN 4 HD.ar">
+<title>Dutch League Highlights</title>
+</programme>
+<programme start="20260227070000 +0000" stop="20260227073000 +0000" channel="ESPN 4 HD.ar">
+<title>Lo mejor de MotoGP</title>
+</programme>
+<programme start="20260227073000 +0000" stop="20260227080000 +0000" channel="ESPN 4 HD.ar">
+<title>ATP Tour: This Week</title>
+</programme>
+<programme start="20260227080000 +0000" stop="20260227083000 +0000" channel="ESPN 4 HD.ar">
+<title>Aguas arriba</title>
+</programme>
+<programme start="20260227083000 +0000" stop="20260227093000 +0000" channel="ESPN 4 HD.ar">
+<title>ESPN Compact - UEFA Europa League</title>
+<sub-title>Stuttgart (Ale) vs. Celtic (Esc), 16vos de final - Vuelta, MHPArena</sub-title>
+</programme>
+<programme start="20260227093000 +0000" stop="20260227103000 +0000" channel="ESPN 4 HD.ar">
+<title>ESPN Compact - UEFA Europa League</title>
+<sub-title>Celta de Vigo (Esp) vs. PAOK (Gre), 16vos de final - Vuelta, Estadio de Abanca Balaídos</sub-title>
+</programme>
+<programme start="20260227103000 +0000" stop="20260227113000 +0000" channel="ESPN 4 HD.ar">
+<title>UEFA Europa League and UEFA Conference League Highlights</title>
+</programme>
+<programme start="20260227113000 +0000" stop="20260227123000 +0000" channel="ESPN 4 HD.ar">
+<title>ESPN Compact - UEFA Champions League</title>
+<sub-title>Atl. de Madrid (Esp) vs. Club Brugge (Bel), 16vos de final - Vuelta, Riyadh Air Metropolitano</sub-title>
+</programme>
+<programme start="20260227123000 +0000" stop="20260227133000 +0000" channel="ESPN 4 HD.ar">
+<title>ESPN Compact - UEFA Champions League</title>
+<sub-title>Inter (Ita) vs. Bodo/Glimt (Nor), 16vos de final - Vuelta, Stadio Giuseppe Meazza</sub-title>
+</programme>
+<programme start="20260227133000 +0000" stop="20260227140000 +0000" channel="ESPN 4 HD.ar">
+<title>Aguas arriba</title>
+</programme>
+<programme start="20260227140000 +0000" stop="20260227143000 +0000" channel="ESPN 4 HD.ar">
+<title>NBA Action</title>
+</programme>
+<programme start="20260227143000 +0000" stop="20260227153000 +0000" channel="ESPN 4 HD.ar">
+<title>PGA Tour Highlights - The Genesis Invitational</title>
+</programme>
+<programme start="20260227153000 +0000" stop="20260227163000 +0000" channel="ESPN 4 HD.ar">
+<title>UEFA Europa League and UEFA Conference League Highlights</title>
+</programme>
+<programme start="20260227163000 +0000" stop="20260227170000 +0000" channel="ESPN 4 HD.ar">
+<title>Inside Serie A</title>
+</programme>
+<programme start="20260227170000 +0000" stop="20260227180000 +0000" channel="ESPN 4 HD.ar">
+<title>ESPN Compact - UEFA Champions League</title>
+<sub-title>Real Madrid (Esp) vs. Benfica (Por), 16vos de final - Vuelta, Estadio Santiago Bernabeu</sub-title>
+</programme>
+<programme start="20260227180000 +0000" stop="20260227190000 +0000" channel="ESPN 4 HD.ar">
+<title>ESPN Compact - UEFA Champions League</title>
+<sub-title>Paris Saint-Germain (Fra) vs. AS Monaco (Fra), 16vos de final - Vuelta, Parc des Princes</sub-title>
+</programme>
+<programme start="20260227190000 +0000" stop="20260227193000 +0000" channel="ESPN 4 HD.ar">
+<title>Premier League Preview Show</title>
+</programme>
+<programme start="20260227193000 +0000" stop="20260227200000 +0000" channel="ESPN 4 HD.ar">
+<title>UEFA Champions League Weekly</title>
+</programme>
+<programme start="20260227200000 +0000" stop="20260227203000 +0000" channel="ESPN 4 HD.ar">
+<title>Goles de la Champions League</title>
+</programme>
+<programme start="20260227203000 +0000" stop="20260227210000 +0000" channel="ESPN 4 HD.ar">
+<title>Goles de la Champions League</title>
+</programme>
+<programme start="20260227210000 +0000" stop="20260227220000 +0000" channel="ESPN 4 HD.ar">
+<title>ESPN Compact - UEFA Europa League</title>
+<sub-title>Stuttgart (Ale) vs. Celtic (Esc), 16vos de final - Vuelta, MHPArena</sub-title>
+</programme>
+<programme start="20260227220000 +0000" stop="20260227221500 +0000" channel="ESPN 4 HD.ar">
+<title>Chelsea Campeon de la UECL</title>
+</programme>
+<programme start="20260227221500 +0000" stop="20260227224500 +0000" channel="ESPN 4 HD.ar">
+<title>Lo mejor de MotoGP</title>
+</programme>
+<programme start="20260227224500 +0000" stop="20260227234500 +0000" channel="ESPN 4 HD.ar">
+<title>MotoGP - Qualifying</title>
+<sub-title>Gran Premio de Tailandia, Circuito Internacional de Chang</sub-title>
+</programme>
+<programme start="20260227234500 +0000" stop="20260228004500 +0000" channel="ESPN 4 HD.ar">
+<title>WSOP Main Event</title>
+<sub-title>Day 6 - Part 3</sub-title>
+</programme>
+<programme start="20260228004500 +0000" stop="20260228014500 +0000" channel="ESPN 4 HD.ar">
+<title>WSOP Main Event</title>
+<sub-title>Day 6 - Part 4</sub-title>
+</programme>
+<programme start="20260228014500 +0000" stop="20260228035000 +0000" channel="ESPN 4 HD.ar">
+<title>Super Rugby Americas</title>
+<sub-title>Peñarol Rugby vs. Tarucas</sub-title>
+</programme>
+<programme start="20260228035000 +0000" stop="20260228042200 +0000" channel="ESPN 4 HD.ar">
+<title>UEFA Champions League Weekly</title>
+</programme>
+<programme start="20260228042200 +0000" stop="20260228045400 +0000" channel="ESPN 4 HD.ar">
+<title>Premier League Preview Show</title>
+</programme>
+<programme start="20260228045400 +0000" stop="20260228072900 +0000" channel="ESPN 4 HD.ar">
+<title>NBA Friday</title>
+<sub-title>Cleveland Cavaliers vs. Detroit Pistons, Temporada regular, Little Caesars Arena</sub-title>
+</programme>
+<programme start="20260228072900 +0000" stop="20260228080000 +0000" channel="ESPN 4 HD.ar">
+<title>UEFA Champions League Weekly</title>
+</programme>
+<programme start="20260228080000 +0000" stop="20260228083000 +0000" channel="ESPN 4 HD.ar">
+<title>Goles de la Champions League</title>
+</programme>
+<programme start="20260228083000 +0000" stop="20260228093000 +0000" channel="ESPN 4 HD.ar">
+<title>ESPN Knockout, el show</title>
+</programme>
+<programme start="20260228093000 +0000" stop="20260228103000 +0000" channel="ESPN 4 HD.ar">
+<title>MotoGP - Qualifying</title>
+<sub-title>Gran Premio de Tailandia, Circuito Internacional de Chang</sub-title>
+</programme>
+<programme start="20260228103000 +0000" stop="20260228113000 +0000" channel="ESPN 4 HD.ar">
+<title>MotoGP - Sprint</title>
+<sub-title>Gran Premio de Tailandia, Circuito Internacional de Chang</sub-title>
+</programme>
+<programme start="20260228113000 +0000" stop="20260228115000 +0000" channel="ESPN 4 HD.ar">
+<title>Marc Márquez - Más que un regreso: La etapa Honda</title>
+</programme>
+<programme start="20260228115000 +0000" stop="20260228140000 +0000" channel="ESPN 4 HD.ar">
+<title>Serie A</title>
+<sub-title>Hellas Verona vs. Napoli, Fecha 27, Estadio Marcantonio Bentegodi</sub-title>
+</programme>
+<programme start="20260228140000 +0000" stop="20260228143000 +0000" channel="ESPN 4 HD.ar">
+<title>NBA Action</title>
+</programme>
+<programme start="20260228143000 +0000" stop="20260228163000 +0000" channel="ESPN 4 HD.ar">
+<title>Dubai Duty Free Tennis Championship</title>
+<sub-title>Final, The Dubai Duty Free Tennis Centre, Dubai, S, United Arab Emirates</sub-title>
+</programme>
+<programme start="20260228163000 +0000" stop="20260228183000 +0000" channel="ESPN 4 HD.ar">
+<title>Super Rugby Americas</title>
+<sub-title>Capibaras XV vs. Cobras Brasil Rugby</sub-title>
+</programme>
+<programme start="20260228183000 +0000" stop="20260228190000 +0000" channel="ESPN 4 HD.ar">
+<title>ATP Tour: This Week</title>
+</programme>
+<programme start="20260228190000 +0000" stop="20260228215500 +0000" channel="ESPN 4 HD.ar">
+<title>Tokyo Marathon</title>
+</programme>
+<programme start="20260226220000 +0000" stop="20260227000000 +0000" channel="ESPN 6 HD.ar">
+<title>ATP Tennis - Rio Open - Alejandro Tabilo...</title>
+</programme>
+<programme start="20260227000000 +0000" stop="20260227020000 +0000" channel="ESPN 6 HD.ar">
+<title>CONMEBOL Libertadores - Guaraní (Par) v...</title>
+</programme>
+<programme start="20260227020000 +0000" stop="20260227030000 +0000" channel="ESPN 6 HD.ar">
+<title>Goles de la Eredivisie</title>
+</programme>
+<programme start="20260227030000 +0000" stop="20260227050000 +0000" channel="ESPN 6 HD.ar">
+<title>UEFA Champions League</title>
+<sub-title>Bayer Leverkusen (Ale) vs. Olympiacos (Gre), 16vos de final - Vuelta, BayArena</sub-title>
+</programme>
+<programme start="20260227050000 +0000" stop="20260227070000 +0000" channel="ESPN 6 HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>River Plate vs. Banfield, Fecha 7 - Grupo B, Estadio Monumental</sub-title>
+</programme>
+<programme start="20260227070000 +0000" stop="20260227080000 +0000" channel="ESPN 6 HD.ar">
+<title>Goles de la Eredivisie</title>
+</programme>
+<programme start="20260227080000 +0000" stop="20260227090000 +0000" channel="ESPN 6 HD.ar">
+<title>PGA Tour Highlights - The Genesis Invitational</title>
+</programme>
+<programme start="20260227090000 +0000" stop="20260227093000 +0000" channel="ESPN 6 HD.ar">
+<title>UEFA Champions League Weekly</title>
+</programme>
+<programme start="20260227093000 +0000" stop="20260227100000 +0000" channel="ESPN 6 HD.ar">
+<title>Aguas arriba</title>
+</programme>
+<programme start="20260227100000 +0000" stop="20260227120000 +0000" channel="ESPN 6 HD.ar">
+<title>ATP Tennis - Rio Open</title>
+<sub-title>Alejandro Tabilo (Chi) vs. Tomas Martín Etcheverry (Arg), final, Rio de Janeiro, Brazil</sub-title>
+</programme>
+<programme start="20260227120000 +0000" stop="20260227140000 +0000" channel="ESPN 6 HD.ar">
+<title>English League Championship</title>
+<sub-title>Stoke City vs. Oxford Utd., Fecha 34, Bet365 Stadium</sub-title>
+</programme>
+<programme start="20260227140000 +0000" stop="20260227150000 +0000" channel="ESPN 6 HD.ar">
+<title>Goles de la Eredivisie</title>
+</programme>
+<programme start="20260227150000 +0000" stop="20260227153000 +0000" channel="ESPN 6 HD.ar">
+<title>UEFA Champions League Highlights</title>
+</programme>
+<programme start="20260227153000 +0000" stop="20260227160000 +0000" channel="ESPN 6 HD.ar">
+<title>UEFA Champions League Highlights</title>
+</programme>
+<programme start="20260227160000 +0000" stop="20260227180000 +0000" channel="ESPN 6 HD.ar">
+<title>UEFA Champions League</title>
+<sub-title>Atalanta (Ita) vs. Borussia Dortmund (Ale), 16vos de final - Vuelta, New Balance Arena</sub-title>
+</programme>
+<programme start="20260227180000 +0000" stop="20260227200000 +0000" channel="ESPN 6 HD.ar">
+<title>UEFA Champions League</title>
+<sub-title>Juventus (Ita) vs. Galatasaray (Tur), 16vos de final - Vuelta, Allianz Stadium</sub-title>
+</programme>
+<programme start="20260227200000 +0000" stop="20260227220000 +0000" channel="ESPN 6 HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>River Plate vs. Banfield, Fecha 7 - Grupo B, Estadio Monumental</sub-title>
+</programme>
+<programme start="20260227220000 +0000" stop="20260228000000 +0000" channel="ESPN 6 HD.ar">
+<title>CONMEBOL Libertadores - Deportes Tolima ...</title>
+</programme>
+<programme start="20260228000000 +0000" stop="20260228020000 +0000" channel="ESPN 6 HD.ar">
+<title>English League Championship - Bristol Ci...</title>
+</programme>
+<programme start="20260228020000 +0000" stop="20260228023000 +0000" channel="ESPN 6 HD.ar">
+<title>UEFA Champions League Highlights</title>
+</programme>
+<programme start="20260228023000 +0000" stop="20260228030000 +0000" channel="ESPN 6 HD.ar">
+<title>UEFA Champions League Highlights</title>
+</programme>
+<programme start="20260228030000 +0000" stop="20260228040000 +0000" channel="ESPN 6 HD.ar">
+<title>Goles de la Eredivisie</title>
+</programme>
+<programme start="20260228040000 +0000" stop="20260228043000 +0000" channel="ESPN 6 HD.ar">
+<title>EFL Highlights</title>
+</programme>
+<programme start="20260228043000 +0000" stop="20260228050000 +0000" channel="ESPN 6 HD.ar">
+<title>UEFA Champions League Weekly</title>
+</programme>
+<programme start="20260228050000 +0000" stop="20260228060000 +0000" channel="ESPN 6 HD.ar">
+<title>ESPN Knockout</title>
+</programme>
+<programme start="20260228060000 +0000" stop="20260228063000 +0000" channel="ESPN 6 HD.ar">
+<title>UEFA Champions League Highlights</title>
+</programme>
+<programme start="20260228063000 +0000" stop="20260228070000 +0000" channel="ESPN 6 HD.ar">
+<title>UEFA Champions League Highlights</title>
+</programme>
+<programme start="20260228070000 +0000" stop="20260228093000 +0000" channel="ESPN 6 HD.ar">
+<title>NBA Friday</title>
+<sub-title>Cleveland Cavaliers vs. Detroit Pistons, Temporada regular, Little Caesars Arena</sub-title>
+</programme>
+<programme start="20260228093000 +0000" stop="20260228113000 +0000" channel="ESPN 6 HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>River Plate vs. Banfield, Fecha 7 - Grupo B, Estadio Monumental</sub-title>
+</programme>
+<programme start="20260228113000 +0000" stop="20260228120000 +0000" channel="ESPN 6 HD.ar">
+<title>UEFA Champions League Highlights</title>
+</programme>
+<programme start="20260228120000 +0000" stop="20260228140000 +0000" channel="ESPN 6 HD.ar">
+<title>English League Championship</title>
+<sub-title>Leicester City vs. Norwich City, Fecha 35, King Power Stadium</sub-title>
+</programme>
+<programme start="20260228140000 +0000" stop="20260228160000 +0000" channel="ESPN 6 HD.ar">
+<title>ESPN Knockout</title>
+<sub-title>Edward Vazquez vs. Grimardi Machuca</sub-title>
+</programme>
+<programme start="20260228160000 +0000" stop="20260228180000 +0000" channel="ESPN 6 HD.ar">
+<title>CONMEBOL Libertadores</title>
+<sub-title>Dep. Táchira (Ven) vs. Deportes Tolima (Col), Ronda de clasificacion, Estadio Polideportivo</sub-title>
+</programme>
+<programme start="20260228180000 +0000" stop="20260228183000 +0000" channel="ESPN 6 HD.ar">
+<title>UEFA Champions League Weekly</title>
+</programme>
+<programme start="20260228183000 +0000" stop="20260228190000 +0000" channel="ESPN 6 HD.ar">
+<title>UEFA Champions League Highlights</title>
+</programme>
+<programme start="20260228190000 +0000" stop="20260228210000 +0000" channel="ESPN 6 HD.ar">
+<title>UEFA Champions League</title>
+<sub-title>Bayer Leverkusen (Ale) vs. Olympiacos (Gre), 16vos de final - Vuelta, BayArena</sub-title>
+</programme>
+<programme start="20260226233000 +0000" stop="20260227013000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026 - Estudiantes (RC)...</title>
+</programme>
+<programme start="20260227013000 +0000" stop="20260227033000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026 - River Plate vs. ...</title>
+</programme>
+<programme start="20260227033000 +0000" stop="20260227053000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Racing Club vs. Ind. Rivadavia, Fecha 7 - Grupo B, Estadio Juan Domingo Peron</sub-title>
+</programme>
+<programme start="20260227053000 +0000" stop="20260227073000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Sarmiento vs. Union, Fecha 7 - Interzonal, Estadio Eva Peron</sub-title>
+</programme>
+<programme start="20260227073000 +0000" stop="20260227080000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Compacto - Liga Profesional 2026</title>
+<sub-title>River Plate vs. Banfield, Fecha 7 - Grupo B, Estadio Monumental</sub-title>
+</programme>
+<programme start="20260227080000 +0000" stop="20260227100000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Estudiantes (RC) vs. Huracán, Fecha 7 - Grupo B, Estadio Antonio Candini</sub-title>
+</programme>
+<programme start="20260227100000 +0000" stop="20260227120000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Racing Club vs. Ind. Rivadavia, Fecha 7 - Grupo B, Estadio Juan Domingo Peron</sub-title>
+</programme>
+<programme start="20260227120000 +0000" stop="20260227140000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>River Plate vs. Banfield, Fecha 7 - Grupo B, Estadio Monumental</sub-title>
+</programme>
+<programme start="20260227140000 +0000" stop="20260227160000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Gimnasia (LP) vs. Rosario Central, Fecha 7 - Grupo B, Estadio Juan Carmelo Zerillo</sub-title>
+</programme>
+<programme start="20260227160000 +0000" stop="20260227180000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>River Plate vs. Banfield, Fecha 7 - Grupo B, Estadio Monumental</sub-title>
+</programme>
+<programme start="20260227180000 +0000" stop="20260227200000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Newells vs. Estudiantes (LP), Fecha 7 - Grupo A, Estadio Marcelo Bielsa</sub-title>
+</programme>
+<programme start="20260227200000 +0000" stop="20260227220000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Barracas Central vs. Tigre, Fecha 7 - Grupo B, Claudio Fabian Tapia</sub-title>
+</programme>
+<programme start="20260227220000 +0000" stop="20260228000000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026 - San Lorenzo vs. ...</title>
+</programme>
+<programme start="20260228000000 +0000" stop="20260228020000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>A confirmar</title>
+</programme>
+<programme start="20260228020000 +0000" stop="20260228040000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Velez Sarsfield vs. Dep. Riestra, Fecha 7 - Grupo A, Estadio Jose Amalfitani</sub-title>
+</programme>
+<programme start="20260228040000 +0000" stop="20260228060000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Estudiantes (RC) vs. Huracán, Fecha 7 - Grupo B, Estadio Antonio Candini</sub-title>
+</programme>
+<programme start="20260228060000 +0000" stop="20260228080000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Belgrano vs. Atl. Tucumán, Fecha 7 - Grupo B, Estadio Julio Cesar Villagra</sub-title>
+</programme>
+<programme start="20260228080000 +0000" stop="20260228100000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Gimnasia (LP) vs. Rosario Central, Fecha 7 - Grupo B, Estadio Juan Carmelo Zerillo</sub-title>
+</programme>
+<programme start="20260228100000 +0000" stop="20260228120000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Newells vs. Estudiantes (LP), Fecha 7 - Grupo A, Estadio Marcelo Bielsa</sub-title>
+</programme>
+<programme start="20260228120000 +0000" stop="20260228135500 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>San Lorenzo vs. Instituto, Fecha 7 - Grupo A, Estadio Pedro Bidegain</sub-title>
+</programme>
+<programme start="20260228135500 +0000" stop="20260228155000 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>River Plate vs. Banfield, Fecha 7 - Grupo B, Estadio Monumental</sub-title>
+</programme>
+<programme start="20260228155000 +0000" stop="20260228174500 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Gimnasia y Esgrima (M) vs. Independiente, Fecha 7 - Grupo A, Víctor Antonio Legrotaglie</sub-title>
+</programme>
+<programme start="20260228174500 +0000" stop="20260228195500 +0000" channel="ESPN PREMIUM HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Independiente vs. Central Cordoba, Fecha 8 - Grupo A, Estadio Libertadores de America</sub-title>
+</programme>
 <programme start="20260226233000 +0000" stop="20260227013000 +0000" channel="ESPN PREMIUM.ar">
 <title>Liga Profesional 2026 - Estudiantes (RC)...</title>
 </programme>
@@ -34296,6 +35116,331 @@ Repetición</title>
 <programme start="20260228174500 +0000" stop="20260228195500 +0000" channel="ESPN PREMIUM.ar">
 <title>Liga Profesional 2026</title>
 <sub-title>Independiente vs. Central Cordoba, Fecha 8 - Grupo A, Estadio Libertadores de America</sub-title>
+</programme>
+<programme start="20260226223000 +0000" stop="20260227003000 +0000" channel="FOX SPORTS HD.ar">
+<title>CONMEBOL Libertadores - Guaraní (Par) v...</title>
+</programme>
+<programme start="20260227003000 +0000" stop="20260227023000 +0000" channel="FOX SPORTS HD.ar">
+<title>CONMEBOL Libertadores - Deportes Tolima ...</title>
+</programme>
+<programme start="20260227023000 +0000" stop="20260227033000 +0000" channel="FOX SPORTS HD.ar">
+<title>Manos arriba</title>
+<sub-title>Episodio 7</sub-title>
+</programme>
+<programme start="20260227033000 +0000" stop="20260227050000 +0000" channel="FOX SPORTS HD.ar">
+<title>Xabi Alonso - El Arquitecto</title>
+</programme>
+<programme start="20260227050000 +0000" stop="20260227070000 +0000" channel="FOX SPORTS HD.ar">
+<title>UEFA Champions League</title>
+<sub-title>Bayer Leverkusen (Ale) vs. Olympiacos (Gre), 16vos de final - Vuelta, BayArena</sub-title>
+</programme>
+<programme start="20260227070000 +0000" stop="20260227090000 +0000" channel="FOX SPORTS HD.ar">
+<title>CONMEBOL Libertadores</title>
+<sub-title>Guaraní (Par) vs. Juventud (Uru), Ronda de clasificacion, Estadio Rogelio Livieres</sub-title>
+</programme>
+<programme start="20260227090000 +0000" stop="20260227110000 +0000" channel="FOX SPORTS HD.ar">
+<title>CONMEBOL Libertadores</title>
+<sub-title>Deportes Tolima (Col) vs. Dep. Táchira (Ven), Ronda de clasificacion, Estadio Manuel Murillo Toro</sub-title>
+</programme>
+<programme start="20260227110000 +0000" stop="20260227130000 +0000" channel="FOX SPORTS HD.ar">
+<title>Línea de 3</title>
+<sub-title>Episodio 20</sub-title>
+</programme>
+<programme start="20260227130000 +0000" stop="20260227150000 +0000" channel="FOX SPORTS HD.ar">
+<title>Siga, siga</title>
+<sub-title>Episodio 18</sub-title>
+</programme>
+<programme start="20260227150000 +0000" stop="20260227170000 +0000" channel="FOX SPORTS HD.ar">
+<title>La vuelta</title>
+<sub-title>Previa UCL - PSV vs. Dortmund</sub-title>
+</programme>
+<programme start="20260227170000 +0000" stop="20260227190000 +0000" channel="FOX SPORTS HD.ar">
+<title>Todo pelota</title>
+<sub-title>Episodio 16</sub-title>
+</programme>
+<programme start="20260227190000 +0000" stop="20260227200000 +0000" channel="FOX SPORTS HD.ar">
+<title>Telemetrico</title>
+<sub-title>Episodio 4</sub-title>
+</programme>
+<programme start="20260227200000 +0000" stop="20260227210000 +0000" channel="FOX SPORTS HD.ar">
+<title>Manos arriba</title>
+<sub-title>Episodio 7</sub-title>
+</programme>
+<programme start="20260227210000 +0000" stop="20260227230000 +0000" channel="FOX SPORTS HD.ar">
+<title>CONMEBOL Libertadores</title>
+<sub-title>Argentinos Jrs. (Arg) vs. Barcelona (Ecu), Ronda de clasificacion, Estadio Diego Armando Maradona</sub-title>
+</programme>
+<programme start="20260227230000 +0000" stop="20260228010000 +0000" channel="FOX SPORTS HD.ar">
+<title>CONMEBOL Libertadores - Ind. Medellín (...</title>
+</programme>
+<programme start="20260228010000 +0000" stop="20260228030000 +0000" channel="FOX SPORTS HD.ar">
+<title>La vuelta - Previa UCL - PSV vs. Dortmun...</title>
+</programme>
+<programme start="20260228030000 +0000" stop="20260228050000 +0000" channel="FOX SPORTS HD.ar">
+<title>Todo pelota</title>
+<sub-title>Episodio 16</sub-title>
+</programme>
+<programme start="20260228050000 +0000" stop="20260228060000 +0000" channel="FOX SPORTS HD.ar">
+<title>Telemetrico</title>
+<sub-title>Episodio 4</sub-title>
+</programme>
+<programme start="20260228060000 +0000" stop="20260228080000 +0000" channel="FOX SPORTS HD.ar">
+<title>UEFA Champions League</title>
+<sub-title>Atalanta (Ita) vs. Borussia Dortmund (Ale), 16vos de final - Vuelta, New Balance Arena</sub-title>
+</programme>
+<programme start="20260228080000 +0000" stop="20260228100000 +0000" channel="FOX SPORTS HD.ar">
+<title>Superliga de Turquía</title>
+<sub-title>Kocaelispor vs. Besiktas, Fecha 24, Estadio Yildiz Entegre Kocaeli</sub-title>
+</programme>
+<programme start="20260228100000 +0000" stop="20260228120000 +0000" channel="FOX SPORTS HD.ar">
+<title>EFL Championship</title>
+<sub-title>Preston North End vs. Millwall, Fecha 35, Deepdale</sub-title>
+</programme>
+<programme start="20260228120000 +0000" stop="20260228123000 +0000" channel="FOX SPORTS HD.ar">
+<title>Show de la UEFA Champions League</title>
+<sub-title>Episodio 22</sub-title>
+</programme>
+<programme start="20260228123000 +0000" stop="20260228133000 +0000" channel="FOX SPORTS HD.ar">
+<title>Show de la CONMEBOL Libertadores</title>
+<sub-title>Episodio 4</sub-title>
+</programme>
+<programme start="20260228133000 +0000" stop="20260228153000 +0000" channel="FOX SPORTS HD.ar">
+<title>UEFA Champions League</title>
+<sub-title>Real Madrid (Esp) vs. Benfica (Por), 16vos de final - Vuelta, Estadio Santiago Bernabeu</sub-title>
+</programme>
+<programme start="20260228153000 +0000" stop="20260228173000 +0000" channel="FOX SPORTS HD.ar">
+<title>FS Radio</title>
+<sub-title>Boca Jrs. vs. Gimnasia y Esgrima (M), Fecha 8 - Grupo A, Estadio Alberto J. Armando</sub-title>
+</programme>
+<programme start="20260228173000 +0000" stop="20260228193000 +0000" channel="FOX SPORTS HD.ar">
+<title>CONMEBOL Libertadores</title>
+<sub-title>Argentinos Jrs. (Arg) vs. Barcelona (Ecu), Ronda de clasificacion, Estadio Diego Armando Maradona</sub-title>
+</programme>
+<programme start="20260228193000 +0000" stop="20260228200000 +0000" channel="FOX SPORTS HD.ar">
+<title>Show de la UEFA Champions League</title>
+<sub-title>Episodio 22</sub-title>
+</programme>
+<programme start="20260226223000 +0000" stop="20260227003000 +0000" channel="FOX SPORTS.ar">
+<title>CONMEBOL Libertadores - Guaraní (Par) v...</title>
+</programme>
+<programme start="20260227003000 +0000" stop="20260227023000 +0000" channel="FOX SPORTS.ar">
+<title>CONMEBOL Libertadores - Deportes Tolima ...</title>
+</programme>
+<programme start="20260227023000 +0000" stop="20260227033000 +0000" channel="FOX SPORTS.ar">
+<title>Manos arriba</title>
+<sub-title>Episodio 7</sub-title>
+</programme>
+<programme start="20260227033000 +0000" stop="20260227050000 +0000" channel="FOX SPORTS.ar">
+<title>Xabi Alonso - El Arquitecto</title>
+</programme>
+<programme start="20260227050000 +0000" stop="20260227070000 +0000" channel="FOX SPORTS.ar">
+<title>UEFA Champions League</title>
+<sub-title>Bayer Leverkusen (Ale) vs. Olympiacos (Gre), 16vos de final - Vuelta, BayArena</sub-title>
+</programme>
+<programme start="20260227070000 +0000" stop="20260227090000 +0000" channel="FOX SPORTS.ar">
+<title>CONMEBOL Libertadores</title>
+<sub-title>Guaraní (Par) vs. Juventud (Uru), Ronda de clasificacion, Estadio Rogelio Livieres</sub-title>
+</programme>
+<programme start="20260227090000 +0000" stop="20260227110000 +0000" channel="FOX SPORTS.ar">
+<title>CONMEBOL Libertadores</title>
+<sub-title>Deportes Tolima (Col) vs. Dep. Táchira (Ven), Ronda de clasificacion, Estadio Manuel Murillo Toro</sub-title>
+</programme>
+<programme start="20260227110000 +0000" stop="20260227130000 +0000" channel="FOX SPORTS.ar">
+<title>Línea de 3</title>
+<sub-title>Episodio 20</sub-title>
+</programme>
+<programme start="20260227130000 +0000" stop="20260227150000 +0000" channel="FOX SPORTS.ar">
+<title>Siga, siga</title>
+<sub-title>Episodio 18</sub-title>
+</programme>
+<programme start="20260227150000 +0000" stop="20260227170000 +0000" channel="FOX SPORTS.ar">
+<title>La vuelta</title>
+<sub-title>Previa UCL - PSV vs. Dortmund</sub-title>
+</programme>
+<programme start="20260227170000 +0000" stop="20260227190000 +0000" channel="FOX SPORTS.ar">
+<title>Todo pelota</title>
+<sub-title>Episodio 16</sub-title>
+</programme>
+<programme start="20260227190000 +0000" stop="20260227200000 +0000" channel="FOX SPORTS.ar">
+<title>Telemetrico</title>
+<sub-title>Episodio 4</sub-title>
+</programme>
+<programme start="20260227200000 +0000" stop="20260227210000 +0000" channel="FOX SPORTS.ar">
+<title>Manos arriba</title>
+<sub-title>Episodio 7</sub-title>
+</programme>
+<programme start="20260227210000 +0000" stop="20260227230000 +0000" channel="FOX SPORTS.ar">
+<title>CONMEBOL Libertadores</title>
+<sub-title>Argentinos Jrs. (Arg) vs. Barcelona (Ecu), Ronda de clasificacion, Estadio Diego Armando Maradona</sub-title>
+</programme>
+<programme start="20260227230000 +0000" stop="20260228010000 +0000" channel="FOX SPORTS.ar">
+<title>CONMEBOL Libertadores - Ind. Medellín (...</title>
+</programme>
+<programme start="20260228010000 +0000" stop="20260228030000 +0000" channel="FOX SPORTS.ar">
+<title>La vuelta - Previa UCL - PSV vs. Dortmun...</title>
+</programme>
+<programme start="20260228030000 +0000" stop="20260228050000 +0000" channel="FOX SPORTS.ar">
+<title>Todo pelota</title>
+<sub-title>Episodio 16</sub-title>
+</programme>
+<programme start="20260228050000 +0000" stop="20260228060000 +0000" channel="FOX SPORTS.ar">
+<title>Telemetrico</title>
+<sub-title>Episodio 4</sub-title>
+</programme>
+<programme start="20260228060000 +0000" stop="20260228080000 +0000" channel="FOX SPORTS.ar">
+<title>UEFA Champions League</title>
+<sub-title>Atalanta (Ita) vs. Borussia Dortmund (Ale), 16vos de final - Vuelta, New Balance Arena</sub-title>
+</programme>
+<programme start="20260228080000 +0000" stop="20260228100000 +0000" channel="FOX SPORTS.ar">
+<title>Superliga de Turquía</title>
+<sub-title>Kocaelispor vs. Besiktas, Fecha 24, Estadio Yildiz Entegre Kocaeli</sub-title>
+</programme>
+<programme start="20260228100000 +0000" stop="20260228120000 +0000" channel="FOX SPORTS.ar">
+<title>EFL Championship</title>
+<sub-title>Preston North End vs. Millwall, Fecha 35, Deepdale</sub-title>
+</programme>
+<programme start="20260228120000 +0000" stop="20260228123000 +0000" channel="FOX SPORTS.ar">
+<title>Show de la UEFA Champions League</title>
+<sub-title>Episodio 22</sub-title>
+</programme>
+<programme start="20260228123000 +0000" stop="20260228133000 +0000" channel="FOX SPORTS.ar">
+<title>Show de la CONMEBOL Libertadores</title>
+<sub-title>Episodio 4</sub-title>
+</programme>
+<programme start="20260228133000 +0000" stop="20260228153000 +0000" channel="FOX SPORTS.ar">
+<title>UEFA Champions League</title>
+<sub-title>Real Madrid (Esp) vs. Benfica (Por), 16vos de final - Vuelta, Estadio Santiago Bernabeu</sub-title>
+</programme>
+<programme start="20260228153000 +0000" stop="20260228173000 +0000" channel="FOX SPORTS.ar">
+<title>FS Radio</title>
+<sub-title>Boca Jrs. vs. Gimnasia y Esgrima (M), Fecha 8 - Grupo A, Estadio Alberto J. Armando</sub-title>
+</programme>
+<programme start="20260228173000 +0000" stop="20260228193000 +0000" channel="FOX SPORTS.ar">
+<title>CONMEBOL Libertadores</title>
+<sub-title>Argentinos Jrs. (Arg) vs. Barcelona (Ecu), Ronda de clasificacion, Estadio Diego Armando Maradona</sub-title>
+</programme>
+<programme start="20260228193000 +0000" stop="20260228200000 +0000" channel="FOX SPORTS.ar">
+<title>Show de la UEFA Champions League</title>
+<sub-title>Episodio 22</sub-title>
+</programme>
+<programme start="20260226223000 +0000" stop="20260227003000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Copa del Rey - Valencia - Real Madrid vs...</title>
+</programme>
+<programme start="20260227003000 +0000" stop="20260227023000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Liga ASOBAL - Puente Genil vs. BM Caseri...</title>
+</programme>
+<programme start="20260227023000 +0000" stop="20260227030000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Leyendas del rugby</title>
+<sub-title>Episodio 5</sub-title>
+</programme>
+<programme start="20260227030000 +0000" stop="20260227050000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>ACLAV</title>
+<sub-title>Waiwen vs. Boca, Tour 6</sub-title>
+</programme>
+<programme start="20260227050000 +0000" stop="20260227060000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Rugby Time</title>
+<sub-title>Episodio 3</sub-title>
+</programme>
+<programme start="20260227060000 +0000" stop="20260227080000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Liga ASOBAL</title>
+<sub-title>Puente Genil vs. BM Caserio, Jornada 18</sub-title>
+</programme>
+<programme start="20260227080000 +0000" stop="20260227100000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>CONMEBOL Libertadores</title>
+<sub-title>Huachipato (Chi) vs. Carabobo (Ven), Ronda de clasificacion, Estadio Huachipato-CAP Acero</sub-title>
+</programme>
+<programme start="20260227100000 +0000" stop="20260227120000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>EHF Champions League</title>
+<sub-title>Sporting vs. Aalborg</sub-title>
+</programme>
+<programme start="20260227120000 +0000" stop="20260227123000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Travesia italiana</title>
+<sub-title>Episodio 3</sub-title>
+</programme>
+<programme start="20260227123000 +0000" stop="20260227133000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Moving</title>
+<sub-title>Episodio 6</sub-title>
+</programme>
+<programme start="20260227133000 +0000" stop="20260227143000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Ãltima vuelta</title>
+<sub-title>Episodio 3</sub-title>
+</programme>
+<programme start="20260227143000 +0000" stop="20260227163000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Liga ASOBAL</title>
+<sub-title>Cuenca vs. Pte Genil, Jornada 19</sub-title>
+</programme>
+<programme start="20260227163000 +0000" stop="20260227173000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>La cocina del fútbol</title>
+<sub-title>Episodio 4</sub-title>
+</programme>
+<programme start="20260227173000 +0000" stop="20260227183000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Marketing registrado</title>
+<sub-title>Episodio 4</sub-title>
+</programme>
+<programme start="20260227183000 +0000" stop="20260227203000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Copa del Rey - Valencia</title>
+<sub-title>Real Madrid vs. Baskonia, Final</sub-title>
+</programme>
+<programme start="20260227203000 +0000" stop="20260227223000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Liga ASOBAL</title>
+<sub-title>Cuenca vs. Pte Genil, Jornada 19</sub-title>
+</programme>
+<programme start="20260227223000 +0000" stop="20260227230000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Surf and Rock Episodio8</title>
+</programme>
+<programme start="20260227230000 +0000" stop="20260228010000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>CONMEBOL Libertadores - Sporting Cristal...</title>
+</programme>
+<programme start="20260228010000 +0000" stop="20260228030000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>3DT</title>
+</programme>
+<programme start="20260228030000 +0000" stop="20260228050000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>ACLAV</title>
+<sub-title>River vs. Boca, Tour 6</sub-title>
+</programme>
+<programme start="20260228050000 +0000" stop="20260228070000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Copa del Rey - Valencia</title>
+<sub-title>Final</sub-title>
+</programme>
+<programme start="20260228070000 +0000" stop="20260228090000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Liga ASOBAL</title>
+<sub-title>Cuenca vs. Pte Genil, Fecha 19</sub-title>
+</programme>
+<programme start="20260228090000 +0000" stop="20260228100000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Rugby Time</title>
+<sub-title>Episodio 3</sub-title>
+</programme>
+<programme start="20260228100000 +0000" stop="20260228110000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Moving</title>
+<sub-title>Episodio 6</sub-title>
+</programme>
+<programme start="20260228110000 +0000" stop="20260228120000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Marketing registrado</title>
+<sub-title>Episodio 4</sub-title>
+</programme>
+<programme start="20260228120000 +0000" stop="20260228140000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>ACLAV</title>
+<sub-title>San Lorenzo vs. UPCN San Juan, Tour 6</sub-title>
+</programme>
+<programme start="20260228140000 +0000" stop="20260228142000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Travesia italiana</title>
+<sub-title>Episodio 3</sub-title>
+</programme>
+<programme start="20260228142000 +0000" stop="20260228163000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>Bundesliga 2</title>
+<sub-title>Greuther Furth vs. Schalke 04, Fecha 24, Sportpark Ronhof Thomas Sommer</sub-title>
+</programme>
+<programme start="20260228163000 +0000" stop="20260228173000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>La cocina del fútbol</title>
+<sub-title>Episodio 4</sub-title>
+</programme>
+<programme start="20260228173000 +0000" stop="20260228193000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>EHF Champions League</title>
+<sub-title>Sporting vs. Aalborg</sub-title>
+</programme>
+<programme start="20260228193000 +0000" stop="20260228213000 +0000" channel="FOX SPORTS 2 HD.ar">
+<title>ACLAV</title>
+<sub-title>River vs. Boca, Tour 6</sub-title>
 </programme>
 <programme start="20260226223000 +0000" stop="20260227003000 +0000" channel="FOX SPORTS 2.ar">
 <title>Copa del Rey - Valencia - Real Madrid vs...</title>
@@ -34526,95 +35671,377 @@ Repetición</title>
 <programme start="20260228200000 +0000" stop="20260228213000 +0000" channel="FOX SPORTS 3.ar">
 <title>Red Bull Surf: Against Gravity - Leon Glatzers Story</title>
 </programme>
-<programme start="20260226220000 +0000" stop="20260226221500 +0000" channel="TELEFE.ar">
-<title>DirecTV - DGO Presentan: Espiando la cas...</title>
+<programme start="20260226221500 +0000" stop="20260227000000 +0000" channel="TNT SPORTS HD.ar">
+<title>Liga Profesional 2026 - Estudiantes (RC)...</title>
 </programme>
-<programme start="20260226221500 +0000" stop="20260226223000 +0000" channel="TELEFE.ar">
-<title>Staff</title>
+<programme start="20260227000000 +0000" stop="20260227020000 +0000" channel="TNT SPORTS HD.ar">
+<title>Liga Profesional 2026 - Sarmiento vs. Un...</title>
 </programme>
-<programme start="20260226223000 +0000" stop="20260226230000 +0000" channel="TELEFE.ar">
-<title>Staff: segundo tiempo</title>
+<programme start="20260227020000 +0000" stop="20260227040000 +0000" channel="TNT SPORTS HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Velez Sarsfield vs. Dep. Riestra, Fecha 7 - Grupo A, Estadio Jose Amalfitani</sub-title>
 </programme>
-<programme start="20260226230000 +0000" stop="20260226234500 +0000" channel="TELEFE.ar">
-<title>El valor de tus joyas</title>
+<programme start="20260227040000 +0000" stop="20260227060000 +0000" channel="TNT SPORTS HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>San Lorenzo vs. Instituto, Fecha 7 - Grupo A, Estadio Pedro Bidegain</sub-title>
 </programme>
-<programme start="20260226234500 +0000" stop="20260227040000 +0000" channel="TELEFE.ar">
-<title>Cierre de transmision</title>
+<programme start="20260227060000 +0000" stop="20260227080000 +0000" channel="TNT SPORTS HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Racing Club vs. Ind. Rivadavia, Fecha 7 - Grupo B, Estadio Juan Domingo Peron</sub-title>
 </programme>
-<programme start="20260227040000 +0000" stop="20260227044500 +0000" channel="TELEFE.ar">
-<title>El Chavo y el Chapulín colorado</title>
+<programme start="20260227080000 +0000" stop="20260227100000 +0000" channel="TNT SPORTS HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>River Plate vs. Banfield, Fecha 7 - Grupo B, Estadio Monumental</sub-title>
 </programme>
-<programme start="20260227044500 +0000" stop="20260227050000 +0000" channel="TELEFE.ar">
-<title>TT</title>
+<programme start="20260227100000 +0000" stop="20260227120000 +0000" channel="TNT SPORTS HD.ar">
+<title>Pelota parada</title>
 </programme>
-<programme start="20260227050000 +0000" stop="20260227073000 +0000" channel="TELEFE.ar">
-<title>Buen Telefe</title>
+<programme start="20260227120000 +0000" stop="20260227133000 +0000" channel="TNT SPORTS HD.ar">
+<title>TNT Data Sports</title>
 </programme>
-<programme start="20260227073000 +0000" stop="20260227094500 +0000" channel="TELEFE.ar">
-<title>A la Barbarossa</title>
+<programme start="20260227133000 +0000" stop="20260227140000 +0000" channel="TNT SPORTS HD.ar">
+<title>Todo sobre Diego</title>
+<sub-title>Episodio: Mundial 86</sub-title>
 </programme>
-<programme start="20260227094500 +0000" stop="20260227110000 +0000" channel="TELEFE.ar">
-<title>Ariel en su salsa</title>
+<programme start="20260227140000 +0000" stop="20260227143000 +0000" channel="TNT SPORTS HD.ar">
+<title>Pensiones</title>
+<sub-title>Lanús</sub-title>
 </programme>
-<programme start="20260227110000 +0000" stop="20260227123000 +0000" channel="TELEFE.ar">
-<title>El noticiero de la gente</title>
+<programme start="20260227143000 +0000" stop="20260227150000 +0000" channel="TNT SPORTS HD.ar">
+<title>Confesiones</title>
+<sub-title>Pablo Álvarez - Franco Cángele</sub-title>
 </programme>
-<programme start="20260227123000 +0000" stop="20260227141500 +0000" channel="TELEFE.ar">
-<title>Cortá por Lozano</title>
+<programme start="20260227150000 +0000" stop="20260227170000 +0000" channel="TNT SPORTS HD.ar">
+<title>TNT Fútbol</title>
 </programme>
-<programme start="20260227141500 +0000" stop="20260227153000 +0000" channel="TELEFE.ar">
-<title>Pasion prohibida</title>
+<programme start="20260227170000 +0000" stop="20260227173000 +0000" channel="TNT SPORTS HD.ar">
+<title>Pensiones</title>
+<sub-title>Lanús</sub-title>
 </programme>
-<programme start="20260227153000 +0000" stop="20260227161500 +0000" channel="TELEFE.ar">
-<title>Todas las flores</title>
+<programme start="20260227173000 +0000" stop="20260227175500 +0000" channel="TNT SPORTS HD.ar">
+<title>Todo sobre Diego</title>
+<sub-title>Episodio: Sus comienzos / Mundial 1979</sub-title>
 </programme>
-<programme start="20260227161500 +0000" stop="20260227171500 +0000" channel="TELEFE.ar">
-<title>Bahar - Â¿Estás lista para despertar?</title>
+<programme start="20260227175500 +0000" stop="20260227182000 +0000" channel="TNT SPORTS HD.ar">
+<title>Todo sobre Diego</title>
+<sub-title>Episodio: Mundial 79 / AAAJ</sub-title>
 </programme>
-<programme start="20260227171500 +0000" stop="20260227180000 +0000" channel="TELEFE.ar">
-<title>La traicion</title>
+<programme start="20260227182000 +0000" stop="20260227203000 +0000" channel="TNT SPORTS HD.ar">
+<title>Liga de Primera de Chile</title>
+<sub-title>Union La Calera vs. Audax Italiano, Fecha 5, Estadio Municipal Nicolás Chahuán</sub-title>
 </programme>
-<programme start="20260227180000 +0000" stop="20260227193000 +0000" channel="TELEFE.ar">
-<title>Telefe noticias</title>
+<programme start="20260227203000 +0000" stop="20260227222000 +0000" channel="TNT SPORTS HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Racing Club vs. Ind. Rivadavia, Fecha 7 - Grupo B, Estadio Juan Domingo Peron</sub-title>
 </programme>
-<programme start="20260227193000 +0000" stop="20260227204500 +0000" channel="TELEFE.ar">
-<title>MasterChef Celebrity</title>
+<programme start="20260227222000 +0000" stop="20260228001000 +0000" channel="TNT SPORTS HD.ar">
+<title>Liga Profesional 2026 - River Plate vs. ...</title>
 </programme>
-<programme start="20260227204500 +0000" stop="20260227211500 +0000" channel="TELEFE.ar">
-<title>Chef al diván</title>
+<programme start="20260228001000 +0000" stop="20260228020000 +0000" channel="TNT SPORTS HD.ar">
+<title>Liga Profesional 2026 - San Lorenzo vs. ...</title>
 </programme>
-<programme start="20260227211500 +0000" stop="20260227220000 +0000" channel="TELEFE.ar">
-<title>#JuegoChino</title>
+<programme start="20260228020000 +0000" stop="20260228040000 +0000" channel="TNT SPORTS HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Gimnasia y Esgrima (M) vs. Independiente, Fecha 7 - Grupo A, Víctor Antonio Legrotaglie</sub-title>
 </programme>
-<programme start="20260227220000 +0000" stop="20260227221500 +0000" channel="TELEFE.ar">
-<title>Staff</title>
+<programme start="20260228040000 +0000" stop="20260228055000 +0000" channel="TNT SPORTS HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Newells vs. Estudiantes (LP), Fecha 7 - Grupo A, Estadio Marcelo Bielsa</sub-title>
 </programme>
-<programme start="20260227221500 +0000" stop="20260227224500 +0000" channel="TELEFE.ar">
-<title>Staff: segundo tiempo</title>
+<programme start="20260228055000 +0000" stop="20260228075000 +0000" channel="TNT SPORTS HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>San Lorenzo vs. Instituto, Fecha 7 - Grupo A, Estadio Pedro Bidegain</sub-title>
 </programme>
-<programme start="20260227224500 +0000" stop="20260227233000 +0000" channel="TELEFE.ar">
-<title>El valor de tus joyas</title>
+<programme start="20260228075000 +0000" stop="20260228095000 +0000" channel="TNT SPORTS HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>River Plate vs. Banfield, Fecha 7 - Grupo B, Estadio Monumental</sub-title>
 </programme>
-<programme start="20260227233000 +0000" stop="20260228041500 +0000" channel="TELEFE.ar">
-<title>Cierre de transmision</title>
+<programme start="20260228095000 +0000" stop="20260228120000 +0000" channel="TNT SPORTS HD.ar">
+<title>Liga de Primera de Chile</title>
+<sub-title>Coquimbo Unido vs. Deportes Concepcion, Fecha 5, Estadio Francisco Sánchez Rumoroso</sub-title>
 </programme>
-<programme start="20260228041500 +0000" stop="20260228070000 +0000" channel="TELEFE.ar">
-<title>El Chavo y el Chapulín colorado</title>
+<programme start="20260228120000 +0000" stop="20260228130000 +0000" channel="TNT SPORTS HD.ar">
+<title>Confesiones</title>
+<sub-title>Jorge Burruchaga - Ricardo Giusti</sub-title>
 </programme>
-<programme start="20260228070000 +0000" stop="20260228073000 +0000" channel="TELEFE.ar">
-<title>A confirmar</title>
+<programme start="20260228130000 +0000" stop="20260228131500 +0000" channel="TNT SPORTS HD.ar">
+<title>Compacto - Pensiones</title>
+<sub-title>Independiente</sub-title>
 </programme>
-<programme start="20260228073000 +0000" stop="20260228090000 +0000" channel="TELEFE.ar">
-<title>El Chavo y el Chapulín colorado</title>
+<programme start="20260228131500 +0000" stop="20260228151500 +0000" channel="TNT SPORTS HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Boca Jrs. vs. Racing Club, Fecha 6 - Interzonal, Estadio Alberto J. Armando</sub-title>
 </programme>
-<programme start="20260228090000 +0000" stop="20260228170000 +0000" channel="TELEFE.ar">
-<title>Los Simpson</title>
+<programme start="20260228151500 +0000" stop="20260228153000 +0000" channel="TNT SPORTS HD.ar">
+<title>Match Day: Previa</title>
 </programme>
-<programme start="20260228170000 +0000" stop="20260228193000 +0000" channel="TELEFE.ar">
-<title>Escape perfecto</title>
+<programme start="20260228153000 +0000" stop="20260228174500 +0000" channel="TNT SPORTS HD.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Boca Jrs. vs. Gimnasia y Esgrima (M), Fecha 8 - Grupo A, Estadio Alberto J. Armando</sub-title>
 </programme>
-<programme start="20260228193000 +0000" stop="20260228213000 +0000" channel="TELEFE.ar">
-<title>MasterChef Celebrity - Edicion especial</title>
+<programme start="20260228174500 +0000" stop="20260228181500 +0000" channel="TNT SPORTS HD.ar">
+<title>Match Day: Post partido</title>
+</programme>
+<programme start="20260228181500 +0000" stop="20260228184500 +0000" channel="TNT SPORTS HD.ar">
+<title>Todo sobre Diego</title>
+<sub-title>Episodio: Boca 1981</sub-title>
+</programme>
+<programme start="20260228184500 +0000" stop="20260228191500 +0000" channel="TNT SPORTS HD.ar">
+<title>Todo sobre Diego</title>
+<sub-title>Episodio: Mundial 1982</sub-title>
+</programme>
+<programme start="20260228191500 +0000" stop="20260228194500 +0000" channel="TNT SPORTS HD.ar">
+<title>Confesiones</title>
+<sub-title>Maximiliano Bauza - Mauro Cetto</sub-title>
+</programme>
+<programme start="20260228194500 +0000" stop="20260228200000 +0000" channel="TNT SPORTS HD.ar">
+<title>Match Day: Previa</title>
+</programme>
+<programme start="20260226221500 +0000" stop="20260227000000 +0000" channel="TNT SPORTS.ar">
+<title>Liga Profesional 2026 - Estudiantes (RC)...</title>
+</programme>
+<programme start="20260227000000 +0000" stop="20260227020000 +0000" channel="TNT SPORTS.ar">
+<title>Liga Profesional 2026 - Sarmiento vs. Un...</title>
+</programme>
+<programme start="20260227020000 +0000" stop="20260227040000 +0000" channel="TNT SPORTS.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Velez Sarsfield vs. Dep. Riestra, Fecha 7 - Grupo A, Estadio Jose Amalfitani</sub-title>
+</programme>
+<programme start="20260227040000 +0000" stop="20260227060000 +0000" channel="TNT SPORTS.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>San Lorenzo vs. Instituto, Fecha 7 - Grupo A, Estadio Pedro Bidegain</sub-title>
+</programme>
+<programme start="20260227060000 +0000" stop="20260227080000 +0000" channel="TNT SPORTS.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Racing Club vs. Ind. Rivadavia, Fecha 7 - Grupo B, Estadio Juan Domingo Peron</sub-title>
+</programme>
+<programme start="20260227080000 +0000" stop="20260227100000 +0000" channel="TNT SPORTS.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>River Plate vs. Banfield, Fecha 7 - Grupo B, Estadio Monumental</sub-title>
+</programme>
+<programme start="20260227100000 +0000" stop="20260227120000 +0000" channel="TNT SPORTS.ar">
+<title>Pelota parada</title>
+</programme>
+<programme start="20260227120000 +0000" stop="20260227133000 +0000" channel="TNT SPORTS.ar">
+<title>TNT Data Sports</title>
+</programme>
+<programme start="20260227133000 +0000" stop="20260227140000 +0000" channel="TNT SPORTS.ar">
+<title>Todo sobre Diego</title>
+<sub-title>Episodio: Mundial 86</sub-title>
+</programme>
+<programme start="20260227140000 +0000" stop="20260227143000 +0000" channel="TNT SPORTS.ar">
+<title>Pensiones</title>
+<sub-title>Lanús</sub-title>
+</programme>
+<programme start="20260227143000 +0000" stop="20260227150000 +0000" channel="TNT SPORTS.ar">
+<title>Confesiones</title>
+<sub-title>Pablo Álvarez - Franco Cángele</sub-title>
+</programme>
+<programme start="20260227150000 +0000" stop="20260227170000 +0000" channel="TNT SPORTS.ar">
+<title>TNT Fútbol</title>
+</programme>
+<programme start="20260227170000 +0000" stop="20260227173000 +0000" channel="TNT SPORTS.ar">
+<title>Pensiones</title>
+<sub-title>Lanús</sub-title>
+</programme>
+<programme start="20260227173000 +0000" stop="20260227175500 +0000" channel="TNT SPORTS.ar">
+<title>Todo sobre Diego</title>
+<sub-title>Episodio: Sus comienzos / Mundial 1979</sub-title>
+</programme>
+<programme start="20260227175500 +0000" stop="20260227182000 +0000" channel="TNT SPORTS.ar">
+<title>Todo sobre Diego</title>
+<sub-title>Episodio: Mundial 79 / AAAJ</sub-title>
+</programme>
+<programme start="20260227182000 +0000" stop="20260227203000 +0000" channel="TNT SPORTS.ar">
+<title>Liga de Primera de Chile</title>
+<sub-title>Union La Calera vs. Audax Italiano, Fecha 5, Estadio Municipal Nicolás Chahuán</sub-title>
+</programme>
+<programme start="20260227203000 +0000" stop="20260227222000 +0000" channel="TNT SPORTS.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Racing Club vs. Ind. Rivadavia, Fecha 7 - Grupo B, Estadio Juan Domingo Peron</sub-title>
+</programme>
+<programme start="20260227222000 +0000" stop="20260228001000 +0000" channel="TNT SPORTS.ar">
+<title>Liga Profesional 2026 - River Plate vs. ...</title>
+</programme>
+<programme start="20260228001000 +0000" stop="20260228020000 +0000" channel="TNT SPORTS.ar">
+<title>Liga Profesional 2026 - San Lorenzo vs. ...</title>
+</programme>
+<programme start="20260228020000 +0000" stop="20260228040000 +0000" channel="TNT SPORTS.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Gimnasia y Esgrima (M) vs. Independiente, Fecha 7 - Grupo A, Víctor Antonio Legrotaglie</sub-title>
+</programme>
+<programme start="20260228040000 +0000" stop="20260228055000 +0000" channel="TNT SPORTS.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Newells vs. Estudiantes (LP), Fecha 7 - Grupo A, Estadio Marcelo Bielsa</sub-title>
+</programme>
+<programme start="20260228055000 +0000" stop="20260228075000 +0000" channel="TNT SPORTS.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>San Lorenzo vs. Instituto, Fecha 7 - Grupo A, Estadio Pedro Bidegain</sub-title>
+</programme>
+<programme start="20260228075000 +0000" stop="20260228095000 +0000" channel="TNT SPORTS.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>River Plate vs. Banfield, Fecha 7 - Grupo B, Estadio Monumental</sub-title>
+</programme>
+<programme start="20260228095000 +0000" stop="20260228120000 +0000" channel="TNT SPORTS.ar">
+<title>Liga de Primera de Chile</title>
+<sub-title>Coquimbo Unido vs. Deportes Concepcion, Fecha 5, Estadio Francisco Sánchez Rumoroso</sub-title>
+</programme>
+<programme start="20260228120000 +0000" stop="20260228130000 +0000" channel="TNT SPORTS.ar">
+<title>Confesiones</title>
+<sub-title>Jorge Burruchaga - Ricardo Giusti</sub-title>
+</programme>
+<programme start="20260228130000 +0000" stop="20260228131500 +0000" channel="TNT SPORTS.ar">
+<title>Compacto - Pensiones</title>
+<sub-title>Independiente</sub-title>
+</programme>
+<programme start="20260228131500 +0000" stop="20260228151500 +0000" channel="TNT SPORTS.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Boca Jrs. vs. Racing Club, Fecha 6 - Interzonal, Estadio Alberto J. Armando</sub-title>
+</programme>
+<programme start="20260228151500 +0000" stop="20260228153000 +0000" channel="TNT SPORTS.ar">
+<title>Match Day: Previa</title>
+</programme>
+<programme start="20260228153000 +0000" stop="20260228174500 +0000" channel="TNT SPORTS.ar">
+<title>Liga Profesional 2026</title>
+<sub-title>Boca Jrs. vs. Gimnasia y Esgrima (M), Fecha 8 - Grupo A, Estadio Alberto J. Armando</sub-title>
+</programme>
+<programme start="20260228174500 +0000" stop="20260228181500 +0000" channel="TNT SPORTS.ar">
+<title>Match Day: Post partido</title>
+</programme>
+<programme start="20260228181500 +0000" stop="20260228184500 +0000" channel="TNT SPORTS.ar">
+<title>Todo sobre Diego</title>
+<sub-title>Episodio: Boca 1981</sub-title>
+</programme>
+<programme start="20260228184500 +0000" stop="20260228191500 +0000" channel="TNT SPORTS.ar">
+<title>Todo sobre Diego</title>
+<sub-title>Episodio: Mundial 1982</sub-title>
+</programme>
+<programme start="20260228191500 +0000" stop="20260228194500 +0000" channel="TNT SPORTS.ar">
+<title>Confesiones</title>
+<sub-title>Maximiliano Bauza - Mauro Cetto</sub-title>
+</programme>
+<programme start="20260228194500 +0000" stop="20260228200000 +0000" channel="TNT SPORTS.ar">
+<title>Match Day: Previa</title>
+</programme>
+<programme start="20260227000000 +0000" stop="20260227025500 +0000" channel="TV PUBLICA HD.ar">
+<title>Fin de transmision</title>
+</programme>
+<programme start="20260227025500 +0000" stop="20260227030000 +0000" channel="TV PUBLICA HD.ar">
+<title>Apertura de transmision</title>
+</programme>
+<programme start="20260227030000 +0000" stop="20260227033000 +0000" channel="TV PUBLICA HD.ar">
+<title>Ramadán</title>
+</programme>
+<programme start="20260227033000 +0000" stop="20260227043000 +0000" channel="TV PUBLICA HD.ar">
+<title>Gigantes del sur</title>
+</programme>
+<programme start="20260227043000 +0000" stop="20260227050000 +0000" channel="TV PUBLICA HD.ar">
+<title>Pampero TV</title>
+</programme>
+<programme start="20260227050000 +0000" stop="20260227060000 +0000" channel="TV PUBLICA HD.ar">
+<title>TVP Noticias - Mañana</title>
+</programme>
+<programme start="20260227060000 +0000" stop="20260227070000 +0000" channel="TV PUBLICA HD.ar">
+<title>ADN buena salud</title>
+</programme>
+<programme start="20260227070000 +0000" stop="20260227080000 +0000" channel="TV PUBLICA HD.ar">
+<title>Aire nacional</title>
+</programme>
+<programme start="20260227080000 +0000" stop="20260227100000 +0000" channel="TV PUBLICA HD.ar">
+<title>Las mañanas con Andino</title>
+</programme>
+<programme start="20260227100000 +0000" stop="20260227113000 +0000" channel="TV PUBLICA HD.ar">
+<title>TVP Noticias - Mediodía</title>
+</programme>
+<programme start="20260227113000 +0000" stop="20260227130000 +0000" channel="TV PUBLICA HD.ar">
+<title>Mediodía bien arriba</title>
+</programme>
+<programme start="20260227130000 +0000" stop="20260227143000 +0000" channel="TV PUBLICA HD.ar">
+<title>Â¡Estamos en una!</title>
+</programme>
+<programme start="20260227143000 +0000" stop="20260227153000 +0000" channel="TV PUBLICA HD.ar">
+<title>Nuevas tardes - Modo verano</title>
+</programme>
+<programme start="20260227153000 +0000" stop="20260227160000 +0000" channel="TV PUBLICA HD.ar">
+<title>Lo mejor de Se siente Argentina</title>
+</programme>
+<programme start="20260227160000 +0000" stop="20260227170000 +0000" channel="TV PUBLICA HD.ar">
+<title>TVP Noticias - Internacional</title>
+</programme>
+<programme start="20260227170000 +0000" stop="20260227183000 +0000" channel="TV PUBLICA HD.ar">
+<title>TPA Noticias - Central</title>
+</programme>
+<programme start="20260227183000 +0000" stop="20260227190000 +0000" channel="TV PUBLICA HD.ar">
+<title>Lo mejor de Se siente Argentina</title>
+</programme>
+<programme start="20260227190000 +0000" stop="20260227200000 +0000" channel="TV PUBLICA HD.ar">
+<title>La previa - Se siente Argentina</title>
+</programme>
+<programme start="20260227200000 +0000" stop="20260228000000 +0000" channel="TV PUBLICA HD.ar">
+<title>Se siente Argentina</title>
+<sub-title>Episodio: Lo mejor del Festival del humor, la buena misa y la cancion, Cordoba y Festival del Calden, San Luis</sub-title>
+</programme>
+<programme start="20260228000000 +0000" stop="20260228025500 +0000" channel="TV PUBLICA HD.ar">
+<title>Fin de transmision</title>
+</programme>
+<programme start="20260228025500 +0000" stop="20260228030000 +0000" channel="TV PUBLICA HD.ar">
+<title>Apertura de transmision</title>
+</programme>
+<programme start="20260228030000 +0000" stop="20260228040000 +0000" channel="TV PUBLICA HD.ar">
+<title>Ramadán</title>
+</programme>
+<programme start="20260228040000 +0000" stop="20260228043000 +0000" channel="TV PUBLICA HD.ar">
+<title>Fin de transmision</title>
+</programme>
+<programme start="20260228043000 +0000" stop="20260228050000 +0000" channel="TV PUBLICA HD.ar">
+<title>Pampero TV</title>
+</programme>
+<programme start="20260228050000 +0000" stop="20260228060000 +0000" channel="TV PUBLICA HD.ar">
+<title>Gigantes del sur</title>
+</programme>
+<programme start="20260228060000 +0000" stop="20260228063000 +0000" channel="TV PUBLICA HD.ar">
+<title>Claves para un mundo mejor</title>
+</programme>
+<programme start="20260228063000 +0000" stop="20260228070000 +0000" channel="TV PUBLICA HD.ar">
+<title>Nuestro ejercito</title>
+</programme>
+<programme start="20260228070000 +0000" stop="20260228080000 +0000" channel="TV PUBLICA HD.ar">
+<title>ADN buena salud</title>
+</programme>
+<programme start="20260228080000 +0000" stop="20260228090000 +0000" channel="TV PUBLICA HD.ar">
+<title>Aire de campo</title>
+</programme>
+<programme start="20260228090000 +0000" stop="20260228100000 +0000" channel="TV PUBLICA HD.ar">
+<title>Dale voz</title>
+</programme>
+<programme start="20260228100000 +0000" stop="20260228110000 +0000" channel="TV PUBLICA HD.ar">
+<title>TVP Noticias - Edicion especial</title>
+</programme>
+<programme start="20260228110000 +0000" stop="20260228153000 +0000" channel="TV PUBLICA HD.ar">
+<title>Se siente Argentina</title>
+<sub-title>Episodio: Lo mejor del chamame federal, Entre Ríos</sub-title>
+</programme>
+<programme start="20260228153000 +0000" stop="20260228163000 +0000" channel="TV PUBLICA HD.ar">
+<title>Grip</title>
+</programme>
+<programme start="20260228163000 +0000" stop="20260228173000 +0000" channel="TV PUBLICA HD.ar">
+<title>Vivir viajando</title>
+</programme>
+<programme start="20260228173000 +0000" stop="20260228183000 +0000" channel="TV PUBLICA HD.ar">
+<title>Especial - Hay música siempre</title>
+</programme>
+<programme start="20260228183000 +0000" stop="20260228190000 +0000" channel="TV PUBLICA HD.ar">
+<title>Lo mejor de Se siente Argentina</title>
+</programme>
+<programme start="20260228190000 +0000" stop="20260228200000 +0000" channel="TV PUBLICA HD.ar">
+<title>La previa - Se siente Argentina</title>
+</programme>
+<programme start="20260228200000 +0000" stop="20260228203000 +0000" channel="TV PUBLICA HD.ar">
+<title>Se siente Argentina</title>
+<sub-title>Episodio: Carnaval del país, Gualeguaychú, Entre Ríos</sub-title>
+</programme>
+<programme start="20260228203000 +0000" stop="20260228204000 +0000" channel="TV PUBLICA HD.ar">
+<title>Loto</title>
 </programme>
 <programme start="20260227000000 +0000" stop="20260227025500 +0000" channel="TV PUBLICA.ar">
 <title>Fin de transmision</title>
@@ -43792,6 +45219,96 @@ Repetición</title>
       <value>B15</value>
     </rating>
   </programme>
+<programme start="20260226220000 +0000" stop="20260226221500 +0000" channel="TELEFE.ar">
+<title>DirecTV - DGO Presentan: Espiando la cas...</title>
+</programme>
+<programme start="20260226221500 +0000" stop="20260226223000 +0000" channel="TELEFE.ar">
+<title>Staff</title>
+</programme>
+<programme start="20260226223000 +0000" stop="20260226230000 +0000" channel="TELEFE.ar">
+<title>Staff: segundo tiempo</title>
+</programme>
+<programme start="20260226230000 +0000" stop="20260226234500 +0000" channel="TELEFE.ar">
+<title>El valor de tus joyas</title>
+</programme>
+<programme start="20260226234500 +0000" stop="20260227040000 +0000" channel="TELEFE.ar">
+<title>Cierre de transmision</title>
+</programme>
+<programme start="20260227040000 +0000" stop="20260227044500 +0000" channel="TELEFE.ar">
+<title>El Chavo y el Chapulín colorado</title>
+</programme>
+<programme start="20260227044500 +0000" stop="20260227050000 +0000" channel="TELEFE.ar">
+<title>TT</title>
+</programme>
+<programme start="20260227050000 +0000" stop="20260227073000 +0000" channel="TELEFE.ar">
+<title>Buen Telefe</title>
+</programme>
+<programme start="20260227073000 +0000" stop="20260227094500 +0000" channel="TELEFE.ar">
+<title>A la Barbarossa</title>
+</programme>
+<programme start="20260227094500 +0000" stop="20260227110000 +0000" channel="TELEFE.ar">
+<title>Ariel en su salsa</title>
+</programme>
+<programme start="20260227110000 +0000" stop="20260227123000 +0000" channel="TELEFE.ar">
+<title>El noticiero de la gente</title>
+</programme>
+<programme start="20260227123000 +0000" stop="20260227141500 +0000" channel="TELEFE.ar">
+<title>Cortá por Lozano</title>
+</programme>
+<programme start="20260227141500 +0000" stop="20260227153000 +0000" channel="TELEFE.ar">
+<title>Pasion prohibida</title>
+</programme>
+<programme start="20260227153000 +0000" stop="20260227161500 +0000" channel="TELEFE.ar">
+<title>Todas las flores</title>
+</programme>
+<programme start="20260227161500 +0000" stop="20260227171500 +0000" channel="TELEFE.ar">
+<title>Bahar - Â¿Estás lista para despertar?</title>
+</programme>
+<programme start="20260227171500 +0000" stop="20260227180000 +0000" channel="TELEFE.ar">
+<title>La traicion</title>
+</programme>
+<programme start="20260227180000 +0000" stop="20260227193000 +0000" channel="TELEFE.ar">
+<title>Telefe noticias</title>
+</programme>
+<programme start="20260227193000 +0000" stop="20260227204500 +0000" channel="TELEFE.ar">
+<title>MasterChef Celebrity</title>
+</programme>
+<programme start="20260227204500 +0000" stop="20260227211500 +0000" channel="TELEFE.ar">
+<title>Chef al diván</title>
+</programme>
+<programme start="20260227211500 +0000" stop="20260227220000 +0000" channel="TELEFE.ar">
+<title>#JuegoChino</title>
+</programme>
+<programme start="20260227220000 +0000" stop="20260227221500 +0000" channel="TELEFE.ar">
+<title>Staff</title>
+</programme>
+<programme start="20260227221500 +0000" stop="20260227224500 +0000" channel="TELEFE.ar">
+<title>Staff: segundo tiempo</title>
+</programme>
+<programme start="20260227224500 +0000" stop="20260227233000 +0000" channel="TELEFE.ar">
+<title>El valor de tus joyas</title>
+</programme>
+<programme start="20260227233000 +0000" stop="20260228041500 +0000" channel="TELEFE.ar">
+<title>Cierre de transmision</title>
+</programme>
+<programme start="20260228041500 +0000" stop="20260228070000 +0000" channel="TELEFE.ar">
+<title>El Chavo y el Chapulín colorado</title>
+</programme>
+<programme start="20260228070000 +0000" stop="20260228073000 +0000" channel="TELEFE.ar">
+<title>A confirmar</title>
+</programme>
+<programme start="20260228073000 +0000" stop="20260228090000 +0000" channel="TELEFE.ar">
+<title>El Chavo y el Chapulín colorado</title>
+</programme>
+<programme start="20260228090000 +0000" stop="20260228170000 +0000" channel="TELEFE.ar">
+<title>Los Simpson</title>
+</programme>
+<programme start="20260228170000 +0000" stop="20260228193000 +0000" channel="TELEFE.ar">
+<title>Escape perfecto</title>
+</programme>
+<programme start="20260228193000 +0000" stop="20260228213000 +0000" channel="TELEFE.ar">
+<title>MasterChef Celebrity - Edicion especial</title>
+</programme>
 <programme start="20260227230000 +0000" stop="20260228000000 +0000" channel="ESPN.ar">
 <title>SportsCenter</title>
 <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
