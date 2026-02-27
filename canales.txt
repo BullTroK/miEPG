@@ -61,7 +61,7 @@ DAZN Baloncesto,DAZN Baloncesto,https://raw.githubusercontent.com/davidmuma/pico
 DAZN Baloncesto 2,DAZN Baloncesto 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png
 DAZN Baloncesto 3,DAZN Baloncesto 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png
 DAZN Moto GP,DAZN Moto GP,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png
-Onetoro,Onetoro,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png
+Onetoro,Onetoro,https://i.postimg.cc/ZYwgg3YV/onetoro.webp
 Torolé TV,Torolé TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png
 La 1 HD,La 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png
 La 2,La 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png
@@ -113,23 +113,23 @@ TUDN (México),TUDN (México),https://raw.githubusercontent.com/davidmuma/picons
 Sky Sports 16,Sky Sports 16,https://i.postimg.cc/Hs8Wx6Fd/skylaliga.webp
 Sky.Sports.24.mx,Sky Sports 24,https://i.postimg.cc/9MfCjbGy/skybundesliga.webp,-2
 FOX.SPORTS.PREMIUM.mx,FOX SPORTS PREMIUM,https://r2.thesportsdb.com/images/media/channel/logo/uot48c1743576677.png,-2
-Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx,Azteca 7 (XHLAT) Nuevo Laredo MX,https://r2.thesportsdb.com/images/media/channel/logo/29l4pe1621868410.png,-2
-TyC Sports,TyC Sports,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TyC%20Sports.png
+Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx,Azteca 7 (XHLAT) Nuevo Laredo MX,https://i.postimg.cc/Gpsd3Ktr/azteca7.webp,-2
+TyC Sports,TyC Sports,https://r2.thesportsdb.com/images/media/channel/logo/8wjzn31605555626.png
 DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
 DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
 DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
 DSPORTS Fight,DSPORTS Fight,https://dsports-widgets.tbxnet.com/assets/images/channels/1615.png
-ESPN.ar,ESPN.ar,https://r2.thesportsdb.com/images/media/channel/logo/qzobqn1660760939.png,-5
+ESPN.ar,ESPN.ar,https://i.postimg.cc/wTSqsnNT/espnar.webp,-5
 ESPN 2.ar,ESPN 2.ar,https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png,-5
 ESPN 3.ar,ESPN 3.ar,https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png,-5
 ESPN 4.ar,ESPN 4.ar,-5
-ESPN PREMIUM.ar,ESPN PREMIUM.ar,https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png,-5
-TNT SPORTS PREMIUM.ar,TNT SPORTS PREMIUM.ar,https://davinci.zappingtv.com/gato/media/450/canales/white/tntsportshd.png,-5
-FOX SPORTS ARGENTINA.ar,FOX SPORTS ARGENTINA.ar,https://r2.thesportsdb.com/images/media/channel/logo/ec5xf51707916511.png,-5
-FOX SPORTS 2.ar,FOX SPORTS 2.ar,https://r2.thesportsdb.com/images/media/channel/logo/d96btm1707916453.png,-5
-FOX SPORTS 3.ar,FOX SPORTS 3.ar,https://r2.thesportsdb.com/images/media/channel/logo/cyfsdc1707916479.png,-5
+ESPN PREMIUM.ar,ESPN PREMIUM.ar,https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg,-5
+TNT SPORTS PREMIUM.ar,TNT SPORTS PREMIUM.ar,https://i.postimg.cc/ryNxjCJb/tntsportspremium.webp,-5
+FOX SPORTS ARGENTINA.ar,FOX SPORTS ARGENTINA.ar,https://i.postimg.cc/9XDHtJCW/ec5xf51707916511.png,-5
+FOX SPORTS 2.ar,FOX SPORTS 2.ar,https://i.postimg.cc/y6g2SxyH/d96btm1707916453.png,-5
+FOX SPORTS 3.ar,FOX SPORTS 3.ar,https://i.postimg.cc/25SKjSSs/cyfsdc1707916479.png,-5
 TELEFE.ar,TELEFE.ar,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/821px-Telefe_%28nuevo_logo%29.png,-5
-TV PUBLICA.ar,TV PUBLICA.ar,https://r2.thesportsdb.com/images/media/channel/logo/si21ru1624296330.png,-5
+TV PUBLICA.ar,TV PUBLICA.ar,https://i.postimg.cc/XJwHQGHg/tvp.webp,-5
 Fox.Deportes.HD.us2,Fox Deportes HD,https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png,-2
 Univision.Network.HD.us2,Univision Network HD,https://i.postimg.cc/j2zNYRHk/univision.webp,-2
 UniMas.us2,UniMas,https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/unimas-1200-x-674-network-logo.png,-2
