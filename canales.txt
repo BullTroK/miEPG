@@ -119,18 +119,18 @@ DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.p
 DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
 DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
 DSPORTS Fight,DSPORTS Fight,https://dsports-widgets.tbxnet.com/assets/images/channels/1615.png
-ESPN.ar,ESPN.ar
-ESPN 2.ar,ESPN 2.ar
-ESPN 3.ar,ESPN 3.ar
-ESPN 4.ar,ESPN 4.ar
-ESPN PREMIUM.ar,ESPN PREMIUM.ar,4
-TNT SPORTS PREMIUM.ar,TNT SPORTS PREMIUM.ar,3
-FOX SPORTS ARGENTINA.ar,FOX SPORTS ARGENTINA.ar
-FOX SPORTS 2.ar,FOX SPORTS 2.ar
-FOX SPORTS 3.ar,FOX SPORTS 3.ar
-TELEFE.ar,TELEFE.ar
-TV PUBLICA.ar,TV PUBLICA.ar
-Fox.Deportes.HD.us2,Fox Deportes HD,1
-Univision.Network.HD.us2,Univision Network HD
-UniMas.us2,UniMas
-UNIVERSO.HD.us2,UNIVERSO HD
+ESPN.ar,ESPN.ar,+1
+ESPN 2.ar,ESPN 2.ar,+1
+ESPN 3.ar,ESPN 3.ar,+1
+ESPN 4.ar,ESPN 4.ar,+1
+ESPN PREMIUM.ar,ESPN PREMIUM.ar,+1
+TNT SPORTS PREMIUM.ar,TNT SPORTS PREMIUM.ar,+1
+FOX SPORTS ARGENTINA.ar,FOX SPORTS ARGENTINA.ar,+1
+FOX SPORTS 2.ar,FOX SPORTS 2.ar,+1
+FOX SPORTS 3.ar,FOX SPORTS 3.ar,+1
+TELEFE.ar,TELEFE.ar,+1
+TV PUBLICA.ar,TV PUBLICA.ar,+1
+Fox.Deportes.HD.us2,Fox Deportes HD,-6
+Univision.Network.HD.us2,Univision Network HD,-6
+UniMas.us2,UniMas,-6
+UNIVERSO.HD.us2,UNIVERSO HD,-6
