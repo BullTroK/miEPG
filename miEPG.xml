@@ -790,7 +790,7 @@
     <display-name>Sky Sports 16 4K</display-name>
     <display-name>Sky Sports 16 FHD</display-name>
     <display-name>Sky Sports 16 UHD</display-name>
-    <icon src="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_LaLiga_II.svg/revision/latest?cb=20231120144248" />
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_LaLiga_II.svg" />
   </channel>
   <channel id="Sky Sports 24">
     <display-name>Sky Sports 24 SD</display-name>
@@ -798,7 +798,7 @@
     <display-name>Sky Sports 24 4K</display-name>
     <display-name>Sky Sports 24 FHD</display-name>
     <display-name>Sky Sports 24 UHD</display-name>
-    <icon src="https://static.wikia.nocookie.net/logopedia/images/3/39/Sky_Sports_Bundesliga_Mexico.svg/revision/latest?cb=20231120144251" />
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/3/39/Sky_Sports_Bundesliga_Mexico.svg" />
   </channel>
   <channel id="FOX SPORTS PREMIUM">
     <display-name>FOX SPORTS PREMIUM SD</display-name>
@@ -934,7 +934,7 @@
     <display-name>UniMas 4K</display-name>
     <display-name>UniMas FHD</display-name>
     <display-name>UniMas UHD</display-name>
-    <icon src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/unimas-1200-x-674-network-logo.png?q=70&fit=crop&w=1200&h=628&dpr=1" />
+    <icon src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/unimas-1200-x-674-network-logo.png" />
   </channel>
   <channel id="UNIVERSO HD">
     <display-name>UNIVERSO HD SD</display-name>
