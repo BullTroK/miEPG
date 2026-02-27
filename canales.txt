@@ -108,16 +108,17 @@ ESPN 3,ESPN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/i
 ESPN 4,ESPN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png
 ESPN Deportes,ESPN Deportes,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png
 ESPN International,ESPN International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20International.png
-TyC Sports,TyC Sports,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TyC%20Sports.png
 TUDN (Estados Unidos),TUDN (Estados Unidos),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png
 TUDN (México),TUDN (México),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png
 Sky Sports 16,Sky Sports 16,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png
-DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
+Sky.Sports.24.mx,Sky Sports 24,https://imagenes.gatotv.com/logos/canales/oscuros/sky_sports_24-mediano.png,-2
+FOX.SPORTS.PREMIUM.mx,FOX SPORTS PREMIUM,https://www.reportv.com.ar/buscador/img/Logos/1989079776.jpg,-2
+Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx,Azteca 7 (XHLAT) Nuevo Laredo MX,https://cdn.tvpassport.com/image/station/240x135/v2/s116154_h15_ac.png,-2
+TyC Sports,TyC Sports,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TyC%20Sports.png
+DSPORTS,DSPORTS,https://dsports-
 DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
 DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
 DSPORTS Fight,DSPORTS Fight,https://dsports-widgets.tbxnet.com/assets/images/channels/1615.png
-FOX SPORTS PREMIUM.mx,FOX SPORTS PREMIUM.mx,-2
-AZTECA 7.mx,AZTECA 7.mx,-2
 ESPN.ar,ESPN.ar
 ESPN 2.ar,ESPN 2.ar
 ESPN 3.ar,ESPN 3.ar
