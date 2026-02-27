@@ -120,10 +120,16 @@ DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/16
 DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
 DSPORTS Fight,DSPORTS Fight,https://dsports-widgets.tbxnet.com/assets/images/channels/1615.png
 ESPN.ar,ESPN.ar,https://i.postimg.cc/wTSqsnNT/espnar.webp,-5
+ESPN HD.ar,ESPN HD.ar,https://i.postimg.cc/wTSqsnNT/espnar.webp,-5
+ESPN 2 HD.ar,ESPN 2 HD.ar,https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png,-5
 ESPN 2.ar,ESPN 2.ar,https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png,-5
+ESPN 3 HD.ar,ESPN 3 HD.ar,https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png,-5
 ESPN 3.ar,ESPN 3.ar,https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png,-5
-ESPN 4.ar,ESPN 4.ar,-5
+ESPN 4 HD.ar,ESPN 4 HD.ar,-5
+ESPN 6 HD.ar,ESPN 6 HD.ar,-5
+ESPN PREMIUM HD.ar,ESPN PREMIUM HD.ar,https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg,-5
 ESPN PREMIUM.ar,ESPN PREMIUM.ar,https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg,-5
+
 TNT SPORTS PREMIUM.ar,TNT SPORTS PREMIUM.ar,https://i.postimg.cc/ryNxjCJb/tntsportspremium.webp,-5
 FOX SPORTS ARGENTINA.ar,FOX SPORTS ARGENTINA.ar,https://i.postimg.cc/9XDHtJCW/ec5xf51707916511.png,-5
 FOX SPORTS 2.ar,FOX SPORTS 2.ar,https://i.postimg.cc/y6g2SxyH/d96btm1707916453.png,-5
