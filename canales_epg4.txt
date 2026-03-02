@@ -3044,7 +3044,6 @@ PureFlixTV.us,US - PureFlix TV,https://iptv-epg.org/logos/USA/PureFlixTV.us.png
 DiscoveryTurboFASTTV.us,US - Discovery Turbo FAST TV,https://iptv-epg.org/logos/USA/DiscoveryTurboFASTTV.us.png
 Declassified.us,US - Declassified,https://iptv-epg.org/logos/USA/Declassified.us.png
 NASCARChannel.us,US - NASCAR Channel,https://iptv-epg.org/logos/USA/NASCARChannel.us.png
-OriginSports.us,US - Origin Sports,https://iptv-epg.org/logos/USA/OriginSports.us.png
 LacrosseTV.us,US - Lacrosse TV,https://iptv-epg.org/logos/USA/LacrosseTV.us.png
 FanduelTVExtra.us,US - Fanduel TV Extra,https://iptv-epg.org/logos/USA/FanduelTVExtra.us.png
 MovieSphereGold.us,US - MovieSphere Gold,https://iptv-epg.org/logos/USA/MovieSphereGold.us.png
@@ -3321,9 +3320,9 @@ NBCSportsRadio.sxm,SXM - NBC Sports Radio,
 SiriusXMNBARadio.sxm,SXM - SiriusXM NBA Radio,
 FantasySportsRadio.sxm,SXM - Fantasy Sports Radio,
 SiriusXMNFLRadio.sxm,SXM - SiriusXM NFL Radio,
-MLBNetworkRadio™.sxm,SXM - MLB Network Radio™,
+MLBNetworkRadio.sxm,SXM - MLB Network Radio,
 SiriusXMNASCARRadio.sxm,SXM - SiriusXM NASCAR Radio,
-NHLNetworkRadio™.sxm,SXM - NHL Network Radio™,
+NHLNetworkRadio.sxm,SXM - NHL Network Radio,
 SiriusXMPGATOURRadio.sxm,SXM - SiriusXM PGA TOUR Radio,
 NetflixIsAJokeRadio.sxm,SXM - Netflix Is A Joke Radio,
 ComedyGreats.sxm,SXM - Comedy Greats,
