@@ -1,1355 +1,516 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="miEPG v3.6" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="Movistar Plus+">
-    <display-name>Movistar Plus+ SD</display-name>
-    <display-name>Movistar Plus+ HD</display-name>
-    <display-name>Movistar Plus+ 4K</display-name>
-    <display-name>Movistar Plus+ FHD</display-name>
-    <display-name>Movistar Plus+ UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" />
   </channel>
   <channel id="Primera Federación">
-    <display-name>Primera Federación SD</display-name>
-    <display-name>Primera Federación HD</display-name>
-    <display-name>Primera Federación 4K</display-name>
-    <display-name>Primera Federación FHD</display-name>
-    <display-name>Primera Federación UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png" />
   </channel>
   <channel id="M+ Vamos">
-    <display-name>M+ Vamos SD</display-name>
-    <display-name>M+ Vamos HD</display-name>
-    <display-name>M+ Vamos 4K</display-name>
-    <display-name>M+ Vamos FHD</display-name>
-    <display-name>M+ Vamos UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" />
   </channel>
   <channel id="M+ Vamos 2">
-    <display-name>M+ Vamos 2 SD</display-name>
-    <display-name>M+ Vamos 2 HD</display-name>
-    <display-name>M+ Vamos 2 4K</display-name>
-    <display-name>M+ Vamos 2 FHD</display-name>
-    <display-name>M+ Vamos 2 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png" />
   </channel>
   <channel id="M+ Vamos 3">
-    <display-name>M+ Vamos 3 SD</display-name>
-    <display-name>M+ Vamos 3 HD</display-name>
-    <display-name>M+ Vamos 3 4K</display-name>
-    <display-name>M+ Vamos 3 FHD</display-name>
-    <display-name>M+ Vamos 3 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%203.png" />
   </channel>
   <channel id="M+ LaLiga">
-    <display-name>M+ LaLiga SD</display-name>
-    <display-name>M+ LaLiga HD</display-name>
-    <display-name>M+ LaLiga 4K</display-name>
-    <display-name>M+ LaLiga FHD</display-name>
-    <display-name>M+ LaLiga UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png" />
   </channel>
   <channel id="M+ LaLiga 2">
-    <display-name>M+ LaLiga 2 SD</display-name>
-    <display-name>M+ LaLiga 2 HD</display-name>
-    <display-name>M+ LaLiga 2 4K</display-name>
-    <display-name>M+ LaLiga 2 FHD</display-name>
-    <display-name>M+ LaLiga 2 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png" />
   </channel>
   <channel id="M+ LaLiga 3">
-    <display-name>M+ LaLiga 3 SD</display-name>
-    <display-name>M+ LaLiga 3 HD</display-name>
-    <display-name>M+ LaLiga 3 4K</display-name>
-    <display-name>M+ LaLiga 3 FHD</display-name>
-    <display-name>M+ LaLiga 3 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%203.png" />
   </channel>
   <channel id="M+ LaLiga 4">
-    <display-name>M+ LaLiga 4 SD</display-name>
-    <display-name>M+ LaLiga 4 HD</display-name>
-    <display-name>M+ LaLiga 4 4K</display-name>
-    <display-name>M+ LaLiga 4 FHD</display-name>
-    <display-name>M+ LaLiga 4 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%204.png" />
   </channel>
   <channel id="M+ LaLiga 5">
-    <display-name>M+ LaLiga 5 SD</display-name>
-    <display-name>M+ LaLiga 5 HD</display-name>
-    <display-name>M+ LaLiga 5 4K</display-name>
-    <display-name>M+ LaLiga 5 FHD</display-name>
-    <display-name>M+ LaLiga 5 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%205.png" />
   </channel>
   <channel id="DAZN LaLiga">
-    <display-name>DAZN LaLiga SD</display-name>
-    <display-name>DAZN LaLiga HD</display-name>
-    <display-name>DAZN LaLiga 4K</display-name>
-    <display-name>DAZN LaLiga FHD</display-name>
-    <display-name>DAZN LaLiga UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" />
   </channel>
   <channel id="DAZN LaLiga 2">
-    <display-name>DAZN LaLiga 2 SD</display-name>
-    <display-name>DAZN LaLiga 2 HD</display-name>
-    <display-name>DAZN LaLiga 2 4K</display-name>
-    <display-name>DAZN LaLiga 2 FHD</display-name>
-    <display-name>DAZN LaLiga 2 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" />
   </channel>
   <channel id="LaLiga TV Hypermotion">
-    <display-name>LaLiga TV Hypermotion SD</display-name>
-    <display-name>LaLiga TV Hypermotion HD</display-name>
-    <display-name>LaLiga TV Hypermotion 4K</display-name>
-    <display-name>LaLiga TV Hypermotion FHD</display-name>
-    <display-name>LaLiga TV Hypermotion UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" />
   </channel>
   <channel id="LaLiga TV Hypermotion 2">
-    <display-name>LaLiga TV Hypermotion 2 SD</display-name>
-    <display-name>LaLiga TV Hypermotion 2 HD</display-name>
-    <display-name>LaLiga TV Hypermotion 2 4K</display-name>
-    <display-name>LaLiga TV Hypermotion 2 FHD</display-name>
-    <display-name>LaLiga TV Hypermotion 2 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" />
   </channel>
   <channel id="LaLiga TV Hypermotion 3">
-    <display-name>LaLiga TV Hypermotion 3 SD</display-name>
-    <display-name>LaLiga TV Hypermotion 3 HD</display-name>
-    <display-name>LaLiga TV Hypermotion 3 4K</display-name>
-    <display-name>LaLiga TV Hypermotion 3 FHD</display-name>
-    <display-name>LaLiga TV Hypermotion 3 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" />
   </channel>
   <channel id="M+ Liga de Campeones">
-    <display-name>M+ Liga de Campeones SD</display-name>
-    <display-name>M+ Liga de Campeones HD</display-name>
-    <display-name>M+ Liga de Campeones 4K</display-name>
-    <display-name>M+ Liga de Campeones FHD</display-name>
-    <display-name>M+ Liga de Campeones UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" />
   </channel>
   <channel id="M+ Liga de Campeones 2">
-    <display-name>M+ Liga de Campeones 2 SD</display-name>
-    <display-name>M+ Liga de Campeones 2 HD</display-name>
-    <display-name>M+ Liga de Campeones 2 4K</display-name>
-    <display-name>M+ Liga de Campeones 2 FHD</display-name>
-    <display-name>M+ Liga de Campeones 2 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" />
   </channel>
   <channel id="M+ Liga de Campeones 3">
-    <display-name>M+ Liga de Campeones 3 SD</display-name>
-    <display-name>M+ Liga de Campeones 3 HD</display-name>
-    <display-name>M+ Liga de Campeones 3 4K</display-name>
-    <display-name>M+ Liga de Campeones 3 FHD</display-name>
-    <display-name>M+ Liga de Campeones 3 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" />
   </channel>
   <channel id="M+ Liga de Campeones 4">
-    <display-name>M+ Liga de Campeones 4 SD</display-name>
-    <display-name>M+ Liga de Campeones 4 HD</display-name>
-    <display-name>M+ Liga de Campeones 4 4K</display-name>
-    <display-name>M+ Liga de Campeones 4 FHD</display-name>
-    <display-name>M+ Liga de Campeones 4 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" />
   </channel>
   <channel id="M+ Liga de Campeones 5">
-    <display-name>M+ Liga de Campeones 5 SD</display-name>
-    <display-name>M+ Liga de Campeones 5 HD</display-name>
-    <display-name>M+ Liga de Campeones 5 4K</display-name>
-    <display-name>M+ Liga de Campeones 5 FHD</display-name>
-    <display-name>M+ Liga de Campeones 5 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" />
   </channel>
   <channel id="M+ Liga de Campeones 6">
-    <display-name>M+ Liga de Campeones 6 SD</display-name>
-    <display-name>M+ Liga de Campeones 6 HD</display-name>
-    <display-name>M+ Liga de Campeones 6 4K</display-name>
-    <display-name>M+ Liga de Campeones 6 FHD</display-name>
-    <display-name>M+ Liga de Campeones 6 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" />
   </channel>
   <channel id="M+ Liga de Campeones 7">
-    <display-name>M+ Liga de Campeones 7 SD</display-name>
-    <display-name>M+ Liga de Campeones 7 HD</display-name>
-    <display-name>M+ Liga de Campeones 7 4K</display-name>
-    <display-name>M+ Liga de Campeones 7 FHD</display-name>
-    <display-name>M+ Liga de Campeones 7 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" />
   </channel>
   <channel id="M+ Liga de Campeones 8">
-    <display-name>M+ Liga de Campeones 8 SD</display-name>
-    <display-name>M+ Liga de Campeones 8 HD</display-name>
-    <display-name>M+ Liga de Campeones 8 4K</display-name>
-    <display-name>M+ Liga de Campeones 8 FHD</display-name>
-    <display-name>M+ Liga de Campeones 8 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" />
   </channel>
   <channel id="M+ Liga de Campeones 9">
-    <display-name>M+ Liga de Campeones 9 SD</display-name>
-    <display-name>M+ Liga de Campeones 9 HD</display-name>
-    <display-name>M+ Liga de Campeones 9 4K</display-name>
-    <display-name>M+ Liga de Campeones 9 FHD</display-name>
-    <display-name>M+ Liga de Campeones 9 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%209.png" />
   </channel>
   <channel id="M+ Liga de Campeones 10">
-    <display-name>M+ Liga de Campeones 10 SD</display-name>
-    <display-name>M+ Liga de Campeones 10 HD</display-name>
-    <display-name>M+ Liga de Campeones 10 4K</display-name>
-    <display-name>M+ Liga de Campeones 10 FHD</display-name>
-    <display-name>M+ Liga de Campeones 10 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2010.png" />
   </channel>
   <channel id="M+ Liga de Campeones 11">
-    <display-name>M+ Liga de Campeones 11 SD</display-name>
-    <display-name>M+ Liga de Campeones 11 HD</display-name>
-    <display-name>M+ Liga de Campeones 11 4K</display-name>
-    <display-name>M+ Liga de Campeones 11 FHD</display-name>
-    <display-name>M+ Liga de Campeones 11 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2011.png" />
   </channel>
   <channel id="M+ Liga de Campeones 12">
-    <display-name>M+ Liga de Campeones 12 SD</display-name>
-    <display-name>M+ Liga de Campeones 12 HD</display-name>
-    <display-name>M+ Liga de Campeones 12 4K</display-name>
-    <display-name>M+ Liga de Campeones 12 FHD</display-name>
-    <display-name>M+ Liga de Campeones 12 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2012.png" />
   </channel>
   <channel id="M+ Liga de Campeones 13">
-    <display-name>M+ Liga de Campeones 13 SD</display-name>
-    <display-name>M+ Liga de Campeones 13 HD</display-name>
-    <display-name>M+ Liga de Campeones 13 4K</display-name>
-    <display-name>M+ Liga de Campeones 13 FHD</display-name>
-    <display-name>M+ Liga de Campeones 13 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" />
   </channel>
   <channel id="M+ Liga de Campeones 14">
-    <display-name>M+ Liga de Campeones 14 SD</display-name>
-    <display-name>M+ Liga de Campeones 14 HD</display-name>
-    <display-name>M+ Liga de Campeones 14 4K</display-name>
-    <display-name>M+ Liga de Campeones 14 FHD</display-name>
-    <display-name>M+ Liga de Campeones 14 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2014.png" />
   </channel>
   <channel id="M+ Liga de Campeones 15">
-    <display-name>M+ Liga de Campeones 15 SD</display-name>
-    <display-name>M+ Liga de Campeones 15 HD</display-name>
-    <display-name>M+ Liga de Campeones 15 4K</display-name>
-    <display-name>M+ Liga de Campeones 15 FHD</display-name>
-    <display-name>M+ Liga de Campeones 15 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2015.png" />
   </channel>
   <channel id="M+ Liga de Campeones 16">
-    <display-name>M+ Liga de Campeones 16 SD</display-name>
-    <display-name>M+ Liga de Campeones 16 HD</display-name>
-    <display-name>M+ Liga de Campeones 16 4K</display-name>
-    <display-name>M+ Liga de Campeones 16 FHD</display-name>
-    <display-name>M+ Liga de Campeones 16 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2016.png" />
   </channel>
   <channel id="M+ Liga de Campeones 17">
-    <display-name>M+ Liga de Campeones 17 SD</display-name>
-    <display-name>M+ Liga de Campeones 17 HD</display-name>
-    <display-name>M+ Liga de Campeones 17 4K</display-name>
-    <display-name>M+ Liga de Campeones 17 FHD</display-name>
-    <display-name>M+ Liga de Campeones 17 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2017.png" />
   </channel>
   <channel id="M+ Liga de Campeones 18">
-    <display-name>M+ Liga de Campeones 18 SD</display-name>
-    <display-name>M+ Liga de Campeones 18 HD</display-name>
-    <display-name>M+ Liga de Campeones 18 4K</display-name>
-    <display-name>M+ Liga de Campeones 18 FHD</display-name>
-    <display-name>M+ Liga de Campeones 18 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2018.png" />
   </channel>
   <channel id="M+ Liga de Campeones 19">
-    <display-name>M+ Liga de Campeones 19 SD</display-name>
-    <display-name>M+ Liga de Campeones 19 HD</display-name>
-    <display-name>M+ Liga de Campeones 19 4K</display-name>
-    <display-name>M+ Liga de Campeones 19 FHD</display-name>
-    <display-name>M+ Liga de Campeones 19 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2019.png" />
   </channel>
   <channel id="M+ Deportes">
-    <display-name>M+ Deportes SD</display-name>
-    <display-name>M+ Deportes HD</display-name>
-    <display-name>M+ Deportes 4K</display-name>
-    <display-name>M+ Deportes FHD</display-name>
-    <display-name>M+ Deportes UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" />
   </channel>
   <channel id="M+ Deportes 2">
-    <display-name>M+ Deportes 2 SD</display-name>
-    <display-name>M+ Deportes 2 HD</display-name>
-    <display-name>M+ Deportes 2 4K</display-name>
-    <display-name>M+ Deportes 2 FHD</display-name>
-    <display-name>M+ Deportes 2 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" />
   </channel>
   <channel id="M+ Deportes 3">
-    <display-name>M+ Deportes 3 SD</display-name>
-    <display-name>M+ Deportes 3 HD</display-name>
-    <display-name>M+ Deportes 3 4K</display-name>
-    <display-name>M+ Deportes 3 FHD</display-name>
-    <display-name>M+ Deportes 3 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" />
   </channel>
   <channel id="M+ Deportes 4">
-    <display-name>M+ Deportes 4 SD</display-name>
-    <display-name>M+ Deportes 4 HD</display-name>
-    <display-name>M+ Deportes 4 4K</display-name>
-    <display-name>M+ Deportes 4 FHD</display-name>
-    <display-name>M+ Deportes 4 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" />
   </channel>
   <channel id="M+ Deportes 5">
-    <display-name>M+ Deportes 5 SD</display-name>
-    <display-name>M+ Deportes 5 HD</display-name>
-    <display-name>M+ Deportes 5 4K</display-name>
-    <display-name>M+ Deportes 5 FHD</display-name>
-    <display-name>M+ Deportes 5 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" />
   </channel>
   <channel id="M+ Deportes 6">
-    <display-name>M+ Deportes 6 SD</display-name>
-    <display-name>M+ Deportes 6 HD</display-name>
-    <display-name>M+ Deportes 6 4K</display-name>
-    <display-name>M+ Deportes 6 FHD</display-name>
-    <display-name>M+ Deportes 6 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" />
   </channel>
   <channel id="M+ Deportes 7">
-    <display-name>M+ Deportes 7 SD</display-name>
-    <display-name>M+ Deportes 7 HD</display-name>
-    <display-name>M+ Deportes 7 4K</display-name>
-    <display-name>M+ Deportes 7 FHD</display-name>
-    <display-name>M+ Deportes 7 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png" />
   </channel>
   <channel id="M+ Deportes 8">
-    <display-name>M+ Deportes 8 SD</display-name>
-    <display-name>M+ Deportes 8 HD</display-name>
-    <display-name>M+ Deportes 8 4K</display-name>
-    <display-name>M+ Deportes 8 FHD</display-name>
-    <display-name>M+ Deportes 8 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%208.png" />
   </channel>
   <channel id="M+ Golf">
-    <display-name>M+ Golf SD</display-name>
-    <display-name>M+ Golf HD</display-name>
-    <display-name>M+ Golf 4K</display-name>
-    <display-name>M+ Golf FHD</display-name>
-    <display-name>M+ Golf UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" />
   </channel>
   <channel id="M+ Golf 2">
-    <display-name>M+ Golf 2 SD</display-name>
-    <display-name>M+ Golf 2 HD</display-name>
-    <display-name>M+ Golf 2 4K</display-name>
-    <display-name>M+ Golf 2 FHD</display-name>
-    <display-name>M+ Golf 2 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" />
   </channel>
   <channel id="DAZN F1">
-    <display-name>DAZN F1 SD</display-name>
-    <display-name>DAZN F1 HD</display-name>
-    <display-name>DAZN F1 4K</display-name>
-    <display-name>DAZN F1 FHD</display-name>
-    <display-name>DAZN F1 UHD</display-name>
     <icon src="https://i.postimg.cc/NMyFk1DQ/daznf1.png" />
   </channel>
   <channel id="DAZN 1">
-    <display-name>DAZN 1 SD</display-name>
-    <display-name>DAZN 1 HD</display-name>
-    <display-name>DAZN 1 4K</display-name>
-    <display-name>DAZN 1 FHD</display-name>
-    <display-name>DAZN 1 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
   <channel id="DAZN 2">
-    <display-name>DAZN 2 SD</display-name>
-    <display-name>DAZN 2 HD</display-name>
-    <display-name>DAZN 2 4K</display-name>
-    <display-name>DAZN 2 FHD</display-name>
-    <display-name>DAZN 2 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" />
   </channel>
   <channel id="DAZN 3">
-    <display-name>DAZN 3 SD</display-name>
-    <display-name>DAZN 3 HD</display-name>
-    <display-name>DAZN 3 4K</display-name>
-    <display-name>DAZN 3 FHD</display-name>
-    <display-name>DAZN 3 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" />
   </channel>
   <channel id="DAZN 4">
-    <display-name>DAZN 4 SD</display-name>
-    <display-name>DAZN 4 HD</display-name>
-    <display-name>DAZN 4 4K</display-name>
-    <display-name>DAZN 4 FHD</display-name>
-    <display-name>DAZN 4 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" />
   </channel>
   <channel id="Eurosport 1">
-    <display-name>Eurosport 1 SD</display-name>
-    <display-name>Eurosport 1 HD</display-name>
-    <display-name>Eurosport 1 4K</display-name>
-    <display-name>Eurosport 1 FHD</display-name>
-    <display-name>Eurosport 1 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
   </channel>
   <channel id="Eurosport 2">
-    <display-name>Eurosport 2 SD</display-name>
-    <display-name>Eurosport 2 HD</display-name>
-    <display-name>Eurosport 2 4K</display-name>
-    <display-name>Eurosport 2 FHD</display-name>
-    <display-name>Eurosport 2 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" />
   </channel>
   <channel id="M+ LaLiga HDR">
-    <display-name>M+ LaLiga HDR SD</display-name>
-    <display-name>M+ LaLiga HDR HD</display-name>
-    <display-name>M+ LaLiga HDR 4K</display-name>
-    <display-name>M+ LaLiga HDR FHD</display-name>
-    <display-name>M+ LaLiga HDR UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20HDR.png" />
   </channel>
   <channel id="M+ LaLiga 2 HDR">
-    <display-name>M+ LaLiga 2 HDR SD</display-name>
-    <display-name>M+ LaLiga 2 HDR HD</display-name>
-    <display-name>M+ LaLiga 2 HDR 4K</display-name>
-    <display-name>M+ LaLiga 2 HDR FHD</display-name>
-    <display-name>M+ LaLiga 2 HDR UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png" />
   </channel>
   <channel id="DAZN Baloncesto">
-    <display-name>DAZN Baloncesto SD</display-name>
-    <display-name>DAZN Baloncesto HD</display-name>
-    <display-name>DAZN Baloncesto 4K</display-name>
-    <display-name>DAZN Baloncesto FHD</display-name>
-    <display-name>DAZN Baloncesto UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" />
   </channel>
   <channel id="DAZN Baloncesto 2">
-    <display-name>DAZN Baloncesto 2 SD</display-name>
-    <display-name>DAZN Baloncesto 2 HD</display-name>
-    <display-name>DAZN Baloncesto 2 4K</display-name>
-    <display-name>DAZN Baloncesto 2 FHD</display-name>
-    <display-name>DAZN Baloncesto 2 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" />
   </channel>
   <channel id="DAZN Baloncesto 3">
-    <display-name>DAZN Baloncesto 3 SD</display-name>
-    <display-name>DAZN Baloncesto 3 HD</display-name>
-    <display-name>DAZN Baloncesto 3 4K</display-name>
-    <display-name>DAZN Baloncesto 3 FHD</display-name>
-    <display-name>DAZN Baloncesto 3 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png" />
   </channel>
   <channel id="DAZN MotoGP">
-    <display-name>DAZN MotoGP SD</display-name>
-    <display-name>DAZN MotoGP HD</display-name>
-    <display-name>DAZN MotoGP 4K</display-name>
-    <display-name>DAZN MotoGP FHD</display-name>
-    <display-name>DAZN MotoGP UHD</display-name>
     <icon src="https://i.postimg.cc/Dy3014Xz/daznmotogp.png" />
   </channel>
   <channel id="Torolé TV">
-    <display-name>Torolé TV SD</display-name>
-    <display-name>Torolé TV HD</display-name>
-    <display-name>Torolé TV 4K</display-name>
-    <display-name>Torolé TV FHD</display-name>
-    <display-name>Torolé TV UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png" />
   </channel>
   <channel id="La 1">
-    <display-name>La 1 SD</display-name>
-    <display-name>La 1 HD</display-name>
-    <display-name>La 1 4K</display-name>
-    <display-name>La 1 FHD</display-name>
-    <display-name>La 1 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
   <channel id="La 2">
-    <display-name>La 2 SD</display-name>
-    <display-name>La 2 HD</display-name>
-    <display-name>La 2 4K</display-name>
-    <display-name>La 2 FHD</display-name>
-    <display-name>La 2 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" />
   </channel>
   <channel id="Antena 3">
-    <display-name>Antena 3 SD</display-name>
-    <display-name>Antena 3 HD</display-name>
-    <display-name>Antena 3 4K</display-name>
-    <display-name>Antena 3 FHD</display-name>
-    <display-name>Antena 3 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png" />
   </channel>
   <channel id="Cuatro">
-    <display-name>Cuatro SD</display-name>
-    <display-name>Cuatro HD</display-name>
-    <display-name>Cuatro 4K</display-name>
-    <display-name>Cuatro FHD</display-name>
-    <display-name>Cuatro UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png" />
   </channel>
   <channel id="Telecinco">
-    <display-name>Telecinco SD</display-name>
-    <display-name>Telecinco HD</display-name>
-    <display-name>Telecinco 4K</display-name>
-    <display-name>Telecinco FHD</display-name>
-    <display-name>Telecinco UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png" />
   </channel>
   <channel id="La Sexta">
-    <display-name>La Sexta SD</display-name>
-    <display-name>La Sexta HD</display-name>
-    <display-name>La Sexta 4K</display-name>
-    <display-name>La Sexta FHD</display-name>
-    <display-name>La Sexta UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" />
   </channel>
   <channel id="Teledeporte">
-    <display-name>Teledeporte SD</display-name>
-    <display-name>Teledeporte HD</display-name>
-    <display-name>Teledeporte 4K</display-name>
-    <display-name>Teledeporte FHD</display-name>
-    <display-name>Teledeporte UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" />
   </channel>
   <channel id="Mega">
-    <display-name>Mega SD</display-name>
-    <display-name>Mega HD</display-name>
-    <display-name>Mega 4K</display-name>
-    <display-name>Mega FHD</display-name>
-    <display-name>Mega UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" />
   </channel>
   <channel id="ETB1">
-    <display-name>ETB1 SD</display-name>
-    <display-name>ETB1 HD</display-name>
-    <display-name>ETB1 4K</display-name>
-    <display-name>ETB1 FHD</display-name>
-    <display-name>ETB1 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB1.png" />
   </channel>
   <channel id="ETB2">
-    <display-name>ETB2 SD</display-name>
-    <display-name>ETB2 HD</display-name>
-    <display-name>ETB2 4K</display-name>
-    <display-name>ETB2 FHD</display-name>
-    <display-name>ETB2 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB2.png" />
   </channel>
   <channel id="ETB3">
-    <display-name>ETB3 SD</display-name>
-    <display-name>ETB3 HD</display-name>
-    <display-name>ETB3 4K</display-name>
-    <display-name>ETB3 FHD</display-name>
-    <display-name>ETB3 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB3.png" />
   </channel>
   <channel id="ETB4">
-    <display-name>ETB4 SD</display-name>
-    <display-name>ETB4 HD</display-name>
-    <display-name>ETB4 4K</display-name>
-    <display-name>ETB4 FHD</display-name>
-    <display-name>ETB4 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB4.png" />
   </channel>
   <channel id="TVG">
-    <display-name>TVG SD</display-name>
-    <display-name>TVG HD</display-name>
-    <display-name>TVG 4K</display-name>
-    <display-name>TVG FHD</display-name>
-    <display-name>TVG UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG.png" />
   </channel>
   <channel id="TVG2">
-    <display-name>TVG2 SD</display-name>
-    <display-name>TVG2 HD</display-name>
-    <display-name>TVG2 4K</display-name>
-    <display-name>TVG2 FHD</display-name>
-    <display-name>TVG2 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG2.png" />
   </channel>
   <channel id="Canal Extremadura">
-    <display-name>Canal Extremadura SD</display-name>
-    <display-name>Canal Extremadura HD</display-name>
-    <display-name>Canal Extremadura 4K</display-name>
-    <display-name>Canal Extremadura FHD</display-name>
-    <display-name>Canal Extremadura UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura.png" />
   </channel>
   <channel id="Canal Extremadura SAT">
-    <display-name>Canal Extremadura SAT SD</display-name>
-    <display-name>Canal Extremadura SAT HD</display-name>
-    <display-name>Canal Extremadura SAT 4K</display-name>
-    <display-name>Canal Extremadura SAT FHD</display-name>
-    <display-name>Canal Extremadura SAT UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura%20SAT.png" />
   </channel>
   <channel id="Telemadrid">
-    <display-name>Telemadrid SD</display-name>
-    <display-name>Telemadrid HD</display-name>
-    <display-name>Telemadrid 4K</display-name>
-    <display-name>Telemadrid FHD</display-name>
-    <display-name>Telemadrid UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png" />
   </channel>
   <channel id="La Otra">
-    <display-name>La Otra SD</display-name>
-    <display-name>La Otra HD</display-name>
-    <display-name>La Otra 4K</display-name>
-    <display-name>La Otra FHD</display-name>
-    <display-name>La Otra UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Otra.png" />
   </channel>
   <channel id="TV3">
-    <display-name>TV3 SD</display-name>
-    <display-name>TV3 HD</display-name>
-    <display-name>TV3 4K</display-name>
-    <display-name>TV3 FHD</display-name>
-    <display-name>TV3 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3.png" />
   </channel>
   <channel id="TV3CAT Catalunya">
-    <display-name>TV3CAT Catalunya SD</display-name>
-    <display-name>TV3CAT Catalunya HD</display-name>
-    <display-name>TV3CAT Catalunya 4K</display-name>
-    <display-name>TV3CAT Catalunya FHD</display-name>
-    <display-name>TV3CAT Catalunya UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3CAT%20Catalunya.png" />
   </channel>
   <channel id="Esport 3">
-    <display-name>Esport 3 SD</display-name>
-    <display-name>Esport 3 HD</display-name>
-    <display-name>Esport 3 4K</display-name>
-    <display-name>Esport 3 FHD</display-name>
-    <display-name>Esport 3 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" />
   </channel>
   <channel id="Canal Sur">
-    <display-name>Canal Sur SD</display-name>
-    <display-name>Canal Sur HD</display-name>
-    <display-name>Canal Sur 4K</display-name>
-    <display-name>Canal Sur FHD</display-name>
-    <display-name>Canal Sur UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur.png" />
   </channel>
   <channel id="Canal Sur Andalucía">
-    <display-name>Canal Sur Andalucía SD</display-name>
-    <display-name>Canal Sur Andalucía HD</display-name>
-    <display-name>Canal Sur Andalucía 4K</display-name>
-    <display-name>Canal Sur Andalucía FHD</display-name>
-    <display-name>Canal Sur Andalucía UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png" />
   </channel>
   <channel id="CMM TV">
-    <display-name>CMM TV SD</display-name>
-    <display-name>CMM TV HD</display-name>
-    <display-name>CMM TV 4K</display-name>
-    <display-name>CMM TV FHD</display-name>
-    <display-name>CMM TV UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png" />
   </channel>
   <channel id="À Punt">
-    <display-name>À Punt SD</display-name>
-    <display-name>À Punt HD</display-name>
-    <display-name>À Punt 4K</display-name>
-    <display-name>À Punt FHD</display-name>
-    <display-name>À Punt UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/%C3%80%20Punt.png" />
   </channel>
   <channel id="Punt 3">
-    <display-name>Punt 3 SD</display-name>
-    <display-name>Punt 3 HD</display-name>
-    <display-name>Punt 3 4K</display-name>
-    <display-name>Punt 3 FHD</display-name>
-    <display-name>Punt 3 UHD</display-name>
     <icon src="https://www.punt3.es/android-icon-192x192.png" />
   </channel>
   <channel id="Aragón TV">
-    <display-name>Aragón TV SD</display-name>
-    <display-name>Aragón TV HD</display-name>
-    <display-name>Aragón TV 4K</display-name>
-    <display-name>Aragón TV FHD</display-name>
-    <display-name>Aragón TV UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV.png" />
   </channel>
   <channel id="Aragón TV Internacional">
-    <display-name>Aragón TV Internacional SD</display-name>
-    <display-name>Aragón TV Internacional HD</display-name>
-    <display-name>Aragón TV Internacional 4K</display-name>
-    <display-name>Aragón TV Internacional FHD</display-name>
-    <display-name>Aragón TV Internacional UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png" />
   </channel>
   <channel id="M+ Estrenos">
-    <display-name>M+ Estrenos SD</display-name>
-    <display-name>M+ Estrenos HD</display-name>
-    <display-name>M+ Estrenos 4K</display-name>
-    <display-name>M+ Estrenos FHD</display-name>
-    <display-name>M+ Estrenos UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" />
   </channel>
   <channel id="M+ Hits">
-    <display-name>M+ Hits SD</display-name>
-    <display-name>M+ Hits HD</display-name>
-    <display-name>M+ Hits 4K</display-name>
-    <display-name>M+ Hits FHD</display-name>
-    <display-name>M+ Hits UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png" />
   </channel>
   <channel id="M+ Clásicos">
-    <display-name>M+ Clásicos SD</display-name>
-    <display-name>M+ Clásicos HD</display-name>
-    <display-name>M+ Clásicos 4K</display-name>
-    <display-name>M+ Clásicos FHD</display-name>
-    <display-name>M+ Clásicos UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png" />
   </channel>
   <channel id="M+ Acción">
-    <display-name>M+ Acción SD</display-name>
-    <display-name>M+ Acción HD</display-name>
-    <display-name>M+ Acción 4K</display-name>
-    <display-name>M+ Acción FHD</display-name>
-    <display-name>M+ Acción UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" />
   </channel>
   <channel id="M+ Comedia">
-    <display-name>M+ Comedia SD</display-name>
-    <display-name>M+ Comedia HD</display-name>
-    <display-name>M+ Comedia 4K</display-name>
-    <display-name>M+ Comedia FHD</display-name>
-    <display-name>M+ Comedia UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" />
   </channel>
   <channel id="M+ Drama">
-    <display-name>M+ Drama SD</display-name>
-    <display-name>M+ Drama HD</display-name>
-    <display-name>M+ Drama 4K</display-name>
-    <display-name>M+ Drama FHD</display-name>
-    <display-name>M+ Drama UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" />
   </channel>
   <channel id="M+ Indie">
-    <display-name>M+ Indie SD</display-name>
-    <display-name>M+ Indie HD</display-name>
-    <display-name>M+ Indie 4K</display-name>
-    <display-name>M+ Indie FHD</display-name>
-    <display-name>M+ Indie UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png" />
   </channel>
   <channel id="M+ Cine Español">
-    <display-name>M+ Cine Español SD</display-name>
-    <display-name>M+ Cine Español HD</display-name>
-    <display-name>M+ Cine Español 4K</display-name>
-    <display-name>M+ Cine Español FHD</display-name>
-    <display-name>M+ Cine Español UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" />
   </channel>
   <channel id="M+ Originales">
-    <display-name>M+ Originales SD</display-name>
-    <display-name>M+ Originales HD</display-name>
-    <display-name>M+ Originales 4K</display-name>
-    <display-name>M+ Originales FHD</display-name>
-    <display-name>M+ Originales UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" />
   </channel>
   <channel id="M+ Documentales">
-    <display-name>M+ Documentales SD</display-name>
-    <display-name>M+ Documentales HD</display-name>
-    <display-name>M+ Documentales 4K</display-name>
-    <display-name>M+ Documentales FHD</display-name>
-    <display-name>M+ Documentales UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" />
   </channel>
   <channel id="BBC Series">
-    <display-name>BBC Series SD</display-name>
-    <display-name>BBC Series HD</display-name>
-    <display-name>BBC Series 4K</display-name>
-    <display-name>BBC Series FHD</display-name>
-    <display-name>BBC Series UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Series.png" />
   </channel>
   <channel id="BBC Earth">
-    <display-name>BBC Earth SD</display-name>
-    <display-name>BBC Earth HD</display-name>
-    <display-name>BBC Earth 4K</display-name>
-    <display-name>BBC Earth FHD</display-name>
-    <display-name>BBC Earth UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Earth.png" />
   </channel>
   <channel id="BBC Top Gear">
-    <display-name>BBC Top Gear SD</display-name>
-    <display-name>BBC Top Gear HD</display-name>
-    <display-name>BBC Top Gear 4K</display-name>
-    <display-name>BBC Top Gear FHD</display-name>
-    <display-name>BBC Top Gear UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Top%20Gear.png" />
   </channel>
   <channel id="BBC Lifestyle">
-    <display-name>BBC Lifestyle SD</display-name>
-    <display-name>BBC Lifestyle HD</display-name>
-    <display-name>BBC Lifestyle 4K</display-name>
-    <display-name>BBC Lifestyle FHD</display-name>
-    <display-name>BBC Lifestyle UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Lifestyle.png" />
   </channel>
   <channel id="NatureTime">
-    <display-name>NatureTime SD</display-name>
-    <display-name>NatureTime HD</display-name>
-    <display-name>NatureTime 4K</display-name>
-    <display-name>NatureTime FHD</display-name>
-    <display-name>NatureTime UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NatureTime.png" />
   </channel>
   <channel id="Love the Planet">
-    <display-name>Love the Planet SD</display-name>
-    <display-name>Love the Planet HD</display-name>
-    <display-name>Love the Planet 4K</display-name>
-    <display-name>Love the Planet FHD</display-name>
-    <display-name>Love the Planet UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20the%20Planet.png" />
   </channel>
   <channel id="Historia y Vida">
-    <display-name>Historia y Vida SD</display-name>
-    <display-name>Historia y Vida HD</display-name>
-    <display-name>Historia y Vida 4K</display-name>
-    <display-name>Historia y Vida FHD</display-name>
-    <display-name>Historia y Vida UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia%20y%20Vida.png" />
   </channel>
   <channel id="Todo Crimen (Rakuten TV)">
-    <display-name>Todo Crimen (Rakuten TV) SD</display-name>
-    <display-name>Todo Crimen (Rakuten TV) HD</display-name>
-    <display-name>Todo Crimen (Rakuten TV) 4K</display-name>
-    <display-name>Todo Crimen (Rakuten TV) FHD</display-name>
-    <display-name>Todo Crimen (Rakuten TV) UHD</display-name>
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
   </channel>
   <channel id="Crimen (Rakuten TV)">
-    <display-name>Crimen (Rakuten TV) SD</display-name>
-    <display-name>Crimen (Rakuten TV) HD</display-name>
-    <display-name>Crimen (Rakuten TV) 4K</display-name>
-    <display-name>Crimen (Rakuten TV) FHD</display-name>
-    <display-name>Crimen (Rakuten TV) UHD</display-name>
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
   </channel>
   <channel id="Thrillers (Rakuten TV)">
-    <display-name>Thrillers (Rakuten TV) SD</display-name>
-    <display-name>Thrillers (Rakuten TV) HD</display-name>
-    <display-name>Thrillers (Rakuten TV) 4K</display-name>
-    <display-name>Thrillers (Rakuten TV) FHD</display-name>
-    <display-name>Thrillers (Rakuten TV) UHD</display-name>
     <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/5728a608-5527-4d19-a4cc-18ca9f019688.png" />
   </channel>
   <channel id="MyTime Movie Network (Rakuten TV)">
-    <display-name>MyTime Movie Network (Rakuten TV) SD</display-name>
-    <display-name>MyTime Movie Network (Rakuten TV) HD</display-name>
-    <display-name>MyTime Movie Network (Rakuten TV) 4K</display-name>
-    <display-name>MyTime Movie Network (Rakuten TV) FHD</display-name>
-    <display-name>MyTime Movie Network (Rakuten TV) UHD</display-name>
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/d3b1e728-ef8e-4dc6-b2ee-dd668a44bae4-mytime-movie-network-1643366410.png" />
   </channel>
   <channel id="Cine Español (Rakuten TV)">
-    <display-name>Cine Español (Rakuten TV) SD</display-name>
-    <display-name>Cine Español (Rakuten TV) HD</display-name>
-    <display-name>Cine Español (Rakuten TV) 4K</display-name>
-    <display-name>Cine Español (Rakuten TV) FHD</display-name>
-    <display-name>Cine Español (Rakuten TV) UHD</display-name>
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/2da65634-f27e-48f9-8f3b-a03bd31cbade.png" />
   </channel>
   <channel id="Películas Románticas (Rakuten TV)">
-    <display-name>Películas Románticas (Rakuten TV) SD</display-name>
-    <display-name>Películas Románticas (Rakuten TV) HD</display-name>
-    <display-name>Películas Románticas (Rakuten TV) 4K</display-name>
-    <display-name>Películas Románticas (Rakuten TV) FHD</display-name>
-    <display-name>Películas Románticas (Rakuten TV) UHD</display-name>
     <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6a3d067c-8cb2-4581-84e1-f284ee948e3a.png" />
   </channel>
   <channel id="Dramas (Rakuten TV)">
-    <display-name>Dramas (Rakuten TV) SD</display-name>
-    <display-name>Dramas (Rakuten TV) HD</display-name>
-    <display-name>Dramas (Rakuten TV) 4K</display-name>
-    <display-name>Dramas (Rakuten TV) FHD</display-name>
-    <display-name>Dramas (Rakuten TV) UHD</display-name>
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ee3c242a-398d-4d9e-9a79-c8c6427278c0.png" />
   </channel>
   <channel id="Comedias (Rakuten TV)">
-    <display-name>Comedias (Rakuten TV) SD</display-name>
-    <display-name>Comedias (Rakuten TV) HD</display-name>
-    <display-name>Comedias (Rakuten TV) 4K</display-name>
-    <display-name>Comedias (Rakuten TV) FHD</display-name>
-    <display-name>Comedias (Rakuten TV) UHD</display-name>
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/14c7b74d-cd73-4791-98f2-f6e097cce068.png" />
   </channel>
   <channel id="Acción (Rakuten TV)">
-    <display-name>Acción (Rakuten TV) SD</display-name>
-    <display-name>Acción (Rakuten TV) HD</display-name>
-    <display-name>Acción (Rakuten TV) 4K</display-name>
-    <display-name>Acción (Rakuten TV) FHD</display-name>
-    <display-name>Acción (Rakuten TV) UHD</display-name>
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6b4cf5b7-bb4d-439a-9779-f83fd1bde012.png" />
   </channel>
   <channel id="Pelis Top (Rakuten TV)">
-    <display-name>Pelis Top (Rakuten TV) SD</display-name>
-    <display-name>Pelis Top (Rakuten TV) HD</display-name>
-    <display-name>Pelis Top (Rakuten TV) 4K</display-name>
-    <display-name>Pelis Top (Rakuten TV) FHD</display-name>
-    <display-name>Pelis Top (Rakuten TV) UHD</display-name>
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/82ae4be3-2514-4733-9f9d-89545d4e2ef4.png" />
   </channel>
   <channel id="Red Bull TV (Rakuten TV)">
-    <display-name>Red Bull TV (Rakuten TV) SD</display-name>
-    <display-name>Red Bull TV (Rakuten TV) HD</display-name>
-    <display-name>Red Bull TV (Rakuten TV) 4K</display-name>
-    <display-name>Red Bull TV (Rakuten TV) FHD</display-name>
-    <display-name>Red Bull TV (Rakuten TV) UHD</display-name>
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b03ad405-231f-44f4-90ea-5fdacaf2a06c.png" />
   </channel>
   <channel id="Runtime Thriller-Terror">
-    <display-name>Runtime Thriller-Terror SD</display-name>
-    <display-name>Runtime Thriller-Terror HD</display-name>
-    <display-name>Runtime Thriller-Terror 4K</display-name>
-    <display-name>Runtime Thriller-Terror FHD</display-name>
-    <display-name>Runtime Thriller-Terror UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png" />
   </channel>
   <channel id="Runtime Comedia">
-    <display-name>Runtime Comedia SD</display-name>
-    <display-name>Runtime Comedia HD</display-name>
-    <display-name>Runtime Comedia 4K</display-name>
-    <display-name>Runtime Comedia FHD</display-name>
-    <display-name>Runtime Comedia UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Comedia.png" />
   </channel>
   <channel id="Runtime Cine y Series">
-    <display-name>Runtime Cine y Series SD</display-name>
-    <display-name>Runtime Cine y Series HD</display-name>
-    <display-name>Runtime Cine y Series 4K</display-name>
-    <display-name>Runtime Cine y Series FHD</display-name>
-    <display-name>Runtime Cine y Series UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png" />
   </channel>
   <channel id="Runtime Series">
-    <display-name>Runtime Series SD</display-name>
-    <display-name>Runtime Series HD</display-name>
-    <display-name>Runtime Series 4K</display-name>
-    <display-name>Runtime Series FHD</display-name>
-    <display-name>Runtime Series UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Series.png" />
   </channel>
   <channel id="Runtime Acción">
-    <display-name>Runtime Acción SD</display-name>
-    <display-name>Runtime Acción HD</display-name>
-    <display-name>Runtime Acción 4K</display-name>
-    <display-name>Runtime Acción FHD</display-name>
-    <display-name>Runtime Acción UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Acci%C3%B3n.png" />
   </channel>
   <channel id="Runtime Crimen">
-    <display-name>Runtime Crimen SD</display-name>
-    <display-name>Runtime Crimen HD</display-name>
-    <display-name>Runtime Crimen 4K</display-name>
-    <display-name>Runtime Crimen FHD</display-name>
-    <display-name>Runtime Crimen UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Crimen.png" />
   </channel>
   <channel id="Runtime Romance">
-    <display-name>Runtime Romance SD</display-name>
-    <display-name>Runtime Romance HD</display-name>
-    <display-name>Runtime Romance 4K</display-name>
-    <display-name>Runtime Romance FHD</display-name>
-    <display-name>Runtime Romance UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Romance.png" />
   </channel>
   <channel id="RunTime Clásicos">
-    <display-name>RunTime Clásicos SD</display-name>
-    <display-name>RunTime Clásicos HD</display-name>
-    <display-name>RunTime Clásicos 4K</display-name>
-    <display-name>RunTime Clásicos FHD</display-name>
-    <display-name>RunTime Clásicos UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Cl%C3%A1sicos.png" />
   </channel>
   <channel id="RunTime Familia">
-    <display-name>RunTime Familia SD</display-name>
-    <display-name>RunTime Familia HD</display-name>
-    <display-name>RunTime Familia 4K</display-name>
-    <display-name>RunTime Familia FHD</display-name>
-    <display-name>RunTime Familia UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png" />
   </channel>
   <channel id="Sony One Shark Tank">
-    <display-name>Sony One Shark Tank SD</display-name>
-    <display-name>Sony One Shark Tank HD</display-name>
-    <display-name>Sony One Shark Tank 4K</display-name>
-    <display-name>Sony One Shark Tank FHD</display-name>
-    <display-name>Sony One Shark Tank UHD</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300004C9_20241106T142325SQUARE.png" />
   </channel>
   <channel id="Sony One Series Thriller">
-    <display-name>Sony One Series Thriller SD</display-name>
-    <display-name>Sony One Series Thriller HD</display-name>
-    <display-name>Sony One Series Thriller 4K</display-name>
-    <display-name>Sony One Series Thriller FHD</display-name>
-    <display-name>Sony One Series Thriller UHD</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20241106T142251SQUARE.png" />
   </channel>
   <channel id="Sony One Éxitos">
-    <display-name>Sony One Éxitos SD</display-name>
-    <display-name>Sony One Éxitos HD</display-name>
-    <display-name>Sony One Éxitos 4K</display-name>
-    <display-name>Sony One Éxitos FHD</display-name>
-    <display-name>Sony One Éxitos UHD</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20241022T051059SQUARE.png" />
   </channel>
   <channel id="Sony One The Blacklist">
-    <display-name>Sony One The Blacklist SD</display-name>
-    <display-name>Sony One The Blacklist HD</display-name>
-    <display-name>Sony One The Blacklist 4K</display-name>
-    <display-name>Sony One The Blacklist FHD</display-name>
-    <display-name>Sony One The Blacklist UHD</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300005EL_20241022T115805SQUARE.png" />
   </channel>
   <channel id="Sony One Series Comedia">
-    <display-name>Sony One Series Comedia SD</display-name>
-    <display-name>Sony One Series Comedia HD</display-name>
-    <display-name>Sony One Series Comedia 4K</display-name>
-    <display-name>Sony One Series Comedia FHD</display-name>
-    <display-name>Sony One Series Comedia UHD</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20241106T142322SQUARE.png" />
   </channel>
   <channel id="Sony One Hits Comedia">
-    <display-name>Sony One Hits Comedia SD</display-name>
-    <display-name>Sony One Hits Comedia HD</display-name>
-    <display-name>Sony One Hits Comedia 4K</display-name>
-    <display-name>Sony One Hits Comedia FHD</display-name>
-    <display-name>Sony One Hits Comedia UHD</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20251111T011949SQUARE.png" />
   </channel>
+  <channel id="Cines Verdi TV">
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cines%20Verdi%20TV.png" />
+  </channel>
+  <channel id="Cine Feel Good">
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cine%20Feel%20Good.png" />
+  </channel>
   <channel id="FIFA+">
-    <display-name>FIFA+ SD</display-name>
-    <display-name>FIFA+ HD</display-name>
-    <display-name>FIFA+ 4K</display-name>
-    <display-name>FIFA+ FHD</display-name>
-    <display-name>FIFA+ UHD</display-name>
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e2bc4647-5158-44b1-a14e-6b541ed03997.png" />
   </channel>
   <channel id="Motorvision">
-    <display-name>Motorvision SD</display-name>
-    <display-name>Motorvision HD</display-name>
-    <display-name>Motorvision 4K</display-name>
-    <display-name>Motorvision FHD</display-name>
-    <display-name>Motorvision UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision.png" />
   </channel>
   <channel id="DE | Rally TV">
-    <display-name>DE | Rally TV SD</display-name>
-    <display-name>DE | Rally TV HD</display-name>
-    <display-name>DE | Rally TV 4K</display-name>
-    <display-name>DE | Rally TV FHD</display-name>
-    <display-name>DE | Rally TV UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" />
   </channel>
   <channel id="ESPN Deportes">
-    <display-name>ESPN Deportes SD</display-name>
-    <display-name>ESPN Deportes HD</display-name>
-    <display-name>ESPN Deportes 4K</display-name>
-    <display-name>ESPN Deportes FHD</display-name>
-    <display-name>ESPN Deportes UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" />
   </channel>
   <channel id="TUDN (Estados Unidos)">
-    <display-name>TUDN (Estados Unidos) SD</display-name>
-    <display-name>TUDN (Estados Unidos) HD</display-name>
-    <display-name>TUDN (Estados Unidos) 4K</display-name>
-    <display-name>TUDN (Estados Unidos) FHD</display-name>
-    <display-name>TUDN (Estados Unidos) UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png" />
   </channel>
   <channel id="TUDN (México)">
-    <display-name>TUDN (México) SD</display-name>
-    <display-name>TUDN (México) HD</display-name>
-    <display-name>TUDN (México) 4K</display-name>
-    <display-name>TUDN (México) FHD</display-name>
-    <display-name>TUDN (México) UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png" />
   </channel>
   <channel id="ESPN International">
-    <display-name>ESPN International SD</display-name>
-    <display-name>ESPN International HD</display-name>
-    <display-name>ESPN International 4K</display-name>
-    <display-name>ESPN International FHD</display-name>
-    <display-name>ESPN International UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20International.png" />
   </channel>
   <channel id="FOX SPORTS MX">
-    <display-name>FOX SPORTS MX SD</display-name>
-    <display-name>FOX SPORTS MX HD</display-name>
-    <display-name>FOX SPORTS MX 4K</display-name>
-    <display-name>FOX SPORTS MX FHD</display-name>
-    <display-name>FOX SPORTS MX UHD</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" />
   </channel>
   <channel id="FOX SPORTS 2 MX">
-    <display-name>FOX SPORTS 2 MX SD</display-name>
-    <display-name>FOX SPORTS 2 MX HD</display-name>
-    <display-name>FOX SPORTS 2 MX 4K</display-name>
-    <display-name>FOX SPORTS 2 MX FHD</display-name>
-    <display-name>FOX SPORTS 2 MX UHD</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/3840px-Fox_sports_2_logo.svg.png" />
   </channel>
   <channel id="FOX SPORTS 3 MX">
-    <display-name>FOX SPORTS 3 MX SD</display-name>
-    <display-name>FOX SPORTS 3 MX HD</display-name>
-    <display-name>FOX SPORTS 3 MX 4K</display-name>
-    <display-name>FOX SPORTS 3 MX FHD</display-name>
-    <display-name>FOX SPORTS 3 MX UHD</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/3840px-Fox_sports_3_logo.svg.png" />
   </channel>
   <channel id="ESPN MX">
-    <display-name>ESPN MX SD</display-name>
-    <display-name>ESPN MX HD</display-name>
-    <display-name>ESPN MX 4K</display-name>
-    <display-name>ESPN MX FHD</display-name>
-    <display-name>ESPN MX UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" />
   </channel>
   <channel id="ESPN 2 MX">
-    <display-name>ESPN 2 MX SD</display-name>
-    <display-name>ESPN 2 MX HD</display-name>
-    <display-name>ESPN 2 MX 4K</display-name>
-    <display-name>ESPN 2 MX FHD</display-name>
-    <display-name>ESPN 2 MX UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" />
   </channel>
   <channel id="ESPN 3 MX">
-    <display-name>ESPN 3 MX SD</display-name>
-    <display-name>ESPN 3 MX HD</display-name>
-    <display-name>ESPN 3 MX 4K</display-name>
-    <display-name>ESPN 3 MX FHD</display-name>
-    <display-name>ESPN 3 MX UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png" />
   </channel>
   <channel id="ESPN 4 MX">
-    <display-name>ESPN 4 MX SD</display-name>
-    <display-name>ESPN 4 MX HD</display-name>
-    <display-name>ESPN 4 MX 4K</display-name>
-    <display-name>ESPN 4 MX FHD</display-name>
-    <display-name>ESPN 4 MX UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png" />
   </channel>
   <channel id="Sky Sports 1 MX">
-    <display-name>Sky Sports 1 MX SD</display-name>
-    <display-name>Sky Sports 1 MX HD</display-name>
-    <display-name>Sky Sports 1 MX 4K</display-name>
-    <display-name>Sky Sports 1 MX FHD</display-name>
-    <display-name>Sky Sports 1 MX UHD</display-name>
     <icon src="https://i.postimg.cc/g0DD2NHP/skysports1.png" />
   </channel>
   <channel id="Sky Sports 16 MX">
-    <display-name>Sky Sports 16 MX SD</display-name>
-    <display-name>Sky Sports 16 MX HD</display-name>
-    <display-name>Sky Sports 16 MX 4K</display-name>
-    <display-name>Sky Sports 16 MX FHD</display-name>
-    <display-name>Sky Sports 16 MX UHD</display-name>
     <icon src="https://i.postimg.cc/RV4Zcd7z/skylaliga.webp" />
   </channel>
   <channel id="Sky Sports 24 MX">
-    <display-name>Sky Sports 24 MX SD</display-name>
-    <display-name>Sky Sports 24 MX HD</display-name>
-    <display-name>Sky Sports 24 MX 4K</display-name>
-    <display-name>Sky Sports 24 MX FHD</display-name>
-    <display-name>Sky Sports 24 MX UHD</display-name>
     <icon src="https://i.postimg.cc/rFfM5kyT/skybundesliga.webp" />
   </channel>
   <channel id="Azteca 7">
-    <display-name>Azteca 7 SD</display-name>
-    <display-name>Azteca 7 HD</display-name>
-    <display-name>Azteca 7 4K</display-name>
-    <display-name>Azteca 7 FHD</display-name>
-    <display-name>Azteca 7 UHD</display-name>
     <icon src="https://i.postimg.cc/LXPfc5Wj/IMG-20260227-142913.png" />
   </channel>
   <channel id="TyC Sports">
-    <display-name>TyC Sports SD</display-name>
-    <display-name>TyC Sports HD</display-name>
-    <display-name>TyC Sports 4K</display-name>
-    <display-name>TyC Sports FHD</display-name>
-    <display-name>TyC Sports UHD</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/channel/logo/8wjzn31605555626.png" />
   </channel>
   <channel id="TyC Sports 2">
-    <display-name>TyC Sports 2 SD</display-name>
-    <display-name>TyC Sports 2 HD</display-name>
-    <display-name>TyC Sports 2 4K</display-name>
-    <display-name>TyC Sports 2 FHD</display-name>
-    <display-name>TyC Sports 2 UHD</display-name>
     <icon src="https://iptv-epg.org/logos/Argentina/TyCSports2.ar.png" />
   </channel>
   <channel id="ESPN AR">
-    <display-name>ESPN AR SD</display-name>
-    <display-name>ESPN AR HD</display-name>
-    <display-name>ESPN AR 4K</display-name>
-    <display-name>ESPN AR FHD</display-name>
-    <display-name>ESPN AR UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" />
   </channel>
   <channel id="ESPN 2 AR">
-    <display-name>ESPN 2 AR SD</display-name>
-    <display-name>ESPN 2 AR HD</display-name>
-    <display-name>ESPN 2 AR 4K</display-name>
-    <display-name>ESPN 2 AR FHD</display-name>
-    <display-name>ESPN 2 AR UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" />
   </channel>
   <channel id="ESPN 3 AR">
-    <display-name>ESPN 3 AR SD</display-name>
-    <display-name>ESPN 3 AR HD</display-name>
-    <display-name>ESPN 3 AR 4K</display-name>
-    <display-name>ESPN 3 AR FHD</display-name>
-    <display-name>ESPN 3 AR UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png" />
   </channel>
   <channel id="ESPN 4 AR">
-    <display-name>ESPN 4 AR SD</display-name>
-    <display-name>ESPN 4 AR HD</display-name>
-    <display-name>ESPN 4 AR 4K</display-name>
-    <display-name>ESPN 4 AR FHD</display-name>
-    <display-name>ESPN 4 AR UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png" />
   </channel>
   <channel id="ESPN ARG">
-    <display-name>ESPN ARG SD</display-name>
-    <display-name>ESPN ARG HD</display-name>
-    <display-name>ESPN ARG 4K</display-name>
-    <display-name>ESPN ARG FHD</display-name>
-    <display-name>ESPN ARG UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" />
   </channel>
   <channel id="ESPN 2 ARG">
-    <display-name>ESPN 2 ARG SD</display-name>
-    <display-name>ESPN 2 ARG HD</display-name>
-    <display-name>ESPN 2 ARG 4K</display-name>
-    <display-name>ESPN 2 ARG FHD</display-name>
-    <display-name>ESPN 2 ARG UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" />
   </channel>
   <channel id="ESPN 3 ARG">
-    <display-name>ESPN 3 ARG SD</display-name>
-    <display-name>ESPN 3 ARG HD</display-name>
-    <display-name>ESPN 3 ARG 4K</display-name>
-    <display-name>ESPN 3 ARG FHD</display-name>
-    <display-name>ESPN 3 ARG UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png" />
   </channel>
   <channel id="ESPN 4 ARG">
-    <display-name>ESPN 4 ARG SD</display-name>
-    <display-name>ESPN 4 ARG HD</display-name>
-    <display-name>ESPN 4 ARG 4K</display-name>
-    <display-name>ESPN 4 ARG FHD</display-name>
-    <display-name>ESPN 4 ARG UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png" />
   </channel>
   <channel id="ESPN Extra AR">
-    <display-name>ESPN Extra AR SD</display-name>
-    <display-name>ESPN Extra AR HD</display-name>
-    <display-name>ESPN Extra AR 4K</display-name>
-    <display-name>ESPN Extra AR FHD</display-name>
-    <display-name>ESPN Extra AR UHD</display-name>
     <icon src="https://iptv-epg.org/logos/Argentina/ESPNExtra.ar.png" />
   </channel>
   <channel id="FOX Sports Cono Sur">
-    <display-name>FOX Sports Cono Sur SD</display-name>
-    <display-name>FOX Sports Cono Sur HD</display-name>
-    <display-name>FOX Sports Cono Sur 4K</display-name>
-    <display-name>FOX Sports Cono Sur FHD</display-name>
-    <display-name>FOX Sports Cono Sur UHD</display-name>
     <icon src="https://iptv-epg.org/logos/Argentina/FOXSportsConoSur.ar.png" />
   </channel>
   <channel id="FOX Sports AR">
-    <display-name>FOX Sports AR SD</display-name>
-    <display-name>FOX Sports AR HD</display-name>
-    <display-name>FOX Sports AR 4K</display-name>
-    <display-name>FOX Sports AR FHD</display-name>
-    <display-name>FOX Sports AR UHD</display-name>
     <icon src="https://iptv-epg.org/logos/Argentina/FOXSportsConoSur.ar.png" />
   </channel>
   <channel id="FOX Sports 2 AR">
-    <display-name>FOX Sports 2 AR SD</display-name>
-    <display-name>FOX Sports 2 AR HD</display-name>
-    <display-name>FOX Sports 2 AR 4K</display-name>
-    <display-name>FOX Sports 2 AR FHD</display-name>
-    <display-name>FOX Sports 2 AR UHD</display-name>
     <icon src="https://iptv-epg.org/logos/Argentina/FOXSports2.ar.png" />
   </channel>
   <channel id="FOX Sports 3 AR">
-    <display-name>FOX Sports 3 AR SD</display-name>
-    <display-name>FOX Sports 3 AR HD</display-name>
-    <display-name>FOX Sports 3 AR 4K</display-name>
-    <display-name>FOX Sports 3 AR FHD</display-name>
-    <display-name>FOX Sports 3 AR UHD</display-name>
     <icon src="https://iptv-epg.org/logos/Argentina/FOXSports3.ar.png" />
   </channel>
   <channel id="TV Publica">
-    <display-name>TV Publica SD</display-name>
-    <display-name>TV Publica HD</display-name>
-    <display-name>TV Publica 4K</display-name>
-    <display-name>TV Publica FHD</display-name>
-    <display-name>TV Publica UHD</display-name>
     <icon src="https://iptv-epg.org/logos/Argentina/TVPublica.ar.png" />
   </channel>
   <channel id="Telefe">
-    <display-name>Telefe SD</display-name>
-    <display-name>Telefe HD</display-name>
-    <display-name>Telefe 4K</display-name>
-    <display-name>Telefe FHD</display-name>
-    <display-name>Telefe UHD</display-name>
     <icon src="https://iptv-epg.org/logos/Argentina/Telefe.ar.png" />
   </channel>
   <channel id="Univision East">
-    <display-name>Univision East SD</display-name>
-    <display-name>Univision East HD</display-name>
-    <display-name>Univision East 4K</display-name>
-    <display-name>Univision East FHD</display-name>
-    <display-name>Univision East UHD</display-name>
     <icon src="https://iptv-epg.org/logos/USA/Univision.us.png" />
   </channel>
   <channel id="Univision West">
-    <display-name>Univision West SD</display-name>
-    <display-name>Univision West HD</display-name>
-    <display-name>Univision West 4K</display-name>
-    <display-name>Univision West FHD</display-name>
-    <display-name>Univision West UHD</display-name>
     <icon src="https://iptv-epg.org/logos/USA/UnivisionWest.us.png" />
   </channel>
   <channel id="Univision WXTV">
-    <display-name>Univision WXTV SD</display-name>
-    <display-name>Univision WXTV HD</display-name>
-    <display-name>Univision WXTV 4K</display-name>
-    <display-name>Univision WXTV FHD</display-name>
-    <display-name>Univision WXTV UHD</display-name>
     <icon src="https://iptv-epg.org/logos/USA/UnivisionWest.us.png" />
   </channel>
   <channel id="UniMas">
-    <display-name>UniMas SD</display-name>
-    <display-name>UniMas HD</display-name>
-    <display-name>UniMas 4K</display-name>
-    <display-name>UniMas FHD</display-name>
-    <display-name>UniMas UHD</display-name>
     <icon src="https://iptv-epg.org/logos/USA/UniMas.us.png" />
   </channel>
   <channel id="Universo">
-    <display-name>Universo SD</display-name>
-    <display-name>Universo HD</display-name>
-    <display-name>Universo 4K</display-name>
-    <display-name>Universo FHD</display-name>
-    <display-name>Universo UHD</display-name>
     <icon src="https://iptv-epg.org/logos/USA/UNIVERSO.us.png" />
   </channel>
 	<programme start="20260302061100 +0100" stop="20260302074700 +0100" channel="Movistar Plus+">
@@ -74810,6 +73971,1206 @@
     <title>The Big Hit</title>
     <desc>+18
 · Mel y sus socios Cisco, Crunch, Vince y Gump planean un golpe. Lo que debía ser un secuestro fácil y rápido se tuerce cuando descubren que la víctima, la hija de un millonario, es la ahijada de su propio jefe. Para empeorar aún más las cosas, la dueña de la casa de Mel se fuga con los ahorros de éste justo cuando los padres de su novia, que no aceptan la relación de su hija, llegan de visita. Mel trata de impresionar a sus futuros suegros mientras su vida comienza a resquebrajarse.</desc>
+	</programme>
+	<programme start="20260302025900 +0100" stop="20260302045900 +0100" channel="Cines Verdi TV">
+    <title>Las pandillas del Bronx</title>
+    <desc>Cine,Drama,Clásico | 1979 | +18 | *7.3/10
+· Nueva York, 1963. En el Bronx, los Wanderers, una banda italiana, se enfrenta a bandas rivales. La violencia es su forma de resolver problemas.
+· País: Estados Unidos
+· Dirección: Philip Kaufman.
+· Reparto: Ken Wahl, Karen Allen, Toni Kalem, Alan Rosenberg, John Friedrich, Linda Manz.
+· Producción: Martin Ransohoff.</desc>
+	</programme>
+	<programme start="20260302045900 +0100" stop="20260302063300 +0100" channel="Cines Verdi TV">
+    <title>Gritos y susurros</title>
+    <desc>Cine,Drama | 1972 | +16 | *7.9/10
+· Tres hermanas se reúnen después de mucho tiempo sin verse, ante la inminente muerte de una de ellas. El encuentro les permite recordar el pasado.
+· País: Suecia
+· Dirección: Ingmar Bergman.
+· Reparto: Harriet Andersson, Kari Sylwan, Ingrid Thulin, Liv Ullmann, Anders Ek Ek, Inga Gill, Erland Josephson, Henning Moritzen, Georg Årlin.
+· Música: Johann Sebastian Bach, Frédéric Chopin.
+· Producción: Lars-Owe Carlberg.</desc>
+	</programme>
+	<programme start="20260302063300 +0100" stop="20260302082300 +0100" channel="Cines Verdi TV">
+    <title>Primavera tardía</title>
+    <desc>Cine,Drama | 1949 | TP
+· Somiya era un viudo viejo con una hija, Noriko, madura para el matrimonio, pero curiosamente sigue viviendo con su padre. Para hacerla cambiar de manera de pensar, Somiya finje tomar una esposa joven e intentar que su hija se de cuenta de su situación...
+· País: Japón
+· Dirección: Yasujiro Ozu.
+· Reparto: Hohi Aoki, Setsuko Hara, Masao Mishima, Kuniko Miyake, Chishu Ryu, Haruko Sugimura, Jun Usami, Yumeji Tsukioka.
+· Música: Senji Itô.</desc>
+	</programme>
+	<programme start="20260302082300 +0100" stop="20260302100600 +0100" channel="Cines Verdi TV">
+    <title>Wonder Wheel</title>
+    <desc>Cine,Drama,Romance | 2017 | +7 | *6.2/10
+· En 1950, en Coney Island vive Ginny junto a su esposo. Poco motivada por esta relación, se enamora del socorrista de la playa, pero se complica todo cuando la hijastra entra en la disputa por el nuevo pretendiente.
+· País: Estados Unidos
+· Dirección: Woody Allen.
+· Reparto: Jack Gore, Tom Guiry, Tommy Nohilly, Robert C. Kirk C. Kirk, Steve Schirripa, John Doumanian, Gregory Dann, Michael Zegarski, Justin Timberlake, James Belushi, Jim Belushi, Bobby Slayton, Geneva Carr, Tony Sirico, Max Casella, Kate Winslet, Juno Temple, David Krumholtz.</desc>
+	</programme>
+	<programme start="20260302100600 +0100" stop="20260302114500 +0100" channel="Cines Verdi TV">
+    <title>Te amo, te amo</title>
+    <desc>Cine,Drama | 1968 | +16
+· Tras recuperarse de un intento de suicidio, un hombre es seleccionado para participar en un experimento que consiste en viajar en el tiempo.
+· País: Francia
+· Dirección: Alain Resnais.
+· Reparto: Claude Rich, Olga Georges-Picot, Anouk Ferjac, Yves Kerboul, Van Doude, Vania Vilers, Alain MacMoy.</desc>
+	</programme>
+	<programme start="20260302114500 +0100" stop="20260302131800 +0100" channel="Cines Verdi TV">
+    <title>Pussy Riot, una plegaria punk</title>
+    <desc>Cine,Documentales | 2013 | +18 | *7.0/10
+· La historia de tres jóvenes parte de una banda musical que interpretaron una “oración punk” en el interior de la catedral más importante de Rusia.
+· País: Reino Unido, Estados Unidos
+· Dirección: Mike Lerner, Maxim Pozdorovkin.
+· Reparto: Yekaterina Samutsevich, Nadezhda Tolokonnikova, Mariya Alyokhina, Andrey Tolokonnikov.</desc>
+	</programme>
+	<programme start="20260302131800 +0100" stop="20260302153500 +0100" channel="Cines Verdi TV">
+    <title>Modigliani</title>
+    <desc>Cine,Drama | 2004 | +12
+· En 1919, la rivalidad entre Picasso y Modigliani se intensifica en el Café Rotonde. Modigliani, enamorado de Jeanne Hébuterne, busca salir de la pobreza participando en un certamen de arte, al que Picasso se une por competencia.
+· País: Alemania, Reino Unido, Rumania
+· Dirección: Mick Davis.
+· Reparto: Andy García, Elsa Zylberstein, Hippolyte Girardot, Eva Herzigova, Udo Kier, Omid Djalili, Miriam Margolyes, Peter Capaldi, Louis Hilyer, George Lascu, Dan Astileanu, Susie Amy, Stevan Rimkus, Michelle Newell, Frederico Ambrosino.
+· Música: Guy Farley.
+· Producción: André Djaoui, Philippe Martinez, Stéphanie Martinez.</desc>
+	</programme>
+	<programme start="20260302153500 +0100" stop="20260302171200 +0100" channel="Cines Verdi TV">
+    <title>La pequeña princesa</title>
+    <desc>Cine,Familiar | 1939 | TP | *7.2/10
+· Cuando su padre, un militar, desaparece, una niña sufre un cambio de trato en el internado donde vive.
+· País: Estados Unidos
+· Dirección: Walter Lang, William A. Seiter.
+· Reparto: Shirley Temple, Richard Greene, Anita Louise, César Romero, Arthur Treacher, Mary Nash, Sybil Jason, Miles Mander, Ian Hunter.
+· Música: Walter Bullock, Samuel Pokrass.
+· Producción: Darryl F. Zanuck.</desc>
+	</programme>
+	<programme start="20260302171200 +0100" stop="20260302191000 +0100" channel="Cines Verdi TV">
+    <title>Fedora</title>
+    <desc>Cine,Drama,Suspense,Romance | 1978 | +7 | *6.8/10
+· Fedora, una famosa actriz, fallece en París atropellada por un tren. En su funeral, un productor de cine se pregunta hasta qué punto él habría influido en su muerte.
+· País: Alemania, Francia
+· Dirección: Billy Wilder.
+· Reparto: William Holden, Marthe Keller, Mario Adorf, Henry Fonda, Michael York, Gottfried John, Stephen Collins, José Ferrer, Frances Sternhagen, Hildegard Knef, Hidegard Knef.
+· Música: Miklós Rózsa.
+· Producción: Billy Wilder.</desc>
+	</programme>
+	<programme start="20260302191000 +0100" stop="20260302204600 +0100" channel="Cines Verdi TV">
+    <title>Jane en busca de la ciudad perdida</title>
+    <desc>Cine,Acción,Aventuras | 1987 | TP
+· Un explorador muere mostrando un enorme elefante y diciendo que ha encontrado La Ciudad Perdida. Tanto los nazis como los británicos se aprestan a localizar su emplazamiento.
+· País: Reino Unido, Estados Unidos
+· Reparto: Maud Adams, Jasper Carrott, Kirsten Hughes, Robin Bailey, Sam J. Jones, Graham Stark.</desc>
+	</programme>
+	<programme start="20260302204600 +0100" stop="20260302223300 +0100" channel="Cines Verdi TV">
+    <title>Juzgado a la italiana</title>
+    <desc>Cine,Comedia | 1954 | +16
+· En un día cualquiera, el magistrado Salomone Lo Russo tiene que lidiar con los casos más dispares: delincuentes comunes, crimin….
+· País: Italia
+· Dirección: Steno.
+· Reparto: Pepino de Filippo, Alberto Sordi, Sophia Loren, Leopoldo Trieste, Silvana Pampanini, Peppino De Filippo, Tania Weber.</desc>
+	</programme>
+	<programme start="20260302223300 +0100" stop="20260303001800 +0100" channel="Cines Verdi TV">
+    <title>La lectora</title>
+    <desc>Cine,Comedia | 1988 | +12 | *7.0/10
+· Constance es una chica a la que le gusta leer. La lectura es para ella fantasía, sueño, imagen de un mundo irrealizable pero bello. Leyendo la novela «La lectora» se identifica con María, su protagonista.
+· País: Francia
+· Dirección: Michel Deville.
+· Reparto: Miou Miou, María Casares, Patrick Chesnais, Régis Royer, Christian Ruché, Sylvie Laporte.</desc>
+	</programme>
+	<programme start="20260303001800 +0100" stop="20260303015100 +0100" channel="Cines Verdi TV">
+    <title>La bestia bajo el asfalto I</title>
+    <desc>Cine,Terror,Comedia,Clásico | 1980 | +18 | *6.1/10
+· Una cría de cocodrilo es arrojada al inodoro en Chicago. A medida que se alimenta de ratas de laboratorio que fueron expuestas a hormonas de crecimiento, la criatura crece hasta convertirse en un gigantesco cocodrilo que desata el caos en la ciudad.
+· País: Estados Unidos
+· Dirección: Lewis Teague.
+· Reparto: Dean Jagger, Robert Forster, Perry Lang, Robin Riker, Jack Carter, Michael V. Gazzo, Mike Mazurki, Henry Silva, Sydney Lassick.</desc>
+	</programme>
+	<programme start="20260303015100 +0100" stop="20260303032400 +0100" channel="Cines Verdi TV">
+    <title>Elvira Madigan</title>
+    <desc>Cine,Romance,Clásico | 1967 | +12 | *7.0/10
+· Un aristócrata, teniente de la caballería sueca, decide abandonar el ejército y a su familia para marcharse con una emancipada y bella artista de circo.
+· País: Suecia
+· Dirección: Bo Widerberg.
+· Reparto: Pia Degermark, Thommy Berggren, Lennart Malmer, Cleo Jensen, Nina Widerberg, Yvonne Ingdal.
+· Música: Ulf Björlin.
+· Producción: Waldemar Bergendahl, Peter Fernández.</desc>
+	</programme>
+	<programme start="20260303032400 +0100" stop="20260303051400 +0100" channel="Cines Verdi TV">
+    <title>Chico conoce chica</title>
+    <desc>Cine,Drama,Romance | 1984 | +13 | *6.9/10
+· En un París bohemio y nocturno, Alex, de 22 años, quiere convertirse en cineasta. Lo que más le fascinan son las primeras veces de algo; pero su novia, Florence, acaba de dejarle por su mejor amigo, Thomas.
+· País: Francia
+· Dirección: Leos Carax.
+· Reparto: Denis Lavant, Mireille Perrier, Carroll Brooks, Elie Poicard, Christian Cloarec, Maïté Nahyr.
+· Producción: Patricia Moraz.</desc>
+	</programme>
+	<programme start="20260303051400 +0100" stop="20260303065600 +0100" channel="Cines Verdi TV">
+    <title>Absolución</title>
+    <desc>Cine,Drama | 1978 | +16 | *6.5/10
+· Thriller psicológico que sigue al padre Goddard, un estricto sacerdote de un colegio católico, cuya vida da un giro oscuro cuando uno de sus alumnos, Benjamin Stanfield, le confiesa haber cometido un asesinato.
+· País: Reino Unido
+· Dirección: Anthony Page.
+· Reparto: Richard Burton, Dominic Guard, David Bradley, Billy Connolly, Andrew Keir.
+· Música: Stanley Myers.
+· Producción: Elliott Kastner, Danny O'Donovan.</desc>
+	</programme>
+	<programme start="20260303065600 +0100" stop="20260303083200 +0100" channel="Cines Verdi TV">
+    <title>Buenos días</title>
+    <desc>Cine,Drama | 1959 | TP
+· Dos niños inician una huelga de silencio con el objetivo de persuadir a sus padres para que adquieran un televisor.
+· País: Japón
+· Dirección: Yasujiro Ozu.
+· Reparto: Keiji Sada, Yoshiko Kuga, Chishu Ryu, Kuniko Miyake, Haruko Sugimura.
+· Música: Toshirô Mayuzumi.</desc>
+	</programme>
+	<programme start="20260303083200 +0100" stop="20260303102300 +0100" channel="Cines Verdi TV">
+    <title>Encuentro en la noche</title>
+    <desc>Cine,Drama,Romance | 1952 | +16 | *7.0/10
+· Una mujer regresa a su ciudad natal después de 10 años de ausencia. Allí decide casarse con un pescador para conseguir la estabilidad que busca, pero surgen los problemas cuando ella conoce a otro hombre del que se enamora apasionadamente.
+· País: Estados Unidos
+· Dirección: Fritz Lang.
+· Reparto: Marilyn Monroe, Barbara Stanwyck, Paul Douglas, Robert Ryan, J. Carrol Naish, Tony Martin, Keith Andes, Silvio Minciotti, William Bailey.
+· Música: Roy Webb.
+· Producción: Jerry Wald, Harriet Parsons, Norman Krasna.</desc>
+	</programme>
+	<programme start="20260303102300 +0100" stop="20260303115600 +0100" channel="Cines Verdi TV">
+    <title>Las colinas tienen ojos, 2ª parte</title>
+    <desc>Cine,Terror | 1984 | +18
+· Varios años después de la matanza de las montañas, Bobby, uno de los pocos supervivientes, se ha casado con Ruby. Juntos dirigen un equipo de motocross y organizan un viaje en autobús para competir en una carrera.
+· País: Reino Unido, Estados Unidos
+· Dirección: Wes Craven.
+· Reparto: David Nichols, James Whitworth, Susan Lanier, Robert Houston, Virginia Vincent.</desc>
+	</programme>
+	<programme start="20260303115600 +0100" stop="20260303133300 +0100" channel="Cines Verdi TV">
+    <title>Mediterráneo</title>
+    <desc>Cine,Comedia Dramática | 1991 | +13 | *7.4/10
+· Segunda Guerra Mundial. Ocho soldados reciben la orden de desembarcar en una pequeña isla griega y custodiarla. El lugar, que al principio parecía desierto, en realidad está habitado por mujeres, ancianos y niños.
+· País: Italia
+· Dirección: Gabriele Salvatores.
+· Reparto: Diego Abatantuono, Claudio Bigagli, Giuseppe Cederna, Ugo Conti, GIGIO ALBERTI, Memo Dini, Vasco Mirandola, Vanna Barba, Claudio Bisio.
+· Música: Giancarlo Bigazzi, Marco Falagiani.
+· Producción: Silvio Berlusconi, Mario Cecchi Gori, Vittorio Cecchi Gori, Gianni Minervini.</desc>
+	</programme>
+	<programme start="20260303133300 +0100" stop="20260303152700 +0100" channel="Cines Verdi TV">
+    <title>Un enredo para dos</title>
+    <desc>Cine,Comedia,Clásico,Espionaje | 1980 | +16 | *7.1/10
+· Dejado de lado por un superior incompetente, un viejo veterano de la CIA decide vengarse escribiendo sus memorias bajo su propio riesgo.
+· País: Estados Unidos
+· Dirección: Ronald Neame.
+· Reparto: Walter Matthau, Glenda Jackson, Sam Waterston, Ned Beatty, Herbert Lom, David Matthau, George Baker, Ivor Roberts, Lucy Saroyan, Severn Darden, George Pravda.
+· Música: Ian Fraser.
+· Producción: Otto Plaschkes.</desc>
+	</programme>
+	<programme start="20260303152700 +0100" stop="20260303170900 +0100" channel="Cines Verdi TV">
+    <title>Buscando la perfección</title>
+    <desc>Cine,Documentales | 2018 | +7 | *6.7/10
+· Fascinante y completa inmersión en la leyenda zurda del tenis John McEnroe, justo en el apogeo de su carrera como número uno del mundo.
+· País: Francia
+· Dirección: Julien Faraut Faraut, Julien Faraut.
+· Reparto: Mathieu Amalric, John McEnroe, Ivan Lendl, Matthieu Amalric, Gil de Kermadec, Jacques Pernod, Cédric Quignon-Fleuret.</desc>
+	</programme>
+	<programme start="20260303170900 +0100" stop="20260303193100 +0100" channel="Cines Verdi TV">
+    <title>El cielo protector</title>
+    <desc>Cine,Drama,Aventuras | 1990 | +18 | *6.7/10
+· 1947. Una pareja de neoyorquinos viaja a África en busca de nuevas experiencias que puedan dar un nuevo sentido a su relación.
+· País: Reino Unido, Italia
+· Dirección: Bernardo Bertolucci.
+· Reparto: Jill Bennett, Timothy Spall, John Malkovich, Debra Winger, Campbell Scott, Eric Vu-An, Amina Annabi, Nicoletta Braschi, Paul Bowles.
+· Música: Richard Horowitz, Ryuichi Sakamoto.
+· Producción: Jeremy Thomas.</desc>
+	</programme>
+	<programme start="20260303193100 +0100" stop="20260303213200 +0100" channel="Cines Verdi TV">
+    <title>El señor de las bestias</title>
+    <desc>Cine,Acción,Fantasía,Aventuras | 1982 | TP | *6.2/10
+· En venganza por haber sido expulsado del reino, un hechicero intenta asesinar al hijo del monarca cuando todavía está en el vientre de su madre. Un campesino salva al chico y años después el muchacho descubre que posee cierto poder sobre los animales.
+· País: Alemania, Estados Unidos
+· Dirección: Don Coscarelli.
+· Reparto: Rip Torn, Marc Singer, Tanya Roberts, Josh Milrad, John Amos, John Amo, Joshua Milrad.
+· Música: Lee Holdridge.
+· Producción: Don Coscarelli, Paul Pepperman, Sylvio Tabet.</desc>
+	</programme>
+	<programme start="20260303213200 +0100" stop="20260303234000 +0100" channel="Cines Verdi TV">
+    <title>La linterna roja</title>
+    <desc>Cine,Drama,Romance | 1991 | +12
+· China, años 20. Una joven estudiante se ve obligada a dejar la Universidad tras la muerte de su padre, para ayudar a su familia.
+· País: China, Hong Kong, Taiwán
+· Dirección: Yimou Zhang.
+· Reparto: Gong Li, Cuifen Cao, Qi Zhao, Jingwu Ma Ma, Saifei He He, Jingwu Ma, Saifei He.</desc>
+	</programme>
+	<programme start="20260303234000 +0100" stop="20260304011800 +0100" channel="Cines Verdi TV">
+    <title>Nacida en viernes</title>
+    <desc>Cine,Comedia Romántica | 1941 | +12
+· El joven médico Pietro Vignali, al verse endeudado por culpa de su novia Loretta, acaba trabajando en un orfanato de niñas para...
+· País: Italia
+· Dirección: Vittorio De Sica.
+· Reparto: Irasema Dilián, Anna Magnani, Giuditta Rissone, Vittorio De Sica, Adriana Benetti, Zaira La Fratta, Clara Auteri Pepe.</desc>
+	</programme>
+	<programme start="20260304011800 +0100" stop="20260304025600 +0100" channel="Cines Verdi TV">
+    <title>Semilla de crisantemo</title>
+    <desc>Cine,Drama,Romance | 1990 | +12
+· Ju Dou sufre abusos de su esposo mayor hasta que halla consuelo en su sobrino. Su amor prohibido da fruto: un hijo que desafía el destino.
+· País: China, Japón
+· Dirección: Yimou Zhang, Yang Fengliang, Fengliang Yang.
+· Reparto: Wei Li Li, Baotian Li, Gong Li, Zhang Yi, Ji-an Zheng.</desc>
+	</programme>
+	<programme start="20260304025600 +0100" stop="20260304051500 +0100" channel="Cines Verdi TV">
+    <title>Valmont</title>
+    <desc>Cine,Drama,Romance | 1989 | +12 | *7.0/10
+· En la Francia prerrevolucionaria del S. XVIII, la perversa y fascinante marquesa de Merteuil se siente despechada tras ser abandonada por su último amante, quien va a casarse con la jovencísima y virtuosa Cécile de Volanges.
+· País: Francia, Reino Unido, Estados Unidos
+· Dirección: Milos Forman.
+· Reparto: Colin Firth, Annette Bening, Fairuza Balk, Meg Tilly, Siân Phillips, Henry Thomas, Jeffrey Jones.
+· Música: Christopher Palmer.
+· Producción: Michael Hausman, Paul Rassam.</desc>
+	</programme>
+	<programme start="20260304051500 +0100" stop="20260304070800 +0100" channel="Cines Verdi TV">
+    <title>Sangre sabia</title>
+    <desc>Cine,Drama | 1979 | +16
+· Un joven sureño, pobre, ambicioso pero sin educación, está determinado a convertirse en algo en este mundo. Por ello decide que la mejor manera de hacerlo es siendo predicador y comenzar así su propia iglesia.
+· País: Estados Unidos
+· Dirección: John Huston.
+· Reparto: Brad Dourif, John Huston, Harry Dean Stanton, Dan Shor, Amy Wright.</desc>
+	</programme>
+	<programme start="20260304070800 +0100" stop="20260304084700 +0100" channel="Cines Verdi TV">
+    <title>Otelo</title>
+    <desc>Cine,Drama,Romance | 1951 | TP
+· Desdémona huye con Otelo, desatando la envidia de Iago, quien trama su ruina con astucia y malicia.
+· País: Italia, Marruecos, Estados Unidos
+· Dirección: Orson Welles.
+· Reparto: Orson Welles, Suzanne Cloutier, Micheál MacLiammóir, Robert Coote, Hilton Edwards.
+· Música: Alberto Barberis, Angelo Francesco Lavagnino.
+· Producción: Orson Welles, Walter Bedone, Patrice Dali, Rocco Facchini, Giorgio Papi.</desc>
+	</programme>
+	<programme start="20260304084700 +0100" stop="20260304100200 +0100" channel="Cines Verdi TV">
+    <title>La reina de Nueva York</title>
+    <desc>Cine,Fantasía,Comedia Romántica | 1937 | +16 | *6.8/10
+· Una joven que sufre envenenamiento por exposición al radio, tras un accidente y con diagnóstico terminal, recibe la noticia de que ha habido un error y no va a morir. Pero decide ocultar la noticia y aprovechar el dinero de la indemnización.
+· País: España, Reino Unido, Estados Unidos
+· Dirección: William A. Wellman.
+· Reparto: Carole Lombard, Fredric March, Charles Winninger, Walter Connolly, Sig Ruman, Frank Fay, Troy Brown Jr., Max 'Slapsie Maxie' Rosenbloom, Olin Howlin.
+· Música: Oscar Levant.
+· Producción: David O. Selznick.</desc>
+	</programme>
+	<programme start="20260304100200 +0100" stop="20260304114200 +0100" channel="Cines Verdi TV">
+    <title>Las ocho campanadas</title>
+    <desc>Cine,Acción,Suspense | 1971 | +16 | *6.0/10
+· Philip Calvert es un agente del servicio secreto naval cuya misión es la de destapar el robo de varios millones de libras en oro. Inicia su investigación en Escocia, ayudado por su compañero Hunslett.
+· País: Reino Unido
+· Dirección: Étienne Périer.
+· Reparto: Anthony Hopkins, Robert Morley, Nathalie Delon, Corin Redgrave, Jack Hawkins, Derek Bond, Ferdy Mayne, Leon Collins, Wendy Allnutt, Peter Arne, Maurice Roëves.</desc>
+	</programme>
+	<programme start="20260304114200 +0100" stop="20260304132100 +0100" channel="Cines Verdi TV">
+    <title>El regreso de Jack</title>
+    <desc>Cine,Policíaco,Suspense,Terror | 1988 | +18 | *5.8/10
+· Se sospecha de un joven médico cuando se comete una serie de asesinatos imitando a Jack el Destripador. Sin embargo, cuando el propio médico es asesinado.
+· País: Estados Unidos
+· Dirección: Rowdy Herrington.
+· Reparto: Cynthia Gibb, Rex Ryon, Rod Loomis, Jim Haynie, Robert Picardo, Chris Mulkey, James Spader.
+· Música: Danny Di Paola.
+· Producción: Cassian Elwes, Tim Moore, Elliott Kastner.</desc>
+	</programme>
+	<programme start="20260304132100 +0100" stop="20260304145800 +0100" channel="Cines Verdi TV">
+    <title>Compañeros mortales</title>
+    <desc>Cine,Western,Aventuras,Acción | 1962 | +13 | *6.0/10
+· En un tiroteo entre bandidos un niño muere. Afectados por lo ocurrido, acompañarán a la madre por el hostil territorio apache.
+· País: Estados Unidos
+· Dirección: Sam Peckinpah.
+· Reparto: Maureen O'Hara, Brian Keith, Chill Wills, Strother Martin, Steve Cochran, James O'Hara, Peter O'Crotty, Billy Vaughan, Hank Gobble, Will Wright.
+· Música: Marlin Skiles.
+· Producción: Charles B. Fitzsimons.</desc>
+	</programme>
+	<programme start="20260304145800 +0100" stop="20260304172400 +0100" channel="Cines Verdi TV">
+    <title>¡Vivir!</title>
+    <desc>Cine,Drama | 1994 | +12 | *8.3/10
+· Ganadora del Gran Premio del Jurado en Cannes 1994. Filme basado en la novela de Yu Hua, que narra las penas, tormentos y aflicciones morales de un matrimonio chino desde los últimos años de la época feudal hasta la Revolución Cultural.
+· País: China, Hong Kong
+· Dirección: Yimou Zhang, Zhang Yimou.
+· Reparto: Li Gong, Deng Fei, Gong Li, Ben Niu, Tao Guo, You Ge, Wu Jiang.
+· Producción: Fu-Sheng Chiu, Funhong Kow, Christophe Tseng.</desc>
+	</programme>
+	<programme start="20260304172400 +0100" stop="20260304190300 +0100" channel="Cines Verdi TV">
+    <title>Despertando a Ned</title>
+    <desc>Cine,Comedia | 1998 | TP | *7.3/10
+· Tullymore es un pequeño e idílico pueblo irlandés cuya tranquilidad se rompe cuando a uno de sus 52 habitantes le toca el primer premio de la lotería.
+· País: Francia, Reino Unido, Irlanda
+· Dirección: Kirk Jones.
+· Reparto: David Kelly, Fionnula Flanagan, James Nesbitt, Ian Bannen, Susan Lynch, Paul Vaughan.
+· Música: Shaun Davey.
+· Producción: Glynis Murray, Richard Holmes.</desc>
+	</programme>
+	<programme start="20260304190300 +0100" stop="20260304205000 +0100" channel="Cines Verdi TV">
+    <title>El festín de Babette</title>
+    <desc>Cine,Drama,Romance | 1987 | +7 | *7.8/10
+· Un grupo de aldeanos religiosos aprenden a amar y a perdonar durante los banquetes preparados por una de las criadas, que resulta ser un chef de clase mundial.
+· País: Dinamarca
+· Dirección: Gabriel Axel.
+· Reparto: Stéphane Audran, Bibi Andersson, Jarl Kulle, Bodil Kjer, Birgitte Federspiel, Jean-Philippe Lafont, Gert Bastian, Asta Esper Hagen Andersen, Vibeke Hastrup, Cay Kristiansen, Viggo Bentzon, Thomas Antoni, Therese Hojgaard Christensen, Hanne Stensgaard, Pouel Kern, Ghita Nörby.
+· Música: Per Nørgaard.
+· Producción: Just Betzer, Bo Christensen, Benni Korzen.</desc>
+	</programme>
+	<programme start="20260304205000 +0100" stop="20260304225200 +0100" channel="Cines Verdi TV">
+    <title>Gertrud</title>
+    <desc>Cine,Drama | 1964 | +12
+· Gertrud es una mujer madura e idealista que busca el amor absoluto con mayúsculas, pero sus experiencias sentimentales se ven siempre abocadas al fracaso. Decide separarse de su marido, un eminente político, porque él antepone el trabajo al amor.
+· País: Dinamarca
+· Dirección: Carl Theodor Dreyer.
+· Reparto: Nina Pens Rode, Bendt Rothe, Ebbe Rode, Axel Strøbye, Karl Gustav, Baard Owe, Nina Pens, Vera Gebuhr, Karl Gustav Ahlefeldt.
+· Música: Jørgen Jersild.
+· Producción: Jørgen Nielsen.</desc>
+	</programme>
+	<programme start="20260304225200 +0100" stop="20260305004400 +0100" channel="Cines Verdi TV">
+    <title>Gigolo</title>
+    <desc>Cine,Drama,Comedia | 1978 | +16 | *5.4/10
+· Después de la Primera Guerra Mundial, un héroe de guerra regresa a Berlín y descubre que ya no hay lugar para él.
+· País: Alemania
+· Dirección: David Hemmings.
+· Reparto: David Bowie, Sydne Rome, Kim Novak, Marlene Dietrich, Maria Schell, David Hemmings, Erika Pluhar, Curd Jürgens, Hilde Weissner.</desc>
+	</programme>
+	<programme start="20260305004400 +0100" stop="20260305030700 +0100" channel="Cines Verdi TV">
+    <title>Francesco</title>
+    <desc>Cine,Drama | 1989 | +12 | *6.3/10
+· Tras la muerte de San Francisco de Asís, Santa Clara y sus primeros seguidores se reúnen para recordar los momentos que marcaron sus vidas.
+· País: Alemania, Italia, Estados Unidos
+· Dirección: Liliana Cavani.
+· Reparto: Mickey Rourke, Helena Bonham Carter, Mario Adorf, Tomas Arana, Peter Berling, Paolo Bonacelli, Nicoletta Boris, Fabio Bussotti, Riccardo De Torrebruna, Nikolaus Dutsch, Edward Farrelly, Andréa Ferreol, Stanko Molnar.
+· Música: Vangelis.
+· Producción: Roberta Cadringher.</desc>
+	</programme>
+	<programme start="20260305030700 +0100" stop="20260305045700 +0100" channel="Cines Verdi TV">
+    <title>Los asesinos de la luna de miel</title>
+    <desc>Cine,Policíaco,Drama,Romance | 1970 | +18 | *6.9/10
+· A una enfermera amargada no le importa que su novio con peluquín se enamore y desplume a otras mujeres, siempre y cuando la acompañe en sus estafas.
+· País: Estados Unidos
+· Dirección: Leonard Kastle, Martin Scorsese, Donald Volkman.
+· Reparto: Mary Jane Higby, Doris Roberts, Kip McArdle, Tony Lo Bianco, Shirley Stoler, Marilyn Chris.
+· Producción: Paul Asselin, Warren Steibel.</desc>
+	</programme>
+	<programme start="20260305045700 +0100" stop="20260305065200 +0100" channel="Cines Verdi TV">
+    <title>Palermo shooting</title>
+    <desc>Cine,Drama | 2008 | +13 | *6.1/10
+· Finn, un fotógrafo de fama internacional, lleva una vida trepidante que muchos envidian. Pero de repente sufre una crisis existencial y decide abandonarlo todo.
+· País: Alemania, Francia, Italia
+· Dirección: Wim Wenders.
+· Reparto: Inga Busch, Axel Sichrovsky, Gerhard Gutberlet, Sebastian Blomberg, Jana Pallaske, Campino, Dennis Hopper, Giovanna Mezzogiorno, Harry Blain, Olivia Asiedu-Poku, Milla Jovovich, Udo Samel, Anna Orso, Giovanni Mezzogiorno, Andreas Frege, Lou Reed Reed, Patti Smith, Melika Foroutan.
+· Música: Irmin Schmidt.</desc>
+	</programme>
+	<programme start="20260305065200 +0100" stop="20260305082600 +0100" channel="Cines Verdi TV">
+    <title>Sorgo rojo</title>
+    <desc>Cine,Drama | 1988 | +12
+· En la China de la década de 1930, una joven es enviada por su padre a casarse con un hombre muy rico, del que se dice que está enfermo de lepra.
+· País: China
+· Dirección: Yimou Zhang.
+· Reparto: Wen Jiang, Rujun Teng, Ji Liu, Ming Qian, Gong Li, Chunhua Ji.</desc>
+	</programme>
+	<programme start="20260305082600 +0100" stop="20260305122600 +0100" channel="Cines Verdi TV">
+    <title>Cines Verdi</title>
+    <desc>Programa,Otros | 2013 | +12
+· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+· País: Suecia</desc>
+	</programme>
+	<programme start="20260305122600 +0100" stop="20260305162600 +0100" channel="Cines Verdi TV">
+    <title>Cines Verdi</title>
+    <desc>Programa,Otros | 2013 | +12
+· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+· País: Suecia</desc>
+	</programme>
+	<programme start="20260305162600 +0100" stop="20260305202600 +0100" channel="Cines Verdi TV">
+    <title>Cines Verdi</title>
+    <desc>Programa,Otros | 2013 | +12
+· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+· País: Suecia</desc>
+	</programme>
+	<programme start="20260305202600 +0100" stop="20260306002600 +0100" channel="Cines Verdi TV">
+    <title>Cines Verdi</title>
+    <desc>Programa,Otros | 2013 | +12
+· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+· País: Suecia</desc>
+	</programme>
+	<programme start="20260306002600 +0100" stop="20260306042600 +0100" channel="Cines Verdi TV">
+    <title>Cines Verdi</title>
+    <desc>Programa,Otros | 2013 | +12
+· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+· País: Suecia</desc>
+	</programme>
+	<programme start="20260306042600 +0100" stop="20260306070000 +0100" channel="Cines Verdi TV">
+    <title>Cines Verdi</title>
+    <desc>Programa,Otros | 2013 | +12
+· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+· País: Suecia</desc>
+	</programme>
+	<programme start="20260306070000 +0100" stop="20260306110000 +0100" channel="Cines Verdi TV">
+    <title>Cines Verdi</title>
+    <desc>Programa,Otros | 2013 | +12
+· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+· País: Suecia</desc>
+	</programme>
+	<programme start="20260306110000 +0100" stop="20260306150000 +0100" channel="Cines Verdi TV">
+    <title>Cines Verdi</title>
+    <desc>Programa,Otros | 2013 | +12
+· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+· País: Suecia</desc>
+	</programme>
+	<programme start="20260306150000 +0100" stop="20260306190000 +0100" channel="Cines Verdi TV">
+    <title>Cines Verdi</title>
+    <desc>Programa,Otros | 2013 | +12
+· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+· País: Suecia</desc>
+	</programme>
+	<programme start="20260306190000 +0100" stop="20260306230000 +0100" channel="Cines Verdi TV">
+    <title>Cines Verdi</title>
+    <desc>Programa,Otros | 2013 | +12
+· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+· País: Suecia</desc>
+	</programme>
+	<programme start="20260306230000 +0100" stop="20260307030000 +0100" channel="Cines Verdi TV">
+    <title>Cines Verdi</title>
+    <desc>Programa,Otros | 2013 | +12
+· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+· País: Suecia</desc>
+	</programme>
+	<programme start="20260307030000 +0100" stop="20260307070000 +0100" channel="Cines Verdi TV">
+    <title>Cines Verdi</title>
+    <desc>Programa,Otros | 2013 | +12
+· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+· País: Suecia</desc>
+	</programme>
+	<programme start="20260307070000 +0100" stop="20260307110000 +0100" channel="Cines Verdi TV">
+    <title>Cines Verdi</title>
+    <desc>Programa,Otros | 2013 | +12
+· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+· País: Suecia</desc>
+	</programme>
+	<programme start="20260307110000 +0100" stop="20260307150000 +0100" channel="Cines Verdi TV">
+    <title>Cines Verdi</title>
+    <desc>Programa,Otros | 2013 | +12
+· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+· País: Suecia</desc>
+	</programme>
+	<programme start="20260307150000 +0100" stop="20260307190000 +0100" channel="Cines Verdi TV">
+    <title>Cines Verdi</title>
+    <desc>Programa,Otros | 2013 | +12
+· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+· País: Suecia</desc>
+	</programme>
+	<programme start="20260307190000 +0100" stop="20260307230000 +0100" channel="Cines Verdi TV">
+    <title>Cines Verdi</title>
+    <desc>Programa,Otros | 2013 | +12
+· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+· País: Suecia</desc>
+	</programme>
+	<programme start="20260307230000 +0100" stop="20260308030000 +0100" channel="Cines Verdi TV">
+    <title>Cines Verdi</title>
+    <desc>Programa,Otros | 2013 | +12
+· Información pendiente de actualización. Programación próximamente disponible. Por favor, inténtalo de nuevo más tarde.
+· País: Suecia</desc>
+	</programme>
+	<programme start="20260302015700 +0100" stop="20260302032500 +0100" channel="Cine Feel Good">
+    <title>Reykjavík-Rotterdam</title>
+    <desc>Cine,Suspense,Policíaco | 2008 | +16
+· Un excontrabandista en crisis financiera se reencuentra con un viejo amigo y se siente tentado a retomar sus negocios ilegales.
+· País: Alemania, Islandia, Países Bajos
+· Dirección: Óskar Jónasson.
+· Reparto: Ingvar E. Sigurðsson, Lilja Nótt Þórarinsdóttir, Þröstur Leó Gunnarsson, Baltasar Kormakur, Jóhannes Haukur Jóhannesson, Jörundur Ragnarsson, Theodór Júlíusson, Olafur S.K. Thorvaldz, Walter Grímsson, Magnús Ragnarsson, Victor Löw, Pálmi Kormákur Baltasarsson, Stormur Jón Kormákur Baltasarsson, Brynja Valdís Gísladóttir, Arnar Ingvarsson, Ragnar Erling Hermannsson, Bjørn Ingi Hilmarsson, Guðmundur Haraldsson, Rósa Ingólfsdóttir, Ólafur Þór Jóhannesson, Magnús Jónsson, Andrea Dagbjört Pálsdóttir, Tómas Kristinn Jónsson, Örn Ragnarsson, Sigsteinn Sigurbergsson, Kristjana Stefánsdóttir, Sveinn Óskar Ásbjörnsson, Linda Sif Þorláksdóttir, Ólafur Darri Ólafsson, Ingvar Sigurdsson.</desc>
+	</programme>
+	<programme start="20260302032500 +0100" stop="20260302050000 +0100" channel="Cine Feel Good">
+    <title>La hermandad de la justicia</title>
+    <desc>Cine,Acción,Policíaco,Suspense | 1986 | +16 | *5.5/10
+· Tras los ataques al instituto de Santa Lucia, el director anima a los estudiantes a luchar contra el clima de violencia y drogas en el que viven.
+· País: Estados Unidos
+· Dirección: Charles Braverman.
+· Reparto: Keanu Reeves, Kiefer Sutherland, Lori Loughlin, Joe Spano, Darren Dalton.</desc>
+	</programme>
+	<programme start="20260302050000 +0100" stop="20260302063900 +0100" channel="Cine Feel Good">
+    <title>Todo el mundo gana</title>
+    <desc>Cine,Drama | 1990 | +16 | *5.1/10
+· Angela Crispini contrata a un detective para investigar un asesinato en Highbury, asegurando conocer al verdadero culpable, aunque el pueblo cree en la inocencia del acusado.
+· País: Reino Unido, Estados Unidos
+· Dirección: Karel Reisz.
+· Reparto: Judith Ivey, Jack Warden, Nick Nolte, Debra Winger, Will Patton, Frank Military, Frank Converse, Kathleen Wilhoite.
+· Música: Mark Isham.
+· Producción: Jeremy Thomas.</desc>
+	</programme>
+	<programme start="20260302063900 +0100" stop="20260302081300 +0100" channel="Cine Feel Good">
+    <title>Señorita Meadows</title>
+    <desc>Cine,Drama,Suspense,Policíaco | 2014 | +16
+· Señorita Meadows, una maestra de modales impecables, lleva una doble vida como justiciera armada, eliminando a quienes no se arrepienten.
+· País: Estados Unidos
+· Dirección: Karen Leigh Hopkins.
+· Reparto: Katie Holmes, James Badge Dale, Callan Mulvey, Jean Smart, Mary Kay Place, Stephen Bishop, Ava Kolker, Kate Linder.</desc>
+	</programme>
+	<programme start="20260302081300 +0100" stop="20260302100000 +0100" channel="Cine Feel Good">
+    <title>Seis gendarmes en fuga</title>
+    <desc>Cine,Comedia | 1970 | TP | *6.5/10
+· Un grupo de cadetes jóvenes se incorporan a la gendarmería, cosa que provoca una inminente retirada del grupo de agente liderado por Cruchot.
+· País: Francia, Italia
+· Dirección: Jean Girault.
+· Reparto: Louis de Funès, Michel Galabru, Claude Gensac, Guy Grosso, Jean Lefebvre, Christian Marin, Michel Modo, Nicole Vervil, Yves Vincent.
+· Producción: Gérard Beytout.</desc>
+	</programme>
+	<programme start="20260302100000 +0100" stop="20260302114000 +0100" channel="Cine Feel Good">
+    <title>Orlando</title>
+    <desc>Cine,Drama,Romance,Fantasía | 1992 | +12 | *7.1/10
+· Tras la orden de la reina Isabel I de no envejecer, un joven noble se debate entre el amor y su lugar en el mundo.
+· País: Francia, Reino Unido, Rusia
+· Dirección: Sally Potter.
+· Reparto: Tilda Swinton, Billy Zane, Lothaire Bluteau, Quentin Crisp, John Wood, Charlotte Valandrey, Jimmy Somerville, Anna Healy, Sara Mair-Thomas, John Bott, Elaine Banham, Anna Farnworth, Dudley Sutton, Toby Stephens, Simon Russell Beale, Matthew Sim.
+· Música: David Bedford, Fred Frith, David Motion, Sally Potter.
+· Producción: Christopher Sheppard.</desc>
+	</programme>
+	<programme start="20260302114000 +0100" stop="20260302132200 +0100" channel="Cine Feel Good">
+    <title>Doble contratiempo</title>
+    <desc>Cine,Comedia | 2001 | +12 | *5.7/10
+· Ray Pluto es un buen detective de la policía de Nueva York con un terrible sentimiento de culpa porque cree que podría haber ev….
+· País: Estados Unidos
+· Dirección: Tom DiCillo.
+· Reparto: Denis Leary, Elizabeth Hurley, Maurice G. Smith, Daniel Margotta, Steve Buscemi, Luis Guzmán, Chris Noth, Victor Argo.
+· Música: Jim Farmer.
+· Producción: Larry Katz, David Kronemeyer, Jim Serpico, Marcus Viscidi.</desc>
+	</programme>
+	<programme start="20260302132200 +0100" stop="20260302150700 +0100" channel="Cine Feel Good">
+    <title>El novio de mi madre</title>
+    <desc>Cine,Romance,Comedia | 2007 | +16 | *5.9/10
+· Una productora divorciada se enamora de un actor joven, pero duda de su relación. Al mismo tiempo, su hija explora su primer amor.
+· País: Reino Unido, Estados Unidos
+· Dirección: Amy Heckerling.
+· Reparto: Stacey Dash, Saoirse Ronan, Fred Willard, Paul Rudd, Jon Lovitz, Wallace Shawn, Henry Winkler, Tracey Ullman, Michelle Pfeiffer, Iddo Goldberg, O.T. Fagbenle, Yasmin Paige, Rory Copus, Jayden Berry-Garvey, Noah Lee Margetts, Jonathan Ryland, Sarah Alexander.
+· Música: Mike Hedges.
+· Producción: Cerise Hallam Larkin, Alan Latham, Philippe Martinez.</desc>
+	</programme>
+	<programme start="20260302150700 +0100" stop="20260302163700 +0100" channel="Cine Feel Good">
+    <title>American Summer</title>
+    <desc>Cine,Comedia | 2011 | +12 | *4.6/10
+· Un limpia piscinas hace amistad con un jardinero, y para ganar un dinero extra, los dos deciden transformar la mansión en la que trabajan en un burdel de categoría mundial, que sale fuera del control después de un momento de éxito sorprendente.
+· País: Estados Unidos
+· Dirección: J.B. Rogers.
+· Reparto: Rachelle Lefevre, Robert Davi, Matthew Lillard, Tom Arnold, Patricia De Leon, Efren Ramirez, Brett Davern, Jay Thomas, Rhoda Griffis, Simona Fusco, Sheena Lee, Darla Haun, Janine Habeck, Monica Leigh, Jennifer Walcott.</desc>
+	</programme>
+	<programme start="20260302163700 +0100" stop="20260302182600 +0100" channel="Cine Feel Good">
+    <title>Envidia sana</title>
+    <desc>Cine,Comedia | 2020 | +13 | *6.1/10
+· Léa, Marc, Karine y Francis son dos parejas de viejos amigos. Se reúnen con frecuencia y todo funciona porque cada uno ocupa su lugar.
+· País: Bélgica, Francia
+· Dirección: Daniel Cohen.
+· Reparto: Vincent Cassel, Florence Foresti, François Damiens, Frédéric Deleersnyder, Bérénice Bejo, Daniel Cohen, François-Eric Gendron, Constance Labbé, Romain Cottard, Owen Tannou, Keren-Ann Zajtelbach.</desc>
+	</programme>
+	<programme start="20260302182600 +0100" stop="20260302203800 +0100" channel="Cine Feel Good">
+    <title>Burt Munro. Un sueño, una leyenda</title>
+    <desc>Cine,Drama,Aventuras,Biográfico | 2005 | TP
+· La pel·lícula es basa en la història real de Burt Munro, un home de Nova Zelanda que va passar-se mitja vida perfeccionant la seva moto Indian de l'any 1920. Burt va viatjar als Estats Units on va batre el rècord mundial de velocitat l'any 1967.
+· País: Japón, Nueva Zelanda, Estados Unidos
+· Dirección: Roger Donaldson.
+· Reparto: Anthony Hopkins, Bruce Greenwood, Diane Ladd, Paul Rodriguez, Aaron Murphy, Iain Rea, Tessa Mitchell, Antony Starr, Greg Johnson, Annie Whittle, Kate Sullivan, Tim Shadbolt.
+· Música: J. Peter Robinson.
+· Producción: Roger Donaldson, Gary Hannam.</desc>
+	</programme>
+	<programme start="20260302203800 +0100" stop="20260302224500 +0100" channel="Cine Feel Good">
+    <title>Ángel</title>
+    <desc>Cine,Drama | 2007 | +16 | *6.6/10
+· Inglaterra, 1910. Angel Deverell, una joven de origen humilde, trata de escalar socialmente para alcanzar la fama y poder convertirse en una exitosa novelista romántica.
+· País: Bélgica, Francia, Reino Unido
+· Dirección: François Ozon, François Rozon.
+· Reparto: Romola Garai, Sam Neill, Michael Fassbender, Charlotte Rampling, Lucy Russell, Tom Georgeson, Geoffrey Streatfeild, Una Stubbs, Jacqueline Tong.
+· Música: Philippe Rombi.
+· Producción: Olivier Delbosc, Marc Missonnier.</desc>
+	</programme>
+	<programme start="20260302224500 +0100" stop="20260303004800 +0100" channel="Cine Feel Good">
+    <title>Disparando a perros</title>
+    <desc>Cine,Drama | 2005 | +16 | *7.6/10
+· Basada en hechos reales. Un párroco católico y un joven idealista se ven envueltos en el genocidio de Ruanda de 1994. Ante la dramática situación deben decidir si permanecen con los miles de Tutsies a punto de ser masacrados, o huir hacia la libertad.
+· País: Reino Unido
+· Dirección: Michael Caton-Jones.
+· Reparto: Dominique Horwitz, Steve Toussaint, Louis Mahoney, Nicola Walker, Hugh Dancy, John Hurt.
+· Música: Dario Marianelli.
+· Producción: David Belton, Pippa Cross, Jens Meurer.</desc>
+	</programme>
+	<programme start="20260303004800 +0100" stop="20260303022300 +0100" channel="Cine Feel Good">
+    <title>Aprendiendo a conducir</title>
+    <desc>Cine,Drama | 2014 | +12 | *6.4/10
+· Wendy, una escritora de Manhattan, decide sacarse el carnet de conducir cuando su marido la deja. Recibe clases de Darwan Singh Tur, un hindú emigrado a Nueva York que también trabaja de taxista.
+· País: Reino Unido, Estados Unidos
+· Dirección: Isabel Coixet.
+· Reparto: Patricia Clarkson, Samantha Bee, Grace Gummer, Ben Kingsley, Jake Weber, Sarita Choudhury, Avi Nash, Michael Mantell, Matt Salinger, Daniela Lavender.</desc>
+	</programme>
+	<programme start="20260303022300 +0100" stop="20260303042500 +0100" channel="Cine Feel Good">
+    <title>La mujer zurda</title>
+    <desc>Cine,Drama | 1977 | +16
+· Una mujer se separa de su marido y se muda a París con su hijo. Trabajando como traductora, su aislamiento como exiliada la sumerge en la locura.
+· País: Alemania
+· Dirección: Peter Handke.
+· Reparto: Edith Clever, Bruno Ganz, Bernhard Minetti, Bernhard Wicki, Angela Winkler, Rüdiger Vogler, Gérard Depardieu, Michael Lonsdale, Markus Mühleisen, Philippe Caizergues, Ines Des Longchamps.</desc>
+	</programme>
+	<programme start="20260303042500 +0100" stop="20260303061000 +0100" channel="Cine Feel Good">
+    <title>Los últimos días en Marte</title>
+    <desc>Cine,Ciencia Ficción,Terror,Aventuras | 2013 | +16 | *5.5/10
+· Antes de ser relevados en Marte, astronautas descubren vida microscópica, pero tras un accidente, la criatura toma el cuerpo de un compañero.
+· País: Reino Unido, Irlanda, Estados Unidos
+· Dirección: Ruairí Robinson.
+· Reparto: Liev Schreiber, Elias Koteas, Olivia Williams, Romola Garai, Johnny Harris, Tom Cullen, Goran Kostic, Patrick Joseph Byrnes, Lewis Macleod Macleod.
+· Música: Max Richter.
+· Producción: Andrea Cornwell, Michael Kuhn.</desc>
+	</programme>
+	<programme start="20260303061000 +0100" stop="20260303084500 +0100" channel="Cine Feel Good">
+    <title>Una familia de Tokio</title>
+    <desc>Cine,Drama | 2013 | +7 | *7.5/10
+· El viejo Shukichi Hirayama y su esposa Tomiko viven en una pequeña isla. Aunque no les gusta la vida urbana, van a Tokio a pasar días con sus hijos.
+· País: Japón
+· Dirección: Yôji Yamada.
+· Reparto: Isao Hashizume, Kazuko Yoshiyuki, Masahiko Nishimura, Yui Natsukawa, Tomoko Nakajima, Jun Fubuki, Yû Aoi, Satoshi Tsumabuki, Nenji Kobayashi, Shôzô Hayashiya, Etsuko Ichihara.</desc>
+	</programme>
+	<programme start="20260303084500 +0100" stop="20260303102800 +0100" channel="Cine Feel Good">
+    <title>Todas las cosas buenas</title>
+    <desc>Cine,Suspense,Drama,Policíaco | 2010 | +16 | *6.2/10
+· Tras casarse con Katie en contra de su padre, el heredero David se convierte en sospechoso cuando ella desaparece misteriosamente.
+· País: Estados Unidos
+· Dirección: Andrew Jarecki.
+· Reparto: Frank Langella, Nick Offerman, Ryan Gosling, Kirsten Dunst, Lily Rabe, Stephen Kunken, Diane Venora, John Cullum, Kristen Wiig, Maggie Kiley, Philip Baker Hall, Marion McCorry, Michael Esper, Liz Stauber, Mia Dillon.</desc>
+	</programme>
+	<programme start="20260303102800 +0100" stop="20260303115700 +0100" channel="Cine Feel Good">
+    <title>Nadie vive</title>
+    <desc>Cine,Terror,Suspense | 2013 | +18 | *6.0/10
+· Bandidos de la selva atacan a una pareja que no es tan indefensa como parece.
+· País: Reino Unido, Estados Unidos
+· Dirección: Ryuhei Kitamura.
+· Reparto: Luke Evans, Lee Tergesen, Laura Ramsey, Adelaide Clemens, Derek Magyar, Gary Grubbs, America Olivo, Beau Knapp, Lindsey Shaw, Brodus Clay.
+· Música: Jerome Dillon.
+· Producción: Harry Knapp, Kami Naghdi.</desc>
+	</programme>
+	<programme start="20260303115700 +0100" stop="20260303132600 +0100" channel="Cine Feel Good">
+    <title>Josie</title>
+    <desc>Cine,Suspense,Drama | 2018 | +16 | *5.2/10
+· Josie, una misteriosa adolescente, llega a un pueblo y se hace amiga de Hank. Se revela su oscuro pasado, desvelando el motivo de su llegada.
+· País: Estados Unidos
+· Dirección: Eric England.
+· Reparto: Jack Kilmer, Dylan McDermott, Lombardo Boyar, Sophie Turner, Robin Bartlett, Kurt Fuller, Daeg Faerch Faerch, Daeg Faerch, George Todd McLachlan, Jennifer Prediger, Mickey Faerch, Micah Fitzgerald, Jessa Zarubica, Aleh Neliubin, Jake Parrish, Sedona Feretto.</desc>
+	</programme>
+	<programme start="20260303132600 +0100" stop="20260303145100 +0100" channel="Cine Feel Good">
+    <title>El marido de la peluquera</title>
+    <desc>Cine,Romance,Comedia | 1990 | +13
+· Cuando era un niño, Antoine se dejó fascinar por la peluquera que le cortaba dulcemente el pelo; ya de mayor, sigue manteniéndose anímicamente infantil, y por ello se enamora con locura de la bella y delicada Mathilde, la nueva peluquera.
+· País: Francia
+· Dirección: Patrice Leconte.
+· Reparto: Jean Rochefort, Anna Galiena, Roland Bertin, Maurice Chevit, Philippe Clévenot, Jacques Mathou, Joseph Holgado, Yveline Ailhaud, Claude Aufaure, Pierre Meyrand.
+· Música: Michael Nyman.
+· Producción: Thierry de Ganay.</desc>
+	</programme>
+	<programme start="20260303145100 +0100" stop="20260303165400 +0100" channel="Cine Feel Good">
+    <title>C'est la vie!</title>
+    <desc>Cine,Comedia,Drama | 2017 | +12 | *6.9/10
+· Max ha organizado cientos de bodas durante años y ahora prepara una boda de lujo en un château francés del siglo XVII. Ha coord….
+· País: Bélgica, Canadá, Francia
+· Dirección: Éric Toledano, Olivier Nakache.
+· Reparto: Jean-Pierre Bacri, Vincent Macaigne, Kévin Azaïs, Suzanne Clément, Gilles Lellouche, Jean-Paul Rouve, Benjamin Lavernhe, Eye Haïdara, Antoine Chappey, Hélène Vincent, Judith Chemla, William Lebghil, Alban Ivanov, Gilles Lelouche.</desc>
+	</programme>
+	<programme start="20260303165400 +0100" stop="20260303182300 +0100" channel="Cine Feel Good">
+    <title>El hombre orquesta</title>
+    <desc>Cine,Comedia,Musical | 1970 | +7 | *6.2/10
+· Evan Evans es un director de danza muy estricto. Sus bailarinas deben rendir al mejor nivel profesional. Vigila con mano de hierro su peso y sobre todo, sus relaciones con hombres.
+· País: Francia, Italia
+· Dirección: Serge Korber.
+· Reparto: Louis de Funès, Tiberio Murgia, Noëlle Adam, Olivier De Funès, Daniel Bellus, Max Desrau, Vittoria Di Silverio, Paola Tedesco, Lydie Callier, Géraldine Lynton, Michèle Alba, Christine Reynolds, Francoise Occipinti, Martine Kelly, Franco Volpi.</desc>
+	</programme>
+	<programme start="20260303182300 +0100" stop="20260303204000 +0100" channel="Cine Feel Good">
+    <title>Madame Marguerite</title>
+    <desc>Cine,Drama | 2015 | +12 | *6.9/10
+· París, 1921. Marguerite es una mujer rica, apasionada de la música y la ópera.
+· País: Bélgica, República Checa, Francia
+· Dirección: Xavier Giannoli.
+· Reparto: Catherine Frot, André Marcon, Michel Fau, Christa Théret, Denis Mpunga, Sylvain Dieuaide, Aubert Fenoy, Sophia Leboutte.</desc>
+	</programme>
+	<programme start="20260303204000 +0100" stop="20260303220900 +0100" channel="Cine Feel Good">
+    <title>Mamá y papá</title>
+    <desc>Cine,Suspense,Terror,Humor Negro | 2017 | +16 | *5.6/10
+· Cuando una histeria masiva de origen desconocido provoca que los padres de una zona suburbana tranquila se pongan violentos contra sus propios hijos, Carly Ryan y su hermano Josh deben pelear para sobrevivir al ataque infernal de sus padres.
+· País: Reino Unido, Estados Unidos
+· Dirección: Brian Taylor.
+· Reparto: Nicolas Cage, Selma Blair, Anne Winters, Zackary Arthur, Lance Henriksen, Robert T. Cunningham, Robert Cunningham, Rachel Melvin, Joseph D. Reitman, Brionne Davis, Samantha Lemole, Olivia Crocicchia, Sharon Gee, Marilyn Dodds Frank, Bobby Richards.
+· Producción: Tim Zajaros.</desc>
+	</programme>
+	<programme start="20260303220900 +0100" stop="20260304003900 +0100" channel="Cine Feel Good">
+    <title>Secretos y mentiras</title>
+    <desc>Cine,Drama | 1995 | +16 | *8.0/10
+· Hortense es una optometrista de color que a la muerte de sus padres adoptivos descubre con sorpresa que su madre biológica es C….
+· País: Francia, Reino Unido
+· Dirección: Mike Leigh.
+· Reparto: Brenda Blethyn, Marianne Jean-Baptiste, Phyllis Logan, Timothy Spall, Lee Ross, Brian Bovell, Ron Cook, Lesley Manville, Elizabeth Berrington, Claire Rushbrook, Michele Austin, Trevor Laird, Claire Perkins, Emma Amos, Linda Beckett, Sheila Kelley.
+· Música: Andrew Dickson.
+· Producción: Simon Channing-Williams.</desc>
+	</programme>
+	<programme start="20260304003900 +0100" stop="20260304023200 +0100" channel="Cine Feel Good">
+    <title>Shine. El resplandor de un genio</title>
+    <desc>Cine,Drama,Biográfico | 1996 | +13 | *7.6/10
+· El pianista David Helfgott, impulsado por su padre y sus profesores, sufre una crisis nerviosa. Años más tarde vuelve al piano.
+· País: Australia
+· Dirección: Scott Hicks.
+· Reparto: Geoffrey Rush, Lynn Redgrave, Armin Mueller-Stahl, Noah Taylor, Googie Withers, Chris Haywood, Sonia Todd, Nicholas Bell, Justin Braine, Randall Berger, John Gielgud, Gordon Poole, Alex Rafalowicz.
+· Música: David Hirschfelder.
+· Producción: Jane Scott.</desc>
+	</programme>
+	<programme start="20260304023200 +0100" stop="20260304041300 +0100" channel="Cine Feel Good">
+    <title>Vivarium</title>
+    <desc>Cine,Terror,Suspense,Drama | 2019 | +16 | *5.9/10
+· Una joven pareja se plantea la compra de su primer hogar. Para ello visitan una inmobiliaria donde los recibe un extraño agente de ventas, que les acompaña a una nueva, misteriosa y peculiar urbanización para mostrarles una vivienda unifamiliar.
+· País: Bélgica, Dinamarca, Irlanda
+· Dirección: Lorcan Finnegan.
+· Reparto: Imogen Poots, Jesse Eisenberg, Jonathan Aris, Eanna Hardwicke, Senan Jennings, Danielle Ryan, Molly McCann, Côme Thiry, Fionn Lockett, Olga Wehrly, Walter McCabe, Terence McEneaney, Sarolta Charlotte Simo, Stephen Morrison, Rachel Walker, Kristina Karaeva.</desc>
+	</programme>
+	<programme start="20260304041300 +0100" stop="20260304065600 +0100" channel="Cine Feel Good">
+    <title>La clase dirigente</title>
+    <desc>Cine,Humor Negro | 1972 | +18 | *7.2/10
+· Un miembro de la Cámara de los Lores deja su patrimonio a su hijo Jack, un desequilibrado que se cree Jesucristo, otros familiares enfurecerán.
+· País: Reino Unido
+· Dirección: Peter Medak.
+· Reparto: Peter O'Toole, Hugh Owens, Harry Andrews, William Mervyn, Coral Browne, Arthur Lowe, James Villiers, Alastair Sim.</desc>
+	</programme>
+	<programme start="20260304065600 +0100" stop="20260304085500 +0100" channel="Cine Feel Good">
+    <title>Kolya</title>
+    <desc>Cine,Drama,Musical | 1996 | TP | *7.7/10
+· Frantisek Louka, tiene dificultades económicas tras ser expulsado de la orquesta. Una boda de conveniencia le enseñará sobre responsabilidad y amor.
+· País: República Checa, Francia, Reino Unido
+· Dirección: Jan Svěrák.
+· Reparto: Zdeněk Svěrák Sverák, Andrei Chalimon, Libuse Safránková, Ondrej Vetchý, Stella Zázvorková, Ladislav Smoljak, Irina Livanova, Sylvia Suvadova, Liliya Malkina, Andrey Khalimon, Irina Bezrukova.
+· Música: Ondrej Soukup.
+· Producción: Eric Abraham, Jan Svěrák.</desc>
+	</programme>
+	<programme start="20260304085500 +0100" stop="20260304102200 +0100" channel="Cine Feel Good">
+    <title>El Infierno bajo Tierra</title>
+    <desc>Cine,Drama,Terror,Suspense | 2009 | +16 | *5.2/10
+· Un film turbador, intrigante y terrorífico de desarrollo explosivo dirigido por Anthony Waller. En el desierto del Sáhara, una tormenta de arena golpea una estación de perforación abandonada que esconde muchos secretos.
+· País: Reino Unido, Hungría, Estados Unidos
+· Dirección: Anthony Waller.
+· Reparto: Kate Nauta, Adrian Paul, Amanda Douge, Caroline Couret-Delegue, Bruno Andreis, Thierry Goron, Adel Kallel, Pierre Cognet, Attila Szûcs, David Story, Andrew Rybak, Yousef Amin, Nicholas Waller, Anthony Waller, Arcadiy Golubovich.</desc>
+	</programme>
+	<programme start="20260304102200 +0100" stop="20260304115000 +0100" channel="Cine Feel Good">
+    <title>Deal</title>
+    <desc>Cine,Documentales | 2008 | +13 | *5.3/10
+· Mientras un antiguo jugador enseña a un universitario unas cuantas cosas sobre el juego de cartas, se ve atrapado en las Series Mundiales de Póquer, donde su protegido es su más dura competencia.
+· País: Estados Unidos
+· Dirección: Gil Cates Jr., Gil Cates Jr, Kelly Noonan Gores, Adam Schomer.
+· Reparto: Jennifer Tilly, Gary Grubbs, Shannon Elizabeth, Charles Durning, Burt Reynolds, Bret Harrison, Vincent Van Patten, J.D. Evermore, Jon Eyez, Maria Mason Mason, Brandon Olive Olive, Caroline McKinley, Mike Sexton, Phil Laak, Antonio Esfandiari, Dr. Joe Dispenza, Anita Moorjani, Dr. Bruce Lipton, Dr. Deepak Chopra, Gregg Braden, Dr. Kelly Turner, Marianne Williamson, Dr. Michael Beckwith, Dr. Kelly Brogan.</desc>
+	</programme>
+	<programme start="20260304115000 +0100" stop="20260304133800 +0100" channel="Cine Feel Good">
+    <title>Garra negra</title>
+    <desc>Cine,Acción,Drama,Suspense | 2010 | +18 | *6.4/10
+· En una atmósfera apocalíptica, dominada por las supersticiones, el monje Osmund debe conducir al temible caballero Ulric y a mercenarios a un pantano.
+· País: Brasil, Alemania, Reino Unido
+· Dirección: Christopher Smith.
+· Reparto: Eddie Redmayne, Sean Bean, Carice van Houten, David Warner, Tim McInnerny, Andy Nyman, Kimberley Nixon, John Lynch, Johnny Harris.
+· Música: Christian Henson.
+· Producción: Robert Bernstein, Jens Meurer, Douglas Rae, Phil Robertson.</desc>
+	</programme>
+	<programme start="20260304133800 +0100" stop="20260304145500 +0100" channel="Cine Feel Good">
+    <title>Adrenalina</title>
+    <desc>Cine,Acción | 2023 | +16
+· Una agente del FBI de vacaciones en Europa del Este con su familia ve cómo su vida da un vuelco cuando asesinan a su marido y secuestran a su hija.
+· País: Reino Unido
+· Dirección: Massimiliano Cerchi Cerchi.
+· Reparto: Louis Mandylor, Costas Mandylor, Constance Payne, Adam Saini, Alexander Hauck, Stephen Satterfield, Florin Kevorkian, James Stokes.</desc>
+	</programme>
+	<programme start="20260304145500 +0100" stop="20260304170900 +0100" channel="Cine Feel Good">
+    <title>Aline</title>
+    <desc>Cine,Drama,Musical,Biográfico | 2022 | +13 | *6.3/10
+· En la familia Dieu, la música reina y cuando Aline crece descubre un don para ella, tiene una voz de oro. Cuando escucha esa voz, el productor musical Guy-Claude sólo tiene una cosa en mente: convertir a Aline en la mejor cantante del mundo.
+· País: Bélgica, Canadá, Francia
+· Dirección: Valérie Lemercier.
+· Reparto: Michel Drucker, Valérie Lemercier, Sylvain Marcel, Denis Lefrançois Lefrançois, Arnaud Préchac, Danielle Fichaud, Roc LaFortune, Antoine Vézina, Pascale Desrochers, Jean-Noël Brouté.</desc>
+	</programme>
+	<programme start="20260304170900 +0100" stop="20260304185500 +0100" channel="Cine Feel Good">
+    <title>El festín de Babette</title>
+    <desc>Cine,Drama,Romance | 1987 | +7 | *7.8/10
+· Un grupo de aldeanos religiosos aprenden a amar y a perdonar durante los banquetes preparados por una de las criadas, que resulta ser un chef de clase mundial.
+· País: Dinamarca
+· Dirección: Gabriel Axel.
+· Reparto: Stéphane Audran, Bibi Andersson, Jarl Kulle, Bodil Kjer, Birgitte Federspiel, Jean-Philippe Lafont, Gert Bastian, Asta Esper Hagen Andersen, Vibeke Hastrup, Cay Kristiansen, Viggo Bentzon, Thomas Antoni, Therese Hojgaard Christensen, Hanne Stensgaard, Pouel Kern, Ghita Nörby.
+· Música: Per Nørgaard.
+· Producción: Just Betzer, Bo Christensen, Benni Korzen.</desc>
+	</programme>
+	<programme start="20260304185500 +0100" stop="20260304202700 +0100" channel="Cine Feel Good">
+    <title>Hánuman. La leyenda del Dios Mono</title>
+    <desc>Cine,Aventuras,Familiar,Romance | 1998 | TP | *5.8/10
+· Hanú, un mono salvaje solo cuenta con la compañía de la pequeña Jeela, hija de Dientes Largos, jefe del clan, que no ve con buenos ojos la relación.
+· País: Francia, India
+· Dirección: Fred Fougea.
+· Reparto: Tabu, Paul Bandey, Robert Cavanah Cavanah, Khalid Tyabji, Nathalie Auffret Auffret, Sidney Kean, Tom Alter, Javed Jaffrey, William Doherty, Shannon Finnegan, Hans Kaushik, Yatin Karyekar, Jim Adhi Limas, Govind Rao, Veena Sajnani, Samir Sarkar, Erik Svane, Nathalie Auffret, Jaaved Jaaferi, Robert Cavanah.
+· Música: Laurent Ferlet.
+· Producción: Patrice Ledoux, Nathalie Auffret Auffret.</desc>
+	</programme>
+	<programme start="20260304202700 +0100" stop="20260304220400 +0100" channel="Cine Feel Good">
+    <title>Paul McCartney's Get Back</title>
+    <desc>Cine,Documentales | 1991 | TP
+· Numerosas actuaciones musicales de la banda de Paul McCartney durante una gira mundial del legendario miembro de The Beatles.
+· País: Reino Unido, Estados Unidos
+· Dirección: Richard Lester.
+· Reparto: Paul McCartney, Linda McCartney, Robbie McIntosh, Hamish Stuart, Paul Wickens.</desc>
+	</programme>
+	<programme start="20260304220400 +0100" stop="20260305001500 +0100" channel="Cine Feel Good">
+    <title>Grandes esperanzas</title>
+    <desc>Cine,Drama | 2012 | +12 | *6.3/10
+· Pip, un huérfano deja su vida humilde gracias a un benefactor, esto le ayuda a conquistar a Estella, pero la verdad sobre esta fortuna lo cambia todo.
+· País: Reino Unido, Estados Unidos
+· Dirección: Mike Newell.
+· Reparto: Toby Irvine, Jason Flemyng, William Ellis, Ralph Fiennes, Helena Bonham Carter, Jeremy Irvine, Holliday Grainger, Robbie Coltrane, Sally Hawkins, Ralph Ineson, Sophie Rundle, Ewen Bremner, Olly Alexander, Ben Lloyd-Hughes, David Walliams, Tamzin Outhwaite Outhwaite, Jessie Cave Cave, Tim Freeman.</desc>
+	</programme>
+	<programme start="20260305001500 +0100" stop="20260305020200 +0100" channel="Cine Feel Good">
+    <title>Éxito a cualquier precio</title>
+    <desc>Cine,Drama,Policíaco | 1992 | +16 | *7.6/10
+· Las ajetreadas vidas de unos agentes inmobiliarios de Chicago que buscan sobrevivir en un mundo altamente competitivo y un mercado en plena depresión.
+· País: Estados Unidos
+· Dirección: James Foley.
+· Reparto: Al Pacino, Jack Lemmon, Alec Baldwin, Alan Arkin, Ed Harris, Kevin Spacey, Jonathan Pryce, Bruce Altman.
+· Música: James Newton Howard.
+· Producción: Jerry Tokofsky, Stanley R. Zupnik.</desc>
+	</programme>
+	<programme start="20260305020200 +0100" stop="20260305050700 +0100" channel="Cine Feel Good">
+    <title>Las mejores intenciones</title>
+    <desc>Cine,Drama,Romance | 1992 | +16
+· En 1909, Henrik, un joven teólogo pobre, se enamora de Anna, de familia adinerada. Juntos adoptan a un niño maltratado, pero su vida se complica.
+· País: Dinamarca, Finlandia, Suecia
+· Dirección: Bille August.
+· Reparto: Pernilla August, Max von Sydow, Samuel Froler, Ghita Nörby, Lennart Hjulstrom.
+· Música: Björn Linnman, Stefan Nilsson.
+· Producción: Ingrid Dahlberg.</desc>
+	</programme>
+	<programme start="20260305050700 +0100" stop="20260305063900 +0100" channel="Cine Feel Good">
+    <title>Los secretos del corazón</title>
+    <desc>Cine,Drama,Indie | 2010 | +12 | *6.9/10
+· Becca y Howie luchan para volver a la normalidad después de que un giro del destino en forma de súbita y terrible pérdida, los sumió en el caos.
+· País: Estados Unidos
+· Dirección: John Cameron Mitchell.
+· Reparto: Sandra Oh, Jon Tenney, Mike Doyle, Yetta Gottesman, Stephen Mailer Mailer, Roberta Wallach, Patricia Kalember, Ali Marsh Marsh, Colin Mitchell, Dianne Wiest, Miles Teller, Tammy Blanchard, Nicole Kidman, Aaron Eckhart, Giancarlo Esposito.</desc>
+	</programme>
+	<programme start="20260305063900 +0100" stop="20260305083600 +0100" channel="Cine Feel Good">
+    <title>Rojo</title>
+    <desc>Cine,Drama,Suspense | 2018 | +16 | *6.4/10
+· A mediados de los años 70, un hombre misterioso llega a una tranquila ciudad en donde comienza a agredir a Claudio, un reconocido abogado local. Tras ser expulsado, el hombre buscará venganza, y Claudio caerá en un camino sin retorno.
+· País: Argentina, Brasil, Francia
+· Dirección: Benjamín Naishtat.
+· Reparto: Darío Grandinetti, Andrea Frigerio, Alfredo Castro, Diego Cremonesi, Laura Grandinetti, Susana Pampín Pampín, Rafael Federman Federman, Rudy Chernicoff, Claudio Martínez Bel Bel, Claudio Martínez Bel, Emmanuel Chaumet, Susana Pampín, Rafael Federman, Mara Bestelli, Pierre Marquille, Fabiana Uria, Lola Banfi.</desc>
+	</programme>
+	<programme start="20260305083600 +0100" stop="20260305103500 +0100" channel="Cine Feel Good">
+    <title>Tamara Drewe</title>
+    <desc>Cine,Comedia,Romance | 2010 | +16 | *6.2/10
+· Una periodista, Tamara Drewe, regresa a su pueblo natal, con motivo de la venta de la casa donde se crio. Desata una tormenta de envidia y deseo.
+· País: Reino Unido
+· Dirección: Stephen Frears.
+· Reparto: Gemma Arterton, Roger Allam, Bill Campbell, Dominic Cooper, Luke Evans, Bill Camp, John Bett, Charlotte Christie, James Naughtie, Tamsin Greig, Jessica Barden.
+· Música: Alexandre Desplat.
+· Producción: Alison Owen, Tracey Seaward, Paul Trijbits.</desc>
+	</programme>
+	<programme start="20260305103500 +0100" stop="20260305120000 +0100" channel="Cine Feel Good">
+    <title>Riders</title>
+    <desc>Cine,Suspense,Acción,Policíaco | 2002 | +16 | *5.4/10
+· Una banda de atracadores planea conseguir 20 millones de dolares robando durante cinco días.
+· País: Canadá, Francia, Reino Unido
+· Dirección: Gérard Pirès.
+· Reparto: Stephen Dorff, Natasha Henstridge, Bruce Payne, Steven Berkoff, Clé Bennett, Karen Cliche, Steven McCarthy.
+· Música: Andy Gray.
+· Producción: Eric Altmeyer, Nicolas Altmeyer, Michael Cowan, Jason Piette.</desc>
+	</programme>
+	<programme start="20260305120000 +0100" stop="20260305142900 +0100" channel="Cine Feel Good">
+    <title>Marea humana</title>
+    <desc>Cine,Documentales | 2017 | +13 | *7.2/10
+· Ai Weiwei explora la crisis de refugiados, grabando en 23 países y 40 campamentos, para mostrar la realidad de 65 millones de desplazados.
+· País: China, Alemania, Estados Unidos
+· Dirección: Ai Weiwei.
+· Reparto: Ai Weiwei, Unknown Actor, Doku, Documentaire, Israa Abboud Abboud, Hiba Abed, Abeer Khalid, Haneen Khalid, Hanan Ashrawi, Rami Abu Sondos, Fadi Abou Akleh, Yamama Al-Awaad.</desc>
+	</programme>
+	<programme start="20260305142900 +0100" stop="20260305160100 +0100" channel="Cine Feel Good">
+    <title>Junimond</title>
+    <desc>Cine,Romance | 2002 | +12 | *7.3/10
+· Paul y Nele son dos almas solitarias que arrastran heridas profundas. Son vecinos y esto permite que se conozcan de la manera más inesperada.
+· País: Alemania
+· Dirección: Hanno Hackfort.
+· Reparto: Oliver Mommsen, Laura Maori Tonke, Stephan Kampwirth, Teresa Harder, Julia Kippes, Laura Tonke.</desc>
+	</programme>
+	<programme start="20260305160100 +0100" stop="20260305171200 +0100" channel="Cine Feel Good">
+    <title>En busca de el Rey del Sol</title>
+    <desc>Cine,Animación,Infantil,Familiar | 1991 | TP
+· Chanticleer es el gallo de la granja, el que canta todas las mañanas para que salga el sol. De pronto se convierte en estrella del rock and roll y se dirige a Las Vegas para llevar su inimitable estilo de imitación de Elvis Presley.
+· País: Reino Unido, Irlanda, Estados Unidos
+· Dirección: Gary Goldman, Dan Kuenster, Don Bluth.
+· Reparto: Glen Campbell, Christopher Plummer, Eddie Deezen, Sorrell Booke.</desc>
+	</programme>
+	<programme start="20260305171200 +0100" stop="20260305185300 +0100" channel="Cine Feel Good">
+    <title>Generación robada</title>
+    <desc>Cine,Aventuras,Drama,Biográfico | 2002 | +7
+· Tres niñas aborígenes son separadas de sus madres y llevadas a un campo de crianza. Se escapan y emprenden una odisea de 1.500 millas para ir a casa.
+· País: Australia
+· Dirección: Phillip Noyce.
+· Reparto: Everlyn Sampi, Tianna Sansbury, Laura Monaghan, David Gulpilil, Kenneth Branagh, Jason Clarke, Ningali Lawford, Myarn Lawford.
+· Música: Peter Gabriel.
+· Producción: Phillip Noyce, Christine Olsen, John Winter.</desc>
+	</programme>
+	<programme start="20260305185300 +0100" stop="20260305203200 +0100" channel="Cine Feel Good">
+    <title>Despertando a Ned</title>
+    <desc>Cine,Comedia | 1998 | TP | *7.3/10
+· Tullymore es un pequeño e idílico pueblo irlandés cuya tranquilidad se rompe cuando a uno de sus 52 habitantes le toca el primer premio de la lotería.
+· País: Francia, Reino Unido, Irlanda
+· Dirección: Kirk Jones.
+· Reparto: David Kelly, Fionnula Flanagan, James Nesbitt, Ian Bannen, Susan Lynch, Paul Vaughan.
+· Música: Shaun Davey.
+· Producción: Glynis Murray, Richard Holmes.</desc>
+	</programme>
+	<programme start="20260305203200 +0100" stop="20260305220500 +0100" channel="Cine Feel Good">
+    <title>Bajo las estrellas de París</title>
+    <desc>Cine,Drama | 2020 | TP | *6.1/10
+· Christine es una sintecho en París. Una noche encuentra a Suli, un niño de 8 años, sollozando frente a su refugio. Buscarán a la madre del niño.
+· País: Bélgica, Francia
+· Dirección: Claus Drexel.
+· Reparto: Catherine Frot, Jean-Henri Compère, Richna Louvet, Emilie Favre Bertin, Farida Rahouadj, Dominique Frot, Mahamadou Yaffa, Raphaël Thiéry, Baptiste Amann.</desc>
+	</programme>
+	<programme start="20260305220500 +0100" stop="20260305235300 +0100" channel="Cine Feel Good">
+    <title>La parte de los ángeles</title>
+    <desc>Cine,Drama,Policíaco,Suspense | 2012 | +18 | *7.0/10
+· Robbie, tras evitar la cárcel por poco, jura cambiar su vida. Una visita a una destilería de whisky con sus amigos les inspira a buscar una salida.
+· País: Francia, Reino Unido, Italia
+· Dirección: Ken Loach, Paul Laverty.
+· Reparto: Paul Brannigan, Siobhan Reilly, John Henshaw, Roger Allam, William Ruane, Paul Bannigan, Jasmin Riggins, Gary Maitland, Joe Henshaw, Scott Dymond, Scott Kyle.</desc>
+	</programme>
+	<programme start="20260305235300 +0100" stop="20260306013400 +0100" channel="Cine Feel Good">
+    <title>La verdad sobre Emanuel</title>
+    <desc>Cine,Drama,Suspense | 2013 | +12
+· El parecido de la vecina de Emanuel con su difunta madre la lleva a buscar formar parte de su vida.
+· País: México, Estados Unidos
+· Dirección: Francesca Gregorini.
+· Reparto: Kaya Scodelario, Jessica Biel, Frances O'Connor, Aneurin Barnard, Sam Jaeger, Jimmi Simpson, Alfred Molina.</desc>
+	</programme>
+	<programme start="20260306013400 +0100" stop="20260306035000 +0100" channel="Cine Feel Good">
+    <title>Modigliani</title>
+    <desc>Cine,Drama | 2004 | +12
+· En 1919, la rivalidad entre Picasso y Modigliani se intensifica en el Café Rotonde. Modigliani, enamorado de Jeanne Hébuterne, busca salir de la pobreza participando en un certamen de arte, al que Picasso se une por competencia.
+· País: Alemania, Reino Unido, Rumania
+· Dirección: Mick Davis.
+· Reparto: Andy García, Elsa Zylberstein, Hippolyte Girardot, Eva Herzigova, Udo Kier, Omid Djalili, Miriam Margolyes, Peter Capaldi, Louis Hilyer, George Lascu, Dan Astileanu, Susie Amy, Stevan Rimkus, Michelle Newell, Frederico Ambrosino.
+· Música: Guy Farley.
+· Producción: André Djaoui, Philippe Martinez, Stéphanie Martinez.</desc>
+	</programme>
+	<programme start="20260306035000 +0100" stop="20260306053500 +0100" channel="Cine Feel Good">
+    <title>Relaciones confidenciales</title>
+    <desc>Cine,Drama,Policíaco | 2002 | +16
+· Eli Wurman es un experto en relaciones públicas, pero su afición de mezclar alcohol y barbitúricos hace que su mente esté siemp….
+· País: Alemania, Estados Unidos
+· Dirección: Daniel Algrant.
+· Reparto: Al Pacino, Téa Leoni, Kim Basinger, Ryan O'Neal, Richard Schiff, Bill Nunn, Mark Webber, Robert Klein.
+· Música: Terence Blanchard.
+· Producción: Michael Nozik, Karen Tenkhoff, Leslie Urdang.</desc>
+	</programme>
+	<programme start="20260306053500 +0100" stop="20260306071300 +0100" channel="Cine Feel Good">
+    <title>The Navigator: Una odisea en el tiempo</title>
+    <desc>Cine,Aventuras,Drama,Fantasía | 1988 | TP
+· Para salvar a un poblado de la peste negra, un niño visionario encabeza, junto a cinco hombres, un viaje por un túnel hacia el centro de la Tierra.
+· País: Australia, Nueva Zelanda
+· Dirección: Vincent Ward.
+· Reparto: Bruce Lyons, Hamish McFarlane, Marshall Napier, Chris Haywood, Noel Appleby, Hamish Gough.</desc>
+	</programme>
+	<programme start="20260306071300 +0100" stop="20260306085600 +0100" channel="Cine Feel Good">
+    <title>Wonder Wheel</title>
+    <desc>Cine,Drama,Romance | 2017 | +7 | *6.2/10
+· En 1950, en Coney Island vive Ginny junto a su esposo. Poco motivada por esta relación, se enamora del socorrista de la playa, pero se complica todo cuando la hijastra entra en la disputa por el nuevo pretendiente.
+· País: Estados Unidos
+· Dirección: Woody Allen.
+· Reparto: Jack Gore, Tom Guiry, Tommy Nohilly, Robert C. Kirk C. Kirk, Steve Schirripa, John Doumanian, Gregory Dann, Michael Zegarski, Justin Timberlake, James Belushi, Jim Belushi, Bobby Slayton, Geneva Carr, Tony Sirico, Max Casella, Kate Winslet, Juno Temple, David Krumholtz.</desc>
+	</programme>
+	<programme start="20260306085600 +0100" stop="20260306103500 +0100" channel="Cine Feel Good">
+    <title>Una relación abierta</title>
+    <desc>Cine,Romance,Drama | 2017 | +16 | *5.4/10
+· Una mujer que está a punto de casarse empieza a dudar de hacerlo, cuando una amiga le aconseja que debería salir con otros hombres antes de comprometerse para toda su vida.
+· País: Canadá, Estados Unidos
+· Dirección: Brian Crano.
+· Reparto: Rebecca Hall, Dan Stevens, Gina Gershon, François Arnaud, Morgan Spector, Jason Sudeikis, Sarah Steele, Raúl Castillo, Bridget Everett, David Joseph Craig, Michelle Hurst.</desc>
+	</programme>
+	<programme start="20260306103500 +0100" stop="20260306133000 +0100" channel="Cine Feel Good">
+    <title>Tess</title>
+    <desc>Cine,Drama,Romance | 1979 | +16 | *7.3/10
+· En Inglaterra, a finales del siglo XIX, la humilde familia Durbeyfield descubre que en realidad desciende del ilustre clan de los d'Urberville.
+· País: Francia, Reino Unido, Estados Unidos
+· Dirección: Roman Polanski.
+· Reparto: Nastassja Kinski, Peter Firth, Leigh Lawson, John Collin, Rosemary Martin, Tony Church, Jeanne Biras, John Bett, Brigid Erin Bates.
+· Música: Philippe Sarde.
+· Producción: Claude Berri.</desc>
+	</programme>
+	<programme start="20260306133000 +0100" stop="20260306151500 +0100" channel="Cine Feel Good">
+    <title>Oxford Blues</title>
+    <desc>Cine,Drama,Otros | 1984 | TP
+· Nick es un impetuoso y atractivo joven de Las Vegas que se fija en Victoria, una bella y rica chica inglesa. Enamorado, la pers….
+· País: Reino Unido, Estados Unidos
+· Dirección: Robert Boris.
+· Reparto: Rob Lowe, Ally Sheedy, Amanda Pays, Julian Sands, Julian Firth, Alan Howard, Gail Strickland, Michael Gough, Aubrey Morris, Cary Elwes.
+· Música: John Du Prez.
+· Producción: Cassian Elwes, Elliott Kastner.</desc>
+	</programme>
+	<programme start="20260306151500 +0100" stop="20260306165500 +0100" channel="Cine Feel Good">
+    <title>No mires atrás</title>
+    <desc>Cine,Suspense,Drama | 2007 | +13 | *6.5/10
+· En un pueblo alpino, la muerte de una adolescente conmociona a todos. El comisario Sanzio investiga un crimen envuelto en niebla y oscuros secretos.
+· País: Italia
+· Dirección: Andrea Molaioli.
+· Reparto: Toni Servillo, Omero Antonutti, Valeria Golino, Fabrizio Gifuni, Anna Bonaiuto, Sara D'Amario, Fausto Maria Sciarappa, Nello Mascia, Franco Ravera Ravera, Denis Fasolo, Marco Baliani, Alessia Piovan, Giulia Michelini, Heidi Caldart, Nicole Perrone.</desc>
+	</programme>
+	<programme start="20260306165500 +0100" stop="20260306182000 +0100" channel="Cine Feel Good">
+    <title>La cena de los idiotas</title>
+    <desc>Cine,Comedia | 1998 | +13 | *7.6/10
+· Cada miércoles Pierre organiza una cena con sus amigos: cada uno aporta un idiota y el que lleve al más idiota gana.
+· País: Francia
+· Dirección: Francis Veber.
+· Reparto: Thierry Lhermitte, Jacques Villeret, Francis Huster, Daniel Prévost, Alexandra Vandernoot, Sharron Matthews, Chantel Riley, Rebecca Liddiard, Lauren Lee Smith, Daniel Martín, Pierre-Arnaud Juin, Philippe Brigaud, Jacques Bleu, Michel Caccia, Benoît Bellal, Laurent Gendron, Mykhaël Georges-Schar, Edgar Givry, Catherine Frot.
+· Música: Vladimir Cosma.
+· Producción: Alain Poiré.</desc>
+	</programme>
+	<programme start="20260306182000 +0100" stop="20260306195300 +0100" channel="Cine Feel Good">
+    <title>Guillaume y los chicos, ¡a la mesa!</title>
+    <desc>Cine,Comedia | 2013 | +16 | *6.6/10
+· La estrecha relación que Guillaume Gallienne tenía con su madre. Un recorrido por las emociones, los recuerdos y la familia.
+· País: Bélgica, Francia
+· Dirección: Guillaume Gallienne.
+· Reparto: Guillaume Gallienne, André Marcon, Françoise Fabian, Diane Kruger, Reda Kateb, Charlies Anson, Pierre Derenne, Catherine Salviat, Nanou Garcia, Yves Jacques, François Fabian.</desc>
+	</programme>
+	<programme start="20260306195300 +0100" stop="20260306215200 +0100" channel="Cine Feel Good">
+    <title>Wilde</title>
+    <desc>Cine,Drama,Romance,Biográfico | 1997 | +16 | *6.9/10
+· La vida del famoso poeta, dramaturgo y primer hombre moderno de Inglaterra, durante la estricta época victoriana.
+· País: Alemania, Reino Unido, Japón
+· Dirección: Brian Gilbert.
+· Reparto: Stephen Fry, Jude Law, Vanessa Redgrave, Jennifer Ehle, Gemma Jones, Judy Parfitt, Michael Sheen.
+· Música: Debbie Wiseman.
+· Producción: Marc Samuelson, Peter Samuelson.</desc>
+	</programme>
+	<programme start="20260306215200 +0100" stop="20260306232400 +0100" channel="Cine Feel Good">
+    <title>The Collector</title>
+    <desc>Cine,Suspense,Terror,Policíaco | 2009 | +18
+· La familia Chase acaba de mudarse a una casa recién reformada. Sin embargo, su primera noche en ella se convierte en una pesadilla cuando son acosados por un asesino en serie que se hace llamar "The Collector" (el coleccionista de seres humanos).
+· País: Estados Unidos
+· Dirección: Marcus Dunstan.
+· Reparto: Josh Stewart, Andrea Roth, William Prael, Diane Ayala Goldner, Michael Reilly Burke, Karley Scott Collins, Madeline Zima.</desc>
+	</programme>
+	<programme start="20260306232400 +0100" stop="20260307013400 +0100" channel="Cine Feel Good">
+    <title>Un pueblo y su rey</title>
+    <desc>Cine,Drama | 2018 | +12 | *5.9/10
+· París, 1789. La Bastilla ha sido asaltada y un soplo de libertad recorre las calles de París.
+· País: Bélgica, Francia
+· Dirección: Pierre Schoeller.
+· Reparto: Gaspard Ulliel, Adèle Haenel, Louis Garrel, Laurent Lafitte, Denis Lavant, Céline Sallette, Olivier Gourmet, Noémie Lvovsky, Izïa Higelin, Johan Libéreau, Niels Schneider.</desc>
+	</programme>
+	<programme start="20260307013400 +0100" stop="20260307031100 +0100" channel="Cine Feel Good">
+    <title>Testigo</title>
+    <desc>Cine,Suspense,Acción | 2016 | +12 | *6.2/10
+· Un hombre de mediana edad con problemas económicos busca empleo. Es contratado para transcribir conversaciones telefónicas intervenidas.
+· País: Bélgica, Francia
+· Dirección: Thomas Kruithof, Thibault Gast.
+· Reparto: François Cluzet, Alexia Depicker, Denis Podalydès, Sami Bouajila, Simon Abkarian, Alba Rohrwacher, Bruno Georis, Philippe Résimont, Daniel Hanssens.</desc>
+	</programme>
+	<programme start="20260307031100 +0100" stop="20260307045800 +0100" channel="Cine Feel Good">
+    <title>Secretos de Estado</title>
+    <desc>Cine,Suspense | 2008 | +16 | *6.3/10
+· En Francia, grupos terroristas y agencias de inteligencia se enfrentan dia a día en una guerra mercenaria en nombre de ideologías radicalmente opuestas.
+· País: Francia
+· Dirección: Philippe Haïm.
+· Reparto: Simon Abkarian, Mehdi Nebbou, Gérard Lanvin, Vahina Giocante, Nicolas Duvauchelle, Aurélien Wiik, Djemel Barek, Moussa Maaskri, Nicolas Marié, Katia Lewkowicz Lewkowicz, Carim Messalti, Hassam Ghancy, Salem Kali, Rachida Brakni, Kamel Belghazi, Simon Akbarian, Katia Lewkowicz.
+· Música: Alexandre Azaria.
+· Producción: Alexander Emmert, Yves Marmion.</desc>
+	</programme>
+	<programme start="20260307045800 +0100" stop="20260307070400 +0100" channel="Cine Feel Good">
+    <title>Norman, el hombre que lo conseguía todo</title>
+    <desc>Cine,Drama,Suspense | 2016 | +7
+· Un oportunista neoyorquino ayuda a un político en apuros y, al ascender este al poder, queda atrapado en una peligrosa red de favores e influencias.
+· País: Israel, Estados Unidos
+· Dirección: Joseph Cedar.
+· Reparto: Richard Gere, Michael Sheen, Dan Stevens, Steve Buscemi, Charlotte Gainsbourg, Lior Ashkenazi, Maryann Urbano, Hank Azaria, Jay Patterson, Miranda Bailey, Harris Yulin, Yehuda Almagor, Josh Charles, Neta Riskin.</desc>
+	</programme>
+	<programme start="20260307070400 +0100" stop="20260307084800 +0100" channel="Cine Feel Good">
+    <title>Los amigos del novio</title>
+    <desc>Cine,Comedia | 2006 | +12
+· Un hombre de treinta y tantos decide casarse con su novia embarazada y pide a sus cuatro mejores amigos que lo acompañen a la boda, pero al ver que sus amigos tienen problemas de pareja, él se enfrenta a temas como paternidad, matrimonio y madurar.
+· País: Estados Unidos
+· Dirección: Edward Burns.
+· Reparto: Edward Burns, Heather Burns, John Leguizamo, Matthew Lillard, Donal Logue, Brittany Murphy, Shari Albert, Jay Mohr.
+· Música: Robert Gary, P.T. Walkley.
+· Producción: Margot Bridger, Edward Burns.</desc>
+	</programme>
+	<programme start="20260307084800 +0100" stop="20260307104000 +0100" channel="Cine Feel Good">
+    <title>La profesora de historia</title>
+    <desc>Cine,Drama | 2014 | +7 | *7.1/10
+· Anne Gueguen es una profesora de historia de instituto que se preocupa por los problemas de sus alumnos. Como siempre, este año Anne tiene una clase difícil.
+· País: Francia, Mónaco
+· Dirección: Marie-Castille Mention-Schaar.
+· Reparto: Ahmed Dramé, Koro Dramé, Ariane Ascaride, Noémie Merlant, Geneviève Mnich, Stéphane Bak, Wendy Nieto.</desc>
+	</programme>
+	<programme start="20260307104000 +0100" stop="20260307125700 +0100" channel="Cine Feel Good">
+    <title>La ciudad de la alegría</title>
+    <desc>Cine,Drama | 1992 | TP
+· Max Lowe es un medico norteamericano en crisis personal y enfrentado a un padre dominante, que abandona la medicina y se va a la India a buscar un sentido a su vida.
+· País: Francia, Reino Unido, Estados Unidos
+· Dirección: Roland Joffé.
+· Reparto: Patrick Swayze, Om Puri, Pauline Collins, Shabana Azmi, Santu Chowdhury, Ayesha Dharker.
+· Música: Ennio Morricone.
+· Producción: Jake Eberts, Roland Joffé.</desc>
+	</programme>
+	<programme start="20260307125700 +0100" stop="20260307145700 +0100" channel="Cine Feel Good">
+    <title>Fast Food Nation</title>
+    <desc>Cine,Drama | 2006 | +12
+· Don Henderson, un ejecutivo de una importante cadena de restaurantes de comida rápida, tiene que resolver un grave problema: averiguar cómo y por qué la carne de las hamburguesas más famosas de la empresa está contaminada.
+· País: Reino Unido, Estados Unidos
+· Dirección: Richard Linklater.
+· Reparto: Ethan Hawke, Greg Kinnear, Catalina Sandino Moreno, Patricia Arquette, Avril Lavigne, Kris Kristofferson, Esai Morales, Bruce Willis, Wilmer Valderrama, Juan Carlos Serrán, Luis Guzmán, Frank Ertl, Armando Hernández, Mitch Baker, Ana Claudia Talancón.
+· Música: Friends of Dean Martinez.
+· Producción: Malcolm McLaren, Jeremy Thomas.</desc>
+	</programme>
+	<programme start="20260307145700 +0100" stop="20260307164500 +0100" channel="Cine Feel Good">
+    <title>El poder que hay en ti</title>
+    <desc>Cine,Ciencia Ficción,Drama,Suspense,Acción,Aventuras | 2018 | +12
+· Ruth se ve obligada a huir cuando sus habilidades sobrehumanas son descubiertas. Tras haber abandonado a su familia hace años, el único lugar que le queda para refugiarse es su antiguo hogar.
+· País: Estados Unidos
+· Dirección: Julia Hart.
+· Reparto: Gugu Mbatha-Raw, David Strathairn, Lorraine Toussaint, Saniyya Sidney, Christopher Denham, Lorraine Toussain.</desc>
+	</programme>
+	<programme start="20260307164500 +0100" stop="20260307183800 +0100" channel="Cine Feel Good">
+    <title>El desayuno de los campeones</title>
+    <desc>Cine,Acción | 1999 | +12 | *4.6/10
+· El propietario de una tienda de venta de autos, que está fuera de la realidad y al borde del suicidio, conoce a un escritor de ciencia ficción.
+· País: Estados Unidos
+· Dirección: Alan Rudolph.
+· Reparto: Bruce Willis, Nick Nolte, Albert Finney, Barbara Hershey, Glenne Headly.</desc>
+	</programme>
+	<programme start="20260307183800 +0100" stop="20260307201000 +0100" channel="Cine Feel Good">
+    <title>Bichos raros</title>
+    <desc>Cine,Comedia Romántica | 2007 | +16 | *6.7/10
+· Historia de dos inadaptados sociales y las extrañas formas en que intentan encontrar el amor, incluso a través de la venganza.
+· País: Reino Unido, Nueva Zelanda
+· Dirección: Taika Waititi.
+· Reparto: Loren Taylor, Jemaine Clement, Joel Tobeck, Craig Hall, Brian Sergent, Rachel House, Loren Horsley, Morag Hills.</desc>
+	</programme>
+	<programme start="20260307201000 +0100" stop="20260307213500 +0100" channel="Cine Feel Good">
+    <title>Apocalipsis en Los Ángeles</title>
+    <desc>Cine,Acción,Ciencia Ficción,Suspense | 2014 | +12
+· Se detecta actividad volcánica en el núcleo de la tierra y los científicos descubren que la ciudad de Los Ángeles está a punto de ser borrada del mapa.
+· País: Estados Unidos
+· Dirección: Michael J. Sarna.
+· Reparto: Gina Holden, Raymond J. Barry, David Cade, Kamar De Los Reyes, Lila Dupree, Marco Berrios, Christopher Judge, Eric Allan Kramer, Melina Lizette, Christian Victor Levatino.</desc>
+	</programme>
+	<programme start="20260307213500 +0100" stop="20260307230100 +0100" channel="Cine Feel Good">
+    <title>Dame 10 razones</title>
+    <desc>Cine,Comedia Dramática | 2006 | +16 | *6.5/10
+· Un célebre actor en horas bajas se ve obligado a aceptar un papel de encargado de supermercado en una película independiente. P….
+· País: Estados Unidos
+· Dirección: Brad Silberling.
+· Reparto: Morgan Freeman, Paz Vega, Jonah Hill, Anne Dudek, Bobby Cannavale, Danny DeVito, Francisca Hernandez, Nacho Pina, Alexandra Berardi, Hector Running-Hawk, Silvia Curiel, Alexis Hernández.
+· Música: Antonio Pinto.
+· Producción: Julie Lynn, Lori McCreary, Brad Silberling.</desc>
+	</programme>
+	<programme start="20260307230100 +0100" stop="20260308003600 +0100" channel="Cine Feel Good">
+    <title>El guardián</title>
+    <desc>Cine,Ciencia Ficción,Acción | 2000 | +18
+· Un exmarine detective de la policía de Los Ángeles, investiga un estallido de violencia que se está produciendo en la ciudad.
+· País: Estados Unidos
+· Dirección: John Terlesky.
+· Reparto: Ice-T, Karina Lombard, Douglas Weston, Mario Van Peebles, Stacy Oversier, David Gerard Robinson, Alejandro Rodríguez Tod, Kelly Haren, Joseph Cacia, Steve Zad, James Remar, Daniel Hugh Kelly, Dey Young.</desc>
+	</programme>
+	<programme start="20260308003600 +0100" stop="20260308023600 +0100" channel="Cine Feel Good">
+    <title>Uno tras otro</title>
+    <desc>Cine,Suspense,Acción,Policíaco | 2014 | +12 | *7.1/10
+· Nils, de 45 años, pasa el invierno noruego conduciendo su camión quitanieves por un remoto paraíso nevado. Un día recibe una llamada telefónica: su hijo, que acaba de empezar su carrera universitaria en Oslo, ha muerto por una sobredosis de droga.
+· País: Dinamarca, Noruega, Suecia
+· Dirección: Hans Petter Moland.
+· Reparto: Stellan Skarsgård, Bruno Ganz, Pål Sverre Hagen, Birgitte Hjort Sørensen, Jakob Oftebro, Anders Baasmo Christiansen, Kristofer Hivju, Birgitte Hjort, Huyen Huynh, Kåre Conradi, Stig Henrik Hoff, Jan Gunnar Røise Gunnar Røise, Jan Gunnar Røise, Jack Sødahl Moland, Arthur Berning, Sergej Trifunovic, Anders Baasmo.</desc>
 	</programme>
 	<programme start="20260302005255 +0100" stop="20260302010000 +0100" channel="FIFA+">
     <title>Una Mirada Atrás: Copa Mundial De La Fifa Estados Unidos 1994™</title>
