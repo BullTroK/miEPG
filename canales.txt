@@ -46,7 +46,7 @@ M+ Deportes 7,M+ Deportes 7,https://raw.githubusercontent.com/davidmuma/picons_d
 M+ Deportes 8,M+ Deportes 8,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%208.png
 M+ Golf HD,M+ Golf,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png
 M+ Golf 2 HD,M+ Golf 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png
-DAZN F1 HD,DAZN F1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png
+DAZN F1 HD,DAZN F1,https://i.postimg.cc/VLBD9Mds/Daznf1.webp
 DAZN 1 HD,DAZN 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png
 DAZN 2 HD,DAZN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png
 DAZN 3 HD,DAZN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png
@@ -60,8 +60,7 @@ M+ Liga de Campeones 2 HDR,M+ Liga de Campeones 2 HDR,https://raw.githubusercont
 DAZN Baloncesto,DAZN Baloncesto,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png
 DAZN Baloncesto 2,DAZN Baloncesto 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png
 DAZN Baloncesto 3,DAZN Baloncesto 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png
-DAZN Moto GP,DAZN Moto GP,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png
-Onetoro,Onetoro,https://i.postimg.cc/ZYwgg3YV/onetoro.webp
+DAZN MotoGP,DAZN MotoGP,https://i.postimg.cc/rwfj3k1n/Daznmotogp.webp
 Torolé TV,Torolé TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png
 La 1 HD,La 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png
 La 2,La 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png
