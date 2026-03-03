@@ -358,7 +358,7 @@
     <display-name>DAZN F1 4K</display-name>
     <display-name>DAZN F1 FHD</display-name>
     <display-name>DAZN F1 UHD</display-name>
-    <icon src="https://i.postimg.cc/VLBD9Mds/Daznf1.webp" />
+    <icon src="https://i.postimg.cc/NMyFk1DQ/daznf1.png" />
   </channel>
   <channel id="DAZN 1">
     <display-name>DAZN 1 SD</display-name>
@@ -454,7 +454,7 @@
     <display-name>DAZN MotoGP 4K</display-name>
     <display-name>DAZN MotoGP FHD</display-name>
     <display-name>DAZN MotoGP UHD</display-name>
-    <icon src="https://i.postimg.cc/rwfj3k1n/Daznmotogp.webp" />
+    <icon src="https://i.postimg.cc/Dy3014Xz/daznmotogp.png" />
   </channel>
   <channel id="Torolé TV">
     <display-name>Torolé TV SD</display-name>
