@@ -119,6 +119,15 @@ Comedias (Rakuten TV),Comedias (Rakuten TV),https://images-3.rakuten.tv/storage/
 Acción (Rakuten TV),Acción (Rakuten TV),https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6b4cf5b7-bb4d-439a-9779-f83fd1bde012.png
 Pelis Top (Rakuten TV),Pelis Top (Rakuten TV),https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/82ae4be3-2514-4733-9f9d-89545d4e2ef4.png
 Red Bull TV (Rakuten TV),Red Bull TV (Rakuten TV),https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b03ad405-231f-44f4-90ea-5fdacaf2a06c.png
+Runtime Thriller-Terror,Runtime Thriller-Terror,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png
+Runtime Comedia,Runtime Comedia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Comedia.png
+Runtime Cine y Series,Runtime Cine y Series,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png
+Runtime Series,Runtime Series,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Series.png
+Runtime Acción,Runtime Acción,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Acci%C3%B3n.png
+Runtime Crimen,Runtime Crimen,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Crimen.png
+Runtime Romance,Runtime Romance,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Romance.png
+RunTime Clásicos,RunTime Clásicos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Cl%C3%A1sicos.png
+RunTime Familia,RunTime Familia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png
 FIFA+,FIFA+,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e2bc4647-5158-44b1-a14e-6b541ed03997.png
 Motorvision,Motorvision,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision.png
 DE | Rally TV,DE | Rally TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png
