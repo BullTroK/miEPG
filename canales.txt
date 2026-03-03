@@ -163,6 +163,10 @@ ESPN.ar,ESPN AR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master
 ESPN2.ar,ESPN 2 AR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png
 ESPN3.ar,ESPN 3 AR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png
 ESPN4.ar,ESPN 4 AR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png
+ESPNSur.ar,ESPN ARG,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png
+ESPNSur2.ar,ESPN 2 ARG,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png
+ESPNSur3.ar,ESPN 3 ARG,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png
+ESPNSur4.ar,ESPN 4 ARG,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png
 ESPNExtra.ar,ESPN Extra AR,https://iptv-epg.org/logos/Argentina/ESPNExtra.ar.png
 FOXSportsConoSur.ar,FOX Sports Cono Sur,https://iptv-epg.org/logos/Argentina/FOXSportsConoSur.ar.png
 FOX Sports,FOX Sports AR,https://iptv-epg.org/logos/Argentina/FOXSportsConoSur.ar.png
