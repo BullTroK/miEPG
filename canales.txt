@@ -128,6 +128,12 @@ Runtime Crimen,Runtime Crimen,https://raw.githubusercontent.com/davidmuma/picons
 Runtime Romance,Runtime Romance,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Romance.png
 RunTime Clásicos,RunTime Clásicos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Cl%C3%A1sicos.png
 RunTime Familia,RunTime Familia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png
+Sony One Shark Tank,Sony One Shark Tank,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300004C9_20241106T142325SQUARE.png
+Sony One Series Thriller,Sony One Series Thriller,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20241106T142251SQUARE.png
+Sony One Éxitos,Sony One Éxitos,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20241022T051059SQUARE.png
+Sony One The Blacklist,Sony One The Blacklist,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300005EL_20241022T115805SQUARE.png
+Sony One Series Comedia,Sony One Series Comedia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20241106T142322SQUARE.png
+Sony One Hits Comedia,Sony One Hits Comedia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20251111T011949SQUARE.png
 FIFA+,FIFA+,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e2bc4647-5158-44b1-a14e-6b541ed03997.png
 Motorvision,Motorvision,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision.png
 DE | Rally TV,DE | Rally TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png
