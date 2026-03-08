@@ -619,7 +619,7 @@ NBCWCSH.us,US - NBC WCSH Portland Agusta Waterville Bangor ME,https://iptv-epg.o
 ABCWMTW.us,US - ABC WMTW Portland Agusta Waterville Bangor ME,https://iptv-epg.org/logos/USA/ABCWMTW.us.png
 PBSWCBB.us,US - PBS WCBB Portland Agusta Waterville Bangor ME,https://iptv-epg.org/logos/USA/PBSWCBB.us.png
 CBSWGME.us,US - CBS WGME Portland Agusta Waterville Bangor ME,https://iptv-epg.org/logos/USA/CBSWGME.us.png
-FOXWPFO.us,US - FOX WPFO Portland Agusta Waterville Bangor ME,https://iptv-epg.org/logos/USA/FOXWPFO.us.png
+FOXWGMEDT2.us,US - FOX WGME-DT2 Portland Agusta Waterville Bangor ME,
 CWWPXT.us,US - CW WPXT Portland Agusta Waterville Bangor ME,https://iptv-epg.org/logos/USA/CWWPXT.us.png
 FoxWFVX.us,US - Fox WFVX Bangor ME,https://iptv-epg.org/logos/USA/FoxWFVX.us.png
 ABCWMAR.us,US - ABC WMAR Baltimore MD,https://iptv-epg.org/logos/USA/ABCWMAR.us.png
@@ -1246,7 +1246,7 @@ NBCWCYB.us,US - NBC WCYB Tri-Cities TN,https://iptv-epg.org/logos/USA/NBCWCYB.us
 CBSWJHL.us,US - CBS WJHL Tri-Cities TN,https://iptv-epg.org/logos/USA/CBSWJHL.us.png
 ABCWJHLDT2.us,US - ABC WJHLDT2 Tri-Cities TN,https://iptv-epg.org/logos/USA/ABCWJHLDT2.us.png
 CoziTVWKPT.us,US - CoziTV WKPT Tri-Cities TN,https://iptv-epg.org/logos/USA/CoziTVWKPT.us.png
-FOXWEMT.us,US - FOX WEMT Tri-Cities TN,https://iptv-epg.org/logos/USA/FOXWEMT.us.png
+FOXWCYBDT3.us,US - FOX WCYB-DT3 Tri-Cities TN,
 NBCKRBC.us,US - NBC KRBC Abilene TX,https://iptv-epg.org/logos/USA/NBCKRBC.us.png
 ABCKTXS.us,US - ABC KTXS Abilene Sweetwater TX,https://iptv-epg.org/logos/USA/ABCKTXS.us.png
 FOXKXVA.us,US - FOX KXVA Abilene TX,https://iptv-epg.org/logos/USA/FOXKXVA.us.png
@@ -2135,6 +2135,7 @@ FanDuelSportsNetworkIndiana.us,US - FanDuel Sports Network Indiana,https://iptv-
 FanDuelSportsNetworkCarolinas.us,US - FanDuel Sports Network Carolinas,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkCarolinas.us.png
 FanDuelSportsNetworkKansasCity.us,US - FanDuel Sports Network Kansas City,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkKansasCity.us.png
 FanDuelSportsNetworkOklahoma.us,US - FanDuel Sports Network Oklahoma,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkOklahoma.us.png
+INFAST.us,US - INFAST,https://iptv-epg.org/logos/USA/INFAST.us.png
 CTN.us,US - CTN,https://iptv-epg.org/logos/USA/CTN.us.png
 HOPEChannel.us,US - HOPE CHANNEL,https://iptv-epg.org/logos/USA/HOPEChannel.us.png
 BabyFirst.us,US - BABY FIRST,https://iptv-epg.org/logos/USA/BabyFirst.us.png
@@ -3110,7 +3111,6 @@ XiteRock.us,US - Xite Rock,https://iptv-epg.org/logos/USA/XiteRock.us.png
 DAZNRingside.us,US - DAZN Ringside,https://iptv-epg.org/logos/USA/DAZNRingside.us.png
 DAZNTV.us,US - DAZN TV,https://iptv-epg.org/logos/USA/DAZNTV.us.png
 NBCSN.us,US - NBCSN,https://iptv-epg.org/logos/USA/NBCSN.us.png
-INFAST.us,US - INFAST,https://iptv-epg.org/logos/USA/INFAST.us.png
 TMZ.us,US - TMZ,https://iptv-epg.org/logos/USA/TMZ.us.png
 WipeoutXtra.us,US - Wipeout Xtra,https://iptv-epg.org/logos/USA/WipeoutXtra.us.png
 FearFactor.us,US - Fear Factor,https://iptv-epg.org/logos/USA/FearFactor.us.png
