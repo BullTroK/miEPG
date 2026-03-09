@@ -534,10 +534,10 @@
   <channel id="Universo">
     <icon src="https://iptv-epg.org/logos/USA/UNIVERSO.us.png" />
   </channel>
-  <channel id="US - Telemundo East">
+  <channel id="Telemundo East">
     <icon src="https://iptv-epg.org/logos/USA/Telemundo.us.png" />
   </channel>
-  <channel id="US - Telemundo West">
+  <channel id="Telemundo West">
     <icon src="https://iptv-epg.org/logos/USA/TelemundoWest.us.png" />
   </channel>
 	<programme start="20260308071100 +0100" stop="20260308074200 +0100" channel="Movistar Plus+">
@@ -95317,6 +95317,769 @@ En Babel, la nueva integrante del grupo de las bailarinas llama la atención de 
     <title lang="en">Caso cerrado</title>
     <desc lang="en">A corazón abierto; A los 70 también se termina
 Daniela necesita un trasplante de corazón y su hija, con muerte cerebral, puede ser la donante; pero ella está embarazada y su pareja se opone. Anciana exige el divorcio por falta de atención.</desc>
+  </programme>
+  <programme start="20260309000000 +0000" stop="20260309001000 +0000" channel="Telemundo East">
+    <title lang="en">Sunday Night Basketball en Telemundo Pregame  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Previa de los mejores partidos del mejor baloncesto del mundo, con figuras, rivalidades y emoción total en español.</desc>
+    <live/>
+  </programme>
+  <programme start="20260309001000 +0000" stop="20260309024500 +0000" channel="Telemundo East">
+    <title lang="en">Baloncesto NBA : Houston Rockets vs. San Antonio Spurs ᴸᶦᵛᵉ</title>
+    <desc lang="en">Semana 20 de la temporada regular 2025-26 de la NBA. Houston Rockets busca empatar la serie de visita en el Frost Bank Center. En el duelo más reciente, Victor Wembanyama lideró la ofensiva de los Spurs con 28 unidades.</desc>
+    <live/>
+  </programme>
+  <programme start="20260309024500 +0000" stop="20260309030000 +0000" channel="Telemundo East">
+    <title lang="en">Sunday Night Basketball en Telemundo Post game  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sunday Night Basketball en Telemundo Post game</desc>
+    <live/>
+  </programme>
+  <programme start="20260309030000 +0000" stop="20260309033000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo fin de semana</title>
+    <desc lang="en">Noticias Telemundo fin de semana es la fuente de información más confiable de la comunidad hispana en EE. UU. Su galardonado equipo de corresponsales ofrece los últimos acontecimientos.</desc>
+  </programme>
+  <programme start="20260309033000 +0000" stop="20260309040000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo en la noche  ᴺᵉʷ</title>
+    <desc lang="en">Noticias Telemundo en la noche presenta las últimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la información más relevante de todo lo que necesita saber al final del día.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309040000 +0000" stop="20260309043000 +0000" channel="Telemundo East">
+    <title lang="en">El pelotazo  ᴺᵉʷ</title>
+    <desc lang="en">S02 E68 La nueva e innovadora apuesta de Telemundo Deportes: cobertura completa de los mejores eventos, invitados y polémica. Seguimiento detallado de equipos, jugadores y partidos más destacados.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309043000 +0000" stop="20260309053000 +0000" channel="Telemundo East">
+    <title lang="en">Acércate a Rocío  ᴺᵉʷ</title>
+    <desc lang="en">S01 E440 Por un chamaco nos echó de la casa
+Tras superar la muerte de su esposo, Margarita echa a su hija Sayra de la casa luego de iniciar un romance con Alonso, exnovio de su nieta Alanis, a quien señala de borracha.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309053000 +0000" stop="20260309060000 +0000" channel="Telemundo East">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en">La muda y el pastel
+La doctora Ana María Polo interviene en batallas legales que afectan a los latinos. Como en una corte, las partes presentan testigos y evidencias para que ella emita su decisión. Además, expertos contribuyen con sus conocimientos.</desc>
+  </programme>
+  <programme start="20260309060000 +0000" stop="20260309080000 +0000" channel="Telemundo East">
+    <title lang="en">Fast &amp; Furious</title>
+    <desc lang="en">El fugitivo Dominic Toretto y el agente Brian O'Conner reavivan su enemistad, aunque las circunstancias los obliga a unir fuerzas contra un enemigo común: deben encontrar al asesino de Vince.</desc>
+  </programme>
+  <programme start="20260309080000 +0000" stop="20260309090000 +0000" channel="Telemundo East">
+    <title lang="en">Acércate a Rocío</title>
+    <desc lang="en">S01 E421 Por culpa de madre, conocí el infierno
+Erika ha sido víctima de abuso sexual por parte de un familiar y otros hombres. Su madre la rechaza, no asume su responsabilidad en la protección de ella y tampoco de sus otros hijos.</desc>
+  </programme>
+  <programme start="20260309090000 +0000" stop="20260309093000 +0000" channel="Telemundo East">
+    <title lang="en">La Dr. Polo vida sin límites</title>
+    <desc lang="en">Ana María Polo revela su secreto para vivir sin límites. Acompáñala junto al Dr. Ramos mientras exploran la ciencia detrás del alivio natural. Además, comparten historias inspiradoras de personas reales que recuperan sus vidas.</desc>
+  </programme>
+  <programme start="20260309093000 +0000" stop="20260309100000 +0000" channel="Telemundo East">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en">Quiero ser gato
+Tika quiere convertirse en gato.</desc>
+  </programme>
+  <programme start="20260309100000 +0000" stop="20260309110000 +0000" channel="Telemundo East">
+    <title lang="en">Al rojo vivo</title>
+    <desc lang="en">Trump asegura que no habrá salida negociada al conflicto sin una rendición incondicional de Irán. Escándalos que provocaron la destitución de la Secretaria de Seguridad Nacional, Kristi Noem.</desc>
+  </programme>
+  <programme start="20260309110000 +0000" stop="20260309120000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo AHORA  ᴺᵉʷ</title>
+    <desc lang="en">Las noticias más recientes y las historias más importantes para la comunidad latina.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309120000 +0000" stop="20260309153000 +0000" channel="Telemundo East">
+    <title lang="en">Hoy día  ᴺᵉʷ</title>
+    <desc lang="en">S06 E48 El show de las mañanas que ofrece más entretenimiento y diversión, con contenido positivo, útil e inspirador, pero sin dejar de lado los titulares y noticias que la comunidad hispana en Estados Unidos necesita para comenzar el día bien informada.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309153000 +0000" stop="20260309160000 +0000" channel="Telemundo East">
+    <title lang="en">Operación Pacífico</title>
+    <desc lang="en">S01 E01 Operación Pacífico</desc>
+  </programme>
+  <programme start="20260309160000 +0000" stop="20260309163000 +0000" channel="Telemundo East">
+    <title lang="en">Al otro lado del muro</title>
+    <desc lang="en">S01 E60 Al otro lado del muro</desc>
+  </programme>
+  <programme start="20260309163000 +0000" stop="20260309170000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo mediodía  ᴺᵉʷ</title>
+    <desc lang="en">Un informativo con un estilo único de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309170000 +0000" stop="20260309180000 +0000" channel="Telemundo East">
+    <title lang="en">En casa con Telemundo  ᴺᵉʷ</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309180000 +0000" stop="20260309190000 +0000" channel="Telemundo East">
+    <title lang="en">En casa con Telemundo  ᴺᵉʷ</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309190000 +0000" stop="20260309200000 +0000" channel="Telemundo East">
+    <title lang="en">La mesa caliente  ᴺᵉʷ</title>
+    <desc lang="en">S05 E48 Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas más candentes y controversiales que afectan a la comunidad latina en Estados Unidos.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309200000 +0000" stop="20260309210000 +0000" channel="Telemundo East">
+    <title lang="en">Al rojo vivo  ᴺᵉʷ</title>
+    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador que resalta el aspecto humano.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309210000 +0000" stop="20260309220000 +0000" channel="Telemundo East">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+  </programme>
+  <programme start="20260309220000 +0000" stop="20260309223000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo mediodía</title>
+    <desc lang="en">Un informativo con un estilo único de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.</desc>
+  </programme>
+  <programme start="20260309223000 +0000" stop="20260309230000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo  ᴺᵉʷ</title>
+    <desc lang="en">Julio Vaqueiro presenta Edición Noticias Telemundo, la fuente de información más confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las últimas noticias y entrevistas.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309230000 +0000" stop="20260309235800 +0000" channel="Telemundo East">
+    <title lang="en">La casa de los famosos  ᴺᵉʷ</title>
+    <desc lang="en">Un grupo de habitantes aislados del mundo exterior y vigilados las 24 horas del día, los 7 días de la semana, convive entre emociones, alianzas y rivalidades para ganar 200 mil dólares.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309235800 +0000" stop="20260310020000 +0000" channel="Telemundo East">
+    <title lang="en">La casa de los famosos  ᴺᵉʷ</title>
+    <desc lang="en">Un grupo de habitantes aislados del mundo exterior y vigilados las 24 horas del día, los 7 días de la semana, convive entre emociones, alianzas y rivalidades para ganar 200 mil dólares.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310020000 +0000" stop="20260310030000 +0000" channel="Telemundo East">
+    <title lang="en">Lobo, morir matando  ᴺᵉʷ</title>
+    <desc lang="en">S01 E14 Encrucijada
+Antonia está confundida, no sabe en quién creer y teme dejarse arrastrar por lo que siente. Lobo decide compartir el secreto con Renata. Cruz ordena encontrar al cebo que lo llevará a su presa.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310030000 +0000" stop="20260310033500 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo</title>
+    <desc lang="en">Julio Vaqueiro presenta Edición Noticias Telemundo, la fuente de información más confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las últimas noticias y entrevistas.</desc>
+  </programme>
+  <programme start="20260310033500 +0000" stop="20260310040000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo en la noche  ᴺᵉʷ</title>
+    <desc lang="en">Noticias Telemundo en la noche presenta las últimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la información más relevante de todo lo que necesita saber al final del día.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310040000 +0000" stop="20260310043000 +0000" channel="Telemundo East">
+    <title lang="en">El pelotazo  ᴺᵉʷ</title>
+    <desc lang="en">S02 E69 La nueva e innovadora apuesta de Telemundo Deportes: cobertura completa de los mejores eventos, invitados y polémica. Seguimiento detallado de equipos, jugadores y partidos más destacados.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310043000 +0000" stop="20260310053000 +0000" channel="Telemundo East">
+    <title lang="en">Poder y traición  ᴺᵉʷ</title>
+    <desc lang="en">S01 E46 Encuentro complicado
+Ofendida, Hattuc le reclama a Halis su actitud, también le cuenta lo que pasó. Ferit y Seyran organizan una fiesta familiar y salen de compras, una aparición inesperada altera al joven Korhan.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310053000 +0000" stop="20260310060000 +0000" channel="Telemundo East">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en">Triángulo tóxico
+Deborah le regaló un restaurante a Alejandro, él era su pareja y chef principal del negocio, ahora se quiere separar y ella lo quiere devuelta, pero él ya no es el dueño, se lo dio a su amante.</desc>
+  </programme>
+  <programme start="20260310060000 +0000" stop="20260310070000 +0000" channel="Telemundo East">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+  </programme>
+  <programme start="20260310070000 +0000" stop="20260310080000 +0000" channel="Telemundo East">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+  </programme>
+  <programme start="20260310080000 +0000" stop="20260310090000 +0000" channel="Telemundo East">
+    <title lang="en">La mesa caliente</title>
+    <desc lang="en">S05 E48 Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas más candentes y controversiales que afectan a la comunidad latina en Estados Unidos.</desc>
+  </programme>
+  <programme start="20260310090000 +0000" stop="20260310093000 +0000" channel="Telemundo East">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en">Asesino en redes
+Tras dos años de casados, Sofía descubre que su pareja asesinó y descuartizó a su exesposa. Ahora teme que su vida y la de su hijo están en peligro. Él asegura que fue un accidente.</desc>
+  </programme>
+  <programme start="20260310093000 +0000" stop="20260310100000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo en la noche</title>
+    <desc lang="en">Noticias Telemundo en la noche presenta las últimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la información más relevante de todo lo que necesita saber al final del día.</desc>
+  </programme>
+  <programme start="20260310100000 +0000" stop="20260310110000 +0000" channel="Telemundo East">
+    <title lang="en">Al rojo vivo</title>
+    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador que resalta el aspecto humano.</desc>
+  </programme>
+  <programme start="20260310110000 +0000" stop="20260310120000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo AHORA  ᴺᵉʷ</title>
+    <desc lang="en">Las noticias más recientes y las historias más importantes para la comunidad latina.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310120000 +0000" stop="20260310153000 +0000" channel="Telemundo East">
+    <title lang="en">Hoy día  ᴺᵉʷ</title>
+    <desc lang="en">S06 E49 El show de las mañanas que ofrece más entretenimiento y diversión, con contenido positivo, útil e inspirador, pero sin dejar de lado los titulares y noticias que la comunidad hispana en Estados Unidos necesita para comenzar el día bien informada.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310153000 +0000" stop="20260310160000 +0000" channel="Telemundo East">
+    <title lang="en">Operación Pacífico</title>
+    <desc lang="en">S01 E02 Operación Pacífico</desc>
+  </programme>
+  <programme start="20260310160000 +0000" stop="20260310163000 +0000" channel="Telemundo East">
+    <title lang="en">Al otro lado del muro</title>
+    <desc lang="en">S01 E61 Al otro lado del muro</desc>
+  </programme>
+  <programme start="20260310163000 +0000" stop="20260310170000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo mediodía  ᴺᵉʷ</title>
+    <desc lang="en">Un informativo con un estilo único de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310170000 +0000" stop="20260310180000 +0000" channel="Telemundo East">
+    <title lang="en">En casa con Telemundo  ᴺᵉʷ</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310180000 +0000" stop="20260310190000 +0000" channel="Telemundo East">
+    <title lang="en">En casa con Telemundo  ᴺᵉʷ</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310190000 +0000" stop="20260310200000 +0000" channel="Telemundo East">
+    <title lang="en">La mesa caliente  ᴺᵉʷ</title>
+    <desc lang="en">S05 E49 Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas más candentes y controversiales que afectan a la comunidad latina en Estados Unidos.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310200000 +0000" stop="20260310210000 +0000" channel="Telemundo East">
+    <title lang="en">Al rojo vivo  ᴺᵉʷ</title>
+    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador que resalta el aspecto humano.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310210000 +0000" stop="20260310220000 +0000" channel="Telemundo East">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+  </programme>
+  <programme start="20260310220000 +0000" stop="20260310223000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo mediodía</title>
+    <desc lang="en">Un informativo con un estilo único de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.</desc>
+  </programme>
+  <programme start="20260310223000 +0000" stop="20260310230000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo  ᴺᵉʷ</title>
+    <desc lang="en">Julio Vaqueiro presenta Edición Noticias Telemundo, la fuente de información más confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las últimas noticias y entrevistas.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310230000 +0000" stop="20260310235800 +0000" channel="Telemundo East">
+    <title lang="en">La casa de los famosos  ᴺᵉʷ</title>
+    <desc lang="en">Un grupo de habitantes aislados del mundo exterior y vigilados las 24 horas del día, los 7 días de la semana, convive entre emociones, alianzas y rivalidades para ganar 200 mil dólares.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310235800 +0000" stop="20260311020000 +0000" channel="Telemundo East">
+    <title lang="en">La casa de los famosos  ᴺᵉʷ</title>
+    <desc lang="en">Un grupo de habitantes aislados del mundo exterior y vigilados las 24 horas del día, los 7 días de la semana, convive entre emociones, alianzas y rivalidades para ganar 200 mil dólares.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311020000 +0000" stop="20260311030000 +0000" channel="Telemundo East">
+    <title lang="en">Lobo, morir matando  ᴺᵉʷ</title>
+    <desc lang="en">S01 E15 #nonospersigan
+Cruz intenta culpar a Lobo ante los medios, pero una declaración inesperada se filtra y cambia el juego. Cuando Antonia le exige a Lobo una explicación descubre quién es el responsable de todo.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311030000 +0000" stop="20260311033500 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo</title>
+    <desc lang="en">Julio Vaqueiro presenta Edición Noticias Telemundo, la fuente de información más confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las últimas noticias y entrevistas.</desc>
+  </programme>
+  <programme start="20260311033500 +0000" stop="20260311040000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo en la noche  ᴺᵉʷ</title>
+    <desc lang="en">Noticias Telemundo en la noche presenta las últimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la información más relevante de todo lo que necesita saber al final del día.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311040000 +0000" stop="20260311050000 +0000" channel="Telemundo East">
+    <title lang="en">El pelotazo  ᴺᵉʷ</title>
+    <desc lang="en">S02 E70 La nueva e innovadora apuesta de Telemundo Deportes: cobertura completa de los mejores eventos, invitados y polémica. Seguimiento detallado de equipos, jugadores y partidos más destacados.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311050000 +0000" stop="20260311060000 +0000" channel="Telemundo East">
+    <title lang="en">Poder y traición  ᴺᵉʷ</title>
+    <desc lang="en">S01 E47 Una cena exitosa
+La celebración organizada por Ferit logra el objetivo, y se reanuda la relación entre las familias. Seyran le agradece a su esposo lo que hizo, pero se resiste a cumplir su parte del trato.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311060000 +0000" stop="20260311070000 +0000" channel="Telemundo East">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+  </programme>
+  <programme start="20260311070000 +0000" stop="20260311080000 +0000" channel="Telemundo East">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+  </programme>
+  <programme start="20260311080000 +0000" stop="20260311090000 +0000" channel="Telemundo East">
+    <title lang="en">La mesa caliente</title>
+    <desc lang="en">S05 E49 Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas más candentes y controversiales que afectan a la comunidad latina en Estados Unidos.</desc>
+  </programme>
+  <programme start="20260311090000 +0000" stop="20260311093000 +0000" channel="Telemundo East">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en">Manutención de barriga
+Rafael está casado y quiere dejar a su amante porque rompió la regla que habían acordado de no tener hijos. Ella pide una manutención ya que no puede trabajar durante su embarazo.</desc>
+  </programme>
+  <programme start="20260311093000 +0000" stop="20260311100000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo en la noche</title>
+    <desc lang="en">Noticias Telemundo en la noche presenta las últimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la información más relevante de todo lo que necesita saber al final del día.</desc>
+  </programme>
+  <programme start="20260311100000 +0000" stop="20260311110000 +0000" channel="Telemundo East">
+    <title lang="en">Al rojo vivo</title>
+    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador que resalta el aspecto humano.</desc>
+  </programme>
+  <programme start="20260311110000 +0000" stop="20260311120000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo AHORA  ᴺᵉʷ</title>
+    <desc lang="en">Las noticias más recientes y las historias más importantes para la comunidad latina.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311120000 +0000" stop="20260311153000 +0000" channel="Telemundo East">
+    <title lang="en">Hoy día  ᴺᵉʷ</title>
+    <desc lang="en">S06 E50 El show de las mañanas que ofrece más entretenimiento y diversión, con contenido positivo, útil e inspirador, pero sin dejar de lado los titulares y noticias que la comunidad hispana en Estados Unidos necesita para comenzar el día bien informada.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311153000 +0000" stop="20260311160000 +0000" channel="Telemundo East">
+    <title lang="en">Operación Pacífico</title>
+    <desc lang="en">S01 E03 Operación Pacífico</desc>
+  </programme>
+  <programme start="20260311160000 +0000" stop="20260311163000 +0000" channel="Telemundo East">
+    <title lang="en">Al otro lado del muro</title>
+    <desc lang="en">S01 E62 Al otro lado del muro</desc>
+  </programme>
+  <programme start="20260311163000 +0000" stop="20260311170000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo mediodía  ᴺᵉʷ</title>
+    <desc lang="en">Un informativo con un estilo único de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311170000 +0000" stop="20260311180000 +0000" channel="Telemundo East">
+    <title lang="en">En casa con Telemundo  ᴺᵉʷ</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311180000 +0000" stop="20260311190000 +0000" channel="Telemundo East">
+    <title lang="en">En casa con Telemundo  ᴺᵉʷ</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311190000 +0000" stop="20260311200000 +0000" channel="Telemundo East">
+    <title lang="en">La mesa caliente  ᴺᵉʷ</title>
+    <desc lang="en">S05 E50 Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas más candentes y controversiales que afectan a la comunidad latina en Estados Unidos.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311200000 +0000" stop="20260311210000 +0000" channel="Telemundo East">
+    <title lang="en">Al rojo vivo  ᴺᵉʷ</title>
+    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador que resalta el aspecto humano.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311210000 +0000" stop="20260311220000 +0000" channel="Telemundo East">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+  </programme>
+  <programme start="20260311220000 +0000" stop="20260311223000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo mediodía</title>
+    <desc lang="en">Un informativo con un estilo único de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.</desc>
+  </programme>
+  <programme start="20260311223000 +0000" stop="20260311230000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo  ᴺᵉʷ</title>
+    <desc lang="en">Julio Vaqueiro presenta Edición Noticias Telemundo, la fuente de información más confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las últimas noticias y entrevistas.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311230000 +0000" stop="20260311235800 +0000" channel="Telemundo East">
+    <title lang="en">La casa de los famosos  ᴺᵉʷ</title>
+    <desc lang="en">Un grupo de habitantes aislados del mundo exterior y vigilados las 24 horas del día, los 7 días de la semana, convive entre emociones, alianzas y rivalidades para ganar 200 mil dólares.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311235800 +0000" stop="20260312020000 +0000" channel="Telemundo East">
+    <title lang="en">La casa de los famosos  ᴺᵉʷ</title>
+    <desc lang="en">Un grupo de habitantes aislados del mundo exterior y vigilados las 24 horas del día, los 7 días de la semana, convive entre emociones, alianzas y rivalidades para ganar 200 mil dólares.</desc>
+    <new/>
+  </programme>
+  <programme start="20260312020000 +0000" stop="20260312030000 +0000" channel="Telemundo East">
+    <title lang="en">Lobo, morir matando  ᴺᵉʷ</title>
+    <desc lang="en">S01 E16 Una tragedia cambia la vida del exdetective Lobo Rosales y lo convierte en el protector de Renata, la hija de la mujer que amó, y con quien forja un vínculo incierto que será puesto a prueba.</desc>
+    <new/>
+  </programme>
+  <programme start="20260312030000 +0000" stop="20260312033500 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo</title>
+    <desc lang="en">Julio Vaqueiro presenta Edición Noticias Telemundo, la fuente de información más confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las últimas noticias y entrevistas.</desc>
+  </programme>
+  <programme start="20260312033500 +0000" stop="20260312040000 +0000" channel="Telemundo East">
+    <title lang="en">Noticias Telemundo en la noche  ᴺᵉʷ</title>
+    <desc lang="en">Noticias Telemundo en la noche presenta las últimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la información más relevante de todo lo que necesita saber al final del día.</desc>
+    <new/>
+  </programme>
+  <programme start="20260312040000 +0000" stop="20260312043000 +0000" channel="Telemundo East">
+    <title lang="en">El pelotazo  ᴺᵉʷ</title>
+    <desc lang="en">S02 E71 La nueva e innovadora apuesta de Telemundo Deportes: cobertura completa de los mejores eventos, invitados y polémica. Seguimiento detallado de equipos, jugadores y partidos más destacados.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309000000 +0000" stop="20260309001000 +0000" channel="Telemundo West">
+    <title lang="en">Sunday Night Basketball en Telemundo Pregame  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Previa de los mejores partidos del mejor baloncesto del mundo, con figuras, rivalidades y emoción total en español.</desc>
+    <live/>
+  </programme>
+  <programme start="20260309001000 +0000" stop="20260309024500 +0000" channel="Telemundo West">
+    <title lang="en">Baloncesto NBA : Houston Rockets vs. San Antonio Spurs ᴸᶦᵛᵉ</title>
+    <desc lang="en">Semana 20 de la temporada regular 2025-26 de la NBA. Houston Rockets busca empatar la serie de visita en el Frost Bank Center. En el duelo más reciente, Victor Wembanyama lideró la ofensiva de los Spurs con 28 unidades.</desc>
+    <live/>
+  </programme>
+  <programme start="20260309024500 +0000" stop="20260309030000 +0000" channel="Telemundo West">
+    <title lang="en">Sunday Night Basketball en Telemundo Post game  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Sunday Night Basketball en Telemundo Post game</desc>
+    <live/>
+  </programme>
+  <programme start="20260309030000 +0000" stop="20260309040000 +0000" channel="Telemundo West">
+    <title lang="en">La casa de los famosos  ᴺᵉʷ</title>
+    <desc lang="en">S06 E17 Enfrentamiento sin fin
+Repercusiones tras la fiesta. Los problemas de Julia con Caeli, Kenny, Sergio y Josh no terminan, mientras los demás concuerdan en que la traicionaron. Dos habitantes son desterrados.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309040000 +0000" stop="20260309060000 +0000" channel="Telemundo West">
+    <title lang="en">Fast &amp; Furious</title>
+    <desc lang="en">El fugitivo Dominic Toretto y el agente Brian O'Conner reavivan su enemistad, aunque las circunstancias los obliga a unir fuerzas contra un enemigo común: deben encontrar al asesino de Vince.</desc>
+  </programme>
+  <programme start="20260309060000 +0000" stop="20260309063000 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo fin de semana</title>
+    <desc lang="en">Noticias Telemundo fin de semana es la fuente de información más confiable de la comunidad hispana en EE. UU. Su galardonado equipo de corresponsales ofrece los últimos acontecimientos.</desc>
+  </programme>
+  <programme start="20260309063000 +0000" stop="20260309070000 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo en la noche  ᴺᵉʷ</title>
+    <desc lang="en">Noticias Telemundo en la noche presenta las últimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la información más relevante de todo lo que necesita saber al final del día.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309070000 +0000" stop="20260309073000 +0000" channel="Telemundo West">
+    <title lang="en">El pelotazo  ᴺᵉʷ</title>
+    <desc lang="en">S02 E68 La nueva e innovadora apuesta de Telemundo Deportes: cobertura completa de los mejores eventos, invitados y polémica. Seguimiento detallado de equipos, jugadores y partidos más destacados.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309073000 +0000" stop="20260309083000 +0000" channel="Telemundo West">
+    <title lang="en">Acércate a Rocío  ᴺᵉʷ</title>
+    <desc lang="en">S01 E440 Por un chamaco nos echó de la casa
+Tras superar la muerte de su esposo, Margarita echa a su hija Sayra de la casa luego de iniciar un romance con Alonso, exnovio de su nieta Alanis, a quien señala de borracha.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309083000 +0000" stop="20260309090000 +0000" channel="Telemundo West">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en">La muda y el pastel
+La doctora Ana María Polo interviene en batallas legales que afectan a los latinos. Como en una corte, las partes presentan testigos y evidencias para que ella emita su decisión. Además, expertos contribuyen con sus conocimientos.</desc>
+  </programme>
+  <programme start="20260309090000 +0000" stop="20260309110000 +0000" channel="Telemundo West">
+    <title lang="en">Fast &amp; Furious</title>
+    <desc lang="en">El fugitivo Dominic Toretto y el agente Brian O'Conner reavivan su enemistad, aunque las circunstancias los obliga a unir fuerzas contra un enemigo común: deben encontrar al asesino de Vince.</desc>
+  </programme>
+  <programme start="20260309110000 +0000" stop="20260309120000 +0000" channel="Telemundo West">
+    <title lang="en">Acércate a Rocío</title>
+    <desc lang="en">S01 E421 Por culpa de madre, conocí el infierno
+Erika ha sido víctima de abuso sexual por parte de un familiar y otros hombres. Su madre la rechaza, no asume su responsabilidad en la protección de ella y tampoco de sus otros hijos.</desc>
+  </programme>
+  <programme start="20260309120000 +0000" stop="20260309123000 +0000" channel="Telemundo West">
+    <title lang="en">La Dr. Polo vida sin límites</title>
+    <desc lang="en">Ana María Polo revela su secreto para vivir sin límites. Acompáñala junto al Dr. Ramos mientras exploran la ciencia detrás del alivio natural. Además, comparten historias inspiradoras de personas reales que recuperan sus vidas.</desc>
+  </programme>
+  <programme start="20260309123000 +0000" stop="20260309130000 +0000" channel="Telemundo West">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en">Quiero ser gato
+Tika quiere convertirse en gato.</desc>
+  </programme>
+  <programme start="20260309130000 +0000" stop="20260309140000 +0000" channel="Telemundo West">
+    <title lang="en">Al rojo vivo</title>
+    <desc lang="en">Trump asegura que no habrá salida negociada al conflicto sin una rendición incondicional de Irán. Escándalos que provocaron la destitución de la Secretaria de Seguridad Nacional, Kristi Noem.</desc>
+  </programme>
+  <programme start="20260309140000 +0000" stop="20260309150000 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo AHORA  ᴺᵉʷ</title>
+    <desc lang="en">Las noticias más recientes y las historias más importantes para la comunidad latina.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309150000 +0000" stop="20260309183000 +0000" channel="Telemundo West">
+    <title lang="en">Hoy día  ᴺᵉʷ</title>
+    <desc lang="en">S06 E48 El show de las mañanas que ofrece más entretenimiento y diversión, con contenido positivo, útil e inspirador, pero sin dejar de lado los titulares y noticias que la comunidad hispana en Estados Unidos necesita para comenzar el día bien informada.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309183000 +0000" stop="20260309190000 +0000" channel="Telemundo West">
+    <title lang="en">Operación Pacífico</title>
+    <desc lang="en">S01 E01 Operación Pacífico</desc>
+  </programme>
+  <programme start="20260309190000 +0000" stop="20260309193000 +0000" channel="Telemundo West">
+    <title lang="en">Al otro lado del muro</title>
+    <desc lang="en">S01 E60 Al otro lado del muro</desc>
+  </programme>
+  <programme start="20260309193000 +0000" stop="20260309200000 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo mediodía  ᴺᵉʷ</title>
+    <desc lang="en">Un informativo con un estilo único de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309200000 +0000" stop="20260309210000 +0000" channel="Telemundo West">
+    <title lang="en">En casa con Telemundo  ᴺᵉʷ</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309210000 +0000" stop="20260309220000 +0000" channel="Telemundo West">
+    <title lang="en">En casa con Telemundo  ᴺᵉʷ</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309220000 +0000" stop="20260309230000 +0000" channel="Telemundo West">
+    <title lang="en">La mesa caliente  ᴺᵉʷ</title>
+    <desc lang="en">S05 E48 Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas más candentes y controversiales que afectan a la comunidad latina en Estados Unidos.</desc>
+    <new/>
+  </programme>
+  <programme start="20260309230000 +0000" stop="20260310000000 +0000" channel="Telemundo West">
+    <title lang="en">Al rojo vivo  ᴺᵉʷ</title>
+    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador que resalta el aspecto humano.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310000000 +0000" stop="20260310010000 +0000" channel="Telemundo West">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+  </programme>
+  <programme start="20260310010000 +0000" stop="20260310013000 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo mediodía</title>
+    <desc lang="en">Un informativo con un estilo único de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.</desc>
+  </programme>
+  <programme start="20260310013000 +0000" stop="20260310020000 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo  ᴺᵉʷ</title>
+    <desc lang="en">Julio Vaqueiro presenta Edición Noticias Telemundo, la fuente de información más confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las últimas noticias y entrevistas.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310020000 +0000" stop="20260310025800 +0000" channel="Telemundo West">
+    <title lang="en">La casa de los famosos  ᴺᵉʷ</title>
+    <desc lang="en">Un grupo de habitantes aislados del mundo exterior y vigilados las 24 horas del día, los 7 días de la semana, convive entre emociones, alianzas y rivalidades para ganar 200 mil dólares.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310025800 +0000" stop="20260310050000 +0000" channel="Telemundo West">
+    <title lang="en">La casa de los famosos  ᴺᵉʷ</title>
+    <desc lang="en">Un grupo de habitantes aislados del mundo exterior y vigilados las 24 horas del día, los 7 días de la semana, convive entre emociones, alianzas y rivalidades para ganar 200 mil dólares.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310050000 +0000" stop="20260310060000 +0000" channel="Telemundo West">
+    <title lang="en">Lobo, morir matando  ᴺᵉʷ</title>
+    <desc lang="en">S01 E14 Encrucijada
+Antonia está confundida, no sabe en quién creer y teme dejarse arrastrar por lo que siente. Lobo decide compartir el secreto con Renata. Cruz ordena encontrar al cebo que lo llevará a su presa.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310060000 +0000" stop="20260310063500 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo</title>
+    <desc lang="en">Julio Vaqueiro presenta Edición Noticias Telemundo, la fuente de información más confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las últimas noticias y entrevistas.</desc>
+  </programme>
+  <programme start="20260310063500 +0000" stop="20260310070000 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo en la noche  ᴺᵉʷ</title>
+    <desc lang="en">Noticias Telemundo en la noche presenta las últimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la información más relevante de todo lo que necesita saber al final del día.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310070000 +0000" stop="20260310073000 +0000" channel="Telemundo West">
+    <title lang="en">El pelotazo  ᴺᵉʷ</title>
+    <desc lang="en">S02 E69 La nueva e innovadora apuesta de Telemundo Deportes: cobertura completa de los mejores eventos, invitados y polémica. Seguimiento detallado de equipos, jugadores y partidos más destacados.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310073000 +0000" stop="20260310083000 +0000" channel="Telemundo West">
+    <title lang="en">Poder y traición  ᴺᵉʷ</title>
+    <desc lang="en">S01 E46 Encuentro complicado
+Ofendida, Hattuc le reclama a Halis su actitud, también le cuenta lo que pasó. Ferit y Seyran organizan una fiesta familiar y salen de compras, una aparición inesperada altera al joven Korhan.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310083000 +0000" stop="20260310090000 +0000" channel="Telemundo West">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en">Triángulo tóxico
+Deborah le regaló un restaurante a Alejandro, él era su pareja y chef principal del negocio, ahora se quiere separar y ella lo quiere devuelta, pero él ya no es el dueño, se lo dio a su amante.</desc>
+  </programme>
+  <programme start="20260310090000 +0000" stop="20260310100000 +0000" channel="Telemundo West">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+  </programme>
+  <programme start="20260310100000 +0000" stop="20260310110000 +0000" channel="Telemundo West">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+  </programme>
+  <programme start="20260310110000 +0000" stop="20260310120000 +0000" channel="Telemundo West">
+    <title lang="en">La mesa caliente</title>
+    <desc lang="en">S05 E48 Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas más candentes y controversiales que afectan a la comunidad latina en Estados Unidos.</desc>
+  </programme>
+  <programme start="20260310120000 +0000" stop="20260310123000 +0000" channel="Telemundo West">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en">Asesino en redes
+Tras dos años de casados, Sofía descubre que su pareja asesinó y descuartizó a su exesposa. Ahora teme que su vida y la de su hijo están en peligro. Él asegura que fue un accidente.</desc>
+  </programme>
+  <programme start="20260310123000 +0000" stop="20260310130000 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo en la noche</title>
+    <desc lang="en">Noticias Telemundo en la noche presenta las últimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la información más relevante de todo lo que necesita saber al final del día.</desc>
+  </programme>
+  <programme start="20260310130000 +0000" stop="20260310140000 +0000" channel="Telemundo West">
+    <title lang="en">Al rojo vivo</title>
+    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador que resalta el aspecto humano.</desc>
+  </programme>
+  <programme start="20260310140000 +0000" stop="20260310150000 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo AHORA  ᴺᵉʷ</title>
+    <desc lang="en">Las noticias más recientes y las historias más importantes para la comunidad latina.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310150000 +0000" stop="20260310183000 +0000" channel="Telemundo West">
+    <title lang="en">Hoy día  ᴺᵉʷ</title>
+    <desc lang="en">S06 E49 El show de las mañanas que ofrece más entretenimiento y diversión, con contenido positivo, útil e inspirador, pero sin dejar de lado los titulares y noticias que la comunidad hispana en Estados Unidos necesita para comenzar el día bien informada.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310183000 +0000" stop="20260310190000 +0000" channel="Telemundo West">
+    <title lang="en">Operación Pacífico</title>
+    <desc lang="en">S01 E02 Operación Pacífico</desc>
+  </programme>
+  <programme start="20260310190000 +0000" stop="20260310193000 +0000" channel="Telemundo West">
+    <title lang="en">Al otro lado del muro</title>
+    <desc lang="en">S01 E61 Al otro lado del muro</desc>
+  </programme>
+  <programme start="20260310193000 +0000" stop="20260310200000 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo mediodía  ᴺᵉʷ</title>
+    <desc lang="en">Un informativo con un estilo único de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310200000 +0000" stop="20260310210000 +0000" channel="Telemundo West">
+    <title lang="en">En casa con Telemundo  ᴺᵉʷ</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310210000 +0000" stop="20260310220000 +0000" channel="Telemundo West">
+    <title lang="en">En casa con Telemundo  ᴺᵉʷ</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310220000 +0000" stop="20260310230000 +0000" channel="Telemundo West">
+    <title lang="en">La mesa caliente  ᴺᵉʷ</title>
+    <desc lang="en">S05 E49 Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas más candentes y controversiales que afectan a la comunidad latina en Estados Unidos.</desc>
+    <new/>
+  </programme>
+  <programme start="20260310230000 +0000" stop="20260311000000 +0000" channel="Telemundo West">
+    <title lang="en">Al rojo vivo  ᴺᵉʷ</title>
+    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador que resalta el aspecto humano.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311000000 +0000" stop="20260311010000 +0000" channel="Telemundo West">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+  </programme>
+  <programme start="20260311010000 +0000" stop="20260311013000 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo mediodía</title>
+    <desc lang="en">Un informativo con un estilo único de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.</desc>
+  </programme>
+  <programme start="20260311013000 +0000" stop="20260311020000 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo  ᴺᵉʷ</title>
+    <desc lang="en">Julio Vaqueiro presenta Edición Noticias Telemundo, la fuente de información más confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las últimas noticias y entrevistas.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311020000 +0000" stop="20260311025800 +0000" channel="Telemundo West">
+    <title lang="en">La casa de los famosos  ᴺᵉʷ</title>
+    <desc lang="en">Un grupo de habitantes aislados del mundo exterior y vigilados las 24 horas del día, los 7 días de la semana, convive entre emociones, alianzas y rivalidades para ganar 200 mil dólares.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311025800 +0000" stop="20260311050000 +0000" channel="Telemundo West">
+    <title lang="en">La casa de los famosos  ᴺᵉʷ</title>
+    <desc lang="en">Un grupo de habitantes aislados del mundo exterior y vigilados las 24 horas del día, los 7 días de la semana, convive entre emociones, alianzas y rivalidades para ganar 200 mil dólares.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311050000 +0000" stop="20260311060000 +0000" channel="Telemundo West">
+    <title lang="en">Lobo, morir matando  ᴺᵉʷ</title>
+    <desc lang="en">S01 E15 #nonospersigan
+Cruz intenta culpar a Lobo ante los medios, pero una declaración inesperada se filtra y cambia el juego. Cuando Antonia le exige a Lobo una explicación descubre quién es el responsable de todo.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311060000 +0000" stop="20260311063500 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo</title>
+    <desc lang="en">Julio Vaqueiro presenta Edición Noticias Telemundo, la fuente de información más confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las últimas noticias y entrevistas.</desc>
+  </programme>
+  <programme start="20260311063500 +0000" stop="20260311070000 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo en la noche  ᴺᵉʷ</title>
+    <desc lang="en">Noticias Telemundo en la noche presenta las últimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la información más relevante de todo lo que necesita saber al final del día.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311070000 +0000" stop="20260311080000 +0000" channel="Telemundo West">
+    <title lang="en">El pelotazo  ᴺᵉʷ</title>
+    <desc lang="en">S02 E70 La nueva e innovadora apuesta de Telemundo Deportes: cobertura completa de los mejores eventos, invitados y polémica. Seguimiento detallado de equipos, jugadores y partidos más destacados.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311080000 +0000" stop="20260311090000 +0000" channel="Telemundo West">
+    <title lang="en">Poder y traición  ᴺᵉʷ</title>
+    <desc lang="en">S01 E47 Una cena exitosa
+La celebración organizada por Ferit logra el objetivo, y se reanuda la relación entre las familias. Seyran le agradece a su esposo lo que hizo, pero se resiste a cumplir su parte del trato.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311090000 +0000" stop="20260311100000 +0000" channel="Telemundo West">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+  </programme>
+  <programme start="20260311100000 +0000" stop="20260311110000 +0000" channel="Telemundo West">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+  </programme>
+  <programme start="20260311110000 +0000" stop="20260311120000 +0000" channel="Telemundo West">
+    <title lang="en">La mesa caliente</title>
+    <desc lang="en">S05 E49 Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas más candentes y controversiales que afectan a la comunidad latina en Estados Unidos.</desc>
+  </programme>
+  <programme start="20260311120000 +0000" stop="20260311123000 +0000" channel="Telemundo West">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en">Manutención de barriga
+Rafael está casado y quiere dejar a su amante porque rompió la regla que habían acordado de no tener hijos. Ella pide una manutención ya que no puede trabajar durante su embarazo.</desc>
+  </programme>
+  <programme start="20260311123000 +0000" stop="20260311130000 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo en la noche</title>
+    <desc lang="en">Noticias Telemundo en la noche presenta las últimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la información más relevante de todo lo que necesita saber al final del día.</desc>
+  </programme>
+  <programme start="20260311130000 +0000" stop="20260311140000 +0000" channel="Telemundo West">
+    <title lang="en">Al rojo vivo</title>
+    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador que resalta el aspecto humano.</desc>
+  </programme>
+  <programme start="20260311140000 +0000" stop="20260311150000 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo AHORA  ᴺᵉʷ</title>
+    <desc lang="en">Las noticias más recientes y las historias más importantes para la comunidad latina.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311150000 +0000" stop="20260311183000 +0000" channel="Telemundo West">
+    <title lang="en">Hoy día  ᴺᵉʷ</title>
+    <desc lang="en">S06 E50 El show de las mañanas que ofrece más entretenimiento y diversión, con contenido positivo, útil e inspirador, pero sin dejar de lado los titulares y noticias que la comunidad hispana en Estados Unidos necesita para comenzar el día bien informada.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311183000 +0000" stop="20260311190000 +0000" channel="Telemundo West">
+    <title lang="en">Operación Pacífico</title>
+    <desc lang="en">S01 E03 Operación Pacífico</desc>
+  </programme>
+  <programme start="20260311190000 +0000" stop="20260311193000 +0000" channel="Telemundo West">
+    <title lang="en">Al otro lado del muro</title>
+    <desc lang="en">S01 E62 Al otro lado del muro</desc>
+  </programme>
+  <programme start="20260311193000 +0000" stop="20260311200000 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo mediodía  ᴺᵉʷ</title>
+    <desc lang="en">Un informativo con un estilo único de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311200000 +0000" stop="20260311210000 +0000" channel="Telemundo West">
+    <title lang="en">En casa con Telemundo  ᴺᵉʷ</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311210000 +0000" stop="20260311220000 +0000" channel="Telemundo West">
+    <title lang="en">En casa con Telemundo  ᴺᵉʷ</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311220000 +0000" stop="20260311230000 +0000" channel="Telemundo West">
+    <title lang="en">La mesa caliente  ᴺᵉʷ</title>
+    <desc lang="en">S05 E50 Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas más candentes y controversiales que afectan a la comunidad latina en Estados Unidos.</desc>
+    <new/>
+  </programme>
+  <programme start="20260311230000 +0000" stop="20260312000000 +0000" channel="Telemundo West">
+    <title lang="en">Al rojo vivo  ᴺᵉʷ</title>
+    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador que resalta el aspecto humano.</desc>
+    <new/>
+  </programme>
+  <programme start="20260312000000 +0000" stop="20260312010000 +0000" channel="Telemundo West">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.</desc>
+  </programme>
+  <programme start="20260312010000 +0000" stop="20260312013000 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo mediodía</title>
+    <desc lang="en">Un informativo con un estilo único de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.</desc>
+  </programme>
+  <programme start="20260312013000 +0000" stop="20260312020000 +0000" channel="Telemundo West">
+    <title lang="en">Noticias Telemundo  ᴺᵉʷ</title>
+    <desc lang="en">Julio Vaqueiro presenta Edición Noticias Telemundo, la fuente de información más confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las últimas noticias y entrevistas.</desc>
+    <new/>
+  </programme>
+  <programme start="20260312020000 +0000" stop="20260312025800 +0000" channel="Telemundo West">
+    <title lang="en">La casa de los famosos  ᴺᵉʷ</title>
+    <desc lang="en">Un grupo de habitantes aislados del mundo exterior y vigilados las 24 horas del día, los 7 días de la semana, convive entre emociones, alianzas y rivalidades para ganar 200 mil dólares.</desc>
+    <new/>
+  </programme>
+  <programme start="20260312025800 +0000" stop="20260312050000 +0000" channel="Telemundo West">
+    <title lang="en">La casa de los famosos  ᴺᵉʷ</title>
+    <desc lang="en">Un grupo de habitantes aislados del mundo exterior y vigilados las 24 horas del día, los 7 días de la semana, convive entre emociones, alianzas y rivalidades para ganar 200 mil dólares.</desc>
+    <new/>
   </programme>
   <programme start="20260309000000 +0000" stop="20260309001000 +0000" channel="US - Telemundo East">
     <title lang="en">Sunday Night Basketball en Telemundo Pregame  ᴸᶦᵛᵉ</title>
