@@ -185,4 +185,6 @@ UnivisionWest.us,Univision West,https://iptv-epg.org/logos/USA/UnivisionWest.us.
 UnivisionWXTV.us,Univision WXTV,https://iptv-epg.org/logos/USA/UnivisionWest.us.png
 UniMas.us,UniMas,https://iptv-epg.org/logos/USA/UniMas.us.png
 UNIVERSO.us,Universo,https://iptv-epg.org/logos/USA/UNIVERSO.us.png
-AztecaInternacional.us,Azteca Internacional,https://iptv-epg.org/logos/USA/AztecaInternacional.us.png
+Telemundo.us,US - Telemundo East,https://iptv-epg.org/logos/USA/Telemundo.us.png
+TelemundoWest.us,US - Telemundo West,https://iptv-epg.org/logos/USA/TelemundoWest.us.png
+
