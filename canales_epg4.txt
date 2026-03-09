@@ -619,7 +619,7 @@ NBCWCSH.us,US - NBC WCSH Portland Agusta Waterville Bangor ME,https://iptv-epg.o
 ABCWMTW.us,US - ABC WMTW Portland Agusta Waterville Bangor ME,https://iptv-epg.org/logos/USA/ABCWMTW.us.png
 PBSWCBB.us,US - PBS WCBB Portland Agusta Waterville Bangor ME,https://iptv-epg.org/logos/USA/PBSWCBB.us.png
 CBSWGME.us,US - CBS WGME Portland Agusta Waterville Bangor ME,https://iptv-epg.org/logos/USA/CBSWGME.us.png
-FOXWGMEDT2.us,US - FOX WGME-DT2 Portland Agusta Waterville Bangor ME,
+FOXWGMEDT2.us,US - FOX WGME-DT2 Portland Agusta Waterville Bangor ME,https://iptv-epg.org/logos/USA/FOXWGMEDT2.us.png
 CWWPXT.us,US - CW WPXT Portland Agusta Waterville Bangor ME,https://iptv-epg.org/logos/USA/CWWPXT.us.png
 FoxWFVX.us,US - Fox WFVX Bangor ME,https://iptv-epg.org/logos/USA/FoxWFVX.us.png
 ABCWMAR.us,US - ABC WMAR Baltimore MD,https://iptv-epg.org/logos/USA/ABCWMAR.us.png
@@ -1246,7 +1246,7 @@ NBCWCYB.us,US - NBC WCYB Tri-Cities TN,https://iptv-epg.org/logos/USA/NBCWCYB.us
 CBSWJHL.us,US - CBS WJHL Tri-Cities TN,https://iptv-epg.org/logos/USA/CBSWJHL.us.png
 ABCWJHLDT2.us,US - ABC WJHLDT2 Tri-Cities TN,https://iptv-epg.org/logos/USA/ABCWJHLDT2.us.png
 CoziTVWKPT.us,US - CoziTV WKPT Tri-Cities TN,https://iptv-epg.org/logos/USA/CoziTVWKPT.us.png
-FOXWCYBDT3.us,US - FOX WCYB-DT3 Tri-Cities TN,
+FOXWCYBDT3.us,US - FOX WCYB-DT3 Tri-Cities TN,https://iptv-epg.org/logos/USA/FOXWCYBDT3.us.png
 NBCKRBC.us,US - NBC KRBC Abilene TX,https://iptv-epg.org/logos/USA/NBCKRBC.us.png
 ABCKTXS.us,US - ABC KTXS Abilene Sweetwater TX,https://iptv-epg.org/logos/USA/ABCKTXS.us.png
 FOXKXVA.us,US - FOX KXVA Abilene TX,https://iptv-epg.org/logos/USA/FOXKXVA.us.png
@@ -2033,6 +2033,8 @@ TViet.us,US - TViet,https://iptv-epg.org/logos/USA/TViet.us.png
 VienThaoTV.us,US - Viên Thao TV,https://iptv-epg.org/logos/USA/VienThaoTV.us.png
 VIETVNetwork.us,US - VIETV Network,https://iptv-epg.org/logos/USA/VIETVNetwork.us.png
 Film24h.us,US - Film 24h,https://iptv-epg.org/logos/USA/Film24h.us.png
+DirecTV4K.us,US - DirecTV 4K,https://iptv-epg.org/logos/USA/DirecTV4K.us.png
+RangersSportsNetwork.us,US - Rangers Sports Network,https://iptv-epg.org/logos/USA/RangersSportsNetwork.us.png
 AandENetworkPacific.us,US - A&amp;E Network West,https://iptv-epg.org/logos/USA/AandENetworkPacific.us.png
 HistoryChannelPacific.us,US - History Channel West,https://iptv-epg.org/logos/USA/HistoryChannelPacific.us.png
 BBCAmericaPacific.us,US - BBC America West,https://iptv-epg.org/logos/USA/BBCAmericaPacific.us.png
@@ -2136,6 +2138,25 @@ FanDuelSportsNetworkCarolinas.us,US - FanDuel Sports Network Carolinas,https://i
 FanDuelSportsNetworkKansasCity.us,US - FanDuel Sports Network Kansas City,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkKansasCity.us.png
 FanDuelSportsNetworkOklahoma.us,US - FanDuel Sports Network Oklahoma,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkOklahoma.us.png
 INFAST.us,US - INFAST,https://iptv-epg.org/logos/USA/INFAST.us.png
+Dazn1Linear.us,US - Dazn 1 Linear,https://iptv-epg.org/logos/USA/Dazn1Linear.us.png
+CuriousityStream.us,US - Curiuosity Stream,https://iptv-epg.org/logos/USA/CuriousityStream.us.png
+HomeMadeNation.us,US - Home.Made.Nation,
+XiteClassicCountry.us,US - Xite Classic Country,https://iptv-epg.org/logos/USA/XiteClassicCountry.us.png
+XiteGospel.us,US - Xite Gospel,https://iptv-epg.org/logos/USA/XiteGospel.us.png
+XiteRock.us,US - Xite Rock,https://iptv-epg.org/logos/USA/XiteRock.us.png
+DAZNRingside.us,US - DAZN Ringside,https://iptv-epg.org/logos/USA/DAZNRingside.us.png
+DAZNTV.us,US - DAZN TV,https://iptv-epg.org/logos/USA/DAZNTV.us.png
+ESPN4K.us,US - ESPN 4K,https://iptv-epg.org/logos/USA/ESPN4K.us.png
+VSIN.us,US - VSIN Vegas Sports &amp; Information Network,https://iptv-epg.org/logos/USA/VSIN.us.png
+NBCSN.us,US - NBCSN,https://iptv-epg.org/logos/USA/NBCSN.us.png
+E-SportsTelevision.us,US - E-Sports Television,https://iptv-epg.org/logos/USA/E-SportsTelevision.us.png
+SoutheasternChannel.us,US - Southeastern Channel,https://iptv-epg.org/logos/USA/SoutheasternChannel.us.png
+SpectrumNews1Louisville.us,US - Spectrum News 1 Louisville,https://iptv-epg.org/logos/USA/SpectrumNews1Louisville.us.png
+BigBrotherCamera1.us,US - Big Brother Camera 1,https://iptv-epg.org/logos/USA/BigBrotherCamera1.us.png
+BigBrotherCamera2.us,US - Big Brother Camera 2,https://iptv-epg.org/logos/USA/BigBrotherCamera2.us.png
+BigBrotherCamera3.us,US - Big Brother Camera 3,https://iptv-epg.org/logos/USA/BigBrotherCamera3.us.png
+BigBrotherCamera4.us,US - Big Brother Camera 4,https://iptv-epg.org/logos/USA/BigBrotherCamera4.us.png
+BigBrotherCameraQ.us,US - Big Brother Camera Q,https://iptv-epg.org/logos/USA/BigBrotherCameraQ.us.png
 CTN.us,US - CTN,https://iptv-epg.org/logos/USA/CTN.us.png
 HOPEChannel.us,US - HOPE CHANNEL,https://iptv-epg.org/logos/USA/HOPEChannel.us.png
 BabyFirst.us,US - BABY FIRST,https://iptv-epg.org/logos/USA/BabyFirst.us.png
@@ -2526,7 +2547,6 @@ MSGSN2Zone1.us,US - MSG SN2,https://iptv-epg.org/logos/USA/MSGSN2Zone1.us.png
 MSGSN2Zone2.us,US - MSG SN2 Zone 2,https://iptv-epg.org/logos/USA/MSGSN2Zone2.us.png
 MSGSN2Zone10.us,US - MSG SN2 Zone 10,https://iptv-epg.org/logos/USA/MSGSN2Zone10.us.png
 CatholicTV.us,US - CatholicTV,https://iptv-epg.org/logos/USA/CatholicTV.us.png
-Dazn1Linear.us,US - Dazn 1 Linear,https://iptv-epg.org/logos/USA/Dazn1Linear.us.png
 Dust.us,US - DUST,https://iptv-epg.org/logos/USA/Dust.us.png
 SportowaTV.us,US - Sportowa TV,https://iptv-epg.org/logos/USA/SportowaTV.us.png
 RyanAndFriends.us,US - RYAN AND FRIENDS,https://iptv-epg.org/logos/USA/RyanAndFriends.us.png
@@ -3091,26 +3111,6 @@ CuriosityNOW.us,US - Curiosity NOW,https://iptv-epg.org/logos/USA/CuriosityNOW.u
 FITE247.us,US - FITE 24/7,https://iptv-epg.org/logos/USA/FITE247.us.png
 TennisTV247.us,US - Tennis TV 24/7,https://iptv-epg.org/logos/USA/TennisTV247.us.png
 SpectrumOC16.us,US - Spectrum OC16,https://iptv-epg.org/logos/USA/SpectrumOC16.us.png
-E-SportsTelevision.us,US - E-Sports Television,https://iptv-epg.org/logos/USA/E-SportsTelevision.us.png
-LivelyPlace.us,US - Lively Place,https://iptv-epg.org/logos/USA/LivelyPlace.us.png
-SoutheasternChannel.us,US - Southeastern Channel,https://iptv-epg.org/logos/USA/SoutheasternChannel.us.png
-CuriousityStream.us,US - Curiuosity Stream,https://iptv-epg.org/logos/USA/CuriousityStream.us.png
-ESPN4K.us,US - ESPN 4K,https://iptv-epg.org/logos/USA/ESPN4K.us.png
-VSIN.us,US - VSIN Vegas Sports &amp; Information Network,https://iptv-epg.org/logos/USA/VSIN.us.png
-DirecTV4K.us,US - DirecTV 4K,https://iptv-epg.org/logos/USA/DirecTV4K.us.png
-RangersSportsNetwork.us,US - Rangers Sports Network,https://iptv-epg.org/logos/USA/RangersSportsNetwork.us.png
-SpectrumNews1Louisville.us,US - Spectrum News 1 Louisville,https://iptv-epg.org/logos/USA/SpectrumNews1Louisville.us.png
-BigBrotherCamera1.us,US - Big Brother Camera 1,https://iptv-epg.org/logos/USA/BigBrotherCamera1.us.png
-BigBrotherCamera2.us,US - Big Brother Camera 2,https://iptv-epg.org/logos/USA/BigBrotherCamera2.us.png
-BigBrotherCamera3.us,US - Big Brother Camera 3,https://iptv-epg.org/logos/USA/BigBrotherCamera3.us.png
-BigBrotherCamera4.us,US - Big Brother Camera 4,https://iptv-epg.org/logos/USA/BigBrotherCamera4.us.png
-BigBrotherCameraQ.us,US - Big Brother Camera Q,https://iptv-epg.org/logos/USA/BigBrotherCameraQ.us.png
-XiteClassicCountry.us,US - Xite Classic Country,https://iptv-epg.org/logos/USA/XiteClassicCountry.us.png
-XiteGospel.us,US - Xite Gospel,https://iptv-epg.org/logos/USA/XiteGospel.us.png
-XiteRock.us,US - Xite Rock,https://iptv-epg.org/logos/USA/XiteRock.us.png
-DAZNRingside.us,US - DAZN Ringside,https://iptv-epg.org/logos/USA/DAZNRingside.us.png
-DAZNTV.us,US - DAZN TV,https://iptv-epg.org/logos/USA/DAZNTV.us.png
-NBCSN.us,US - NBCSN,https://iptv-epg.org/logos/USA/NBCSN.us.png
 TMZ.us,US - TMZ,https://iptv-epg.org/logos/USA/TMZ.us.png
 WipeoutXtra.us,US - Wipeout Xtra,https://iptv-epg.org/logos/USA/WipeoutXtra.us.png
 FearFactor.us,US - Fear Factor,https://iptv-epg.org/logos/USA/FearFactor.us.png
