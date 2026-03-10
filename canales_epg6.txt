@@ -1,0 +1,189 @@
+# Fuente: https://iptv-epg.org/files/epg-cl.xml
+13C.cl,CL - 13C,https://iptv-epg.org/logos/Chile/13C.cl.png
+24Horas.cl,CL - 24 Horas,https://iptv-epg.org/logos/Chile/24Horas.cl.png
+A&amp;E.cl,CL - A&amp;E,https://iptv-epg.org/logos/Chile/A%26E.cl.png
+AlJazeera.cl,CL - Al Jazeera,https://iptv-epg.org/logos/Chile/AlJazeera.cl.png
+AMC.cl,CL - AMC,https://iptv-epg.org/logos/Chile/AMC.cl.png
+AmericaSports.cl,CL - América Sports,https://iptv-epg.org/logos/Chile/AmericaSports.cl.png
+AnimalPlanet.cl,CL - Animal Planet,https://iptv-epg.org/logos/Chile/AnimalPlanet.cl.png
+Antena3.cl,CL - Antena 3,https://iptv-epg.org/logos/Chile/Antena3.cl.png
+ARTV.cl,CL - ARTV,https://iptv-epg.org/logos/Chile/ARTV.cl.png
+AXN.cl,CL - AXN,https://iptv-epg.org/logos/Chile/AXN.cl.png
+AzCinema.cl,CL - Az Cinema,https://iptv-epg.org/logos/Chile/AzCinema.cl.png
+AzCorazon.cl,CL - Az Corazón,https://iptv-epg.org/logos/Chile/AzCorazon.cl.png
+Azteca13.cl,CL - Azteca 13,https://iptv-epg.org/logos/Chile/Azteca13.cl.png
+BabyTV.cl,CL - BabyTV,https://iptv-epg.org/logos/Chile/BabyTV.cl.png
+BBCWorld.cl,CL - BBC World,https://iptv-epg.org/logos/Chile/BBCWorld.cl.png
+Bloomberg.cl,CL - Bloomberg,https://iptv-epg.org/logos/Chile/Bloomberg.cl.png
+Canal7.cl,CL - Canal 7,
+Canal9BioBio.cl,CL - Canal 9 Bío Bío,https://iptv-epg.org/logos/Chile/Canal9BioBio.cl.png
+Canal13.cl,CL - Canal 13,https://iptv-epg.org/logos/Chile/Canal13.cl.png
+Canal24hsEspana.cl,CL - Canal 24hs España,https://iptv-epg.org/logos/Chile/Canal24hsEspana.cl.png
+CanaldelSur.cl,CL - Canal del Sur,https://iptv-epg.org/logos/Chile/CanaldelSur.cl.png
+CanalVasco.cl,CL - Canal Vasco,https://iptv-epg.org/logos/Chile/CanalVasco.cl.png
+CaracolInternacional.cl,CL - Caracol Internacional,https://iptv-epg.org/logos/Chile/CaracolInternacional.cl.png
+Cartoonito.cl,CL - Cartoonito,https://iptv-epg.org/logos/Chile/Cartoonito.cl.png
+CartoonNetwork.cl,CL - Cartoon Network,https://iptv-epg.org/logos/Chile/CartoonNetwork.cl.png
+CCTV4.cl,CL - CCTV 4,https://iptv-epg.org/logos/Chile/CCTV4.cl.png
+CDFBasico.cl,CL - CDF Básico,https://iptv-epg.org/logos/Chile/CDFBasico.cl.png
+CDF.cl,CL - CDF,https://iptv-epg.org/logos/Chile/CDF.cl.png
+CDFPremium.cl,CL - CDF Premium,https://iptv-epg.org/logos/Chile/CDFPremium.cl.png
+CDOBasico.cl,CL - CDO Básico,https://iptv-epg.org/logos/Chile/CDOBasico.cl.png
+CDO.cl,CL - CDO,https://iptv-epg.org/logos/Chile/CDO.cl.png
+CDOPremium.cl,CL - CDO Premium,https://iptv-epg.org/logos/Chile/CDOPremium.cl.png
+Chilevision.cl,CL - Chilevisión,https://iptv-epg.org/logos/Chile/Chilevision.cl.png
+Cinecanal.cl,CL - Cinecanal,https://iptv-epg.org/logos/Chile/Cinecanal.cl.png
+Cinemax.cl,CL - Cinemax,https://iptv-epg.org/logos/Chile/Cinemax.cl.png
+CNN.cl,CL - CNN,https://iptv-epg.org/logos/Chile/CNN.cl.png
+CNNChile.cl,CL - CNN Chile,https://iptv-epg.org/logos/Chile/CNNChile.cl.png
+CNNenEspanol.cl,CL - CNN en Español,https://iptv-epg.org/logos/Chile/CNNenEspanol.cl.png
+ComedyCentral.cl,CL - Comedy Central,https://iptv-epg.org/logos/Chile/ComedyCentral.cl.png
+ConcertChannel.cl,CL - Concert Channel,https://iptv-epg.org/logos/Chile/ConcertChannel.cl.png
+DePelicula.cl,CL - De Película,https://iptv-epg.org/logos/Chile/DePelicula.cl.png
+DHE.cl,CL - DHE,https://iptv-epg.org/logos/Chile/DHE.cl.png
+DiscoveryChannel.cl,CL - Discovery Channel,https://iptv-epg.org/logos/Chile/DiscoveryChannel.cl.png
+DiscoveryCivilization.cl,CL - Discovery Civilization,https://iptv-epg.org/logos/Chile/DiscoveryCivilization.cl.png
+Discovery.cl,CL - Discovery,https://iptv-epg.org/logos/Chile/Discovery.cl.png
+DiscoveryHome&amp;Health.cl,CL - Discovery Home &amp; Health,https://iptv-epg.org/logos/Chile/DiscoveryHome%26Health.cl.png
+DiscoveryKids.cl,CL - Discovery Kids,https://iptv-epg.org/logos/Chile/DiscoveryKids.cl.png
+DiscoveryScience.cl,CL - Discovery Science,https://iptv-epg.org/logos/Chile/DiscoveryScience.cl.png
+DiscoveryTheater.cl,CL - Discovery Theater,https://iptv-epg.org/logos/Chile/DiscoveryTheater.cl.png
+DiscoveryTurbo.cl,CL - Discovery Turbo,https://iptv-epg.org/logos/Chile/DiscoveryTurbo.cl.png
+DiscoveryWorld.cl,CL - Discovery World,https://iptv-epg.org/logos/Chile/DiscoveryWorld.cl.png
+DisneyChannel.cl,CL - Disney Channel,https://iptv-epg.org/logos/Chile/DisneyChannel.cl.png
+DisneyJunior.cl,CL - Disney Junior,https://iptv-epg.org/logos/Chile/DisneyJunior.cl.png
+DisneyXD.cl,CL - Disney XD,https://iptv-epg.org/logos/Chile/DisneyXD.cl.png
+DW(Espanol).cl,CL - DW (Español),https://iptv-epg.org/logos/Chile/DW%28Espanol%29.cl.png
+E!.cl,CL - E!,https://iptv-epg.org/logos/Chile/E%21.cl.png
+EcoolTV.cl,CL - Ecool TV,https://iptv-epg.org/logos/Chile/EcoolTV.cl.png
+ElGarageTv.cl,CL - El Garage Tv,https://iptv-epg.org/logos/Chile/ElGarageTv.cl.png
+ElGourmet.cl,CL - El Gourmet,https://iptv-epg.org/logos/Chile/ElGourmet.cl.png
+ElTreceInternacional.cl,CL - El Trece Internacional,https://iptv-epg.org/logos/Chile/ElTreceInternacional.cl.png
+EnlaceTBN.cl,CL - Enlace TBN,https://iptv-epg.org/logos/Chile/EnlaceTBN.cl.png
+ETCTV.cl,CL - ETC TV,https://iptv-epg.org/logos/Chile/ETCTV.cl.png
+Eurochannel.cl,CL - Eurochannel,https://iptv-epg.org/logos/Chile/Eurochannel.cl.png
+Euronews.cl,CL - Euronews,https://iptv-epg.org/logos/Chile/Euronews.cl.png
+EuropaEuropa.cl,CL - Europa Europa,https://iptv-epg.org/logos/Chile/EuropaEuropa.cl.png
+EWTN.cl,CL - EWTN,https://iptv-epg.org/logos/Chile/EWTN.cl.png
+film&amp;arts.cl,CL - film&amp;arts,https://iptv-epg.org/logos/Chile/film%26arts.cl.png
+FOXNewsInternacional.cl,CL - FOX News Internacional,https://iptv-epg.org/logos/Chile/FOXNewsInternacional.cl.png
+FOXSports.cl,CL - FOX Sports,https://iptv-epg.org/logos/Chile/FOXSports.cl.png
+FOXSports1.cl,CL - FOX Sports 1,https://iptv-epg.org/logos/Chile/FOXSports1.cl.png
+FOXSports2.cl,CL - FOX Sports 2,https://iptv-epg.org/logos/Chile/FOXSports2.cl.png
+FOXSports3.cl,CL - FOX Sports 3,https://iptv-epg.org/logos/Chile/FOXSports3.cl.png
+FOXSportsBasico.cl,CL - FOX Sports Básico,https://iptv-epg.org/logos/Chile/FOXSportsBasico.cl.png
+France24(Ingles).cl,CL - France 24 (Inglés),https://iptv-epg.org/logos/Chile/France24%28Ingles%29.cl.png
+Funbox.cl,CL - Funbox,https://iptv-epg.org/logos/Chile/Funbox.cl.png
+FX.cl,CL - FX,https://iptv-epg.org/logos/Chile/FX.cl.png
+FXMovies.cl,CL - FX Movies,https://iptv-epg.org/logos/Chile/FXMovies.cl.png
+Glitz.cl,CL - Glitz,https://iptv-epg.org/logos/Chile/Glitz.cl.png
+Golden.cl,CL - Golden,https://iptv-epg.org/logos/Chile/Golden.cl.png
+GoldenEdge.cl,CL - Golden Edge,https://iptv-epg.org/logos/Chile/GoldenEdge.cl.png
+GOLTV.cl,CL - GOL TV,https://iptv-epg.org/logos/Chile/GOLTV.cl.png
+HBO.cl,CL - HBO,https://iptv-epg.org/logos/Chile/HBO.cl.png
+HBO2.cl,CL - HBO 2,https://iptv-epg.org/logos/Chile/HBO2.cl.png
+HBOFamily.cl,CL - HBO Family,https://iptv-epg.org/logos/Chile/HBOFamily.cl.png
+HBOMundi.cl,CL - HBO Mundi,https://iptv-epg.org/logos/Chile/HBOMundi.cl.png
+HBOPlusEste.cl,CL - HBO Plus Este,https://iptv-epg.org/logos/Chile/HBOPlusEste.cl.png
+HBOPlusPanregional.cl,CL - HBO Plus Panregional,https://iptv-epg.org/logos/Chile/HBOPlusPanregional.cl.png
+HBOPop.cl,CL - HBO Pop,https://iptv-epg.org/logos/Chile/HBOPop.cl.png
+HBOSignature.cl,CL - HBO Signature,https://iptv-epg.org/logos/Chile/HBOSignature.cl.png
+HBOXtreme.cl,CL - HBO Xtreme,https://iptv-epg.org/logos/Chile/HBOXtreme.cl.png
+HBOXtreme(Oeste).cl,CL - HBO Xtreme (Oeste),https://iptv-epg.org/logos/Chile/HBOXtreme%28Oeste%29.cl.png
+History.cl,CL - History,https://iptv-epg.org/logos/Chile/History.cl.png
+History2.cl1,CL1 - CL - History 2,https://iptv-epg.org/logos/Chile/History2.cl1.png
+HTV.cl,CL - HTV,https://iptv-epg.org/logos/Chile/HTV.cl.png
+I.Sat.cl,SAT - I.Sat,https://iptv-epg.org/logos/Chile/I.Sat.cl.png
+InvestigationDiscovery.cl,CL - Investigation Discovery,https://iptv-epg.org/logos/Chile/InvestigationDiscovery.cl.png
+ISBTV.cl,CL - ISB TV,https://iptv-epg.org/logos/Chile/ISBTV.cl.png
+LaRed.cl,CL - La Red,https://iptv-epg.org/logos/Chile/LaRed.cl.png
+LasEstrellas.cl,CL - Las Estrellas,https://iptv-epg.org/logos/Chile/LasEstrellas.cl.png
+Lifetime.cl,CL - Lifetime,https://iptv-epg.org/logos/Chile/Lifetime.cl.png
+Mariavision.cl,CL - Mariavisión,https://iptv-epg.org/logos/Chile/Mariavision.cl.png
+Mega.cl,CL - Mega,https://iptv-epg.org/logos/Chile/Mega.cl.png
+MTV.cl,CL - MTV,https://iptv-epg.org/logos/Chile/MTV.cl.png
+MTVDance.cl,CL - MTV Dance,https://iptv-epg.org/logos/Chile/MTVDance.cl.png
+MTVHits.cl,CL - MTV Hits,https://iptv-epg.org/logos/Chile/MTVHits.cl.png
+MTVLive.cl,CL - MTV Live,https://iptv-epg.org/logos/Chile/MTVLive.cl.png
+MuchMusic.cl,CL - MuchMusic,https://iptv-epg.org/logos/Chile/MuchMusic.cl.png
+MundoTV.cl,CL - Mundo TV,https://iptv-epg.org/logos/Chile/MundoTV.cl.png
+MasChic.cl,CL - Mas Chic,https://iptv-epg.org/logos/Chile/MasChic.cl.png
+NatGeoKids.cl,CL - Nat Geo Kids,https://iptv-epg.org/logos/Chile/NatGeoKids.cl.png
+NatGeoWild.cl,CL - Nat Geo Wild,https://iptv-epg.org/logos/Chile/NatGeoWild.cl.png
+NationalGeographic.cl,CL - National Geographic,https://iptv-epg.org/logos/Chile/NationalGeographic.cl.png
+NHKWorld.cl,CL - NHK World,https://iptv-epg.org/logos/Chile/NHKWorld.cl.png
+NHKWorldPremium.cl,CL - NHK World Premium,https://iptv-epg.org/logos/Chile/NHKWorldPremium.cl.png
+Nick.cl,CL - Nick,https://iptv-epg.org/logos/Chile/Nick.cl.png
+Nick2.cl,CL - Nick 2,https://iptv-epg.org/logos/Chile/Nick2.cl.png
+NickJr.cl,CL - Nick Jr.,https://iptv-epg.org/logos/Chile/NickJr.cl.png
+NuevoTiempo.cl,CL - Nuevo Tiempo,https://iptv-epg.org/logos/Chile/NuevoTiempo.cl.png
+ParamountNetwork.cl,CL - Paramount Network,https://iptv-epg.org/logos/Chile/ParamountNetwork.cl.png
+RadioAgricultura.cl,CL - Radio Agricultura,https://iptv-epg.org/logos/Chile/RadioAgricultura.cl.png
+RadioBeethoven.cl,CL - Radio Beethoven,https://iptv-epg.org/logos/Chile/RadioBeethoven.cl.png
+RaiItalia.cl,CL - Rai Italia,https://iptv-epg.org/logos/Chile/RaiItalia.cl.png
+RECTV.cl,CL - REC TV,https://iptv-epg.org/logos/Chile/RECTV.cl.png
+RMS.cl,CL - RMS,https://iptv-epg.org/logos/Chile/RMS.cl.png
+RussiaToday.cl,CL - Russia Today,https://iptv-epg.org/logos/Chile/RussiaToday.cl.png
+Sony.cl,CL - Sony,https://iptv-epg.org/logos/Chile/Sony.cl.png
+Space.cl,CL - Space,https://iptv-epg.org/logos/Chile/Space.cl.png
+StarAction.cl,CL - Star Action,https://iptv-epg.org/logos/Chile/StarAction.cl.png
+StarAction(Oeste).cl,CL - Star Action (Oeste),https://iptv-epg.org/logos/Chile/StarAction%28Oeste%29.cl.png
+StarChannel.cl,CL - Star Channel,https://iptv-epg.org/logos/Chile/StarChannel.cl.png
+StarCinema.cl,CL - Star Cinema,https://iptv-epg.org/logos/Chile/StarCinema.cl.png
+StarClassics.cl,CL - Star Classics,https://iptv-epg.org/logos/Chile/StarClassics.cl.png
+StarComedy.cl,CL - Star Comedy,https://iptv-epg.org/logos/Chile/StarComedy.cl.png
+StarFun.cl,CL - Star Fun,https://iptv-epg.org/logos/Chile/StarFun.cl.png
+StarFun(Oeste).cl,CL - Star Fun (Oeste),https://iptv-epg.org/logos/Chile/StarFun%28Oeste%29.cl.png
+StarHits.cl,CL - Star Hits,https://iptv-epg.org/logos/Chile/StarHits.cl.png
+StarLife.cl,CL - Star Life,https://iptv-epg.org/logos/Chile/StarLife.cl.png
+StarSeries.cl,CL - Star Series,https://iptv-epg.org/logos/Chile/StarSeries.cl.png
+StarSeries(Oeste).cl,CL - Star Series (Oeste),https://iptv-epg.org/logos/Chile/StarSeries%28Oeste%29.cl.png
+StudioUniversal.cl,CL - Studio Universal,https://iptv-epg.org/logos/Chile/StudioUniversal.cl.png
+Syfy.cl,CL - Syfy,https://iptv-epg.org/logos/Chile/Syfy.cl.png
+TBS.cl,CL - TBS,https://iptv-epg.org/logos/Chile/TBS.cl.png
+TCM.cl,CL - TCM,https://iptv-epg.org/logos/Chile/TCM.cl.png
+TelefeInternacional.cl,CL - Telefe Internacional,https://iptv-epg.org/logos/Chile/TelefeInternacional.cl.png
+teleSURChile.cl,CL - teleSUR Chile,https://iptv-epg.org/logos/Chile/teleSURChile.cl.png
+Teletrak.cl,CL - Teletrak,https://iptv-epg.org/logos/Chile/Teletrak.cl.png
+TLC.cl,CL - TLC,https://iptv-epg.org/logos/Chile/TLC.cl.png
+TLNovelas.cl,CL - TLNovelas,https://iptv-epg.org/logos/Chile/TLNovelas.cl.png
+TNT.cl,CL - TNT,https://iptv-epg.org/logos/Chile/TNT.cl.png
+TNTSeries.cl,CL - TNT Series,https://iptv-epg.org/logos/Chile/TNTSeries.cl.png
+Tooncast.cl,CL - Tooncast,https://iptv-epg.org/logos/Chile/Tooncast.cl.png
+TruTV.cl,CL - TruTV,https://iptv-epg.org/logos/Chile/TruTV.cl.png
+truTV.cl,CL - truTV,http://iptvboss.xyz/logos/Chile/TruTV.cl.png
+TV5.cl,CL - TV 5,https://iptv-epg.org/logos/Chile/TV5.cl.png
+TVDiputados.cl,CL - TV Diputados,https://iptv-epg.org/logos/Chile/TVDiputados.cl.png
+TVE.cl,CL - TVE,https://iptv-epg.org/logos/Chile/TVE.cl.png
+TVGlobo.cl,CL - TV Globo,https://iptv-epg.org/logos/Chile/TVGlobo.cl.png
+TVN.cl,CL - TVN,https://iptv-epg.org/logos/Chile/TVN.cl.png
+TVSenado.cl,CL - TV Senado,https://iptv-epg.org/logos/Chile/TVSenado.cl.png
+TVU.cl,CL - TVU,https://iptv-epg.org/logos/Chile/TVU.cl.png
+UCVTV.cl,CL - UCV TV,https://iptv-epg.org/logos/Chile/UCVTV.cl.png
+Ufrovision.cl,CL - Ufrovisión,https://iptv-epg.org/logos/Chile/Ufrovision.cl.png
+Unicable.cl,CL - Unicable,https://iptv-epg.org/logos/Chile/Unicable.cl.png
+UniversalTV.cl,CL - Universal TV,https://iptv-epg.org/logos/Chile/UniversalTV.cl.png
+UniversidadAutonomaTemuco(UATV).cl,CL - Universidad Autónoma Temuco (UATV),https://iptv-epg.org/logos/Chile/UniversidadAutonomaTemuco%28UATV%29.cl.png
+VH1.cl,CL - VH1,https://iptv-epg.org/logos/Chile/VH1.cl.png
+VH1MegaHits.cl,CL - VH1 Mega Hits,https://iptv-epg.org/logos/Chile/VH1MegaHits.cl.png
+ViaX.cl,CL - Vía X,https://iptv-epg.org/logos/Chile/ViaX.cl.png
+WarnerChannel.cl,CL - Warner Channel,https://iptv-epg.org/logos/Chile/WarnerChannel.cl.png
+ZonaLatina.cl,CL - Zona Latina,https://iptv-epg.org/logos/Chile/ZonaLatina.cl.png
+ESPNExtra.cl,CL - ESPN Extra,https://iptv-epg.org/logos/Chile/ESPNExtra.cl.png
+TelevisionNacionalDeChile.ch,CH - Televisión Nacional de Chile,https://iptv-epg.org/logos/Chile/TelevisionNacionalDeChile.ch.png
+TNTSportsPremium.cl,CL - TNT Sports Premium,https://iptv-epg.org/logos/Chile/TNTSportsPremium.cl.png
+TNTSports.cl,CL - TNT Sports,https://iptv-epg.org/logos/Chile/TNTSports.cl.png
+TNTSports3.cl,CL - TNT Sports 3,https://iptv-epg.org/logos/Chile/TNTSports3.cl.png
+ESPN.cl,CL - ESPN,https://iptv-epg.org/logos/Chile/ESPN.cl.png
+ESPN2.cl,CL - ESPN 2,https://iptv-epg.org/logos/Chile/ESPN2.cl.png
+ESPN3.cl,CL - ESPN 3,https://iptv-epg.org/logos/Chile/ESPN3.cl.png
+ESPN4.cl,CL - ESPN 4,https://iptv-epg.org/logos/Chile/ESPN4.cl.png
+ESPN5.cl,CL - ESPN 5,https://iptv-epg.org/logos/Chile/ESPN5.cl.png
+ESPN6.cl,CL - ESPN 6,https://iptv-epg.org/logos/Chile/ESPN6.cl.png
+ESPN7.cl,CL - ESPN 7,https://iptv-epg.org/logos/Chile/ESPN7.cl.png
+TyCSports.cl,CL - TyC Sports,https://iptv-epg.org/logos/Chile/TyCSports.cl.png
+DIRECTVSports.cl,CL - DIRECTV Sports,https://iptv-epg.org/logos/Chile/DIRECTVSports.cl.png
+DIRECTVSports2.cl,CL - DIRECTV Sports 2,https://iptv-epg.org/logos/Chile/DIRECTVSports2.cl.png
+DIRECTVSports+.cl,CL - DIRECTV Sports +,https://iptv-epg.org/logos/Chile/DIRECTVSports%2B.cl.png
+DIRECTVSportsFight.cl,CL - DIRECTV Sports Fight,https://iptv-epg.org/logos/Chile/DIRECTVSportsFight.cl.png
+GolfChannel.cl,CL - Golf Channel,https://iptv-epg.org/logos/Chile/GolfChannel.cl.png
