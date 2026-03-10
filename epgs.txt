@@ -2,6 +2,5 @@ https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
 https://iptv-epg.org/files/epg-ar.xml
 https://iptv-epg.org/files/epg-mx.xml
 https://iptv-epg.org/files/epg-us.xml
-https://iptv-epg.org/files/epg-co.xml
 https://iptv-epg.org/files/epg-cl.xml
 https://iptv-epg.org/files/epg-uy.xml
