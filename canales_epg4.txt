@@ -1592,8 +1592,6 @@ UP.us,US - UPTV,https://iptv-epg.org/logos/USA/UP.us.png
 WeTV.us,US - WE TV,https://iptv-epg.org/logos/USA/WeTV.us.png
 OvationTV.us,US - OVATION,https://iptv-epg.org/logos/USA/OvationTV.us.png
 HSN2.us,US - HSN2,https://iptv-epg.org/logos/USA/HSN2.us.png
-CookingChannel.us,US - COOKING CHANNEL,https://iptv-epg.org/logos/USA/CookingChannel.us.png
-CookingChannelPacific.us,US - Cooking Channel West,https://iptv-epg.org/logos/USA/CookingChannelPacific.us.png
 DiscoveryLifeChannel.us,US - DISCOVERY LIFE,https://iptv-epg.org/logos/USA/DiscoveryLifeChannel.us.png
 DiscoveryLifePacific.us,US - Discovery Life West,https://iptv-epg.org/logos/USA/DiscoveryLifePacific.us.png
 MTV.us,US - MTV,https://iptv-epg.org/logos/USA/MTV.us.png
@@ -1819,6 +1817,9 @@ StingrayTotalHitsRussia.us,US - Stingray Total Hits Russia,https://iptv-epg.org/
 StingrayTotalHitsPoland.us,US - Stingray Total Hits Poland,https://iptv-epg.org/logos/USA/StingrayTotalHitsPoland.us.png
 SmithsonianNetwork.us,US - SMITHSONIAN CHANNEL,https://iptv-epg.org/logos/USA/SmithsonianNetwork.us.png
 SmithsonianNetworkPacifics.us,US - Smithsonian Network West,
+FIDO.us,US - Fido TV,https://iptv-epg.org/logos/USA/FIDO.us.png
+VmeKids.us,US - Vme Kids,https://iptv-epg.org/logos/USA/VmeKids.us.png
+AapkaColors.us,US - Aapka Colors,https://iptv-epg.org/logos/USA/AapkaColors.us.png
 PBS.us,US - PBS WNED,https://iptv-epg.org/logos/USA/PBS.us.png
 QVC.us,US - QVC,https://iptv-epg.org/logos/USA/QVC.us.png
 NFLNetwork.us,US - NFL Network,https://iptv-epg.org/logos/USA/NFLNetwork.us.png
@@ -1836,6 +1837,7 @@ Laff.us,US - LAFF TV,https://iptv-epg.org/logos/USA/Laff.us.png
 BUZZR.us,US - BUZZR,https://iptv-epg.org/logos/USA/BUZZR.us.png
 GreatAmericanLiving.us,US - Great American Living,https://iptv-epg.org/logos/USA/GreatAmericanLiving.us.png
 IonTV.us,US - ION TV,https://iptv-epg.org/logos/USA/IonTV.us.png
+IONTVPacific.us,US - ION TV West,https://iptv-epg.org/logos/USA/IONTVPacific.us.png
 BETHer.us,US - BET HER,https://iptv-epg.org/logos/USA/BETHer.us.png
 QVC2.us,US - QVC 2,https://iptv-epg.org/logos/USA/QVC2.us.png
 INSP.us,US - INSP,https://iptv-epg.org/logos/USA/INSP.us.png
@@ -1872,6 +1874,12 @@ beINSportsEnEspanol.us,US - BEIN SPORTS ESP US,https://iptv-epg.org/logos/USA/be
 FreeSpeechTV.us,US - Free Speech TV,https://iptv-epg.org/logos/USA/FreeSpeechTV.us.png
 UniMas.us,US - UniMas,https://iptv-epg.org/logos/USA/UniMas.us.png
 BabyFirst.us,US - BABY FIRST,https://iptv-epg.org/logos/USA/BabyFirst.us.png
+VictoryChannel.us,US - Victory Channel,https://iptv-epg.org/logos/USA/VictoryChannel.us.png
+3ABN.us,US - 3ABN,https://iptv-epg.org/logos/USA/3ABN.us.png
+MeTV.us,US - MeTV,https://iptv-epg.org/logos/USA/MeTV.us.png
+MeTvToons.us,US - MeTV Toons,https://iptv-epg.org/logos/USA/MeTvToons.us.png
+AAJTak.us,US - AAJ TAK,https://iptv-epg.org/logos/USA/AAJTak.us.png
+ZLiving.us,US - Z Living,https://iptv-epg.org/logos/USA/ZLiving.us.png
 USANetworkPacific.us,US - USA NETWORK WEST,https://iptv-epg.org/logos/USA/USANetworkPacific.us.png
 YurViewCalifornia.us,US - YurView California,https://iptv-epg.org/logos/USA/YurViewCalifornia.us.png
 FreeformPacific.us,US - Freeform West,https://iptv-epg.org/logos/USA/FreeformPacific.us.png
@@ -1990,6 +1998,8 @@ MusicChoiceSingersAndSwing.us,US - Music Choice Singers &amp; Swing,https://iptv
 MusicChoiceEasyListening.us,US - Music Choice Easy Listening,https://iptv-epg.org/logos/USA/MusicChoiceEasyListening.us.png
 MusicChoiceChristmas.us,US - Music Choice Christmas,https://iptv-epg.org/logos/USA/MusicChoiceChristmas.us.png
 MusicChoiceSoundsOftheSeasons.us,US - Music Choice Sounds of the Seasons,https://iptv-epg.org/logos/USA/MusicChoiceSoundsOftheSeasons.us.png
+GalavisionPacific.us,US - Galavision West,https://iptv-epg.org/logos/USA/GalavisionPacific.us.png
+UniversoPacific.us,US - Universo West,https://iptv-epg.org/logos/USA/UniversoPacific.us.png
 JewelryTelevision.us,US - Jewelry Television,https://iptv-epg.org/logos/USA/JewelryTelevision.us.png
 EarthxTV.us,US - EarthxTV,https://iptv-epg.org/logos/USA/EarthxTV.us.png
 ScientologyNetwork.us,US - Scientology Network,https://iptv-epg.org/logos/USA/ScientologyNetwork.us.png
@@ -2046,6 +2056,24 @@ DirecTV4K.us,US - DirecTV 4K,https://iptv-epg.org/logos/USA/DirecTV4K.us.png
 RangersSportsNetwork.us,US - Rangers Sports Network,https://iptv-epg.org/logos/USA/RangersSportsNetwork.us.png
 CTN.us,US - CTN,https://iptv-epg.org/logos/USA/CTN.us.png
 HOPEChannel.us,US - HOPE CHANNEL,https://iptv-epg.org/logos/USA/HOPEChannel.us.png
+nbaleaguepass751.us,US - NBA LEAGUE PASS 751,https://iptv-epg.org/logos/USA/nbaleaguepass751.us.png
+nbaleaguepass752.us,US - NBA LEAGUE PASS 752,https://iptv-epg.org/logos/USA/nbaleaguepass752.us.png
+nbaleaguepass753.us,US - NBA LEAGUE PASS 753,https://iptv-epg.org/logos/USA/nbaleaguepass753.us.png
+nbaleaguepass754.us,US - NBA LEAGUE PASS 754,https://iptv-epg.org/logos/USA/nbaleaguepass754.us.png
+nbaleaguepass755.us,US - NBA LEAGUE PASS 755,https://iptv-epg.org/logos/USA/nbaleaguepass755.us.png
+nbaleaguepass756.us,US - NBA LEAGUE PASS 756,https://iptv-epg.org/logos/USA/nbaleaguepass756.us.png
+nbaleaguepass757.us,US - NBA LEAGUE PASS 757,https://iptv-epg.org/logos/USA/nbaleaguepass757.us.png
+nbaleaguepass758.us,US - NBA LEAGUE PASS 758,https://iptv-epg.org/logos/USA/nbaleaguepass758.us.png
+nbaleaguepass759.us,US - NBA LEAGUE PASS 759,https://iptv-epg.org/logos/USA/nbaleaguepass759.us.png
+nbaleaguepass760.us,US - NBA LEAGUE PASS 760,https://iptv-epg.org/logos/USA/nbaleaguepass760.us.png
+nbaleaguepass761.us,US - NBA LEAGUE PASS 761,https://iptv-epg.org/logos/USA/nbaleaguepass761.us.png
+nbaleaguepass762.us,US - NBA LEAGUE PASS 762,https://iptv-epg.org/logos/USA/nbaleaguepass762.us.png
+nbaleaguepass763.us,US - NBA LEAGUE PASS 763,https://iptv-epg.org/logos/USA/nbaleaguepass763.us.png
+nbaleaguepass764.us,US - NBA LEAGUE PASS 764,https://iptv-epg.org/logos/USA/nbaleaguepass764.us.png
+nbaleaguepass765.us,US - NBA LEAGUE PASS 765,https://iptv-epg.org/logos/USA/nbaleaguepass765.us.png
+nbaleaguepass766.us,US - NBA LEAGUE PASS 766,https://iptv-epg.org/logos/USA/nbaleaguepass766.us.png
+nbaleaguepass767.us,US - NBA LEAGUE PASS 767,https://iptv-epg.org/logos/USA/nbaleaguepass767.us.png
+nbaleaguepass768.us,US - NBA LEAGUE PASS 768,https://iptv-epg.org/logos/USA/nbaleaguepass768.us.png
 AandENetworkPacific.us,US - A&amp;E Network West,https://iptv-epg.org/logos/USA/AandENetworkPacific.us.png
 HistoryChannelPacific.us,US - History Channel West,https://iptv-epg.org/logos/USA/HistoryChannelPacific.us.png
 BBCAmericaPacific.us,US - BBC America West,https://iptv-epg.org/logos/USA/BBCAmericaPacific.us.png
@@ -2102,8 +2130,11 @@ The365.us,US - The 365,https://iptv-epg.org/logos/USA/The365.us.png
 Outlaw.us,US - Outlaw,https://iptv-epg.org/logos/USA/Outlaw.us.png
 NoseyNYC.us,US - NoseyTV,https://iptv-epg.org/logos/USA/NoseyNYC.us.png
 Quest.us,US - Quest TV,https://iptv-epg.org/logos/USA/Quest.us.png
-AltitudeSports2.us,US - Altitude Sports 2,https://iptv-epg.org/logos/USA/AltitudeSports2.us.png
-RecipeTV.us,US - Recipe.TV,https://iptv-epg.org/logos/USA/RecipeTV.us.png
+CBSEast_WCBS.us,US - CBS East WCBS,https://iptv-epg.org/logos/USA/CBSEast_WCBS.us.png
+NBCEast_WNBC.us,US - NBC East WNBC,https://iptv-epg.org/logos/USA/NBCEast_WNBC.us.png
+FoxEast_WNYW.us,US - Fox East WNYW,https://iptv-epg.org/logos/USA/FoxEast_WNYW.us.png
+ABCEast_WABC.us,US - ABC East WABC,https://iptv-epg.org/logos/USA/ABCEast_WABC.us.png
+AMGTV.us,US - AMG TV,https://iptv-epg.org/logos/USA/AMGTV.us.png
 SpectrumNewsLA.us,US - Spectrum News LA,https://iptv-epg.org/logos/USA/SpectrumNewsLA.us.png
 SpectrumSportsNetLALakers.us,US - Spectrum Sportsnet Lakers,https://iptv-epg.org/logos/USA/SpectrumSportsNetLALakers.us.png
 SpectrumSportsNetLADodgers.us,US - Sportsnet L.A. Dodgers,https://iptv-epg.org/logos/USA/SpectrumSportsNetLADodgers.us.png
@@ -2117,12 +2148,18 @@ i24News.us,US - i24 News,https://iptv-epg.org/logos/USA/i24News.us.png
 HallmarkMysteryPacific.us,US - Hallmark Mystery West,https://iptv-epg.org/logos/USA/HallmarkMysteryPacific.us.png
 HeroesAndIconsWest.us,US - Heroes &amp; Icons West,https://iptv-epg.org/logos/USA/HeroesAndIconsWest.us.png
 KidsStreet.us,US - Kids Street,https://iptv-epg.org/logos/USA/KidsStreet.us.png
+TVK.us,US - TVK,https://iptv-epg.org/logos/USA/TVK.us.png
+TVK2.us,US - TVK 2,https://iptv-epg.org/logos/USA/TVK2.us.png
+MBC.us,US - MBC,https://iptv-epg.org/logos/USA/MBC.us.png
+EWTNEspanol.us,US - EWTN Espanol,https://iptv-epg.org/logos/USA/EWTNEspanol.us.png
+AplausoTV.us,US - Aplauso TV,https://iptv-epg.org/logos/USA/AplausoTV.us.png
 ImpactNetwork.us,US - Impact Network,https://iptv-epg.org/logos/USA/ImpactNetwork.us.png
 PBSKidsNYC.us,US - PBS KIDS NYC,https://iptv-epg.org/logos/USA/PBSKidsNYC.us.png
 SNY.us,US - SPORTSNET NY,https://iptv-epg.org/logos/USA/SNY.us.png
 YES2Overflow.us,US - YES 2 Overflow,https://iptv-epg.org/logos/USA/YES2Overflow.us.png
 MyDestinationTV.us,US - My Destination.TV,https://iptv-epg.org/logos/USA/MyDestinationTV.us.png
 LawAndCrime.us,US - Law &amp; Crime,https://iptv-epg.org/logos/USA/LawAndCrime.us.png
+JBS.us,US - Jewish Broadcasting Service,https://iptv-epg.org/logos/USA/JBS.us.png
 AMERICATEVE.us,US - AMERICA TEVE,https://iptv-epg.org/logos/USA/AMERICATEVE.us.png
 WapaWTIN.pr,PR - Wapa WTIN,https://iptv-epg.org/logos/USA/WapaWTIN.pr.png
 TeleOnce.pr,PR - TeleOnce WSUR-DT,https://iptv-epg.org/logos/USA/TeleOnce.pr.png
@@ -2136,19 +2173,23 @@ MEGATV.pr,PR - MEGA TV,https://iptv-epg.org/logos/USA/MEGATV.pr.png
 TelemundoTwo.pr,PR - Telemundo Two WKAQ-DT2,https://iptv-epg.org/logos/USA/TelemundoTwo.pr.png
 WAPA2.pr,PR - WAPA 2,https://iptv-epg.org/logos/USA/WAPA2.pr.png
 ViendoMovies.us,US - Viendo Movies,https://iptv-epg.org/logos/USA/ViendoMovies.us.png
-GalavisionPacific.us,US - Galavision West,https://iptv-epg.org/logos/USA/GalavisionPacific.us.png
-UniversoPacific.us,US - Universo West,https://iptv-epg.org/logos/USA/UniversoPacific.us.png
 FanDuelSportsNetworkOhio.us,US - FanDuel Sports Network Cincinnati,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkOhio.us.png
-FanDuelSportsNetworkNorthPlus.us,US - FanDuel Sports Network North Plus,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkNorthPlus.us.png
+FanDuelSportsNetworkCleveland.us,US - FanDuel Sports Network Cleveland,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkCleveland.us.png
+FanDuelSportsNetworkNorth.us,US - FanDuel Sports Network North,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkNorth.us.png
+FanDuelSportsNetworkNorthExtra.us,US - FanDuel Sports Network North Extra,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkNorthExtra.us.png
 FanDuelSportsNetworkSun.us,US - FanDuel Sports Network Sun,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkSun.us.png
 FanDuelSportsNetworkTennesseePlus.us,US - FanDuel Sports Network Tennessee Plus,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkTennesseePlus.us.png
 FanDuelSportsNetworkNashville.us,US - FanDuel Sports Network Nashville,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkNashville.us.png
 FanDuelSportsNetworkWisconsinPlus.us,US - FanDuel Sports Network Wisconsin Plus,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkWisconsinPlus.us.png
 FanDuelSportsNetworkDetroit.us,US - FanDuel Sports Network Detroit,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkDetroit.us.png
+FanDuelSportsNetworkDetroitExtra.us,US - FanDuel Sports Network Detroit Extra,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkDetroitExtra.us.png
+CBNNews.us,US - CBN News,https://iptv-epg.org/logos/USA/CBNNews.us.png
+TheWordNetwork.us,US - The Word Network,https://iptv-epg.org/logos/USA/TheWordNetwork.us.png
 FanDuelSportsNetworkSanAntonio.us,US - FanDuel Sports Network San Antonio,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkSanAntonio.us.png
 FanDuelSportsNetworkIndiana.us,US - FanDuel Sports Network Indiana,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkIndiana.us.png
 FanDuelSportsNetworkCarolinas.us,US - FanDuel Sports Network Carolinas,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkCarolinas.us.png
 FanDuelSportsNetworkKansasCity.us,US - FanDuel Sports Network Kansas City,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkKansasCity.us.png
+FanDuelSportsNetworkKansasCityExtra.us,US - FanDuel Sports Network Kansas City Extra,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkKansasCityExtra.us.png
 FanDuelSportsNetworkOklahoma.us,US - FanDuel Sports Network Oklahoma,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkOklahoma.us.png
 FanDuelSportsNetworkOklahomaExtra.us,US - FanDuel Sports Network Oklahoma Extra,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkOklahomaExtra.us.png
 INFAST.us,US - INFAST,https://iptv-epg.org/logos/USA/INFAST.us.png
@@ -2159,12 +2200,17 @@ TyCSportsInt.us,US - TyC Sports International,https://iptv-epg.org/logos/USA/TyC
 RaiItalia.us,US - Rai Italia,https://iptv-epg.org/logos/USA/RaiItalia.us.png
 FloRacing.us,US - FloRacing,https://iptv-epg.org/logos/USA/FloRacing.us.png
 PBRRidePass.us,US - PBR RidePass,https://iptv-epg.org/logos/USA/PBRRidePass.us.png
+Roar.us,US - Roar,https://iptv-epg.org/logos/USA/Roar.us.png
+RoarPacific.us,US - Roar West,https://iptv-epg.org/logos/USA/RoarPacific.us.png
 HomeMadeNation.us,US - Home.Made.Nation,
 XiteClassicCountry.us,US - Xite Classic Country,https://iptv-epg.org/logos/USA/XiteClassicCountry.us.png
 XiteGospel.us,US - Xite Gospel,https://iptv-epg.org/logos/USA/XiteGospel.us.png
 XiteRock.us,US - Xite Rock,https://iptv-epg.org/logos/USA/XiteRock.us.png
 DAZNRingside.us,US - DAZN Ringside,https://iptv-epg.org/logos/USA/DAZNRingside.us.png
 DAZNTV.us,US - DAZN TV,https://iptv-epg.org/logos/USA/DAZNTV.us.png
+PBSNetworkEastern.us,US - PBS Network Eastern,https://iptv-epg.org/logos/USA/PBSNetworkEastern.us.png
+PBSNetworkPacific.us,US - PBS Network Pacific,https://iptv-epg.org/logos/USA/PBSNetworkPacific.us.png
+ZeeTamil.us,US - Zee Tamil,https://iptv-epg.org/logos/USA/ZeeTamil.us.png
 ESPN4K.us,US - ESPN 4K,https://iptv-epg.org/logos/USA/ESPN4K.us.png
 VSIN.us,US - VSIN Vegas Sports &amp; Information Network,https://iptv-epg.org/logos/USA/VSIN.us.png
 NBCSN.us,US - NBCSN,https://iptv-epg.org/logos/USA/NBCSN.us.png
@@ -2184,16 +2230,13 @@ BigTen1.us,US - Big Ten Network 1,https://iptv-epg.org/logos/USA/BigTen1.us.png
 BigTen2.us,US - Big Ten Network 2,https://iptv-epg.org/logos/USA/BigTen2.us.png
 BigTen3.us,US - Big Ten Network 3,https://iptv-epg.org/logos/USA/BigTen3.us.png
 BigTen4.us,US - Big Ten Network 4,https://iptv-epg.org/logos/USA/BigTen4.us.png
+RealAmericasVoice.us,US - Real America's Voice,https://iptv-epg.org/logos/USA/RealAmericasVoice.us.png
 SpectrumNewsBayNews9.us,US - Spectrum News Bay News 9,https://iptv-epg.org/logos/USA/SpectrumNewsBayNews9.us.png
 CBSWest_KCBS.us,US - CBS West KCBS,https://iptv-epg.org/logos/USA/CBSWest_KCBS.us.png
 NBCWest_KNBC.us,US - NBC West KNBC,https://iptv-epg.org/logos/USA/NBCWest_KNBC.us.png
 FOXWest_KTTV.us,US - FOX West KTTV,https://iptv-epg.org/logos/USA/FOXWest_KTTV.us.png
 ABCWest_KABC.us,US - ABC West KABC,https://iptv-epg.org/logos/USA/ABCWest_KABC.us.png
 PBSKidsWestSoCal.us,US - PBS Kids West SoCal,https://iptv-epg.org/logos/USA/PBSKidsWestSoCal.us.png
-CBSEast_WCBS.us,US - CBS East WCBS,https://iptv-epg.org/logos/USA/CBSEast_WCBS.us.png
-NBCEast_WNBC.us,US - NBC East WNBC,https://iptv-epg.org/logos/USA/NBCEast_WNBC.us.png
-FoxEast_WNYW.us,US - Fox East WNYW,https://iptv-epg.org/logos/USA/FoxEast_WNYW.us.png
-ABCEast_WABC.us,US - ABC East WABC,https://iptv-epg.org/logos/USA/ABCEast_WABC.us.png
 ChicagoSportsNetwork.us,US - Chicago Sports Network,https://iptv-epg.org/logos/USA/ChicagoSportsNetwork.us.png
 ChicagoSportsNetworkPlus.us,US - Chicago Sports Network Plus,
 MarqueeSports.us,US - Marquee Sports Network,https://iptv-epg.org/logos/USA/MarqueeSports.us.png
@@ -2210,9 +2253,11 @@ NBCSportsPhiladelphiaPlus.us,US - NBC Sports Philadelphia Plus,https://iptv-epg.
 NBCSportsPhiladelphia.us,US - NBC Sports Philadelphia,https://iptv-epg.org/logos/USA/NBCSportsPhiladelphia.us.png
 FanDuelSportsNetworkSouthCarolina.us,US - FanDuel Sports Network South Carolina,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkSouthCarolina.us.png
 SpectrumNews1NewYork.us,US - Spectrum News 1 New York,https://iptv-epg.org/logos/USA/SpectrumNews1NewYork.us.png
+NY1Noticias.us,US - NY1 - Noticias,https://iptv-epg.org/logos/USA/NY1Noticias.us.png
 NevadaSportsNet.us,US - Nevada SportsNet,https://iptv-epg.org/logos/USA/NevadaSportsNet.us.png
 SilverStateSportsAndEntertainmentNetwork.us,US - Silver State Sports &amp; Entertainment Network (SSSEN),https://iptv-epg.org/logos/USA/SilverStateSportsAndEntertainmentNetwork.us.png
 SuncoastNetworkNews.us,US - Suncoast Network News,https://iptv-epg.org/logos/USA/SuncoastNetworkNews.us.png
+GodsLearningChannel.us,US - God's Learning Channel,https://iptv-epg.org/logos/USA/GodsLearningChannel.us.png
 NECN.us,US - NECN,https://iptv-epg.org/logos/USA/NECN.us.png
 TheFloridaChannel.us,US - The Florida Channel,https://iptv-epg.org/logos/USA/TheFloridaChannel.us.png
 TheOhioChannel.us,US - The Ohio Channel,https://iptv-epg.org/logos/USA/TheOhioChannel.us.png
@@ -2223,51 +2268,15 @@ SpectrumOC16.us,US - Spectrum OC16,https://iptv-epg.org/logos/USA/SpectrumOC16.u
 SpectrumXCast2.us,US - Spectrum XCast 2,https://iptv-epg.org/logos/USA/SpectrumXCast2.us.png
 SpectrumSportsOC.us,US - Spectrum Sports OC,https://iptv-epg.org/logos/USA/SpectrumSportsOC.us.png
 SpectrumXCast1.us,US - Spectrum XCast 1,https://iptv-epg.org/logos/USA/SpectrumXCast1.us.png
-HBOBoxing.us,US - HBO Boxing,https://iptv-epg.org/logos/USA/HBOBoxing.us.png
-TheCountryNetwork.us,US - The Country Network,https://iptv-epg.org/logos/USA/TheCountryNetwork.us.png
-CBNNews.us,US - CBN News,https://iptv-epg.org/logos/USA/CBNNews.us.png
-FloHockey.us,US - FloHockey,https://iptv-epg.org/logos/USA/FloHockey.us.png
-nbaleaguepass751.us,US - NBA LEAGUE PASS 751,https://iptv-epg.org/logos/USA/nbaleaguepass751.us.png
-nbaleaguepass752.us,US - NBA LEAGUE PASS 752,https://iptv-epg.org/logos/USA/nbaleaguepass752.us.png
-nbaleaguepass753.us,US - NBA LEAGUE PASS 753,https://iptv-epg.org/logos/USA/nbaleaguepass753.us.png
-nbaleaguepass754.us,US - NBA LEAGUE PASS 754,https://iptv-epg.org/logos/USA/nbaleaguepass754.us.png
-nbaleaguepass755.us,US - NBA LEAGUE PASS 755,https://iptv-epg.org/logos/USA/nbaleaguepass755.us.png
-nbaleaguepass756.us,US - NBA LEAGUE PASS 756,https://iptv-epg.org/logos/USA/nbaleaguepass756.us.png
-nbaleaguepass757.us,US - NBA LEAGUE PASS 757,https://iptv-epg.org/logos/USA/nbaleaguepass757.us.png
-nbaleaguepass758.us,US - NBA LEAGUE PASS 758,https://iptv-epg.org/logos/USA/nbaleaguepass758.us.png
-nbaleaguepass759.us,US - NBA LEAGUE PASS 759,https://iptv-epg.org/logos/USA/nbaleaguepass759.us.png
-nbaleaguepass760.us,US - NBA LEAGUE PASS 760,https://iptv-epg.org/logos/USA/nbaleaguepass760.us.png
-nbaleaguepass761.us,US - NBA LEAGUE PASS 761,https://iptv-epg.org/logos/USA/nbaleaguepass761.us.png
-nbaleaguepass762.us,US - NBA LEAGUE PASS 762,https://iptv-epg.org/logos/USA/nbaleaguepass762.us.png
-nbaleaguepass763.us,US - NBA LEAGUE PASS 763,https://iptv-epg.org/logos/USA/nbaleaguepass763.us.png
-nbaleaguepass764.us,US - NBA LEAGUE PASS 764,https://iptv-epg.org/logos/USA/nbaleaguepass764.us.png
-nbaleaguepass765.us,US - NBA LEAGUE PASS 765,https://iptv-epg.org/logos/USA/nbaleaguepass765.us.png
-nbaleaguepass766.us,US - NBA LEAGUE PASS 766,https://iptv-epg.org/logos/USA/nbaleaguepass766.us.png
-nbaleaguepass767.us,US - NBA LEAGUE PASS 767,https://iptv-epg.org/logos/USA/nbaleaguepass767.us.png
-nbaleaguepass768.us,US - NBA LEAGUE PASS 768,https://iptv-epg.org/logos/USA/nbaleaguepass768.us.png
 TheAtlantaChannel.us,US - The Atlanta Channel,https://iptv-epg.org/logos/USA/TheAtlantaChannel.us.png
 MonumentalSportsNetwork2.us,US - Monumental Sports Network 2,https://iptv-epg.org/logos/USA/MonumentalSportsNetwork2.us.png
-NBCSportsChicagoPlus.us,US - NBC Sports Chicago Plus,https://iptv-epg.org/logos/USA/NBCSportsChicagoPlus.us.png
-TheWordNetwork.us,US - The Word Network,https://iptv-epg.org/logos/USA/TheWordNetwork.us.png
-GodsLearningChannel.us,US - God's Learning Channel,https://iptv-epg.org/logos/USA/GodsLearningChannel.us.png
-VictoryChannel.us,US - Victory Channel,https://iptv-epg.org/logos/USA/VictoryChannel.us.png
-RealAmericasVoice.us,US - Real America's Voice,https://iptv-epg.org/logos/USA/RealAmericasVoice.us.png
+AltitudeSports.us,US - Altitude Sports,https://iptv-epg.org/logos/USA/AltitudeSports.us.png
+AltitudeSports2.us,US - Altitude Sports 2,https://iptv-epg.org/logos/USA/AltitudeSports2.us.png
+RecipeTV.us,US - Recipe.TV,https://iptv-epg.org/logos/USA/RecipeTV.us.png
 CMC.us,US - CMC CHANNEL,https://iptv-epg.org/logos/USA/CMC.us.png
-PBSNetworkEastern.us,US - PBS Network Eastern,https://iptv-epg.org/logos/USA/PBSNetworkEastern.us.png
-PBSNetworkPacific.us,US - PBS Network Pacific,https://iptv-epg.org/logos/USA/PBSNetworkPacific.us.png
-NY1Noticias.us,US - NY1 - Noticias,https://iptv-epg.org/logos/USA/NY1Noticias.us.png
-TVK.us,US - TVK,https://iptv-epg.org/logos/USA/TVK.us.png
-TVK2.us,US - TVK 2,https://iptv-epg.org/logos/USA/TVK2.us.png
-MBC.us,US - MBC,https://iptv-epg.org/logos/USA/MBC.us.png
-EWTNEspanol.us,US - EWTN Espanol,https://iptv-epg.org/logos/USA/EWTNEspanol.us.png
-NewsNet.us,US - NewsNet,https://iptv-epg.org/logos/USA/NewsNet.us.png
-TelemundoInternacional.us,US - Telemundo Internacional,https://iptv-epg.org/logos/USA/TelemundoInternacional.us.png
-FanDuelSportsNetworkCleveland.us,US - FanDuel Sports Network Cleveland,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkCleveland.us.png
-3ABN.us,US - 3ABN,https://iptv-epg.org/logos/USA/3ABN.us.png
-Roar.us,US - Roar,https://iptv-epg.org/logos/USA/Roar.us.png
-RoarPacific.us,US - Roar West,https://iptv-epg.org/logos/USA/RoarPacific.us.png
-RootSportsNorthwestPlus.us,US - Root Sports Northwest Plus,https://iptv-epg.org/logos/USA/RootSportsNorthwestPlus.us.png
 TVIInternacional.us,US - TVI Internacional,https://iptv-epg.org/logos/USA/TVIInternacional.us.png
+CookingChannel.us,US - COOKING CHANNEL,https://iptv-epg.org/logos/USA/CookingChannel.us.png
+CookingChannelPacific.us,US - Cooking Channel West,https://iptv-epg.org/logos/USA/CookingChannelPacific.us.png
 NHLCenterIce1.us,US - NHL Center Ice 1,https://iptv-epg.org/logos/USA/NHLCenterIce1.us.png
 NHLCenterIce2.us,US - NHL Center Ice 2,https://iptv-epg.org/logos/USA/NHLCenterIce2.us.png
 NHLCenterIce3.us,US - NHL Center Ice 3,https://iptv-epg.org/logos/USA/NHLCenterIce3.us.png
@@ -2282,33 +2291,34 @@ NHLCenterIce11.us,US - NHL Center Ice 11,https://iptv-epg.org/logos/USA/NHLCente
 NHLCenterIce12.us,US - NHL Center Ice 12,https://iptv-epg.org/logos/USA/NHLCenterIce12.us.png
 NHLCenterIce13.us,US - NHL Center Ice 13,https://iptv-epg.org/logos/USA/NHLCenterIce13.us.png
 NHLCenterIce14.us,US - NHL Center Ice 14,https://iptv-epg.org/logos/USA/NHLCenterIce14.us.png
-NHLCenterIce15.us,US - NHL Center Ice 15,https://iptv-epg.org/logos/USA/NHLCenterIce15.us.png
-FanDuelSportsNetworkDetroitExtra.us,US - FanDuel Sports Network Detroit Extra,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkDetroitExtra.us.png
-FanDuelSportsNetworkNorthExtra.us,US - FanDuel Sports Network North Extra,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkNorthExtra.us.png
-FIDO.us,US - Fido TV,https://iptv-epg.org/logos/USA/FIDO.us.png
-smiletv.us,US - Smile TV,https://iptv-epg.org/logos/USA/smiletv.us.png
-FanDuelSportsNetworkNewOrleans.us,US - FanDuel Sports Network New Orleans,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkNewOrleans.us.png
-AAJTak.us,US - AAJ TAK,https://iptv-epg.org/logos/USA/AAJTak.us.png
-ZLiving.us,US - Z Living,https://iptv-epg.org/logos/USA/ZLiving.us.png
-ZeeTamil.us,US - Zee Tamil,https://iptv-epg.org/logos/USA/ZeeTamil.us.png
-JBS.us,US - Jewish Broadcasting Service,https://iptv-epg.org/logos/USA/JBS.us.png
-ZeeMundo.us,US - Zee Mundo,https://iptv-epg.org/logos/USA/ZeeMundo.us.png
-VmeKids.us,US - Vme Kids,https://iptv-epg.org/logos/USA/VmeKids.us.png
 SupercanalCaribe.us,US - Super Canal Caribe,https://iptv-epg.org/logos/USA/SupercanalCaribe.us.png
 CubaMax.us,US - Cuba Max,https://iptv-epg.org/logos/USA/CubaMax.us.png
-AapkaColors.us,US - Aapka Colors,https://iptv-epg.org/logos/USA/AapkaColors.us.png
+MegaCosmos.us,US - Mega Cosmos,https://iptv-epg.org/logos/USA/MegaCosmos.us.png
+Cyclonestv.us,US - Cyclones.tv,https://iptv-epg.org/logos/USA/Cyclonestv.us.png
+FanDuelSportsNetworkNewOrleans.us,US - FanDuel Sports Network New Orleans,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkNewOrleans.us.png
+FanDuelSportsNetworkNewOrleansExtra.us,US - FanDuel Sports Network New Orleans Extra,
+ACEtv.us,US - ACE TV,https://iptv-epg.org/logos/USA/ACEtv.us.png
+UltraCine.us,US - Ultra Cine,https://iptv-epg.org/logos/USA/UltraCine.us.png
+UltraClasico.us,US - Ultra Clasico,https://iptv-epg.org/logos/USA/UltraClasico.us.png
+UltraMex.us,US - Ultra Mex,https://iptv-epg.org/logos/USA/UltraMex.us.png
+UltraMacho.us,US - Ultra Macho,https://iptv-epg.org/logos/USA/UltraMacho.us.png
+UltraFilm.us,US - Ultra Film,https://iptv-epg.org/logos/USA/UltraFilm.us.png
+UltraDocumentary.us,US - Ultra Documentary,
+UltraLuna.us,US - Ultra Luna,https://iptv-epg.org/logos/USA/UltraLuna.us.png
+UltraTainment.us,US - Ultra Tainment,https://iptv-epg.org/logos/USA/UltraTainment.us.png
+UltraBanda.us,US - Ultra Banda,https://iptv-epg.org/logos/USA/UltraBanda.us.png
+UltraFiesta.us,US - Ultra Fiesta,https://iptv-epg.org/logos/USA/UltraFiesta.us.png
+UltraFamilia.us,US - Ultra Familia,https://iptv-epg.org/logos/USA/UltraFamilia.us.png
+UltraKidz.us,US - Ultra Kidz,https://iptv-epg.org/logos/USA/UltraKidz.us.png
+HBOBoxing.us,US - HBO Boxing,https://iptv-epg.org/logos/USA/HBOBoxing.us.png
+TheCountryNetwork.us,US - The Country Network,https://iptv-epg.org/logos/USA/TheCountryNetwork.us.png
+FloHockey.us,US - FloHockey,https://iptv-epg.org/logos/USA/FloHockey.us.png
+WatchAEW.us,US - Watch AEW,
 FanDuelSportsNetworkNorthCarolina.us,US - FanDuel Sports Network North Carolina,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkNorthCarolina.us.png
 FanDuelSportsNetworkDallas.us,US - FanDuel Sports Network Dallas,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkDallas.us.png
 SpectrumNews1NorthCarolina.us,US - Spectrum News 1 North Carolina,https://iptv-epg.org/logos/USA/SpectrumNews1NorthCarolina.us.png
-IONTVPacific.us,US - ION TV West,https://iptv-epg.org/logos/USA/IONTVPacific.us.png
-UltraBanda.us,US - Ultra Banda,https://iptv-epg.org/logos/USA/UltraBanda.us.png
-UltraFilm.us,US - Ultra Film,https://iptv-epg.org/logos/USA/UltraFilm.us.png
-UltraLuna.us,US - Ultra Luna,https://iptv-epg.org/logos/USA/UltraLuna.us.png
-UltraTainment.us,US - Ultra Tainment,https://iptv-epg.org/logos/USA/UltraTainment.us.png
 FanDuelSportsNetworkCincinnatiPlus.us,US - FanDuel Sports Network Cincinnati Plus,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkCincinnatiPlus.us.png
 SpectrumNews1Cleveland_Akron.us,US - Spectrum News 1 Cleveland/Akron,https://iptv-epg.org/logos/USA/SpectrumNews1Cleveland_Akron.us.png
-AplausoTV.us,US - Aplauso TV,https://iptv-epg.org/logos/USA/AplausoTV.us.png
-AltitudeSports.us,US - Altitude Sports,https://iptv-epg.org/logos/USA/AltitudeSports.us.png
 FanDuelSportsNetworkIndianaExtra.us,US - FanDuel Sports Network Indiana Extra,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkIndianaExtra.us.png
 FanDuelSportsNetworkWisconsinAlternate.us,US - FanDuel Sports Network Wisconsin Alternate,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkWisconsinAlternate.us.png
 FanDuelSportsNetworkMidwestKansasCity.us,US - FanDuel Sports Network Midwest Kansas City,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkMidwestKansasCity.us.png
@@ -2316,259 +2326,14 @@ ArizonasFamilySports.us,US - Arizona's Family Sports,https://iptv-epg.org/logos/
 FanDuelSportsNetworkCincinnati.us,US - FanDuel Sports Network Cincinnati,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkCincinnati.us.png
 FanDuelSportsNetworkSoutheast.us,US - FanDuel Sports Network Southeast,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkSoutheast.us.png
 FanDuelSportsNetworkSouth.us,US - FanDuel Sports Network South,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkSouth.us.png
-FanDuelSportsNetworkNorth.us,US - FanDuel Sports Network North,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkNorth.us.png
 FanDuelSportsNetworkOrlando.us,US - FanDuel Sports Network Orlando,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkOrlando.us.png
 FanDuelSportsNetworkWisconsin.us,US - FanDuel Sports Network Wisconsin,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkWisconsin.us.png
 FanDuelSportsNetworkFlorida.us,US - FanDuel Sports Network Florida,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkFlorida.us.png
-AMGTV.us,US - AMG TV,https://iptv-epg.org/logos/USA/AMGTV.us.png
-ACEtv.us,US - ACE TV,https://iptv-epg.org/logos/USA/ACEtv.us.png
 FanDuelSportsNetworkTennessee.us,US - FanDuel Sports Network Tennessee,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkTennessee.us.png
-MeTVPacific.us,US - Me TV West,https://iptv-epg.org/logos/USA/MeTVPacific.us.png
-TheBetAtlanta.us,US - The Bet Atlanta,https://iptv-epg.org/logos/USA/TheBetAtlanta.us.png
-Star94.us,US - Star 94,https://iptv-epg.org/logos/USA/Star94.us.png
-News-Talk1380WAOK.us,US - News-Talk 1380 WAOK,https://iptv-epg.org/logos/USA/News-Talk1380WAOK.us.png
-V-103.us,US - V-103,https://iptv-epg.org/logos/USA/V-103.us.png
-92-9TheGame.us,US - 92-9 The Game,https://iptv-epg.org/logos/USA/92-9TheGame.us.png
-HOT959Austin.us,US - HOT 95.9 Austin,https://iptv-epg.org/logos/USA/HOT959Austin.us.png
-Majic955Music.us,US - Majic 95.5 Music,https://iptv-epg.org/logos/USA/Majic955Music.us.png
-Talk1370.us,US - Talk 1370,https://iptv-epg.org/logos/USA/Talk1370.us.png
-Mix947.us,US - Mix 94.7,https://iptv-epg.org/logos/USA/Mix947.us.png
-1057TheFan.us,US - 105.7 The Fan,https://iptv-epg.org/logos/USA/1057TheFan.us.png
-TheBetBaltimore.us,US - The Bet Baltimore,https://iptv-epg.org/logos/USA/TheBetBaltimore.us.png
-Today's1019.us,US - Today's 101.9,https://iptv-epg.org/logos/USA/Today%27s1019.us.png
-Mix1065.us,US - Mix 106.5,https://iptv-epg.org/logos/USA/Mix1065.us.png
-850WEEI.us,US - 850 WEEI,https://iptv-epg.org/logos/USA/850WEEI.us.png
-MAGIC1067.us,US - MAGIC 106.7,https://iptv-epg.org/logos/USA/MAGIC1067.us.png
-WEEI937.us,US - WEEI 93.7,https://iptv-epg.org/logos/USA/WEEI937.us.png
-Mix1041.us,US - Mix 104.1,https://iptv-epg.org/logos/USA/Mix1041.us.png
-TheAllNew1077and1047TheWolf.us,US - The All New 107.7 and 104.7 The Wolf,https://iptv-epg.org/logos/USA/TheAllNew1077and1047TheWolf.us.png
-TheBetBuffalo.us,US - The Bet Buffalo,https://iptv-epg.org/logos/USA/TheBetBuffalo.us.png
-Star1025.us,US - Star 102.5,https://iptv-epg.org/logos/USA/Star1025.us.png
-Kiss985.us,US - Kiss 98.5,https://iptv-epg.org/logos/USA/Kiss985.us.png
-WGR550SportsRadio.us,US - WGR 550 SportsRadio,https://iptv-epg.org/logos/USA/WGR550SportsRadio.us.png
-WBEN.us,US - WBEN,https://iptv-epg.org/logos/USA/WBEN.us.png
-Real977.us,US - Real 97.7,https://iptv-epg.org/logos/USA/Real977.us.png
-US101.us,US - US 101,https://iptv-epg.org/logos/USA/US101.us.png
-Rock105.us,US - Rock 105,https://iptv-epg.org/logos/USA/Rock105.us.png
-1037KISSFM.us,US - 103.7 KISS FM,https://iptv-epg.org/logos/USA/1037KISSFM.us.png
-981TheLake.us,US - 98.1 The Lake,https://iptv-epg.org/logos/USA/981TheLake.us.png
-TheBetChicago.us,US - The Bet Chicago,https://iptv-epg.org/logos/USA/TheBetChicago.us.png
-1043JAMS.us,US - 104.3 JAMS,https://iptv-epg.org/logos/USA/1043JAMS.us.png
-US99.us,US - US 99,https://iptv-epg.org/logos/USA/US99.us.png
-670TheScore.us,US - 670 The Score,https://iptv-epg.org/logos/USA/670TheScore.us.png
-B96.us,US - B96,https://iptv-epg.org/logos/USA/B96.us.png
-93XRT.us,US - 93XRT,https://iptv-epg.org/logos/USA/93XRT.us.png
-WBBMNewsradio780AMAnd1059FM.us,US - WBBM Newsradio 780 AM And 105.9 FM,https://iptv-epg.org/logos/USA/WBBMNewsradio780AMAnd1059FM.us.png
-TheBetCleveland.us,US - The Bet Cleveland,https://iptv-epg.org/logos/USA/TheBetCleveland.us.png
-Q104.us,US - Q104,https://iptv-epg.org/logos/USA/Q104.us.png
-985WNCX.us,US - 98.5 WNCX,https://iptv-epg.org/logos/USA/985WNCX.us.png
-923TheFan.us,US - 92.3 The Fan,https://iptv-epg.org/logos/USA/923TheFan.us.png
-Star102.us,US - Star 102,https://iptv-epg.org/logos/USA/Star102.us.png
-K-FROGNEXT.us,US - K-FROG NEXT,https://iptv-epg.org/logos/USA/K-FROGNEXT.us.png
-KFROG.us,US - KFROG,https://iptv-epg.org/logos/USA/KFROG.us.png
-TheBetDallas.us,US - The Bet Dallas,https://iptv-epg.org/logos/USA/TheBetDallas.us.png
-Dale!HD31075.us,US - Dale! HD3 107.5,https://iptv-epg.org/logos/USA/Dale%21HD31075.us.png
-987KLUV.us,US - 98.7 KLUV,https://iptv-epg.org/logos/USA/987KLUV.us.png
-LaGrande1075FM.us,US - La Grande 107.5 FM,https://iptv-epg.org/logos/USA/LaGrande1075FM.us.png
-NewsRadio1080KRLD.us,US - NewsRadio 1080 KRLD,https://iptv-epg.org/logos/USA/NewsRadio1080KRLD.us.png
-1053TheFan.us,US - 105.3 The Fan,https://iptv-epg.org/logos/USA/1053TheFan.us.png
-ALT1037.us,US - ALT 103.7,https://iptv-epg.org/logos/USA/ALT1037.us.png
-PuroTejanoFierroHD.us,US - Puro Tejano Fierro HD,https://iptv-epg.org/logos/USA/PuroTejanoFierroHD.us.png
-1003JackFM.us,US - 100.3 Jack FM,https://iptv-epg.org/logos/USA/1003JackFM.us.png
-TheBet1430.us,US - The Bet 1430,https://iptv-epg.org/logos/USA/TheBet1430.us.png
-995TheMountain.us,US - 99.5 The Mountain,https://iptv-epg.org/logos/USA/995TheMountain.us.png
-KS1075.us,US - KS107.5,https://iptv-epg.org/logos/USA/KS1075.us.png
-Alice1059.us,US - Alice 105.9,https://iptv-epg.org/logos/USA/Alice1059.us.png
-1067TheFan.us,US - 106.7 The Fan,https://iptv-epg.org/logos/USA/1067TheFan.us.png
-Alt987Detroit.us,US - Alt 98.7 Detroit,https://iptv-epg.org/logos/USA/Alt987Detroit.us.png
-965TIC.us,US - 96.5 TIC,https://iptv-epg.org/logos/USA/965TIC.us.png
-Lite1005WRCH.us,US - Lite 100.5 WRCH,https://iptv-epg.org/logos/USA/Lite1005WRCH.us.png
-1080WTICNEWSTALK.us,US - 1080 WTIC NEWSTALK,https://iptv-epg.org/logos/USA/1080WTICNEWSTALK.us.png
-HOT937.us,US - HOT 93.7,https://iptv-epg.org/logos/USA/HOT937.us.png
-1043WOMCDetroit.us,US - 104.3 WOMC Detroit,https://iptv-epg.org/logos/USA/1043WOMCDetroit.us.png
-973TheSky.us,US - 97.3 The Sky,https://iptv-epg.org/logos/USA/973TheSky.us.png
-985KTK.us,US - 98.5 KTK,https://iptv-epg.org/logos/USA/985KTK.us.png
-TheBetGreensboro.us,US - The Bet Greensboro,https://iptv-epg.org/logos/USA/TheBetGreensboro.us.png
-987Simon.us,US - 98.7 Simon,https://iptv-epg.org/logos/USA/987Simon.us.png
-971QMG.us,US - 97.1 QMG,https://iptv-epg.org/logos/USA/971QMG.us.png
-931TheWolf.us,US - 93.1 The Wolf,https://iptv-epg.org/logos/USA/931TheWolf.us.png
-102Jamz.us,US - 102 Jamz,https://iptv-epg.org/logos/USA/102Jamz.us.png
-TheBetSouthCarolina.us,US - The Bet South Carolina,https://iptv-epg.org/logos/USA/TheBetSouthCarolina.us.png
-NewsTalk989WORD.us,US - News/Talk 989 WORD,https://iptv-epg.org/logos/USA/NewsTalk989WORD.us.png
-TheFanUpstate.us,US - The Fan Upstate,https://iptv-epg.org/logos/USA/TheFanUpstate.us.png
-933ThePlanet.us,US - 93.3 The Planet,https://iptv-epg.org/logos/USA/933ThePlanet.us.png
-Magic1063.us,US - Magic 106.3,https://iptv-epg.org/logos/USA/Magic1063.us.png
-ClassicRock1011.us,US - Classic Rock 101.1,https://iptv-epg.org/logos/USA/ClassicRock1011.us.png
-TheBlock963-1045-1077.us,US - The Block 96.3 - 104.5 - 107.7,https://iptv-epg.org/logos/USA/TheBlock963-1045-1077.us.png
-B937.us,US - B93.7,https://iptv-epg.org/logos/USA/B937.us.png
-1003TheBull.us,US - 100.3 The Bull,https://iptv-epg.org/logos/USA/1003TheBull.us.png
-957TheSpot.us,US - 95.7 The Spot,https://iptv-epg.org/logos/USA/957TheSpot.us.png
-TheBetHouston.us,US - The Bet Houston,https://iptv-epg.org/logos/USA/TheBetHouston.us.png
-MIX965.us,US - MIX 96.5,https://iptv-epg.org/logos/USA/MIX965.us.png
-Mega101Houston.us,US - Mega 101 Houston,https://iptv-epg.org/logos/USA/Mega101Houston.us.png
-SportsRadio610.us,US - SportsRadio 610,https://iptv-epg.org/logos/USA/SportsRadio610.us.png
-1065TheWolf.us,US - 106.5 The Wolf,https://iptv-epg.org/logos/USA/1065TheWolf.us.png
-997ThePoint.us,US - 99.7 The Point,https://iptv-epg.org/logos/USA/997ThePoint.us.png
-TheBetKC.us,US - The Bet KC,https://iptv-epg.org/logos/USA/TheBetKC.us.png
-Alt965.us,US - Alt 96.5,https://iptv-epg.org/logos/USA/Alt965.us.png
-TheRock!.us,US - The Rock!,https://iptv-epg.org/logos/USA/TheRock%21.us.png
-KMBZ.us,US - KMBZ,https://iptv-epg.org/logos/USA/KMBZ.us.png
-TALK980am.us,US - TALK 980am,https://iptv-epg.org/logos/USA/TALK980am.us.png
-610SportsRadio.us,US - 610 Sports Radio,https://iptv-epg.org/logos/USA/610SportsRadio.us.png
-947TheDrive.us,US - 94.7 The Drive,https://iptv-epg.org/logos/USA/947TheDrive.us.png
-ElZol1079.us,US - El Zol 107.9,https://iptv-epg.org/logos/USA/ElZol1079.us.png
-WPGC955.us,US - WPGC 95.5,https://iptv-epg.org/logos/USA/WPGC955.us.png
-K-DAWN.us,US - K-DAWN,https://iptv-epg.org/logos/USA/K-DAWN.us.png
-Q100Vegas.us,US - Q100Vegas,https://iptv-epg.org/logos/USA/Q100Vegas.us.png
-985KLUC.us,US - 98.5 KLUC,https://iptv-epg.org/logos/USA/985KLUC.us.png
-Mix941.us,US - Mix 94.1,https://iptv-epg.org/logos/USA/Mix941.us.png
-TheBetLasVegas.us,US - The Bet Las Vegas,https://iptv-epg.org/logos/USA/TheBetLasVegas.us.png
-NewsandTalkRadio840AM.us,US - News and Talk Radio 840 AM,https://iptv-epg.org/logos/USA/NewsandTalkRadio840AM.us.png
-TheBetLA.us,US - The Bet L.A.,https://iptv-epg.org/logos/USA/TheBetLA.us.png
-CHANNELQ.us,US - CHANNEL Q,https://iptv-epg.org/logos/USA/CHANNELQ.us.png
-931JackFM.us,US - 93.1 Jack FM,https://iptv-epg.org/logos/USA/931JackFM.us.png
-KNXNews971FM.us,US - KNX News 97.1 FM,https://iptv-epg.org/logos/USA/KNXNews971FM.us.png
-K-EARTH101.us,US - K-EARTH 101,https://iptv-epg.org/logos/USA/K-EARTH101.us.png
-947TheWAVE.us,US - 94.7 The WAVE,https://iptv-epg.org/logos/USA/947TheWAVE.us.png
-KROQ.us,US - KROQ,https://iptv-epg.org/logos/USA/KROQ.us.png
-949WOLX.us,US - 94.9 WOLX,https://iptv-epg.org/logos/USA/949WOLX.us.png
-1055TripleM.us,US - 105.5 Triple M,https://iptv-epg.org/logos/USA/1055TripleM.us.png
-Mix1051.us,US - Mix 105.1,
-TheBetMemphis.us,US - The Bet Memphis,https://iptv-epg.org/logos/USA/TheBetMemphis.us.png
-1045TheRiver.us,US - 104.5 The River,https://iptv-epg.org/logos/USA/1045TheRiver.us.png
-929FMESPN.us,US - 92.9 FM ESPN,https://iptv-epg.org/logos/USA/929FMESPN.us.png
-FM100.us,US - FM 100,https://iptv-epg.org/logos/USA/FM100.us.png
-941TheWolf.us,US - 94.1 The Wolf,https://iptv-epg.org/logos/USA/941TheWolf.us.png
-TheBetMiami.us,US - The Bet Miami,https://iptv-epg.org/logos/USA/TheBetMiami.us.png
-RadioLibre790.us,US - Radio Libre 790,https://iptv-epg.org/logos/USA/RadioLibre790.us.png
-1043TheShark.us,US - 104.3 The Shark,https://iptv-epg.org/logos/USA/1043TheShark.us.png
-1027TheBeach.us,US - 102.7 The Beach,https://iptv-epg.org/logos/USA/1027TheBeach.us.png
-1015LITEFM.us,US - 101.5 LITE FM,https://iptv-epg.org/logos/USA/1015LITEFM.us.png
-AM560SportsWQAM.us,US - AM 560 Sports WQAM,https://iptv-epg.org/logos/USA/AM560SportsWQAM.us.png
-POWER96.us,US - POWER96,https://iptv-epg.org/logos/USA/POWER96.us.png
-KISSCountry999.us,US - KISS Country 99.9,https://iptv-epg.org/logos/USA/KISSCountry999.us.png
-HOT1057.us,US - HOT 105.7,https://iptv-epg.org/logos/USA/HOT1057.us.png
-1037KISS-FM.us,US - 103.7 KISS-FM,https://iptv-epg.org/logos/USA/1037KISS-FM.us.png
-1250AMTheFan.us,US - 1250AM The Fan,https://iptv-epg.org/logos/USA/1250AMTheFan.us.png
-991TheMix.us,US - 99.1 The Mix,https://iptv-epg.org/logos/USA/991TheMix.us.png
-1041JACKFM.us,US - 104.1 JACK FM,https://iptv-epg.org/logos/USA/1041JACKFM.us.png
-1029TheWolf.us,US - 102.9 The Wolf,https://iptv-epg.org/logos/USA/1029TheWolf.us.png
-830WCCO.us,US - 830 WCCO,https://iptv-epg.org/logos/USA/830WCCO.us.png
-TheBETQLNetwork.us,US - The BETQL Network,https://iptv-epg.org/logos/USA/TheBETQLNetwork.us.png
-BetQLDaily.us,US - BetQL Daily,https://iptv-epg.org/logos/USA/BetQLDaily.us.png
-CBSSportsRadio.us,US - CBS Sports Radio,https://iptv-epg.org/logos/USA/CBSSportsRadio.us.png
-TheBetNewOrleans.us,US - The Bet New Orleans,https://iptv-epg.org/logos/USA/TheBetNewOrleans.us.png
-WWL.us,US - WWL,https://iptv-epg.org/logos/USA/WWL.us.png
-Magic1019.us,US - Magic 101.9,https://iptv-epg.org/logos/USA/Magic1019.us.png
-Bayou957.us,US - Bayou 95.7,https://iptv-epg.org/logos/USA/Bayou957.us.png
-B97.us,US - B97,https://iptv-epg.org/logos/USA/B97.us.png
-947TheBlock.us,US - 94.7 The Block,https://iptv-epg.org/logos/USA/947TheBlock.us.png
-NewYorksCountry947.us,US - New York’s Country 94.7,https://iptv-epg.org/logos/USA/NewYorksCountry947.us.png
-WCBSNewsradio880.us,US - WCBS Newsradio 880,https://iptv-epg.org/logos/USA/WCBSNewsradio880.us.png
-WFANSportsRadio1019FM_66AMNewYork.us,US - WFAN Sports Radio 101.9 FM/66AM New York,https://iptv-epg.org/logos/USA/WFANSportsRadio1019FM_66AMNewYork.us.png
-WCBS-FM.us,US - WCBS-FM,https://iptv-epg.org/logos/USA/WCBS-FM.us.png
-NEW1027.us,US - NEW 102.7,https://iptv-epg.org/logos/USA/NEW1027.us.png
-1010WINS.us,US - 1010 WINS,https://iptv-epg.org/logos/USA/1010WINS.us.png
-TheBetVirginia.us,US - The Bet Virginia,https://iptv-epg.org/logos/USA/TheBetVirginia.us.png
-2WD.us,US - 2WD,https://iptv-epg.org/logos/USA/2WD.us.png
-957RAndB.us,US - 95.7 RAndB,https://iptv-epg.org/logos/USA/957RAndB.us.png
-949ThePoint.us,US - 94.9 The Point,https://iptv-epg.org/logos/USA/949ThePoint.us.png
-Z104.us,US - Z104,https://iptv-epg.org/logos/USA/Z104.us.png
-TheBetOrlando.us,US - The Bet Orlando,https://iptv-epg.org/logos/USA/TheBetOrlando.us.png
-FM1019.us,US - FM 101.9,https://iptv-epg.org/logos/USA/FM1019.us.png
-1059SUNNYFM.us,US - 1059 SUNNY FM,https://iptv-epg.org/logos/USA/1059SUNNYFM.us.png
-MIX1051.us,US - MIX 105.1,https://iptv-epg.org/logos/USA/MIX1051.us.png
-TheBetPhiladelphia.us,US - The Bet Philadelphia,https://iptv-epg.org/logos/USA/TheBetPhiladelphia.us.png
-B101Philly.us,US - B101 Philly,https://iptv-epg.org/logos/USA/B101Philly.us.png
-TheNEW965.us,US - The NEW 96.5,https://iptv-epg.org/logos/USA/TheNEW965.us.png
-KYWNewsradio.us,US - KYW Newsradio,https://iptv-epg.org/logos/USA/KYWNewsradio.us.png
-BIG981.us,US - BIG 98.1,https://iptv-epg.org/logos/USA/BIG981.us.png
-TalkRadio1210WPHT.us,US - Talk Radio 1210 WPHT,https://iptv-epg.org/logos/USA/TalkRadio1210WPHT.us.png
-SportsRadio94WIP.us,US - SportsRadio 94WIP,https://iptv-epg.org/logos/USA/SportsRadio94WIP.us.png
-TheBetPhoenix.us,US - The Bet Phoenix,https://iptv-epg.org/logos/USA/TheBetPhoenix.us.png
-KMLECountry1079.us,US - KMLE Country 1079,https://iptv-epg.org/logos/USA/KMLECountry1079.us.png
-Big945Phoenix.us,US - Big 94.5 Phoenix,https://iptv-epg.org/logos/USA/Big945Phoenix.us.png
-LIVE1015.us,US - LIVE 101.5,https://iptv-epg.org/logos/USA/LIVE1015.us.png
-WAMO1073.us,US - WAMO 107.3,https://iptv-epg.org/logos/USA/WAMO1073.us.png
-TheBetPittsburgh.us,US - The Bet Pittsburgh,https://iptv-epg.org/logos/USA/TheBetPittsburgh.us.png
-1001FMandAM1020KDKA.us,US - 100.1 FM and AM 1020 KDKA,https://iptv-epg.org/logos/USA/1001FMandAM1020KDKA.us.png
-Y108.us,US - Y108,https://iptv-epg.org/logos/USA/Y108.us.png
-1007Star.us,US - 100.7 Star,https://iptv-epg.org/logos/USA/1007Star.us.png
-937TheFan.us,US - 93.7 The Fan,https://iptv-epg.org/logos/USA/937TheFan.us.png
-995TheWolf.us,US - 99.5 The Wolf,https://iptv-epg.org/logos/USA/995TheWolf.us.png
-1051TheBuzz.us,US - 105.1 The Buzz,https://iptv-epg.org/logos/USA/1051TheBuzz.us.png
-947FM.us,US - 94/7 FM,https://iptv-epg.org/logos/USA/947FM.us.png
-910ESPNPortland.us,US - 910 ESPN Portland,https://iptv-epg.org/logos/USA/910ESPNPortland.us.png
-923KGON.us,US - 92.3 KGON,https://iptv-epg.org/logos/USA/923KGON.us.png
-1080TheFan.us,US - 1080 The Fan,https://iptv-epg.org/logos/USA/1080TheFan.us.png
-WEEI1037.us,US - WEEI 103.7,https://iptv-epg.org/logos/USA/WEEI1037.us.png
-910TheFan.us,US - 910 The Fan,https://iptv-epg.org/logos/USA/910TheFan.us.png
-Q94.us,US - Q94,https://iptv-epg.org/logos/USA/Q94.us.png
-Mix981.us,US - Mix 98.1,https://iptv-epg.org/logos/USA/Mix981.us.png
-BIG985.us,US - BIG 98.5,https://iptv-epg.org/logos/USA/BIG985.us.png
-Alt1021Richmond.us,US - Alt 102.1 Richmond,https://iptv-epg.org/logos/USA/Alt1021Richmond.us.png
-Newsradio1140WRVA.us,US - Newsradio 1140 WRVA,https://iptv-epg.org/logos/USA/Newsradio1140WRVA.us.png
-1065TheBeat.us,US - 106.5 The Beat,https://iptv-epg.org/logos/USA/1065TheBeat.us.png
-TheFanRochester.us,US - The Fan Rochester,https://iptv-epg.org/logos/USA/TheFanRochester.us.png
-98PXY.us,US - 98 PXY,https://iptv-epg.org/logos/USA/98PXY.us.png
-965WCMF.us,US - 96.5 WCMF,https://iptv-epg.org/logos/USA/965WCMF.us.png
-989TheBuzz.us,US - 98.9 The Buzz,https://iptv-epg.org/logos/USA/989TheBuzz.us.png
-925WBEE.us,US - 92.5 WBEE,https://iptv-epg.org/logos/USA/925WBEE.us.png
-1065TheEnd.us,US - 106.5 The End,https://iptv-epg.org/logos/USA/1065TheEnd.us.png
-969TheEagle.us,US - 96.9 The Eagle,https://iptv-epg.org/logos/USA/969TheEagle.us.png
-98Rock.us,US - 98 Rock,https://iptv-epg.org/logos/USA/98Rock.us.png
-ALT947.us,US - ALT 94.7,https://iptv-epg.org/logos/USA/ALT947.us.png
-ESPN1320.us,US - ESPN 1320,https://iptv-epg.org/logos/USA/ESPN1320.us.png
-1025KSFM.us,US - 102.5 KSFM,https://iptv-epg.org/logos/USA/1025KSFM.us.png
-NewsRadio1120KMOX.us,US - NewsRadio 1120 KMOX,https://iptv-epg.org/logos/USA/NewsRadio1120KMOX.us.png
-Y98StLouis.us,US - Y98 St. Louis,https://iptv-epg.org/logos/USA/Y98StLouis.us.png
-1025KEZK.us,US - 102.5 KEZK,https://iptv-epg.org/logos/USA/1025KEZK.us.png
-TheBetSanDiego.us,US - The Bet San Diego,https://iptv-epg.org/logos/USA/TheBetSanDiego.us.png
-973TheFan.us,US - 97.3 The Fan,https://iptv-epg.org/logos/USA/973TheFan.us.png
-Sunny981.us,US - Sunny 98.1,https://iptv-epg.org/logos/USA/Sunny981.us.png
-1037KSON.us,US - 103.7 KSON,https://iptv-epg.org/logos/USA/1037KSON.us.png
-BobRadio949HD2.us,US - Bob Radio, 94.9 HD2,https://iptv-epg.org/logos/USA/BobRadio949HD2.us.png
-ALT949.us,US - ALT 949,https://iptv-epg.org/logos/USA/ALT949.us.png
-KyXy965.us,US - KyXy 96.5,https://iptv-epg.org/logos/USA/KyXy965.us.png
-102JAMS.us,US - 102 JAMS,https://iptv-epg.org/logos/USA/102JAMS.us.png
-957THEGAME.us,US - 95.7 THE GAME,https://iptv-epg.org/logos/USA/957THEGAME.us.png
-KCBSAllNews1069FMand740AM.us,US - KCBS All News 106.9FM and 740AM,https://iptv-epg.org/logos/USA/KCBSAllNews1069FMand740AM.us.png
-AliceAt973.us,US - Alice @ 97.3,https://iptv-epg.org/logos/USA/AliceAt973.us.png
-1077TheEnd.us,US - 107.7 The End,https://iptv-epg.org/logos/USA/1077TheEnd.us.png
-1007TheWolf.us,US - 100.7 The Wolf,https://iptv-epg.org/logos/USA/1007TheWolf.us.png
-SeattlesRockStation.us,US - Seattle’s Rock Station,https://iptv-epg.org/logos/USA/SeattlesRockStation.us.png
-Hot1037.us,US - Hot 103.7,https://iptv-epg.org/logos/USA/Hot1037.us.png
-TheNew941TheSound.us,US - The New 94.1 The Sound,https://iptv-epg.org/logos/USA/TheNew941TheSound.us.png
-WWJNewsradio950.us,US - WWJ Newsradio 950,https://iptv-epg.org/logos/USA/WWJNewsradio950.us.png
-971TheTicket.us,US - 97.1 The Ticket,https://iptv-epg.org/logos/USA/971TheTicket.us.png
-995WYCD.us,US - 99.5 WYCD,https://iptv-epg.org/logos/USA/995WYCD.us.png
-TheBetDetroit.us,US - The Bet Detroit,https://iptv-epg.org/logos/USA/TheBetDetroit.us.png
-947WMAS.us,US - 94.7 WMAS,https://iptv-epg.org/logos/USA/947WMAS.us.png
-HallofFameCountry.us,US - Hall of Fame Country,https://iptv-epg.org/logos/USA/HallofFameCountry.us.png
-WEEI1055.us,US - WEEI 105.5,https://iptv-epg.org/logos/USA/WEEI1055.us.png
-Hot1041.us,US - Hot 104.1,https://iptv-epg.org/logos/USA/Hot1041.us.png
-963TheLou.us,US - 96.3 The Lou,https://iptv-epg.org/logos/USA/963TheLou.us.png
-971FMTalk.us,US - 97.1 FM Talk,https://iptv-epg.org/logos/USA/971FMTalk.us.png
-TheTeam980.us,US - The Team 980,https://iptv-epg.org/logos/USA/TheTeam980.us.png
-TheBetWashington.us,US - The Bet Washington,https://iptv-epg.org/logos/USA/TheBetWashington.us.png
-1053TheBuzz.us,US - 105.3 The Buzz,https://iptv-epg.org/logos/USA/1053TheBuzz.us.png
-KFHRadio.us,US - KFH Radio,https://iptv-epg.org/logos/USA/KFHRadio.us.png
-KNSSRadio.us,US - KNSS Radio,https://iptv-epg.org/logos/USA/KNSSRadio.us.png
-1037KEYN.us,US - 103.7 KEYN,https://iptv-epg.org/logos/USA/1037KEYN.us.png
-Power935.us,US - Power 93.5,https://iptv-epg.org/logos/USA/Power935.us.png
-TheBetNEPA.us,US - The Bet NEPA,https://iptv-epg.org/logos/USA/TheBetNEPA.us.png
-NewsRadioWILK.us,US - NewsRadio WILK,https://iptv-epg.org/logos/USA/NewsRadioWILK.us.png
-985KRZ.us,US - 98.5 KRZ,https://iptv-epg.org/logos/USA/985KRZ.us.png
-Froggy101.us,US - Froggy 101,https://iptv-epg.org/logos/USA/Froggy101.us.png
-Max102.us,US - Max 102,https://iptv-epg.org/logos/USA/Max102.us.png
-WEEI1440.us,US - WEEI 1440,https://iptv-epg.org/logos/USA/WEEI1440.us.png
 StellarTV.us,US - Stellar TV,https://iptv-epg.org/logos/USA/StellarTV.us.png
 ProWestlingTV.us,US - Pro Westling TV,https://iptv-epg.org/logos/USA/ProWestlingTV.us.png
 ToonamiAftermath.us,US - Toonami Aftermath,https://iptv-epg.org/logos/USA/ToonamiAftermath.us.png
 SurvivorNet.us,US - SurvivorNet,https://iptv-epg.org/logos/USA/SurvivorNet.us.png
-UltraCine.us,US - Ultra Cine,https://iptv-epg.org/logos/USA/UltraCine.us.png
-UltraDocu.us,US - Ultra Docu,https://iptv-epg.org/logos/USA/UltraDocu.us.png
-UltraKidz.us,US - Ultra Kidz,https://iptv-epg.org/logos/USA/UltraKidz.us.png
 StoryTelevision.us,US - Story Television,https://iptv-epg.org/logos/USA/StoryTelevision.us.png
 InfoWars.us,US - InfoWars,https://iptv-epg.org/logos/USA/InfoWars.us.png
 ShoutCult.us,US - Shout Cult,https://iptv-epg.org/logos/USA/ShoutCult.us.png
@@ -2577,12 +2342,8 @@ BleavFootball.us,US - Bleav Football,https://iptv-epg.org/logos/USA/BleavFootbal
 SportsNewsHighlights.us,US - Sports News Highlights,https://iptv-epg.org/logos/USA/SportsNewsHighlights.us.png
 FanDuelSportsNetworkNetbase.us,US - FanDuel Sports Network Netbase,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkNetbase.us.png
 FloSports.us,US - FloSports,https://iptv-epg.org/logos/USA/FloSports.us.png
-FanDuelSportsNetworkNewOrleansPlus.us,US - FanDuel Sports Network New Orleans Plus,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkNewOrleansPlus.us.png
 CWGold.us,US - CW Gold,https://iptv-epg.org/logos/USA/CWGold.us.png
-Cyclonestv.us,US - Cyclones.tv,https://iptv-epg.org/logos/USA/Cyclonestv.us.png
 CWForever.us,US - CW Forever,https://iptv-epg.org/logos/USA/CWForever.us.png
-FanDuelSportsNetworkKansasCityExtra.us,US - FanDuel Sports Network Kansas City Extra,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkKansasCityExtra.us.png
-MegaCosmos.us,US - Mega Cosmos,https://iptv-epg.org/logos/USA/MegaCosmos.us.png
 RTNews.us,US - RT News,https://iptv-epg.org/logos/USA/RTNews.us.png
 UFC24_7.us,US - UFC 24/7,https://iptv-epg.org/logos/USA/UFC24_7.us.png
 ACKTV.us,US - AKC TV,https://iptv-epg.org/logos/USA/ACKTV.us.png
@@ -3023,10 +2784,8 @@ CBSNewsBayArea.us,US - CBS News Bay Area,https://iptv-epg.org/logos/USA/CBSNewsB
 CBSNewsTexas.us,US - CBS News Texas,https://iptv-epg.org/logos/USA/CBSNewsTexas.us.png
 MHzNow.us,US - MHz Now,
 MeritStreet.us,US - Merit Street,https://iptv-epg.org/logos/USA/MeritStreet.us.png
-MeTvToons.us,US - MeTV Toons,https://iptv-epg.org/logos/USA/MeTvToons.us.png
 OneAmericaNewsNetwork.us,US - One America News Network OAN,https://iptv-epg.org/logos/USA/OneAmericaNewsNetwork.us.png
 PlayersTV.us,US - PlayersTV,https://iptv-epg.org/logos/USA/PlayersTV.us.png
-MeTV.us,US - MeTV,https://iptv-epg.org/logos/USA/MeTV.us.png
 FoxSports4K.us,US - Fox Sports 4K,https://iptv-epg.org/logos/USA/FoxSports4K.us.png
 ESTV.us,US - ESTV,https://iptv-epg.org/logos/USA/ESTV.us.png
 TVLandSitcoms.us,US - TV Land Sitcoms,https://iptv-epg.org/logos/USA/TVLandSitcoms.us.png
@@ -3095,7 +2854,6 @@ NBCSportsBayAreaPlus.us,US - NBC Sports Bay Area Plus,https://iptv-epg.org/logos
 WESTNetwork.us,US - WEST Network,https://iptv-epg.org/logos/USA/WESTNetwork.us.png
 TheFamilyChannel.us,US - The Family Channel,https://iptv-epg.org/logos/USA/TheFamilyChannel.us.png
 PXSports.us,US - PX Sports,https://iptv-epg.org/logos/USA/PXSports.us.png
-AltitudeSportsAndEntertainmentAlternate.us,US - Altitude Sports &amp; Entertainment Alternate,https://iptv-epg.org/logos/USA/AltitudeSportsAndEntertainmentAlternate.us.png
 CometPacific.us,US - Comet West,https://iptv-epg.org/logos/USA/CometPacific.us.png
 ScienceIsAmazing.us,US - Science is Amazing,https://iptv-epg.org/logos/USA/ScienceIsAmazing.us.png
 beINConnect9.us,US - beIN CONNECT 9,https://iptv-epg.org/logos/USA/beINConnect9.us.png
