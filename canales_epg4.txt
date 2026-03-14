@@ -1881,6 +1881,10 @@ MeTvToons.us,US - MeTV Toons,https://iptv-epg.org/logos/USA/MeTvToons.us.png
 AAJTak.us,US - AAJ TAK,https://iptv-epg.org/logos/USA/AAJTak.us.png
 ZLiving.us,US - Z Living,https://iptv-epg.org/logos/USA/ZLiving.us.png
 AAGTelevision.us,US - AAG Television,https://iptv-epg.org/logos/USA/AAGTelevision.us.png
+SET.us,US - SET,https://iptv-epg.org/logos/USA/SET.us.png
+iTVN.us,US - iTVN,https://iptv-epg.org/logos/USA/iTVN.us.png
+TVN24.us,US - TVN 24,https://iptv-epg.org/logos/USA/TVN24.us.png
+PTC Punjabi TV,PTC Punjabi TV,
 MSGZone3.us,US - MSG Zone 3,https://iptv-epg.org/logos/USA/MSGZone3.us.png
 MSGSNZone3.us,US - MSG SN Zone 3,https://iptv-epg.org/logos/USA/MSGSNZone3.us.png
 USANetworkPacific.us,US - USA NETWORK WEST,https://iptv-epg.org/logos/USA/USANetworkPacific.us.png
@@ -2077,6 +2081,8 @@ nbaleaguepass765.us,US - NBA LEAGUE PASS 765,https://iptv-epg.org/logos/USA/nbal
 nbaleaguepass766.us,US - NBA LEAGUE PASS 766,https://iptv-epg.org/logos/USA/nbaleaguepass766.us.png
 nbaleaguepass767.us,US - NBA LEAGUE PASS 767,https://iptv-epg.org/logos/USA/nbaleaguepass767.us.png
 nbaleaguepass768.us,US - NBA LEAGUE PASS 768,https://iptv-epg.org/logos/USA/nbaleaguepass768.us.png
+A3Cine.us,US - A3Cine,https://iptv-epg.org/logos/USA/A3Cine.us.png
+CineLatino.us,US - Cine Latino,https://iptv-epg.org/logos/USA/CineLatino.us.png
 AandENetworkPacific.us,US - A&amp;E Network West,https://iptv-epg.org/logos/USA/AandENetworkPacific.us.png
 HistoryChannelPacific.us,US - History Channel West,https://iptv-epg.org/logos/USA/HistoryChannelPacific.us.png
 BBCAmericaPacific.us,US - BBC America West,https://iptv-epg.org/logos/USA/BBCAmericaPacific.us.png
@@ -2229,13 +2235,20 @@ ZeeTamil.us,US - Zee Tamil,https://iptv-epg.org/logos/USA/ZeeTamil.us.png
 RyanAndFriends.us,US - RYAN AND FRIENDS,https://iptv-epg.org/logos/USA/RyanAndFriends.us.png
 Tastemade.us,US - Tastemade,https://iptv-epg.org/logos/USA/Tastemade.us.png
 Gusto.us,US - GUSTO,https://iptv-epg.org/logos/USA/Gusto.us.png
+AMCThrillers.us,US - AMC Thrillers,https://iptv-epg.org/logos/USA/AMCThrillers.us.png
+LoneStarClassics.us,US - Lone Star Classics,https://iptv-epg.org/logos/USA/LoneStarClassics.us.png
+TastemadeTravel.us,US - Tastemade Travel,https://iptv-epg.org/logos/USA/TastemadeTravel.us.png
+ElectricNow.us,US - Electric Now,https://iptv-epg.org/logos/USA/ElectricNow.us.png
+WildWestTV.us,US - WILD WEST TV,https://iptv-epg.org/logos/USA/WildWestTV.us.png
+CircleCountry.us,US - CircleCountry,https://iptv-epg.org/logos/USA/CircleCountry.us.png
+ActionPlus.us,US - Action Plus,https://iptv-epg.org/logos/USA/ActionPlus.us.png
 ESPN4K.us,US - ESPN 4K,https://iptv-epg.org/logos/USA/ESPN4K.us.png
 VSIN.us,US - VSIN Vegas Sports &amp; Information Network,https://iptv-epg.org/logos/USA/VSIN.us.png
 NBCSN.us,US - NBCSN,https://iptv-epg.org/logos/USA/NBCSN.us.png
+TastemadeHome.us,US - Tastemade Home,https://iptv-epg.org/logos/USA/TastemadeHome.us.png
+WorldPokerTour.us,US - World Poker Tour,https://iptv-epg.org/logos/USA/WorldPokerTour.us.png
 TDAmeritrade.us,US - TD Ameritrade,https://iptv-epg.org/logos/USA/TDAmeritrade.us.png
-SpectrumNews1Louisville.us,US - Spectrum News 1 Louisville,https://iptv-epg.org/logos/USA/SpectrumNews1Louisville.us.png
-FanDuelSportsNetworkStLouis.us,US - FanDuel Sports Network St. Louis,
-FanDuelSportsNetworkStLouisExtra.us,US - FanDuel Sports Network St. Louis Extra,
+CINEVAULTClassics.us,US - CINEVAULT Classics,https://iptv-epg.org/logos/USA/CINEVAULTClassics.us.png
 WipeoutXtra.us,US - Wipeout Xtra,https://iptv-epg.org/logos/USA/WipeoutXtra.us.png
 FearFactor.us,US - Fear Factor,https://iptv-epg.org/logos/USA/FearFactor.us.png
 TMZ.us,US - TMZ,https://iptv-epg.org/logos/USA/TMZ.us.png
@@ -2252,6 +2265,14 @@ BigTen4.us,US - Big Ten Network 4,https://iptv-epg.org/logos/USA/BigTen4.us.png
 RealAmericasVoice.us,US - Real America's Voice,https://iptv-epg.org/logos/USA/RealAmericasVoice.us.png
 AlienNationByDUST.us,US - Alien Nation by DUST,https://iptv-epg.org/logos/USA/AlienNationByDUST.us.png
 LawandCrimeRewind.us,US - Law and Crime Rewind,https://iptv-epg.org/logos/USA/LawandCrimeRewind.us.png
+AllWeddingsbyWEtv.us,US - All Weddings by WEtv,https://iptv-epg.org/logos/USA/AllWeddingsbyWEtv.us.png
+FlixFling Now,FlixFling Now,
+TotalCrime.us,US - Total Crime,https://iptv-epg.org/logos/USA/TotalCrime.us.png
+HOMEFUL.us,US - HOMEFUL,https://iptv-epg.org/logos/USA/HOMEFUL.us.png
+AtHomewithFamilyHandyman.us,US - At Home with Family Handyman,https://iptv-epg.org/logos/USA/AtHomewithFamilyHandyman.us.png
+SpectrumNews1Louisville.us,US - Spectrum News 1 Louisville,https://iptv-epg.org/logos/USA/SpectrumNews1Louisville.us.png
+FanDuelSportsNetworkStLouis.us,US - FanDuel Sports Network St. Louis,
+FanDuelSportsNetworkStLouisExtra.us,US - FanDuel Sports Network St. Louis Extra,
 SpectrumNewsBayNews9.us,US - Spectrum News Bay News 9,https://iptv-epg.org/logos/USA/SpectrumNewsBayNews9.us.png
 CBSWest_KCBS.us,US - CBS West KCBS,https://iptv-epg.org/logos/USA/CBSWest_KCBS.us.png
 NBCWest_KNBC.us,US - NBC West KNBC,https://iptv-epg.org/logos/USA/NBCWest_KNBC.us.png
@@ -2319,6 +2340,17 @@ NHLCenterIce14.us,US - NHL Center Ice 14,https://iptv-epg.org/logos/USA/NHLCente
 SupercanalCaribe.us,US - Super Canal Caribe,https://iptv-epg.org/logos/USA/SupercanalCaribe.us.png
 CubaMax.us,US - Cuba Max,https://iptv-epg.org/logos/USA/CubaMax.us.png
 MegaCosmos.us,US - Mega Cosmos,https://iptv-epg.org/logos/USA/MegaCosmos.us.png
+SonyMax2.us,US - Sony Max 2,https://iptv-epg.org/logos/USA/SonyMax2.us.png
+PolSat1.us,US - PolSat 1,https://iptv-epg.org/logos/USA/PolSat1.us.png
+TVPPolonia.us,US - TVP Polonia,https://iptv-epg.org/logos/USA/TVPPolonia.us.png
+TVPInfo.us,US - TVP Info,https://iptv-epg.org/logos/USA/TVPInfo.us.png
+ColorsMarathi.us,US - Colors Marathi,https://iptv-epg.org/logos/USA/ColorsMarathi.us.png
+SonyMarathi.us,US - Sony Marathi,https://iptv-epg.org/logos/USA/SonyMarathi.us.png
+PolSatNews.us,US - PolSat News,https://iptv-epg.org/logos/USA/PolSatNews.us.png
+ITVN Extra,ITVN Extra,
+GeminiTV.us,US - Gemini TV,https://iptv-epg.org/logos/USA/GeminiTV.us.png
+Almavision.us,US - Almavision,https://iptv-epg.org/logos/USA/Almavision.us.png
+BabyTVEspanol.us,US - BabyTV Español,https://iptv-epg.org/logos/USA/BabyTVEspanol.us.png
 ACEtv.us,US - ACE TV,https://iptv-epg.org/logos/USA/ACEtv.us.png
 ESportsNetwork.us,US - ESports Network,https://iptv-epg.org/logos/USA/ESportsNetwork.us.png
 HI-YAH.us,US - HI-YAH!,https://iptv-epg.org/logos/USA/HI-YAH.us.png
@@ -2370,26 +2402,9 @@ DangerTV.us,US - Danger TV,https://iptv-epg.org/logos/USA/DangerTV.us.png
 MLBNetwork-Alt.us,US - MLB Network-Alt,https://iptv-epg.org/logos/USA/MLBNetwork-Alt.us.png
 NHLAlternate.us,US - NHL Alternate,https://iptv-epg.org/logos/USA/NHLAlternate.us.png
 NHLAlternate-M.us,US - NHL Alternate -M,https://iptv-epg.org/logos/USA/NHLAlternate-M.us.png
-SonyMax2.us,US - Sony Max 2,https://iptv-epg.org/logos/USA/SonyMax2.us.png
-AllWeddingsbyWEtv.us,US - All Weddings by WEtv,https://iptv-epg.org/logos/USA/AllWeddingsbyWEtv.us.png
-FlixFlingNow.us,US - Flix Fling Now,https://iptv-epg.org/logos/USA/FlixFlingNow.us.png
-Eurochannel.us,US - Eurochannel,https://iptv-epg.org/logos/USA/Eurochannel.us.png
-SET.us,US - SET,https://iptv-epg.org/logos/USA/SET.us.png
-iTVN.us,US - iTVN,https://iptv-epg.org/logos/USA/iTVN.us.png
-PolSat1.us,US - PolSat 1,https://iptv-epg.org/logos/USA/PolSat1.us.png
-TVN24.us,US - TVN 24,https://iptv-epg.org/logos/USA/TVN24.us.png
-TVPPolonia.us,US - TVP Polonia,https://iptv-epg.org/logos/USA/TVPPolonia.us.png
-TVPInfo.us,US - TVP Info,https://iptv-epg.org/logos/USA/TVPInfo.us.png
-PolSatNews.us,US - PolSat News,https://iptv-epg.org/logos/USA/PolSatNews.us.png
-iTVNExtra.us,US - iTVN Extra,https://iptv-epg.org/logos/USA/iTVNExtra.us.png
-TVPWilno.us,US - TVP Wilno,https://iptv-epg.org/logos/USA/TVPWilno.us.png
 TVRepublika.us,US - TV Republika,https://iptv-epg.org/logos/USA/TVRepublika.us.png
 Channel13.us,US - Channel 13,
 LubelskaTV.us,US - Lubelska TV,https://iptv-epg.org/logos/USA/LubelskaTV.us.png
-ColorsMarathi.us,US - Colors Marathi,https://iptv-epg.org/logos/USA/ColorsMarathi.us.png
-SonyMarathi.us,US - Sony Marathi,https://iptv-epg.org/logos/USA/SonyMarathi.us.png
-GeminiTV.us,US - Gemini TV,https://iptv-epg.org/logos/USA/GeminiTV.us.png
-Almavision.us,US - Almavision,https://iptv-epg.org/logos/USA/Almavision.us.png
 France24enEspanol.us,US - France 24 en Español,https://iptv-epg.org/logos/USA/France24enEspanol.us.png
 Premier1.us,US - Premier 1,
 Premier2.us,US - Premier 2,
@@ -2399,7 +2414,6 @@ Premier5.us,US - Premier 5,
 Premier6.us,US - Premier 6,
 Premier7.us,US - Premier 7,
 Premier8.us,US - Premier 8,
-AMCThrillers.us,US - AMC Thrillers,https://iptv-epg.org/logos/USA/AMCThrillers.us.png
 TUDNxtra2.us,US - TUDNxtra 2,https://iptv-epg.org/logos/USA/TUDNxtra2.us.png
 TUDNxtra3.us,US - TUDNxtra 3,https://iptv-epg.org/logos/USA/TUDNxtra3.us.png
 TUDNxtra4.us,US - TUDNxtra 4,https://iptv-epg.org/logos/USA/TUDNxtra4.us.png
@@ -2410,27 +2424,9 @@ TUDNxtra8.us,US - TUDNxtra 8,https://iptv-epg.org/logos/USA/TUDNxtra8.us.png
 TUDNxtra9.us,US - TUDNxtra 9,https://iptv-epg.org/logos/USA/TUDNxtra9.us.png
 TUDNxtra10.us,US - TUDNxtra 10,https://iptv-epg.org/logos/USA/TUDNxtra10.us.png
 TUDNxtra11.us,US - TUDNxtra 11,https://iptv-epg.org/logos/USA/TUDNxtra11.us.png
-OutsideTVPlus.us,US - Outside TV Plus,https://iptv-epg.org/logos/USA/OutsideTVPlus.us.png
-Mixible.us,US - Mixible,https://iptv-epg.org/logos/USA/Mixible.us.png
-LoneStarClassics.us,US - Lone Star Classics,https://iptv-epg.org/logos/USA/LoneStarClassics.us.png
-TastemadeTravel.us,US - Tastemade Travel,https://iptv-epg.org/logos/USA/TastemadeTravel.us.png
-ElectricNow.us,US - Electric Now,https://iptv-epg.org/logos/USA/ElectricNow.us.png
 DeFiance.us,US - DeFiance,https://iptv-epg.org/logos/USA/DeFiance.us.png
 BonAppetit.us,US - Bon Appetit,https://iptv-epg.org/logos/USA/BonAppetit.us.png
-TastemadeHome.us,US - Tastemade Home,https://iptv-epg.org/logos/USA/TastemadeHome.us.png
-TotalCrime.us,US - Total Crime,https://iptv-epg.org/logos/USA/TotalCrime.us.png
-WorldPokerTour.us,US - World Poker Tour,https://iptv-epg.org/logos/USA/WorldPokerTour.us.png
-TheCowgirlChannel.us,US - The Cowgirl Channel,https://iptv-epg.org/logos/USA/TheCowgirlChannel.us.png
-WildWestTV.us,US - WILD WEST TV,https://iptv-epg.org/logos/USA/WildWestTV.us.png
-CINEVAULTClassics.us,US - CINEVAULT Classics,https://iptv-epg.org/logos/USA/CINEVAULTClassics.us.png
 WesternsPlus.us,US - Westerns Plus,https://iptv-epg.org/logos/USA/WesternsPlus.us.png
-HOMEFUL.us,US - HOMEFUL,https://iptv-epg.org/logos/USA/HOMEFUL.us.png
-CircleCountry.us,US - CircleCountry,https://iptv-epg.org/logos/USA/CircleCountry.us.png
-ActionPlus.us,US - Action Plus,https://iptv-epg.org/logos/USA/ActionPlus.us.png
-PTCPunjabiGold.us,US - PTC Punjabi Gold,https://iptv-epg.org/logos/USA/PTCPunjabiGold.us.png
-A3Cine.us,US - A3Cine,https://iptv-epg.org/logos/USA/A3Cine.us.png
-CineLatino.us,US - Cine Latino,https://iptv-epg.org/logos/USA/CineLatino.us.png
-BabyTVEspanol.us,US - BabyTV Español,https://iptv-epg.org/logos/USA/BabyTVEspanol.us.png
 CaracolTVInternacional.us,US - Caracol TV Internacional,https://iptv-epg.org/logos/USA/CaracolTVInternacional.us.png
 ACCAlternate.us,US - ACC Alternate,https://iptv-epg.org/logos/USA/ACCAlternate.us.png
 DUCKTV.us,US - Duck Tv,https://iptv-epg.org/logos/USA/DUCKTV.us.png
@@ -2847,7 +2843,6 @@ Teletubbies.us,US - Teletubbies,https://iptv-epg.org/logos/USA/Teletubbies.us.pn
 TYT.us,US - TYT,https://iptv-epg.org/logos/USA/TYT.us.png
 Nosey.us,US - Nosey,https://iptv-epg.org/logos/USA/Nosey.us.png
 ABCNewsLive.us,US - ABC News Live,https://iptv-epg.org/logos/USA/ABCNewsLive.us.png
-AtHomewithFamilyHandyman.us,US - At Home with Family Handyman,https://iptv-epg.org/logos/USA/AtHomewithFamilyHandyman.us.png
 ShopLC.us,US - ShopLC,https://iptv-epg.org/logos/USA/ShopLC.us.png
 CBSSportsHQ.us,US - CBS Sports HQ,https://iptv-epg.org/logos/USA/CBSSportsHQ.us.png
 CombatWarChannel.us,US - Combat War Channel,https://iptv-epg.org/logos/USA/CombatWarChannel.us.png
