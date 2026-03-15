@@ -192,3 +192,35 @@ VTVPLUS.uy,VTV PLUS UY,https://iptv-epg.org/logos/Uruguay/VTVPLUS.uy.png
 WinSports.co,Win Sports CO,https://iptv-epg.org/logos/Colombia/WinSports.co.png
 TNTSportsPremium.cl,TNT Sports Premium CL,https://iptv-epg.org/logos/Chile/TNTSportsPremium.cl.png
 TNTSports.cl,TNT Sports CL,https://iptv-epg.org/logos/Chile/TNTSports.cl.png
+UK | TNT Sports 1,UK | TNT Sports 1,https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png
+UK | TNT Sports 2,UK | TNT Sports 2,https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png
+UK | TNT Sports 3,UK | TNT Sports 3,https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png
+UK | TNT Sports 4,UK | TNT Sports 4,https://tv.assets.pressassociation.io/e98a3304-0e26-5eed-bc55-071e69a15bf8.png
+UK | Sky Sports +,UK | Sky Sports +,https://tv.assets.pressassociation.io/d55ab11f-7aca-5e2b-b620-bf147b49744c.png
+UK | Sky Sports F1,UK | Sky Sports F1,https://tv.assets.pressassociation.io/697b9b06-530b-5dd9-a4c7-1947e2ab93d7.png
+UK | Sky Sports Football,UK | Sky Sports Football,https://tv.assets.pressassociation.io/c7c1f241-4754-502b-aa34-24fc98aba436.png
+UK | Sky Sports Main Event,UK | Sky Sports Main Event,https://tv.assets.pressassociation.io/4a35f45e-79c6-5da0-b2fb-c9192eb9f24b.png
+UK | Sky Sports Premier League,UK | Sky Sports Premier League,https://tv.assets.pressassociation.io/2a51b9ff-b27d-53dc-be74-aac95ecd291e.png
+UK | Premier Sports 1,UK | Premier Sports 1,https://tv.assets.pressassociation.io/c45c421e-6415-5530-a3ae-9667368d1422.png
+UK | Premier Sports 2,UK | Premier Sports 2,https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png
+DE | DAZN 1,DE | DAZN 1,https://www.sky.de/static/img/senderlogos_dark/659_sky_logo_dazn1-hd_tvguide.png
+DE | DAZN 2,DE | DAZN 2,https://www.sky.de/static/img/senderlogos_dark/900_sky_logo_dazn2-hd_tvguide.png
+DE | Sky Sport Top Event,DE | Sky Sport Top Event,https://images.tvtoday.de/sender/small/skyste.png
+DE | Sky Sport F1,DE | Sky Sport F1,https://images.tvtoday.de/sender/small/skyf1.png
+PT | DAZN 1,PT | DAZN 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png
+PT | DAZN 2,PT | DAZN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png
+PT | DAZN 3,PT | DAZN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png
+PT | DAZN 4,PT | DAZN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png
+PT | DAZN 5,PT | DAZN 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png
+PT | Sport TV 1,PT | Sport TV 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%201.png
+PT | Sport TV 2,PT | Sport TV 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%202.png
+PT | Sport TV 3,PT | Sport TV 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%203.png
+PT | Sport TV 4,PT | Sport TV 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%204.png
+PT | Sport TV 5,PT | Sport TV 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%205.png
+PT | Sport TV 6,PT | Sport TV 6,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%206.png
+PT | Sport TV 7,PT | Sport TV 7,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_7HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png
+FR · CANAL+ Sport,FR · CANAL+ Sport,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CANAL%2B%20Sport.png
+FR · CANAL+ Sport 360,FR · CANAL+ Sport 360,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CANAL%2B%20Sport%20360.png
+FR · beIN SPORTS 1,FR · beIN SPORTS 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png
+FR · beIN SPORTS 2,FR · beIN SPORTS 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png
+FR · beIN SPORTS 3,FR · beIN SPORTS 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png
