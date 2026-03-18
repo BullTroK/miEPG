@@ -2415,6 +2415,7 @@ CBSNewsPittsburgh.us,US - CBS News Pittsburgh,https://iptv-epg.org/logos/USA/CBS
 CNNMax.us,US - CNN Max,https://iptv-epg.org/logos/USA/CNNMax.us.png
 CBSNewsBayArea.us,US - CBS News Bay Area,https://iptv-epg.org/logos/USA/CBSNewsBayArea.us.png
 CBSNewsTexas.us,US - CBS News Texas,https://iptv-epg.org/logos/USA/CBSNewsTexas.us.png
+OriginSports.us,US - Origin Sports,https://iptv-epg.org/logos/USA/OriginSports.us.png
 CookingChannel.us,US - COOKING CHANNEL,https://iptv-epg.org/logos/USA/CookingChannel.us.png
 CookingChannelPacific.us,US - Cooking Channel West,https://iptv-epg.org/logos/USA/CookingChannelPacific.us.png
 NHLCenterIce1.us,US - NHL Center Ice 1,https://iptv-epg.org/logos/USA/NHLCenterIce1.us.png
@@ -2538,7 +2539,6 @@ CWForever.us,US - CW Forever,https://iptv-epg.org/logos/USA/CWForever.us.png
 DangerTV.us,US - Danger TV,https://iptv-epg.org/logos/USA/DangerTV.us.png
 MLBNetwork-Alt.us,US - MLB Network-Alt,https://iptv-epg.org/logos/USA/MLBNetwork-Alt.us.png
 NHLAlternate.us,US - NHL Alternate,https://iptv-epg.org/logos/USA/NHLAlternate.us.png
-NHLAlternate-M.us,US - NHL Alternate -M,https://iptv-epg.org/logos/USA/NHLAlternate-M.us.png
 TVRepublika.us,US - TV Republika,https://iptv-epg.org/logos/USA/TVRepublika.us.png
 Channel13.us,US - Channel 13,
 LubelskaTV.us,US - Lubelska TV,https://iptv-epg.org/logos/USA/LubelskaTV.us.png
