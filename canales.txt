@@ -73,10 +73,8 @@ Telecinco HD,Telecinco,https://raw.githubusercontent.com/davidmuma/picons_dobleM
 La Sexta HD,La Sexta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png
 Teledeporte,Teledeporte,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png
 Mega,Mega,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png
-ETB1,ETB1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB1.png
-ETB2,ETB2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB2.png
-ETB3,ETB3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB3.png
-ETB4,ETB4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB4.png
+etb1,etb1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1.png
+etb2,etb2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb2.png
 TVG,TVG,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG.png
 TVG2,TVG2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG2.png
 Canal Extremadura,Canal Extremadura,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura.png
