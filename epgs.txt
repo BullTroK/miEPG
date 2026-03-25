@@ -5,3 +5,5 @@ https://iptv-epg.org/files/epg-us.xml
 https://iptv-epg.org/files/epg-cl.xml
 https://iptv-epg.org/files/epg-uy.xml
 https://iptv-epg.org/files/epg-co.xml
+https://www.tdtchannels.com/epg/TV.xml.gz
+https://iptv-epg.org/files/epg-es.xml.gz
