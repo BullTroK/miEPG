@@ -2680,7 +2680,6 @@ StarBharat.us,US - Star Bharat,https://iptv-epg.org/logos/USA/StarBharat.us.png
 StarGoldRomance.us,US - Star Gold Romance,https://iptv-epg.org/logos/USA/StarGoldRomance.us.png
 PanicTV.us,US - Panic TV,https://iptv-epg.org/logos/USA/PanicTV.us.png
 Travel+Adventure.us,US - Travel + Adventure,https://iptv-epg.org/logos/USA/Travel%2BAdventure.us.png
-SITV.us,US - SI TV (Sports Illustrated TV),https://iptv-epg.org/logos/USA/SITV.us.png
 AXSTVNOW.us,US - AXS TV NOW,https://iptv-epg.org/logos/USA/AXSTVNOW.us.png
 Popstar!TV.us,US - Popstar! TV,https://iptv-epg.org/logos/USA/Popstar%21TV.us.png
 EdgeSport.us,US - Edge Sport,https://iptv-epg.org/logos/USA/EdgeSport.us.png
@@ -2690,73 +2689,11 @@ Unidentified.us,US - Unidentified,https://iptv-epg.org/logos/USA/Unidentified.us
 WhistleTV.us,US - Whistle TV,https://iptv-epg.org/logos/USA/WhistleTV.us.png
 Choppertown.us,US - Choppertown,https://iptv-epg.org/logos/USA/Choppertown.us.png
 USATODAYSportsWire.us,US - USA TODAY SportsWire,https://iptv-epg.org/logos/USA/USATODAYSportsWire.us.png
-USATODAYNews.us,US - USA TODAY News,https://iptv-epg.org/logos/USA/USATODAYNews.us.png
-MysteryScienceTheater3000.us,US - Mystery Science Theater 3000,https://iptv-epg.org/logos/USA/MysteryScienceTheater3000.us.png
-TheDesignNetwork.us,US - The Design Network,https://iptv-epg.org/logos/USA/TheDesignNetwork.us.png
-ScrippsNews.us,US - Scripps News,https://iptv-epg.org/logos/USA/ScrippsNews.us.png
-BBCFood.us,US - BBC Food,https://iptv-epg.org/logos/USA/BBCFood.us.png
-BBCHome.us,US - BBC Home,https://iptv-epg.org/logos/USA/BBCHome.us.png
-ComedyDynamics.us,US - Comedy Dynamics,https://iptv-epg.org/logos/USA/ComedyDynamics.us.png
-Crime360.us,US - Crime 360,https://iptv-epg.org/logos/USA/Crime360.us.png
-FailArmy.us,US - Fail Army,https://iptv-epg.org/logos/USA/FailArmy.us.png
-Skills+Thrills.us,US - Skills + Thrills,https://iptv-epg.org/logos/USA/Skills%2BThrills.us.png
 ThePetCollective.us,US - The Pet Collective,https://iptv-epg.org/logos/USA/ThePetCollective.us.png
-ThisOldHouse.us,US - This Old House,https://iptv-epg.org/logos/USA/ThisOldHouse.us.png
-AntiquesRoadshowUK.us,US - Antiques Roadshow UK,https://iptv-epg.org/logos/USA/AntiquesRoadshowUK.us.png
-AFVFamily.us,US - AFV Family,https://iptv-epg.org/logos/USA/AFVFamily.us.png
-ClassicDoctorWho.us,US - Classic Doctor Who,https://iptv-epg.org/logos/USA/ClassicDoctorWho.us.png
-ACCDigitalNetwork.us,US - ACC Digital Network,https://iptv-epg.org/logos/USA/ACCDigitalNetwork.us.png
-NBCNewsNow.us,US - NBC News NOW,https://iptv-epg.org/logos/USA/NBCNewsNow.us.png
-LOCALNOW.us,US - LOCAL NOW,https://iptv-epg.org/logos/USA/LOCALNOW.us.png
-PeopleTV.us,US - PeopleTV,https://iptv-epg.org/logos/USA/PeopleTV.us.png
-TheBobRossChannel.us,US - The Bob Ross Channel,https://iptv-epg.org/logos/USA/TheBobRossChannel.us.png
-BilliardTV.us,US - Billiard TV,https://iptv-epg.org/logos/USA/BilliardTV.us.png
-LiveNOWfromFOX.us,US - Live NOW from FOX,https://iptv-epg.org/logos/USA/LiveNOWfromFOX.us.png
-BounceXL.us,US - Bounce XL,https://iptv-epg.org/logos/USA/BounceXL.us.png
-UsWeeklyTV.us,US - Us Weekly TV,https://iptv-epg.org/logos/USA/UsWeeklyTV.us.png
-RevryNews.us,US - RevryNews,https://iptv-epg.org/logos/USA/RevryNews.us.png
-Revry.us,US - Revry,https://iptv-epg.org/logos/USA/Revry.us.png
 MadeInHollywood.us,US - Made In Hollywood,https://iptv-epg.org/logos/USA/MadeInHollywood.us.png
 TED.us,US - TED,https://iptv-epg.org/logos/USA/TED.us.png
-SPEEDVISION.us,US - SPEEDVISION,https://iptv-epg.org/logos/USA/SPEEDVISION.us.png
-FilmRise21JumpStreet.us,US - FilmRise 21 Jump Street,https://iptv-epg.org/logos/USA/FilmRise21JumpStreet.us.png
-FilmRiseBritishTV.us,US - FilmRise British TV,https://iptv-epg.org/logos/USA/FilmRiseBritishTV.us.png
-FilmRiseDickVanDyke.us,US - FilmRise Dick Van Dyke,https://iptv-epg.org/logos/USA/FilmRiseDickVanDyke.us.png
-FilmRiseDrGMedicalExaminer.us,US - FilmRise Dr. G: Medical Examiner,https://iptv-epg.org/logos/USA/FilmRiseDrGMedicalExaminer.us.png
-FilmRiseAnime.us,US - FilmRise Anime,https://iptv-epg.org/logos/USA/FilmRiseAnime.us.png
-FilmRiseConcursosDeCocina.us,US - FilmRise Concursos de Cocina,https://iptv-epg.org/logos/USA/FilmRiseConcursosDeCocina.us.png
-ScreamboxTV.us,US - Screambox TV,https://iptv-epg.org/logos/USA/ScreamboxTV.us.png
-ConfessByNosey.us,US - Confess by Nosey,https://iptv-epg.org/logos/USA/ConfessByNosey.us.png
-CampusLoreSports.us,US - CampusLore Sports,https://iptv-epg.org/logos/USA/CampusLoreSports.us.png
-ElReyNetwork.us,US - El Rey Network,https://iptv-epg.org/logos/USA/ElReyNetwork.us.png
-JudgeNosey.us,US - Judge Nosey,https://iptv-epg.org/logos/USA/JudgeNosey.us.png
-BratTV.us,US - Brat TV,https://iptv-epg.org/logos/USA/BratTV.us.png
-IONPlus.us,US - IONPlus,https://iptv-epg.org/logos/USA/IONPlus.us.png
-WomensSportsNetwork.us,US - Women's Sports Network,https://iptv-epg.org/logos/USA/WomensSportsNetwork.us.png
-GritXtra.us,US - Grit Xtra,https://iptv-epg.org/logos/USA/GritXtra.us.png
-SwerveSports.us,US - Swerve Sports,https://iptv-epg.org/logos/USA/SwerveSports.us.png
-MaximumEffortChannel.us,US - Maximum Effort Channel,https://iptv-epg.org/logos/USA/MaximumEffortChannel.us.png
-LoveStoriesTV.us,US - Love Stories TV,https://iptv-epg.org/logos/USA/LoveStoriesTV.us.png
-ACLCornholeTV.us,US - ACL Cornhole TV,https://iptv-epg.org/logos/USA/ACLCornholeTV.us.png
-HistoryAndWarfareNow.us,US - History &amp; Warfare Now,https://iptv-epg.org/logos/USA/HistoryAndWarfareNow.us.png
-TinyHouseNation.us,US - Tiny House Nation,https://iptv-epg.org/logos/USA/TinyHouseNation.us.png
-WeatherChannelenEspanol.us,US - Weather Channel en Español,https://iptv-epg.org/logos/USA/WeatherChannelenEspanol.us.png
-MyTimeMovieNetwork.us,US - MyTime Movie Network,https://iptv-epg.org/logos/USA/MyTimeMovieNetwork.us.png
 PickleTV.us,US - PickleTV,https://iptv-epg.org/logos/USA/PickleTV.us.png
-TransworldSkateboarding.us,US - Transworld Skateboarding,https://iptv-epg.org/logos/USA/TransworldSkateboarding.us.png
-Snowboarder.us,US - Snowboarder,https://iptv-epg.org/logos/USA/Snowboarder.us.png
-BikeMag.us,US - BikeMag,https://iptv-epg.org/logos/USA/BikeMag.us.png
-Surfer.us,US - Surfer,https://iptv-epg.org/logos/USA/Surfer.us.png
-GoUSATV.us,US - GoUSA TV,https://iptv-epg.org/logos/USA/GoUSATV.us.png
-EbonyTV.us,US - Ebony TV,https://iptv-epg.org/logos/USA/EbonyTV.us.png
-HerSphere.us,US - HerSphere,https://iptv-epg.org/logos/USA/HerSphere.us.png
-WesternBound.us,US - Western Bound,https://iptv-epg.org/logos/USA/WesternBound.us.png
 Wonder.us,US - Wonder,https://iptv-epg.org/logos/USA/Wonder.us.png
-PickleballTV.us,US - PickleballTV,https://iptv-epg.org/logos/USA/PickleballTV.us.png
-NFLChannel.us,US - NFL Channel,https://iptv-epg.org/logos/USA/NFLChannel.us.png
-WildEarth.us,US - WildEarth,https://iptv-epg.org/logos/USA/WildEarth.us.png
-ALLBLKGems.us,US - ALLBLK Gems,https://iptv-epg.org/logos/USA/ALLBLKGems.us.png
-T2.us,US - T2,https://iptv-epg.org/logos/USA/T2.us.png
 FuelTV.us,US - Fuel TV,https://iptv-epg.org/logos/USA/FuelTV.us.png
 CourtSportsNetwork.us,US - Court Sports Network,https://iptv-epg.org/logos/USA/CourtSportsNetwork.us.png
 FifthGear.us,US - Fifth Gear,https://iptv-epg.org/logos/USA/FifthGear.us.png
