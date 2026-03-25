@@ -91,6 +91,7 @@ CMM TV,CMM TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/i
 Punt 3,Punt 3,https://www.punt3.es/android-icon-192x192.png
 Aragón TV,Aragón TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV.png
 Aragón TV Internacional,Aragón TV Internacional,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png
+TV Canaria,TV Canaria,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV%20Canaria.png
 M+ Estrenos HD,M+ Estrenos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png
 M+ Hits HD,M+ Hits,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png
 M+ Clásicos HD,M+ Clásicos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png
