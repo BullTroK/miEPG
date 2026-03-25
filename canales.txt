@@ -223,3 +223,4 @@ FR · CANAL+ Sport 360,FR · CANAL+ Sport 360,https://raw.githubusercontent.com/
 FR · beIN SPORTS 1,FR · beIN SPORTS 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png
 FR · beIN SPORTS 2,FR · beIN SPORTS 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png
 FR · beIN SPORTS 3,FR · beIN SPORTS 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png
+ES300003D4,Sony One Éxitos,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20260224T030832SQUARE.png
