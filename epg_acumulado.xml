@@ -654,6 +654,9 @@
   <channel id="FR · beIN SPORTS 3">
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" />
   </channel>
+  <channel id="Sony One Éxitos">
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20260224T030832SQUARE.png" />
+  </channel>
 	<programme start="20260324064000 +0100" stop="20260324072000 +0100" channel="Movistar Plus+">
     <title>Historia de las sitcoms: Asuntos de familia</title>
     <desc>Documentales,Sociedad | 2021 | +7 | *5.6/10
@@ -117147,6 +117150,78 @@ Disfruta de los mejores partidos amistosos internacionales.</desc>
     <desc>Magazine sportif,Multisports
 · Ça se passe sur beIN SPORTS est un condensé de l'actualité sportive, des résultats et des meilleures images des derniers jours : football, tennis, basket, rugby, handball ou encore les sports US (NBA, MLB, NFL), toutes les compétitions sont passées en revue.</desc>
 	</programme>
+  <programme start="20260325012945 +0000" stop="20260325020002 +0000" channel="Sony One Éxitos">
+    <title>I Dream Of Jeannie (Colorized) S1E16</title>
+    <sub-title>Get Me To Mecca On Time</sub-title>
+    <desc>Jeannie descubre que se debilita su poder y fuerza para hacer magia</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1210948762_0_20250923T051019145Z_96_imageprocessorclient-tvplus-linear-5db7c6bc99-7sngq.jpeg"/>
+  </programme>
+  <programme start="20260325020002 +0000" stop="20260325023001 +0000" channel="Sony One Éxitos">
+    <title>I Dream Of Jeannie (Colorized) S1E17</title>
+    <sub-title>The Richest Astronaut In The Whole Wide World</sub-title>
+    <desc>Roger descubre la existencia de Jeannie cuando , por accidente, la saca de la botella.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1228380685_0_20251001T073109300Z_58_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg"/>
+  </programme>
+  <programme start="20260325023001 +0000" stop="20260325030027 +0000" channel="Sony One Éxitos">
+    <title>I Dream Of Jeannie (Colorized) S1E18</title>
+    <sub-title>Is There An Extra Jeannie In The House?</sub-title>
+    <desc>Roger sale con Sheila, la sobrina del Dr. Bellows y la trae de regreso a casa muy tarde.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1228372975_0_20251001T073104299Z_27_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg"/>
+  </programme>
+  <programme start="20260325030027 +0000" stop="20260325033025 +0000" channel="Sony One Éxitos">
+    <title>I Dream Of Jeannie (Colorized) S1E19</title>
+    <sub-title>Never Try To Outsmart A Genie</sub-title>
+    <desc>Tony le dice a Jeannie que el gobierno lo envía a Roma. Finalmente accede a llevarla como acompañante si ella obtiene un pasaporte, de lo contrario deberá viajar en la botella.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1228380686_1_20251001T073100406Z_50_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.jpeg"/>
+  </programme>
+  <programme start="20260325033025 +0000" stop="20260325040041 +0000" channel="Sony One Éxitos">
+    <title>I Dream Of Jeannie (Colorized) S1E20</title>
+    <sub-title>My Master The Doctor</sub-title>
+    <desc>Roger será operado.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1228448249_0_20251001T073100210Z_142_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg"/>
+  </programme>
+  <programme start="20260325040041 +0000" stop="20260325043038 +0000" channel="Sony One Éxitos">
+    <title>I Dream Of Jeannie (Colorized) S1E21</title>
+    <sub-title>Jeannie And The Kidnap Caper</sub-title>
+    <desc>Tony insiste a Jeannie que deje de servirlo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1228372976_0_20251001T073109300Z_103_imageprocessorclient-tvplus-linear-5db7c6bc99-rsgsk.jpeg"/>
+  </programme>
+  <programme start="20260325043038 +0000" stop="20260325050104 +0000" channel="Sony One Éxitos">
+    <title>I Dream Of Jeannie (Colorized) S1E22</title>
+    <sub-title>How Lucky Can You Get?</sub-title>
+    <desc>Tony Y Roger deciden ir a Reno.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1228462661_1_20251001T073100406Z_40_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.jpeg"/>
+  </programme>
+  <programme start="20260325050104 +0000" stop="20260325053136 +0000" channel="Sony One Éxitos">
+    <title>Bewitched S6E194</title>
+    <sub-title>Generation Zap</sub-title>
+    <desc>Debido al hechizo de Serena, una chica universitaria se ve obligada a cambiar su imagen y Darrin casi se ve obligado a cambiar de trabajo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1233117449_0_20251003T093649844Z_97_imageprocessorclient-tvplus-linear-5db7c6bc99-24qh9.jpeg"/>
+  </programme>
+  <programme start="20260325053136 +0000" stop="20260325060132 +0000" channel="Sony One Éxitos">
+    <title>Bewitched S7E201</title>
+    <sub-title>To Go Or Not To Go, That Is The Question</sub-title>
+    <desc>La Suma Sacerdotisa de Witchdom destrona a Darrin en su propio castillo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1234674264_0_20251004T032631140Z_95_imageprocessorclient-tvplus-linear-5db7c6bc99-x889l.jpeg"/>
+  </programme>
+  <programme start="20260325060132 +0000" stop="20260325063154 +0000" channel="Sony One Éxitos">
+    <title>Bewitched S7E202</title>
+    <sub-title>Salem Here We Come</sub-title>
+    <desc>La decisión de la emperatriz Hepzibah de que las brujas y los mortales no se mezclen se retrasa.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1234581946_0_20251004T032631140Z_69_imageprocessorclient-tvplus-linear-5db7c6bc99-x889l.jpeg"/>
+  </programme>
+  <programme start="20260325063154 +0000" stop="20260325070147 +0000" channel="Sony One Éxitos">
+    <title>Bewitched S7E203</title>
+    <sub-title>Salem Saga</sub-title>
+    <desc>Darrin descubre que los calientacamas pueden ser peores que las suegras, especialmente cuando están muy calientes.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1234594990_0_20251004T032631139Z_174_imageprocessorclient-tvplus-linear-5db7c6bc99-x889l.jpeg"/>
+  </programme>
+  <programme start="20260325070147 +0000" stop="20260325073211 +0000" channel="Sony One Éxitos">
+    <title>Bewitched S7E204</title>
+    <sub-title>Samantha's Hot Bedwarmer</sub-title>
+    <desc>Darrin no puede ser acusado de robo cuando las pruebas muestran que fue un antiguo amor de Serena.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1234634237_0_20251004T032631139Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-x889l.jpeg"/>
+  </programme>
 	<programme start="20260324171500 +0100" stop="20260324185400 +0100" channel="Movistar Plus+">
     <title>Flores para Antonio</title>
     <desc>Documentales,Biografía | 2025 | +12 | *8.4/10
