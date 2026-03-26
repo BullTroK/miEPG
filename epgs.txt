@@ -4,4 +4,4 @@ https://iptv-epg.org/files/epg-mx.xml
 https://iptv-epg.org/files/epg-us.xml
 https://iptv-epg.org/files/epg-cl.xml
 https://iptv-epg.org/files/epg-uy.xml
-https://github.com/acidjesuz/EPGTalk/raw/refs/heads/master/Latino_guide.xml.gz
+https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz
