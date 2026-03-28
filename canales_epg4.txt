@@ -2728,6 +2728,7 @@ FloHockey.us,US - FloHockey,https://iptv-epg.org/logos/USA/FloHockey.us.png
 RepublicTV.us,US - Republic TV,https://iptv-epg.org/logos/USA/RepublicTV.us.png
 SITV.us,US - SI TV (Sports Illustrated TV),https://iptv-epg.org/logos/USA/SITV.us.png
 WorldSurfLeague24_7.us,US - World Surf League 24/7,
+DetroitSportsNet.us,US - Detroit SportsNet,
 RTNews.us,US - RT News,https://iptv-epg.org/logos/USA/RTNews.us.png
 UFC24_7.us,US - UFC 24/7,https://iptv-epg.org/logos/USA/UFC24_7.us.png
 ACKTV.us,US - AKC TV,https://iptv-epg.org/logos/USA/ACKTV.us.png
