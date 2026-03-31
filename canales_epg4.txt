@@ -681,7 +681,7 @@ PBSWTVS.us,US - PBS WTVS Detroit MI,https://iptv-epg.org/logos/USA/PBSWTVS.us.pn
 CBSWWJ.us,US - CBS WWJ Detroit MI,https://iptv-epg.org/logos/USA/CBSWWJ.us.png
 FOXWSMH.us,US - FOX WSMH Flint Bay City Saginaw MI,https://iptv-epg.org/logos/USA/FOXWSMH.us.png
 NBCWSMHDT2.us,US - NBC WSMH-DT2 Flint Bay City Saginaw MI,https://iptv-epg.org/logos/USA/NBCWSMHDT2.us.png
-PBSWDCQ.us,US - PBS WDCQ Flint Bad Axe MI,
+PBSWDCQ.us,US - PBS WDCQ Flint Bad Axe MI,https://iptv-epg.org/logos/USA/PBSWDCQ.us.png
 ABCWZZM.us,US - ABC WZZM Grand Rapids MI,https://iptv-epg.org/logos/USA/ABCWZZM.us.png
 MYWXSP.us,US - MY WXSP Grand Rapids MI,https://iptv-epg.org/logos/USA/MYWXSP.us.png
 CBSWWMT.us,US - CBS WWMT Grand Rapids Kalamazoo MI,https://iptv-epg.org/logos/USA/CBSWWMT.us.png
@@ -1462,7 +1462,7 @@ FOXKCPQ.us,US - FOX KCPQ Seatle Tacoma WA,https://iptv-epg.org/logos/USA/FOXKCPQ
 KONG16KONG.us,US - KONG16 KONG Seatle Tacoma WA,https://iptv-epg.org/logos/USA/KONG16KONG.us.png
 MyKZJO.us,US - My KZJO Seatle Tacoma WA,https://iptv-epg.org/logos/USA/MyKZJO.us.png
 PBSKBTC.us,US - PBS KBTC Seatle Tacoma WA,https://iptv-epg.org/logos/USA/PBSKBTC.us.png
-CWKUNS.us,US - CW KUNS Seatle Tacoma WA,
+CWKUNS.us,US - CW KUNS Seatle Tacoma WA,https://iptv-epg.org/logos/USA/CWKUNS.us.png
 CBSKREM.us,US - CBS KREM Spokane WA,https://iptv-epg.org/logos/USA/CBSKREM.us.png
 ABCKXLY.us,US - ABC KXLY SPOKANE WA,https://iptv-epg.org/logos/USA/ABCKXLY.us.png
 NBCKHQ.us,US - NBC KHQ Spokane WA,https://iptv-epg.org/logos/USA/NBCKHQ.us.png
@@ -2365,7 +2365,7 @@ ShoutTV.us,US - Shout! TV,https://iptv-epg.org/logos/USA/ShoutTV.us.png
 ThePetCollective.us,US - The Pet Collective,https://iptv-epg.org/logos/USA/ThePetCollective.us.png
 FilmRiseBritishTV.us,US - FilmRise British TV,https://iptv-epg.org/logos/USA/FilmRiseBritishTV.us.png
 DickVanDyke.us,US - Dick Van Dyke,https://iptv-epg.org/logos/USA/DickVanDyke.us.png
-DrGMedicalExaminer.us,US - Dr. G: Medical Examiner,
+DrGMedicalExaminer.us,US - Dr. G: Medical Examiner,https://iptv-epg.org/logos/USA/DrGMedicalExaminer.us.png
 FilmRiseAnime.us,US - FilmRise Anime,https://iptv-epg.org/logos/USA/FilmRiseAnime.us.png
 FilmRiseConcursosDeCocina.us,US - FilmRise Concursos de Cocina,https://iptv-epg.org/logos/USA/FilmRiseConcursosDeCocina.us.png
 JudgeNosey.us,US - Judge Nosey,https://iptv-epg.org/logos/USA/JudgeNosey.us.png
@@ -3004,7 +3004,7 @@ TheHighway.sxm,SXM - The Highway,
 Y2Kountry.sxm,SXM - Y2Kountry,
 PrimeCountry.sxm,SXM - Prime Country,
 NoShoesRadio.sxm,SXM - No Shoes Radio,
-CARRIE’SCOUNTRY.sxm,SXM - CARRIE’S COUNTRY,
+CARRIESCOUNTRY.sxm,SXM - CARRIE’S COUNTRY,
 WilliesRoadhouse.sxm,SXM - Willie's Roadhouse,
 OutlawCountry.sxm,SXM - Outlaw Country,
 ChrisStapletonRadio.sxm,SXM - Chris Stapleton Radio,
@@ -3089,7 +3089,7 @@ Escape.sxm,SXM - Escape,
 BillGaithersenLighten.sxm,SXM - Bill Gaither's enLighten,
 HitsUno.sxm,SXM - Hits Uno,
 Caliente.sxm,SXM - Caliente,
-Águila.sxm,SXM - Águila,
+Aguila.sxm,SXM - Águila,
 EnVivo.sxm,SXM - En Vivo,
 LatinVault.sxm,SXM - Latin Vault,
 ProWrestlingNation24/7.sxm,SXM - Pro Wrestling Nation 24/7,
@@ -3101,7 +3101,7 @@ RacinesMusicales.sxm,SXM - Racines Musicales,
 CanadaTalks.sxm,SXM - Canada Talks,
 SiriusXMComedyClub.sxm,SXM - SiriusXM Comedy Club,
 CBCRadioOne.sxm,SXM - CBC Radio One,
-ICIPremière.sxm,SXM - ICI Première,
+ICIPremiere.sxm,SXM - ICI Première,
 TopoftheCountryRadio.sxm,SXM - Top of the Country Radio,
 SiriusXMScoreboard.sxm,SXM - SiriusXM Scoreboard,
 TheVerge.sxm,SXM - The Verge,
@@ -3159,7 +3159,7 @@ SiriusXMSilk330.sxm,SXM - SiriusXM Silk 330,
 ShaggysBoombasticRadio.sxm,SXM - Shaggy's Boombastic Radio,
 RadioMonaco.sxm,SXM - Radio Monaco,
 Utopia.sxm,SXM - Utopia,
-DwightYoakamandTheBakersfieldB.sxm,SXM - Dwight Yoakam and The Bakersfield B,
+DwightYoakamandTheBakersfieldBeat.sxm,SXM - Dwight Yoakam and The Bakersfield Beat,
 RedWhiteAndBooze.sxm,SXM - Red White &amp; Booze,
 NorthAmericana.sxm,SXM - North Americana,
 GrownFolkJAMZ.sxm,SXM - Grown Folk JAMZ,
@@ -3175,21 +3175,21 @@ TheBillyGrahamChannel.sxm,SXM - The Billy Graham Channel,
 Spa.sxm,SXM - Spa,
 RamseyNetwork.sxm,SXM - Ramsey Network,
 ComedyInFull.sxm,SXM - Comedy In Full,
-CeliaCruzAZÚCAR!.sxm,SXM - Celia Cruz AZÚCAR!,
+CeliaCruzAZUCAR.sxm,SXM - Celia Cruz AZÚCAR!,
 SiriusXMDhamaka.sxm,SXM - SiriusXM Dhamaka,
 OneWorldRadio.sxm,SXM - One World Radio,
 UnwellOnAir.sxm,SXM - Unwell On Air,
 SiriusXO.sxm,SXM - SiriusXO,
-SoccerPlay-by-PlayenEspañol.sxm,SXM - Soccer Play-by-Play en Español,
+SoccerPlay-by-PlayenEspanol.sxm,SXM - Soccer Play-by-Play en Español,
 DisneyJr.Radio.sxm,RADIO - Disney Jr. Radio,
 SiriusXMAppOriginals.sxm,SXM - SiriusXM App Originals,
 SportsPlay-by-Play970.sxm,SXM - Sports Play-by-Play 970,
 SportsPlay-by-Play997.sxm,SXM - Sports Play-by-Play 997,
-MLBenEspañol871.sxm,SXM - MLB en Español 871,
-MLBenEspañol870.sxm,SXM - MLB en Español 870,
+MLBenEspanol871.sxm,SXM - MLB en Español 871,
+MLBenEspanol870.sxm,SXM - MLB en Español 870,
 SiriusXMPops.sxm,SXM - SiriusXM Pops,
 SoulCycleRadio.sxm,SXM - SoulCycle Radio,
-NFLenEspañol832.sxm,SXM - NFL en Español 832,
+NFLenEspanol832.sxm,SXM - NFL en Español 832,
 TheVillage.sxm,SXM - The Village,
 PopTop500.sxm,SXM - Pop Top 500,
 MetOperaRadio.sxm,SXM - Met Opera Radio,
@@ -3270,9 +3270,9 @@ HolidayTraditions.sxm,SXM - Holiday Traditions,
 SiriusXMLove.sxm,SXM - SiriusXM Love,
 LimitedEdition12.sxm,SXM - Limited Edition 12,
 LaKueva.sxm,SXM - La Kueva,
-Rumbón.sxm,SXM - Rumbón,
+Rumbon.sxm,SXM - Rumbón,
 Luna.sxm,SXM - Luna,
-FlowNación.sxm,SXM - Flow Nación,
+FlowNacion.sxm,SXM - Flow Nación,
 Latidos.sxm,SXM - Latidos,
 Viva.sxm,SXM - Viva,
 Caricia.sxm,SXM - Caricia,
@@ -9693,56 +9693,56 @@ DAZN72.dko,DKO - DAZN 72,https://iptv-epg.org/logos/USA/DAZN72.dko.png
 DAZN73.dko,DKO - DAZN 73,https://iptv-epg.org/logos/USA/DAZN73.dko.png
 DAZN74.dko,DKO - DAZN 74,https://iptv-epg.org/logos/USA/DAZN74.dko.png
 DAZN75.dko,DKO - DAZN 75,https://iptv-epg.org/logos/USA/DAZN75.dko.png
-MLS01.dko,DKO - MLS 01,
-MLS02.dko,DKO - MLS 02,
-MLS03.dko,DKO - MLS 03,
-MLS04.dko,DKO - MLS 04,
-MLS05.dko,DKO - MLS 05,
-MLS06.dko,DKO - MLS 06,
-MLS07.dko,DKO - MLS 07,
-MLS08.dko,DKO - MLS 08,
-MLS09.dko,DKO - MLS 09,
-MLS10.dko,DKO - MLS 10,
-MLS11.dko,DKO - MLS 11,
-MLS12.dko,DKO - MLS 12,
-MLS13.dko,DKO - MLS 13,
-MLS14.dko,DKO - MLS 14,
-MLS15.dko,DKO - MLS 15,
-MLS16.dko,DKO - MLS 16,
-MLS17.dko,DKO - MLS 17,
-MLS18.dko,DKO - MLS 18,
-MLS19.dko,DKO - MLS 19,
-MLS20.dko,DKO - MLS 20,
-MLS21.dko,DKO - MLS 21,
-MLS22.dko,DKO - MLS 22,
-MLS23.dko,DKO - MLS 23,
-MLS24.dko,DKO - MLS 24,
-MLS25.dko,DKO - MLS 25,
-MLS26.dko,DKO - MLS 26,
-MLS27.dko,DKO - MLS 27,
-MLS28.dko,DKO - MLS 28,
-MLS29.dko,DKO - MLS 29,
-MLS30.dko,DKO - MLS 30,
-MLS31.dko,DKO - MLS 31,
-MLS32.dko,DKO - MLS 32,
-MLS33.dko,DKO - MLS 33,
-MLS34.dko,DKO - MLS 34,
-MLS35.dko,DKO - MLS 35,
-MLS36.dko,DKO - MLS 36,
-MLS37.dko,DKO - MLS 37,
-MLS38.dko,DKO - MLS 38,
-MLS39.dko,DKO - MLS 39,
-MLS40.dko,DKO - MLS 40,
-MLS41.dko,DKO - MLS 41,
-MLS42.dko,DKO - MLS 42,
-MLS43.dko,DKO - MLS 43,
-MLS44.dko,DKO - MLS 44,
-MLS45.dko,DKO - MLS 45,
-MLS46.dko,DKO - MLS 46,
-MLS47.dko,DKO - MLS 47,
-MLS48.dko,DKO - MLS 48,
-MLS49.dko,DKO - MLS 49,
-MLS50.dko,DKO - MLS 50,
+MLS01.dko,DKO - MLS 01,https://iptv-epg.org/logos/USA/MLS01.dko.png
+MLS02.dko,DKO - MLS 02,https://iptv-epg.org/logos/USA/MLS02.dko.png
+MLS03.dko,DKO - MLS 03,https://iptv-epg.org/logos/USA/MLS03.dko.png
+MLS04.dko,DKO - MLS 04,https://iptv-epg.org/logos/USA/MLS04.dko.png
+MLS05.dko,DKO - MLS 05,https://iptv-epg.org/logos/USA/MLS05.dko.png
+MLS06.dko,DKO - MLS 06,https://iptv-epg.org/logos/USA/MLS06.dko.png
+MLS07.dko,DKO - MLS 07,https://iptv-epg.org/logos/USA/MLS07.dko.png
+MLS08.dko,DKO - MLS 08,https://iptv-epg.org/logos/USA/MLS08.dko.png
+MLS09.dko,DKO - MLS 09,https://iptv-epg.org/logos/USA/MLS09.dko.png
+MLS10.dko,DKO - MLS 10,https://iptv-epg.org/logos/USA/MLS10.dko.png
+MLS11.dko,DKO - MLS 11,https://iptv-epg.org/logos/USA/MLS11.dko.png
+MLS12.dko,DKO - MLS 12,https://iptv-epg.org/logos/USA/MLS12.dko.png
+MLS13.dko,DKO - MLS 13,https://iptv-epg.org/logos/USA/MLS13.dko.png
+MLS14.dko,DKO - MLS 14,https://iptv-epg.org/logos/USA/MLS14.dko.png
+MLS15.dko,DKO - MLS 15,https://iptv-epg.org/logos/USA/MLS15.dko.png
+MLS16.dko,DKO - MLS 16,https://iptv-epg.org/logos/USA/MLS16.dko.png
+MLS17.dko,DKO - MLS 17,https://iptv-epg.org/logos/USA/MLS17.dko.png
+MLS18.dko,DKO - MLS 18,https://iptv-epg.org/logos/USA/MLS18.dko.png
+MLS19.dko,DKO - MLS 19,https://iptv-epg.org/logos/USA/MLS19.dko.png
+MLS20.dko,DKO - MLS 20,https://iptv-epg.org/logos/USA/MLS20.dko.png
+MLS21.dko,DKO - MLS 21,https://iptv-epg.org/logos/USA/MLS21.dko.png
+MLS22.dko,DKO - MLS 22,https://iptv-epg.org/logos/USA/MLS22.dko.png
+MLS23.dko,DKO - MLS 23,https://iptv-epg.org/logos/USA/MLS23.dko.png
+MLS24.dko,DKO - MLS 24,https://iptv-epg.org/logos/USA/MLS24.dko.png
+MLS25.dko,DKO - MLS 25,https://iptv-epg.org/logos/USA/MLS25.dko.png
+MLS26.dko,DKO - MLS 26,https://iptv-epg.org/logos/USA/MLS26.dko.png
+MLS27.dko,DKO - MLS 27,https://iptv-epg.org/logos/USA/MLS27.dko.png
+MLS28.dko,DKO - MLS 28,https://iptv-epg.org/logos/USA/MLS28.dko.png
+MLS29.dko,DKO - MLS 29,https://iptv-epg.org/logos/USA/MLS29.dko.png
+MLS30.dko,DKO - MLS 30,https://iptv-epg.org/logos/USA/MLS30.dko.png
+MLS31.dko,DKO - MLS 31,https://iptv-epg.org/logos/USA/MLS31.dko.png
+MLS32.dko,DKO - MLS 32,https://iptv-epg.org/logos/USA/MLS32.dko.png
+MLS33.dko,DKO - MLS 33,https://iptv-epg.org/logos/USA/MLS33.dko.png
+MLS34.dko,DKO - MLS 34,https://iptv-epg.org/logos/USA/MLS34.dko.png
+MLS35.dko,DKO - MLS 35,https://iptv-epg.org/logos/USA/MLS35.dko.png
+MLS36.dko,DKO - MLS 36,https://iptv-epg.org/logos/USA/MLS36.dko.png
+MLS37.dko,DKO - MLS 37,https://iptv-epg.org/logos/USA/MLS37.dko.png
+MLS38.dko,DKO - MLS 38,https://iptv-epg.org/logos/USA/MLS38.dko.png
+MLS39.dko,DKO - MLS 39,https://iptv-epg.org/logos/USA/MLS39.dko.png
+MLS40.dko,DKO - MLS 40,https://iptv-epg.org/logos/USA/MLS40.dko.png
+MLS41.dko,DKO - MLS 41,https://iptv-epg.org/logos/USA/MLS41.dko.png
+MLS42.dko,DKO - MLS 42,https://iptv-epg.org/logos/USA/MLS42.dko.png
+MLS43.dko,DKO - MLS 43,https://iptv-epg.org/logos/USA/MLS43.dko.png
+MLS44.dko,DKO - MLS 44,https://iptv-epg.org/logos/USA/MLS44.dko.png
+MLS45.dko,DKO - MLS 45,https://iptv-epg.org/logos/USA/MLS45.dko.png
+MLS46.dko,DKO - MLS 46,https://iptv-epg.org/logos/USA/MLS46.dko.png
+MLS47.dko,DKO - MLS 47,https://iptv-epg.org/logos/USA/MLS47.dko.png
+MLS48.dko,DKO - MLS 48,https://iptv-epg.org/logos/USA/MLS48.dko.png
+MLS49.dko,DKO - MLS 49,https://iptv-epg.org/logos/USA/MLS49.dko.png
+MLS50.dko,DKO - MLS 50,https://iptv-epg.org/logos/USA/MLS50.dko.png
 TV2noEvent1.p13,P13 - TV2no Event 1,https://iptv-epg.org/logos/USA/TV2noEvent1.p13.png
 TV2noEvent2.p13,P13 - TV2no Event 2,https://iptv-epg.org/logos/USA/TV2noEvent2.p13.png
 TV2noEvent3.p13,P13 - TV2no Event 3,https://iptv-epg.org/logos/USA/TV2noEvent3.p13.png
