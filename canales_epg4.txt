@@ -1817,7 +1817,7 @@ StingrayTotalHitsFrance.us,US - Stingray Total Hits France,https://iptv-epg.org/
 StingrayTotalHitsItaly.us,US - Stingray Total Hits Italy,https://iptv-epg.org/logos/USA/StingrayTotalHitsItaly.us.png
 StingrayTotalHitsRussia.us,US - Stingray Total Hits Russia,https://iptv-epg.org/logos/USA/StingrayTotalHitsRussia.us.png
 StingrayTotalHitsPoland.us,US - Stingray Total Hits Poland,https://iptv-epg.org/logos/USA/StingrayTotalHitsPoland.us.png
-SmithsonianNetwork.us,US - SMITHSONIAN CHANNEL,https://iptv-epg.org/logos/USA/SmithsonianNetwork.us.png
+SmithsonianNetwork.us,US - Smithsonian Network,https://iptv-epg.org/logos/USA/SmithsonianNetwork.us.png
 SmithsonianNetworkPacific.us,US - Smithsonian Network West,
 FIDO.us,US - Fido TV,https://iptv-epg.org/logos/USA/FIDO.us.png
 VmeKids.us,US - Vme Kids,https://iptv-epg.org/logos/USA/VmeKids.us.png
@@ -1867,7 +1867,7 @@ GreatEntertainmentTelevision.us,US - Great Entertainment Television,https://iptv
 FMC.us,US - Family Movie Classics (FMC),https://iptv-epg.org/logos/USA/FMC.us.png
 PixL.us,US - PIXL,https://iptv-epg.org/logos/USA/PixL.us.png
 OutsideTelevision.us,US - OUTSIDE TELEVISION,https://iptv-epg.org/logos/USA/OutsideTelevision.us.png
-beINSports.us,US - BEIN SPORTS USA,https://iptv-epg.org/logos/USA/beINSports.us.png
+beINSports.us,US - beIN SPORTS USA,https://iptv-epg.org/logos/USA/beINSports.us.png
 WorldFishingNetwork.us,US - WORLD FISHING NETWORK,https://iptv-epg.org/logos/USA/WorldFishingNetwork.us.png
 SportsmanChannel.us,US - SPORTSMAN CHANNEL,https://iptv-epg.org/logos/USA/SportsmanChannel.us.png
 OutdoorChannel.us,US - OUTDOOR CHANNEL,https://iptv-epg.org/logos/USA/OutdoorChannel.us.png
@@ -1885,7 +1885,7 @@ TVOneGlobal.us,US - TVOne Global,https://iptv-epg.org/logos/USA/TVOneGlobal.us.p
 HumTV.us,US - Hum TV,https://iptv-epg.org/logos/USA/HumTV.us.png
 News18.us,US - News18,https://iptv-epg.org/logos/USA/News18.us.png
 Willow2.us,US - Willow 2,https://iptv-epg.org/logos/USA/Willow2.us.png
-beINSportsEnEspanol.us,US - BEIN SPORTS ESP US,https://iptv-epg.org/logos/USA/beINSportsEnEspanol.us.png
+beINSportsEnEspanol.us,US - beIN SPORTS ESP US,https://iptv-epg.org/logos/USA/beINSportsEnEspanol.us.png
 FreeSpeechTV.us,US - Free Speech TV,https://iptv-epg.org/logos/USA/FreeSpeechTV.us.png
 UniMas.us,US - UniMas,https://iptv-epg.org/logos/USA/UniMas.us.png
 BabyFirst.us,US - BABY FIRST,https://iptv-epg.org/logos/USA/BabyFirst.us.png
@@ -2084,7 +2084,7 @@ MBC.us,US - MBC,https://iptv-epg.org/logos/USA/MBC.us.png
 EWTNEspanol.us,US - EWTN Espanol,https://iptv-epg.org/logos/USA/EWTNEspanol.us.png
 AplausoTV.us,US - Aplauso TV,https://iptv-epg.org/logos/USA/AplausoTV.us.png
 CMC.us,US - CMC CHANNEL,https://iptv-epg.org/logos/USA/CMC.us.png
-NBCSportsCaliforniaPlus.us,US - NBC Sports Bay Area/California Plus,https://iptv-epg.org/logos/USA/NBCSportsCaliforniaPlus.us.png
+NBCSportsCaliforniaPlus.us,US - NBC Sports California Plus,https://iptv-epg.org/logos/USA/NBCSportsCaliforniaPlus.us.png
 NBCSportsBayAreaPlus.us,US - NBC Sports Bay Area Plus,https://iptv-epg.org/logos/USA/NBCSportsBayAreaPlus.us.png
 TVIInternacional.us,US - TVI Internacional,https://iptv-epg.org/logos/USA/TVIInternacional.us.png
 FanDuelSportsNetworkMidwestPlus.us,US - FanDuel Sports Network Midwest Plus,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkMidwestPlus.us.png
@@ -2181,7 +2181,7 @@ WAPA2.pr,PR - WAPA 2,https://iptv-epg.org/logos/USA/WAPA2.pr.png
 ViendoMovies.us,US - Viendo Movies,https://iptv-epg.org/logos/USA/ViendoMovies.us.png
 TheOhioChannel.us,US - The Ohio Channel,https://iptv-epg.org/logos/USA/TheOhioChannel.us.png
 SpectrumNews1Columbus.us,US - Spectrum News 1 Columbus,https://iptv-epg.org/logos/USA/SpectrumNews1Columbus.us.png
-FanDuelSportsNetworkOhio.us,US - FanDuel Sports Network Cincinnati,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkOhio.us.png
+FanDuelSportsNetworkOhio.us,US - FanDuel Sports Network Ohio,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkOhio.us.png
 FanDuelSportsNetworkOhioExtra.us,US - FanDuel Sports Network Ohio Extra,
 FanDuelSportsNetworkCincinnati.us,US - FanDuel Sports Network Cincinnati,https://iptv-epg.org/logos/USA/FanDuelSportsNetworkCincinnati.us.png
 FanDuelSportsNetworkCincinnatiExtra.us,US - FanDuel Sports Network Cincinnati Extra,
@@ -2417,7 +2417,7 @@ BloombergOriginals.us,US - Bloomberg Originals,https://iptv-epg.org/logos/USA/Bl
 AllRealityWEtv.us,US - All Reality WE tv,https://iptv-epg.org/logos/USA/AllRealityWEtv.us.png
 TheWalkingDeadUniverse.us,US - The Walking Dead Universe,https://iptv-epg.org/logos/USA/TheWalkingDeadUniverse.us.png
 StoriesbyAMC.us,US - Stories by AMC,https://iptv-epg.org/logos/USA/StoriesbyAMC.us.png
-IFCFilmsPicks.us,US - Films Picks,https://iptv-epg.org/logos/USA/IFCFilmsPicks.us.png
+IFCFilmsPicks.us,US - IFC Films Picks,https://iptv-epg.org/logos/USA/IFCFilmsPicks.us.png
 LOLNetwork.us,US - LOL Network,https://iptv-epg.org/logos/USA/LOLNetwork.us.png
 SlightlyOffbyIFC.us,US - Slightly Off by IFC,https://iptv-epg.org/logos/USA/SlightlyOffbyIFC.us.png
 MysteryScienceTheater3000.us,US - Mystery Science Theater 3000,https://iptv-epg.org/logos/USA/MysteryScienceTheater3000.us.png
@@ -2524,7 +2524,7 @@ LiveXLive.us,US - LIVEXLIVE,https://iptv-epg.org/logos/USA/LiveXLive.us.png
 HellsKitchen_KitchenNightmares.us,US - Hell's Kitchen / Kitchen Nightmares,https://iptv-epg.org/logos/USA/HellsKitchen_KitchenNightmares.us.png
 TheRottenTomatoesChannel.us,US - The Rotten Tomatoes Channel,https://iptv-epg.org/logos/USA/TheRottenTomatoesChannel.us.png
 UnsolvedMysteries.us,US - Unsolved Mysteries,https://iptv-epg.org/logos/USA/UnsolvedMysteries.us.png
-CBSNews.us,US - CBS News Streaming,https://iptv-epg.org/logos/USA/CBSNews.us.png
+CBSNews.us,US - CBS News,https://iptv-epg.org/logos/USA/CBSNews.us.png
 TheChallenge.us,US - The Challenge,https://iptv-epg.org/logos/USA/TheChallenge.us.png
 CBSNewsPittsburgh.us,US - CBS News Pittsburgh,https://iptv-epg.org/logos/USA/CBSNewsPittsburgh.us.png
 CNNMax.us,US - CNN Max,https://iptv-epg.org/logos/USA/CNNMax.us.png
@@ -2716,7 +2716,7 @@ UltraMacho.us,US - Ultra Macho,https://iptv-epg.org/logos/USA/UltraMacho.us.png
 UltraFilm.us,US - Ultra Film,https://iptv-epg.org/logos/USA/UltraFilm.us.png
 UltraDocumentary.us,US - Ultra Documentary,
 UltraLuna.us,US - Ultra Luna,https://iptv-epg.org/logos/USA/UltraLuna.us.png
-UltraTainment.us,US - Ultra Tainment,https://iptv-epg.org/logos/USA/UltraTainment.us.png
+UltraTainment.us,US - UltraTainment,https://iptv-epg.org/logos/USA/UltraTainment.us.png
 UltraBanda.us,US - Ultra Banda,https://iptv-epg.org/logos/USA/UltraBanda.us.png
 UltraFiesta.us,US - Ultra Fiesta,https://iptv-epg.org/logos/USA/UltraFiesta.us.png
 UltraFamilia.us,US - Ultra Familia,https://iptv-epg.org/logos/USA/UltraFamilia.us.png
