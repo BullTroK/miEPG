@@ -160,6 +160,7 @@ SkySports16.mx,Sky Sports 16 MX,https://i.postimg.cc/RV4Zcd7z/skylaliga.webp
 SkySports24.mx,Sky Sports 24 MX,https://i.postimg.cc/rFfM5kyT/skybundesliga.webp
 FOXSportsPremium.mx,FOX Sports Premium MX,https://r2.thesportsdb.com/images/media/channel/logo/uot48c1743576677.png
 Azteca7.mx,Azteca 7,https://i.postimg.cc/LXPfc5Wj/IMG-20260227-142913.png
+Canal5.mx,Canal 5,https://iptv-epg.org/logos/Mexico/Canal5.mx.png
 DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
 DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
 DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
