@@ -73,6 +73,7 @@ Telecinco HD,Telecinco,https://raw.githubusercontent.com/davidmuma/picons_dobleM
 La Sexta HD,La Sexta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png
 Teledeporte,Teledeporte,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png
 Mega,Mega,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png
+Clan,Clan,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png
 etb1,etb1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1.png
 etb2,etb2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb2.png
 TVG,TVG,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG.png
