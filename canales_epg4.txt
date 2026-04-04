@@ -2612,8 +2612,9 @@ TheBobRossChannel.us,US - The Bob Ross Channel,https://iptv-epg.org/logos/USA/Th
 BilliardTV.us,US - Billiard TV,https://iptv-epg.org/logos/USA/BilliardTV.us.png
 LiveNOWfromFOX.us,US - Live NOW from FOX,https://iptv-epg.org/logos/USA/LiveNOWfromFOX.us.png
 BounceXL.us,US - Bounce XL,https://iptv-epg.org/logos/USA/BounceXL.us.png
-CrimeCultsKillersByAandE,Crime Cults Killers by A&amp;E,https://iptv-epg.org/logos/USA/CrimeCultsKillersByAandE.png
+CrimeCultsKillersByAandE.us,US - Crime Cults Killers by A&amp;E,
 NationalLampoon.us,US - National Lampoon,https://iptv-epg.org/logos/USA/NationalLampoon.us.png
+WesternBound.us,US - Western Bound,https://iptv-epg.org/logos/USA/WesternBound.us.png
 BingeTV.us,US - Binge TV,https://iptv-epg.org/logos/USA/BingeTV.us.png
 ACEtv.us,US - ACE TV,https://iptv-epg.org/logos/USA/ACEtv.us.png
 MovieSphereGold.us,US - MovieSphere Gold,https://iptv-epg.org/logos/USA/MovieSphereGold.us.png
@@ -2650,7 +2651,6 @@ USATODAYNews.us,US - USA TODAY News,https://iptv-epg.org/logos/USA/USATODAYNews.
 TheDesignNetwork.us,US - The Design Network,https://iptv-epg.org/logos/USA/TheDesignNetwork.us.png
 BBCHomAndGarden.us,US - BBC Home &amp; Garden,https://iptv-epg.org/logos/USA/BBCHomAndGarden.us.png
 FailArmy.us,US - Fail Army,https://iptv-epg.org/logos/USA/FailArmy.us.png
-WesternBound.us,US - Western Bound,https://iptv-epg.org/logos/USA/WesternBound.us.png
 WildEarth.us,US - WildEarth,https://iptv-epg.org/logos/USA/WildEarth.us.png
 FifthGear.us,US - Fifth Gear,https://iptv-epg.org/logos/USA/FifthGear.us.png
 TVLandSitcoms.us,US - TV Land Sitcoms,https://iptv-epg.org/logos/USA/TVLandSitcoms.us.png
