@@ -152,6 +152,10 @@ Canal14.mx,MX - Canal 14,https://iptv-epg.org/logos/Mexico/Canal14.mx.png
 ESPNNorte.mx,MX - ESPN Norte,
 ESPNNorte2.mx,MX - ESPN Norte 2,
 ESPNNorte3.mx,MX - ESPN Norte 3,
+MC.mx,MX - MC,https://iptv-epg.org/logos/Mexico/MC.mx.png
+PXSports.mx,MX - PX Sports,https://iptv-epg.org/logos/Mexico/PXSports.mx.png
+Dreamworks.mx,MX - Dreamworks,https://iptv-epg.org/logos/Mexico/Dreamworks.mx.png
+HiSports.mx,MX - Hi Sports,https://iptv-epg.org/logos/Mexico/HiSports.mx.png
 FOXSportsPremium.mx,MX - FOX Sports Premium,https://iptvboss.xyz/logos/Mexico/FoxSportsPremium.mx.png
 TVCuatro.mx,MX - TV Cuatro,https://iptv-epg.org/logos/Mexico/TVCuatro.mx.png
 TNTNovelas.mx,MX - TNT Novelas,https://iptv-epg.org/logos/Mexico/TNTNovelas.mx.png
