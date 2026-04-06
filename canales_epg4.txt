@@ -1818,7 +1818,7 @@ StingrayTotalHitsItaly.us,US - Stingray Total Hits Italy,https://iptv-epg.org/lo
 StingrayTotalHitsRussia.us,US - Stingray Total Hits Russia,https://iptv-epg.org/logos/USA/StingrayTotalHitsRussia.us.png
 StingrayTotalHitsPoland.us,US - Stingray Total Hits Poland,https://iptv-epg.org/logos/USA/StingrayTotalHitsPoland.us.png
 SmithsonianNetwork.us,US - Smithsonian Network,https://iptv-epg.org/logos/USA/SmithsonianNetwork.us.png
-SmithsonianNetworkPacific.us,US - Smithsonian Network West,
+SmithsonianNetworkPacific.us,US - Smithsonian Network West,https://iptv-epg.org/logos/USA/SmithsonianNetworkPacific.us.png
 FIDO.us,US - Fido TV,https://iptv-epg.org/logos/USA/FIDO.us.png
 VmeKids.us,US - Vme Kids,https://iptv-epg.org/logos/USA/VmeKids.us.png
 AapkaColors.us,US - Aapka Colors,https://iptv-epg.org/logos/USA/AapkaColors.us.png
@@ -2612,7 +2612,7 @@ TheBobRossChannel.us,US - The Bob Ross Channel,https://iptv-epg.org/logos/USA/Th
 BilliardTV.us,US - Billiard TV,https://iptv-epg.org/logos/USA/BilliardTV.us.png
 LiveNOWfromFOX.us,US - Live NOW from FOX,https://iptv-epg.org/logos/USA/LiveNOWfromFOX.us.png
 BounceXL.us,US - Bounce XL,https://iptv-epg.org/logos/USA/BounceXL.us.png
-CrimeCultsKillersByAandE.us,US - Crime Cults Killers by A&amp;E,
+CrimeCultsKillersByAandE.us,US - Crime Cults Killers by A&amp;E,https://iptv-epg.org/logos/USA/CrimeCultsKillersByAandE.us.png
 NationalLampoon.us,US - National Lampoon,https://iptv-epg.org/logos/USA/NationalLampoon.us.png
 WesternBound.us,US - Western Bound,https://iptv-epg.org/logos/USA/WesternBound.us.png
 BingeTV.us,US - Binge TV,https://iptv-epg.org/logos/USA/BingeTV.us.png
@@ -2731,7 +2731,7 @@ RepublicTV.us,US - Republic TV,https://iptv-epg.org/logos/USA/RepublicTV.us.png
 SITV.us,US - SI TV (Sports Illustrated TV),https://iptv-epg.org/logos/USA/SITV.us.png
 WorldSurfLeague24_7.us,US - World Surf League 24/7,https://iptv-epg.org/logos/USA/WorldSurfLeague24_7.us.png
 DetroitSportsNet.us,US - Detroit SportsNet,https://iptv-epg.org/logos/USA/DetroitSportsNet.us.png
-BravesVision.us,US - BravesVision,
+BravesVision.us,US - BravesVision,https://iptv-epg.org/logos/USA/BravesVision.us.png
 RTNews.us,US - RT News,https://iptv-epg.org/logos/USA/RTNews.us.png
 UFC24_7.us,US - UFC 24/7,https://iptv-epg.org/logos/USA/UFC24_7.us.png
 ACKTV.us,US - AKC TV,https://iptv-epg.org/logos/USA/ACKTV.us.png
