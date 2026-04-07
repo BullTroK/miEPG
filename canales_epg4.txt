@@ -2751,6 +2751,7 @@ FanDuelSportsNetworkNetbase.us,US - FanDuel Sports Network Netbase,https://iptv-
 FloSports.us,US - FloSports,https://iptv-epg.org/logos/USA/FloSports.us.png
 CWGold.us,US - CW Gold,https://iptv-epg.org/logos/USA/CWGold.us.png
 CWForever.us,US - CW Forever,https://iptv-epg.org/logos/USA/CWForever.us.png
+BuzzrTV.us,US - Buzzr TV,
 DangerTV.us,US - Danger TV,https://iptv-epg.org/logos/USA/DangerTV.us.png
 MLBNetwork-Alt.us,US - MLB Network-Alt,https://iptv-epg.org/logos/USA/MLBNetwork-Alt.us.png
 NHLAlternate.us,US - NHL Alternate,https://iptv-epg.org/logos/USA/NHLAlternate.us.png
