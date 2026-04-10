@@ -2,5 +2,4 @@ https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
 https://iptv-epg.org/files/epg-ar.xml
 https://iptv-epg.org/files/epg-mx.xml
 https://iptv-epg.org/files/epg-us.xml
-https://iptv-epg.org/files/epg-es.xml.gz
 https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz
