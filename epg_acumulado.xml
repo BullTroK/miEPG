@@ -405,11 +405,11 @@
   <channel id="Sony One Series Comedia">
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20241106T142322SQUARE.png" />
   </channel>
-  <channel id="Sony One Hits Comedia">
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20251111T011949SQUARE.png" />
-  </channel>
   <channel id="Sony One Hits Acción">
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20251111T011921SQUARE.png" />
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20260407T040056SQUARE.png" />
+  </channel>
+  <channel id="Sony One Hits Comedia">
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20260324T034839SQUARE.png" />
   </channel>
   <channel id="Cines Verdi TV">
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cines%20Verdi%20TV.png" />
@@ -66931,39 +66931,75 @@
     <desc>+12
 · Fran da a luz a los gemelos, y C.C. responde la propuesta de matrimonio de Niles.</desc>
 	</programme>
-	<programme start="20260410171832 +0000" stop="20260410195922 +0000" channel="Sony One Hits Comedia">
-    <title>Hook (El Capitán Garfio)</title>
-    <desc>· A pesar de ser un abogado de éxito profesional y de tener una encantadora familia, Peter Banning ha perdido algo maravilloso, su propia infancia. Cuando sus hijos son secuestrados por un antiguo enemigo y llevados al País de Nunca Jamás, el también tiene que viajar a ese reino encantado. Sólo de esa manera puede recuperar a los suyos y también al niño que un día fue. Allí vivirá emocionantes y divertidas aventuras.</desc>
-	</programme>
-	<programme start="20260410195922 +0000" stop="20260410215654 +0000" channel="Sony One Hits Comedia">
-    <title>Di Que Si</title>
-    <desc>· A una pareja poco probable la embaucan para que compita en un reality show de parejas con la única finalidad de sorprender a los productores del programa robando el corazón del público con su incompatibilidad total.</desc>
-	</programme>
-	<programme start="20260410215654 +0000" stop="20260410235706 +0000" channel="Sony One Hits Comedia">
-    <title>Rough Night</title>
-    <desc>+14
-· En Rough Night, una noche de mucha fiesta toma un giro divertidamente oscuro cuando cinco mejores amigas matan accidentalmente a un estríper masculino.</desc>
-	</programme>
-	<programme start="20260410235706 +0000" stop="20260411015228 +0000" channel="Sony One Hits Comedia">
-    <title>La Cruda Realidad</title>
-    <desc>+14
-· Para conseguir al hombre perfecto tendrá que escuchar al peor de todos</desc>
-	</programme>
-	<programme start="20260410180034 +0000" stop="20260410202706 +0000" channel="Sony One Hits Acción">
-    <title>Spider-Man 2</title>
-    <desc>+7
-· Peter Parker tiene problemas en su vida personal al tiempo que lucha contra un científico brillante, el Doctor Otto Octavius.</desc>
-	</programme>
-	<programme start="20260410202706 +0000" stop="20260410225008 +0000" channel="Sony One Hits Acción">
+  <programme start="20260410202706 +0000" stop="20260410225008 +0000" channel="Sony One Hits Acción">
     <title>Bad Boys For Life</title>
-    <desc>+14
-· Los policías rebeldes originales, Mike Lowrey (Will Smith) y Marcus Burnett (Martin Lawrence), han vuelto. Después de una serie de asesinatos y un atentado contra la vida de Mike, éste convence a un titubeante Marcus para que deje de lado por el momento su jubilación y sean camaradas una última vez. Juntos, se unen a Ammo, la nueva división de tiro de la policia de Miami para derrotar al despiadado jefe del Cartel Aretas.</desc>
-	</programme>
-	<programme start="20260410225008 +0000" stop="20260411004543 +0000" channel="Sony One Hits Acción">
+    <desc>Los policías rebeldes originales, Mike Lowrey (Will Smith) y Marcus Burnett (Martin Lawrence), han vuelto. Después de una serie de asesinatos y un atentado contra la vida de Mike, éste convence a un titubeante Marcus para que deje de lado por el momento su jubilación y sean camaradas una última vez. Juntos, se unen a Ammo, la nueva división de tiro de la policia de Miami para derrotar al despiadado jefe del Cartel Aretas.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1675645714_1_20260305T235100169Z_110_imageprocessorclient-tvplus-linear-85d7d49859-gf68g.jpeg"/>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260410225008 +0000" stop="20260411004543 +0000" channel="Sony One Hits Acción">
     <title>7 Segundos</title>
-    <desc>+18
-· Wesley Snipes es un ladrón profesional cuyas fechorías van rematadamente mal en este imprevisible thriller de asesinatos. El capitán Jack Tolliver es un antiguo miembro de las Delta Force que lidera lo que debería ser un atraco perfecto a un furgón blindado. Pero en lugar de dinero termina con un Van Gogh y con uno de sus compañeros retenido como rehén por los mafiosos rusos que han interferido en el atraco. La única opción de Tolliver es una misión suicida de rescate.</desc>
-	</programme>
+    <desc>Wesley Snipes es un ladrón profesional cuyas fechorías van rematadamente mal en este imprevisible thriller de asesinatos. El capitán Jack Tolliver es un antiguo miembro de las Delta Force que lidera lo que debería ser un atraco perfecto a un furgón blindado. Pero en lugar de dinero termina con un Van Gogh y con uno de sus compañeros retenido como rehén por los mafiosos rusos que han interferido en el atraco. La única opción de Tolliver es una misión suicida de rescate.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_869303688_3_20250508T202420078Z_112_imageprocessorclient-tvplus-linear-6fb5b47f79-hws2j.png"/>
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20260411004543 +0000" stop="20260411021853 +0000" channel="Sony One Hits Acción">
+    <title>Rescate Al Amanecer</title>
+    <desc>En 1965, un piloto germano-estadounidense que participaba en una misión de bombardeo de alto secreto fue derribado sobre Laos y llevado a un infernal campo de prisioneros en lo más profundo de la impenetrable selva de Vietnam</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1084627301_2_20250726T063544957Z_80_imageprocessorclient-tvplus-linear-5db7c6bc99-vgnfm.png"/>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260411021853 +0000" stop="20260411040201 +0000" channel="Sony One Hits Acción">
+    <title>Sin Escrúpulos</title>
+    <desc>Una detective policía secuestrada se vincula con su atractivo secuestrador.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1469304635_1_20251224T070145426Z_80_imageprocessorclient-tvplus-linear-85d7d49859-fz6dc.png"/>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260411040201 +0000" stop="20260411061048 +0000" channel="Sony One Hits Acción">
+    <title>Trueno Azul</title>
+    <desc>Roy Scheider protagoniza este thriller trepidante, en el papel de un piloto de la policía de Los Ángeles, Frank Murphy. Cuidadosamente seleccionado por su jefe para probar un helicóptero de ataque experimental llamado Trueno azul, Murphy se ve sorprendido por su capacidad para ver a través de las paredes, registrar un suspiro o nivelar un bloque de la ciudad.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1031608471_0_20250705T022212092Z_51_imageprocessorclient-tvplus-linear-5db7c6bc99-cj6j4.jpeg"/>
+  </programme>
+  <programme start="20260410215654 +0000" stop="20260410235706 +0000" channel="Sony One Hits Comedia">
+    <title>Rough Night</title>
+    <desc>En Rough Night, una noche de mucha fiesta toma un giro divertidamente oscuro cuando cinco mejores amigas matan accidentalmente a un estríper masculino.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1465368012_4_20251223T055047833Z_37_imageprocessorclient-tvplus-linear-85d7d49859-2fhcp.png"/>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260410235706 +0000" stop="20260411015228 +0000" channel="Sony One Hits Comedia">
+    <title>La Cruda Realidad</title>
+    <desc>Para conseguir al hombre perfecto tendrá que escuchar al peor de todos</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1578334737_1_20260127T030456749Z_62_imageprocessorclient-tvplus-linear-85d7d49859-rclz9.png"/>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260411015228 +0000" stop="20260411035529 +0000" channel="Sony One Hits Comedia">
+    <title>¿Qué Fue De Los Morgan?</title>
+    <desc>Cuenta la historia de una pareja que tras presenciar un asesinato debe refugiarse en un pueblo lejano para no ser víctima de distintas amenazas.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1569387573_0_20260123T101016524Z_107_imageprocessorclient-tvplus-linear-85d7d49859-rzk56.jpeg"/>
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20260411035529 +0000" stop="20260411055145 +0000" channel="Sony One Hits Comedia">
+    <title>Año Uno</title>
+    <desc>Corinne Jeffries, una mujer dinámica y atractiva, nunca ha superado la muerte de su marido Louie en un desgraciado accidente. A pesar de los años transcurridos, su amor por él sigue intacto. Cuando quedó viuda estaba embarazada y dio luz a Miranda, convertida ya en una hermosa joven. Desde entonces, tuvo el apoyo incondicional de Philip, el mejor amigo de su marido, quien siempre ha estado enamorado de ella. Cuando Louie murió, en el cielo se le brindó la oportunidad de reencarnarse en Alex Finch, un apuesto joven. Al conocer a Miranda por casualidad, Alex/Louie entra de nuevo en la vida de Corinne, desbaratándola por completo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1578268977_0_20260127T030456723Z_56_imageprocessorclient-tvplus-linear-85d7d49859-b9h9w.jpeg"/>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
 	<programme start="20260410033400 +0200" stop="20260410052900 +0200" channel="Cines Verdi TV">
     <title>Los cien pasos V.O.</title>
     <desc>Cine,Drama,Policíaco,Biográfico | 2000 | +12
@@ -107454,6 +107490,19 @@ Cobertura de las noticias del mundo deportivo. Información actualizada de lo qu
     <category>Series</category>
     <category>Documentary</category>
   </programme>
+	<programme start="20260410171832 +0000" stop="20260410195922 +0000" channel="Sony One Hits Comedia">
+    <title>Hook (El Capitán Garfio)</title>
+    <desc>· A pesar de ser un abogado de éxito profesional y de tener una encantadora familia, Peter Banning ha perdido algo maravilloso, su propia infancia. Cuando sus hijos son secuestrados por un antiguo enemigo y llevados al País de Nunca Jamás, el también tiene que viajar a ese reino encantado. Sólo de esa manera puede recuperar a los suyos y también al niño que un día fue. Allí vivirá emocionantes y divertidas aventuras.</desc>
+	</programme>
+	<programme start="20260410195922 +0000" stop="20260410215654 +0000" channel="Sony One Hits Comedia">
+    <title>Di Que Si</title>
+    <desc>· A una pareja poco probable la embaucan para que compita en un reality show de parejas con la única finalidad de sorprender a los productores del programa robando el corazón del público con su incompatibilidad total.</desc>
+	</programme>
+	<programme start="20260410180034 +0000" stop="20260410202706 +0000" channel="Sony One Hits Acción">
+    <title>Spider-Man 2</title>
+    <desc>+7
+· Peter Parker tiene problemas en su vida personal al tiempo que lucha contra un científico brillante, el Doctor Otto Octavius.</desc>
+	</programme>
 	<programme start="20260410153000 +0200" stop="20260410160100 +0200" channel="Movistar Plus+">
     <title>Ilustres ignorantes T19 · Los amigos</title>
     <desc>Entretenimiento,Humor | 2026 | +16 | *6.2/10
