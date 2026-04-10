@@ -1,4 +1,4 @@
-# Fuente: https://i.mjh.nz/PlutoTV/es.xml.gz
+# Fuente: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml
 6964d2179ba4ac18051a18ce,Léo Mattéï: Brigada de protección,https://images.pluto.tv/channels/6964d2179ba4ac18051a18ce/colorLogoPNG_1774344400865.png
 67c7249be979b84e78ca43ff,Los Mosqueteros,https://images.pluto.tv/channels/67c7249be979b84e78ca43ff/colorLogoPNG_1775051096047.png
 6995daa579545c21a10e84de,Pluto TV Basadas en libros,https://images.pluto.tv/channels/6995daa579545c21a10e84de/colorLogoPNG_1774623953804.png
