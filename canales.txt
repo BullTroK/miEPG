@@ -253,3 +253,4 @@ FR · beIN SPORTS 3,FR · beIN SPORTS 3,https://raw.githubusercontent.com/davidm
 60b4c06717da110007ee1af6,Pluto TV Telenovelas,https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG_1733440547918.png
 6475bfec536e0c0008858e9f,Pluto TV K-Drama,https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png
 5f1ac8f49205650007bc15f1,Pluto TV Series,https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png
+61922be835f3910007fc58f6,En el punto de mira,https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png
