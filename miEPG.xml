@@ -765,6 +765,12 @@
   <channel id="DE | Rally TV">
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" />
   </channel>
+  <channel id="LaLiga TV US">
+    <icon src="https://iptv-epg.org/logos/UK/LaLigaTVEspanol.us.png" />
+  </channel>
+  <channel id="LaLiga TV UK">
+    <icon src="https://iptv-epg.org/logos/UK/LaLigaTV.uk.png" />
+  </channel>
 	<programme start="20260412061500 +0200" stop="20260412065500 +0200" channel="Movistar Plus+">
     <title>Los 2010: El boom de las redes sociales</title>
     <desc>Documentales,Sociedad | 2023 | +12 | *6.0/10
@@ -138170,6 +138176,693 @@ Cobertura de las noticias del mundo deportivo. Información actualizada de lo qu
     <desc>Crime | 2019
 · When famous Colombian drag icon Madorilyn Crawford is found murdered in her home, it exposes dark secrets involving powerful people, who believe themselves to be above the law.</desc>
 	</programme>
+  <programme start="20260411000000 +0000" stop="20260411020000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260411020000 +0000" stop="20260411023000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Chronicles</title>
+    <desc lang="en">Las acciones y momentos más destacados de los partidos de fútbol de La Liga en España.</desc>
+  </programme>
+  <programme start="20260411023000 +0000" stop="20260411043000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260411043000 +0000" stop="20260411063000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260411063000 +0000" stop="20260411083000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260411083000 +0000" stop="20260411090000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Talking Football</title>
+    <desc lang="en">Entrevistas con personalidades destacadas de LaLiga.</desc>
+  </programme>
+  <programme start="20260411090000 +0000" stop="20260411093000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga World</title>
+    <desc lang="en">Reportajes y entrevistas, con una muestra de la otra cara del fútbol español.</desc>
+  </programme>
+  <programme start="20260411093000 +0000" stop="20260411100000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Chronicles</title>
+    <desc lang="en">Las acciones y momentos más destacados de los partidos de fútbol de La Liga en España.</desc>
+  </programme>
+  <programme start="20260411100000 +0000" stop="20260411120000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260411120000 +0000" stop="20260411140000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Classics</title>
+    <desc lang="en">Un viaje al pasado para revivir los partidos más destacados en LaLiga a lo largo de los años.</desc>
+  </programme>
+  <programme start="20260411140000 +0000" stop="20260411143000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Fans</title>
+    <desc lang="en">Un programa sobre los aficionados muy especiales que siguen a los equipos que compiten en LaLiga.</desc>
+  </programme>
+  <programme start="20260411143000 +0000" stop="20260411150000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Tactics</title>
+    <desc lang="en">Un vistazo exclusivo a la serie de LaLiga.</desc>
+  </programme>
+  <programme start="20260411150000 +0000" stop="20260411153000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga World</title>
+    <desc lang="en">Reportajes y entrevistas, con una muestra de la otra cara del fútbol español.</desc>
+  </programme>
+  <programme start="20260411153000 +0000" stop="20260411173000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260411173000 +0000" stop="20260411180000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Chronicles</title>
+    <desc lang="en">Las acciones y momentos más destacados de los partidos de fútbol de La Liga en España.</desc>
+  </programme>
+  <programme start="20260411180000 +0000" stop="20260411190000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga EA Sports Highlights</title>
+    <desc lang="en">El programa presenta un resumen del fútbol en la competición LaLiga de EA Sports.</desc>
+  </programme>
+  <programme start="20260411190000 +0000" stop="20260411210000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Classics</title>
+    <desc lang="en">Un viaje al pasado para revivir los partidos más destacados en LaLiga a lo largo de los años.</desc>
+  </programme>
+  <programme start="20260411210000 +0000" stop="20260411230000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260411230000 +0000" stop="20260411233000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Best 11</title>
+    <desc lang="en">En LaLiga Best 11, nueve leyendas de la LaLiga son invitadas a elegir su once ideal.</desc>
+  </programme>
+  <programme start="20260411233000 +0000" stop="20260412000000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Talking Football</title>
+    <desc lang="en">Entrevistas con personalidades destacadas de LaLiga.</desc>
+  </programme>
+  <programme start="20260412000000 +0000" stop="20260412020000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260412020000 +0000" stop="20260412023000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Fans</title>
+    <desc lang="en">Un programa sobre los aficionados muy especiales que siguen a los equipos que compiten en LaLiga.</desc>
+  </programme>
+  <programme start="20260412023000 +0000" stop="20260412043000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260412043000 +0000" stop="20260412073000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260412073000 +0000" stop="20260412083000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga  Post-Match  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Un panel de expertos en LaLiga mientras analizan el partido que se acaba de jugar.</desc>
+    <live/>
+  </programme>
+  <programme start="20260412083000 +0000" stop="20260412103000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260412103000 +0000" stop="20260412110000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga World</title>
+    <desc lang="en">Reportajes y entrevistas, con una muestra de la otra cara del fútbol español.</desc>
+  </programme>
+  <programme start="20260412110000 +0000" stop="20260412113000 +0000" channel="LaLiga TV US">
+    <title lang="en">Matches highlights</title>
+    <desc lang="en">Resúmenes locutados de partidos de la jornada en vigor.</desc>
+  </programme>
+  <programme start="20260412113000 +0000" stop="20260412120000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga ZAP</title>
+    <desc lang="en">Las mejores imágenes, la más curiosas, espectaculares y divertidas de LaLiga Santander.</desc>
+  </programme>
+  <programme start="20260412120000 +0000" stop="20260412130000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga  Pre-Match  ᴺᵉʷ</title>
+    <desc lang="en">Toda la acción de cada jornada de LaLiga con avances y entrevistas con expertos.</desc>
+    <new/>
+  </programme>
+  <programme start="20260412130000 +0000" stop="20260412150000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260412150000 +0000" stop="20260412151500 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Live  ᴺᵉʷ</title>
+    <desc lang="en">Un panel de expertos viene al estudio a hablar sobre las jugadas de la última fecha de LaLiga.</desc>
+    <new/>
+  </programme>
+  <programme start="20260412151500 +0000" stop="20260412171500 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260412171500 +0000" stop="20260412173000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Live  ᴺᵉʷ</title>
+    <desc lang="en">Un panel de expertos viene al estudio a hablar sobre las jugadas de la última fecha de LaLiga.</desc>
+    <new/>
+  </programme>
+  <programme start="20260412173000 +0000" stop="20260412193000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260412193000 +0000" stop="20260412200000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Live  ᴺᵉʷ</title>
+    <desc lang="en">Un panel de expertos viene al estudio a hablar sobre las jugadas de la última fecha de LaLiga.</desc>
+    <new/>
+  </programme>
+  <programme start="20260412200000 +0000" stop="20260412220000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260412220000 +0000" stop="20260412233000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga  Post-Match  ᴺᵉʷ</title>
+    <desc lang="en">Un panel de expertos en LaLiga mientras analizan el partido que se acaba de jugar.</desc>
+    <new/>
+  </programme>
+  <programme start="20260412233000 +0000" stop="20260413003000 +0000" channel="LaLiga TV US">
+    <title lang="en">Matches highlights  ᴺᵉʷ</title>
+    <desc lang="en">Resúmenes locutados de partidos de la jornada en vigor.</desc>
+    <new/>
+  </programme>
+  <programme start="20260413003000 +0000" stop="20260413023000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260413023000 +0000" stop="20260413030000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga World</title>
+    <desc lang="en">Reportajes y entrevistas, con una muestra de la otra cara del fútbol español.</desc>
+  </programme>
+  <programme start="20260413030000 +0000" stop="20260413033000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga ZAP</title>
+    <desc lang="en">Las mejores imágenes, la más curiosas, espectaculares y divertidas de LaLiga Santander.</desc>
+  </programme>
+  <programme start="20260413033000 +0000" stop="20260413040000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260413040000 +0000" stop="20260413043000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga ZAP</title>
+    <desc lang="en">Las mejores imágenes, la más curiosas, espectaculares y divertidas de LaLiga Santander.</desc>
+  </programme>
+  <programme start="20260413043000 +0000" stop="20260413063000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260413063000 +0000" stop="20260413083000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260413083000 +0000" stop="20260413100000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga  Post-Match  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Un panel de expertos en LaLiga mientras analizan el partido que se acaba de jugar.</desc>
+    <live/>
+  </programme>
+  <programme start="20260413100000 +0000" stop="20260413120000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260413120000 +0000" stop="20260413140000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260413140000 +0000" stop="20260413150000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga EA Sports Highlights</title>
+    <desc lang="en">El programa presenta un resumen del fútbol en la competición LaLiga de EA Sports.</desc>
+  </programme>
+  <programme start="20260413150000 +0000" stop="20260413153000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga News  ᴺᵉʷ</title>
+    <desc lang="en">Las noticias más importantes de lo que acontece en la Liga Santander.</desc>
+    <new/>
+  </programme>
+  <programme start="20260413153000 +0000" stop="20260413170000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga  Post-Match  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Un panel de expertos en LaLiga mientras analizan el partido que se acaba de jugar.</desc>
+    <live/>
+  </programme>
+  <programme start="20260413170000 +0000" stop="20260413173000 +0000" channel="LaLiga TV US">
+    <title lang="en">La Liga World</title>
+    <desc lang="en">Entrevistas exclusivas con los mejores jugadores de la división y las antiguas leyendas de LaLiga.</desc>
+  </programme>
+  <programme start="20260413173000 +0000" stop="20260413180000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga ZAP</title>
+    <desc lang="en">Las mejores imágenes, la más curiosas, espectaculares y divertidas de LaLiga Santander.</desc>
+  </programme>
+  <programme start="20260413180000 +0000" stop="20260413183000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Best 11</title>
+    <desc lang="en">En LaLiga Best 11, nueve leyendas de la LaLiga son invitadas a elegir su once ideal.</desc>
+  </programme>
+  <programme start="20260413183000 +0000" stop="20260413190000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga News</title>
+    <desc lang="en">Las noticias más importantes de lo que acontece en la Liga Santander.</desc>
+  </programme>
+  <programme start="20260413190000 +0000" stop="20260413203000 +0000" channel="LaLiga TV US">
+    <title lang="en">Viva LaLiga!</title>
+    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
+  </programme>
+  <programme start="20260413203000 +0000" stop="20260413210000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Fans</title>
+    <desc lang="en">Un programa sobre los aficionados muy especiales que siguen a los equipos que compiten en LaLiga.</desc>
+  </programme>
+  <programme start="20260413210000 +0000" stop="20260413230000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260413230000 +0000" stop="20260414000000 +0000" channel="LaLiga TV US">
+    <title lang="en">Matches highlights</title>
+    <desc lang="en">Resúmenes locutados de partidos de la jornada en vigor.</desc>
+  </programme>
+  <programme start="20260414000000 +0000" stop="20260414013000 +0000" channel="LaLiga TV US">
+    <title lang="en">Viva LaLiga!</title>
+    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
+  </programme>
+  <programme start="20260414013000 +0000" stop="20260414020000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga ZAP</title>
+    <desc lang="en">Las mejores imágenes, la más curiosas, espectaculares y divertidas de LaLiga Santander.</desc>
+  </programme>
+  <programme start="20260414020000 +0000" stop="20260414023000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Talking Football</title>
+    <desc lang="en">Entrevistas con personalidades destacadas de LaLiga.</desc>
+  </programme>
+  <programme start="20260414023000 +0000" stop="20260414043000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260414043000 +0000" stop="20260414063000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260414063000 +0000" stop="20260414083000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260414083000 +0000" stop="20260414100000 +0000" channel="LaLiga TV US">
+    <title lang="en">Viva LaLiga!</title>
+    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
+  </programme>
+  <programme start="20260414100000 +0000" stop="20260414120000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260414120000 +0000" stop="20260414140000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Classics</title>
+    <desc lang="en">Un viaje al pasado para revivir los partidos más destacados en LaLiga a lo largo de los años.</desc>
+  </programme>
+  <programme start="20260414140000 +0000" stop="20260414150000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga HyperMotion  ᴺᵉʷ</title>
+    <desc lang="en">El programa muestra resúmenes de los partidos de LaLiga española de fútbol.</desc>
+    <new/>
+  </programme>
+  <programme start="20260414150000 +0000" stop="20260414153000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga News  ᴺᵉʷ</title>
+    <desc lang="en">Las noticias más importantes de lo que acontece en la Liga Santander.</desc>
+    <new/>
+  </programme>
+  <programme start="20260414153000 +0000" stop="20260414170000 +0000" channel="LaLiga TV US">
+    <title lang="en">Viva LaLiga!</title>
+    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
+  </programme>
+  <programme start="20260414170000 +0000" stop="20260414180000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga EA Sports Highlights</title>
+    <desc lang="en">El programa presenta un resumen del fútbol en la competición LaLiga de EA Sports.</desc>
+  </programme>
+  <programme start="20260414180000 +0000" stop="20260414183000 +0000" channel="LaLiga TV US">
+    <title lang="en">La Liga World</title>
+    <desc lang="en">Entrevistas exclusivas con los mejores jugadores de la división y las antiguas leyendas de LaLiga.</desc>
+  </programme>
+  <programme start="20260414183000 +0000" stop="20260414190000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga News</title>
+    <desc lang="en">Las noticias más importantes de lo que acontece en la Liga Santander.</desc>
+  </programme>
+  <programme start="20260414190000 +0000" stop="20260414203000 +0000" channel="LaLiga TV US">
+    <title lang="en">Viva LaLiga!  ᴺᵉʷ</title>
+    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
+    <new/>
+  </programme>
+  <programme start="20260414203000 +0000" stop="20260414210000 +0000" channel="LaLiga TV US">
+    <title lang="en">La Liga World</title>
+    <desc lang="en">Entrevistas exclusivas con los mejores jugadores de la división y las antiguas leyendas de LaLiga.</desc>
+  </programme>
+  <programme start="20260414210000 +0000" stop="20260414230000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260414230000 +0000" stop="20260415000000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga HyperMotion</title>
+    <desc lang="en">El programa muestra resúmenes de los partidos de LaLiga española de fútbol.</desc>
+  </programme>
+  <programme start="20260415000000 +0000" stop="20260415013000 +0000" channel="LaLiga TV US">
+    <title lang="en">Viva LaLiga!  ᴺᵉʷ</title>
+    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
+    <new/>
+  </programme>
+  <programme start="20260415013000 +0000" stop="20260415023000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga EA Sports Highlights</title>
+    <desc lang="en">El programa presenta un resumen del fútbol en la competición LaLiga de EA Sports.</desc>
+  </programme>
+  <programme start="20260415023000 +0000" stop="20260415043000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260415043000 +0000" stop="20260415063000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260415063000 +0000" stop="20260415083000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260415083000 +0000" stop="20260415100000 +0000" channel="LaLiga TV US">
+    <title lang="en">Viva LaLiga!</title>
+    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
+  </programme>
+  <programme start="20260415100000 +0000" stop="20260415120000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260415120000 +0000" stop="20260415133000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Classics</title>
+    <desc lang="en">Un viaje al pasado para revivir los partidos más destacados en LaLiga a lo largo de los años.</desc>
+  </programme>
+  <programme start="20260415133000 +0000" stop="20260415140000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260415140000 +0000" stop="20260415143000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga ZAP</title>
+    <desc lang="en">Las mejores imágenes, la más curiosas, espectaculares y divertidas de LaLiga Santander.</desc>
+  </programme>
+  <programme start="20260415143000 +0000" stop="20260415150000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga World</title>
+    <desc lang="en">Reportajes y entrevistas, con una muestra de la otra cara del fútbol español.</desc>
+  </programme>
+  <programme start="20260415150000 +0000" stop="20260415153000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga News</title>
+    <desc lang="en">Las noticias más importantes de lo que acontece en la Liga Santander.</desc>
+  </programme>
+  <programme start="20260415153000 +0000" stop="20260415170000 +0000" channel="LaLiga TV US">
+    <title lang="en">Viva LaLiga!</title>
+    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
+  </programme>
+  <programme start="20260415170000 +0000" stop="20260415173000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Best 11</title>
+    <desc lang="en">En LaLiga Best 11, nueve leyendas de la LaLiga son invitadas a elegir su once ideal.</desc>
+  </programme>
+  <programme start="20260415173000 +0000" stop="20260415180000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga World</title>
+    <desc lang="en">Reportajes y entrevistas, con una muestra de la otra cara del fútbol español.</desc>
+  </programme>
+  <programme start="20260415180000 +0000" stop="20260415190000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Chronicles</title>
+    <desc lang="en">Las acciones y momentos más destacados de los partidos de fútbol de La Liga en España.</desc>
+  </programme>
+  <programme start="20260415190000 +0000" stop="20260415203000 +0000" channel="LaLiga TV US">
+    <title lang="en">Viva LaLiga!</title>
+    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
+  </programme>
+  <programme start="20260411013000 +0000" stop="20260411023000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD30 : Girona FC vs Villarreal CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD30.</desc>
+  </programme>
+  <programme start="20260411023000 +0000" stop="20260411043000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD30 : Real Sociedad vs Levante UD</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD30.</desc>
+  </programme>
+  <programme start="20260411043000 +0000" stop="20260411063000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD30 : Atlético de Madrid vs FC Barcelona</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD30.</desc>
+  </programme>
+  <programme start="20260411063000 +0000" stop="20260411070000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Talking Football : Eusebio Sacristán</title>
+    <desc lang="en">Talking Football.</desc>
+  </programme>
+  <programme start="20260411070000 +0000" stop="20260411090000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD30 : Getafe CF vs Athletic Club</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD30.</desc>
+  </programme>
+  <programme start="20260411090000 +0000" stop="20260411110000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Madrid vs Girona FC</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260411110000 +0000" stop="20260411120000 +0000" channel="LaLiga TV UK">
+    <title lang="en">The meaning: LALIGA Genuine</title>
+    <desc lang="en">The meaning: LALIGA Genuine.</desc>
+  </programme>
+  <programme start="20260411120000 +0000" stop="20260411141500 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Sociedad vs Deportivo Alavés ᴸᶦᵛᵉ</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+    <live/>
+  </programme>
+  <programme start="20260411141500 +0000" stop="20260411163000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Elche CF vs Valencia CF ᴸᶦᵛᵉ</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+    <live/>
+  </programme>
+  <programme start="20260411163000 +0000" stop="20260411183000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol ᴸᶦᵛᵉ</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+    <live/>
+  </programme>
+  <programme start="20260411183000 +0000" stop="20260411190000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Inside – ELGRANDERBI</title>
+    <desc lang="en">Inside – ELGRANDERBI.</desc>
+  </programme>
+  <programme start="20260411190000 +0000" stop="20260411210000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Sevilla FC vs Atlético de Madrid ᴸᶦᵛᵉ</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+    <live/>
+  </programme>
+  <programme start="20260411210000 +0000" stop="20260411230000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260411230000 +0000" stop="20260411233000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Talking Football : Eusebio Sacristán</title>
+    <desc lang="en">Talking Football.</desc>
+  </programme>
+  <programme start="20260411233000 +0000" stop="20260412013000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Sociedad vs Deportivo Alavés</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260412013000 +0000" stop="20260412033000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Elche CF vs Valencia CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260412033000 +0000" stop="20260412053000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Sevilla FC vs Atlético de Madrid</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260412053000 +0000" stop="20260412073000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Madrid vs Girona FC</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260412073000 +0000" stop="20260412093000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Elche CF vs Valencia CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260412093000 +0000" stop="20260412113000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260412113000 +0000" stop="20260412120000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Inside – ELGRANDERBI</title>
+    <desc lang="en">Inside – ELGRANDERBI.</desc>
+  </programme>
+  <programme start="20260412120000 +0000" stop="20260412141500 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : CA Osasuna vs Real Betis ᴸᶦᵛᵉ</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+    <live/>
+  </programme>
+  <programme start="20260412141500 +0000" stop="20260412163000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : RCD Mallorca vs Rayo Vallecano ᴸᶦᵛᵉ</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+    <live/>
+  </programme>
+  <programme start="20260412163000 +0000" stop="20260412183000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Celta vs Real Oviedo ᴸᶦᵛᵉ</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+    <live/>
+  </programme>
+  <programme start="20260412183000 +0000" stop="20260412190000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Inside – ELGRANDERBI</title>
+    <desc lang="en">Inside – ELGRANDERBI.</desc>
+  </programme>
+  <programme start="20260412190000 +0000" stop="20260412210000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Athletic Club vs Villarreal CF ᴸᶦᵛᵉ</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+    <live/>
+  </programme>
+  <programme start="20260412210000 +0000" stop="20260412213000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Talking Football : Raúl García</title>
+    <desc lang="en">Talking Football.</desc>
+  </programme>
+  <programme start="20260412213000 +0000" stop="20260412233000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : CA Osasuna vs Real Betis</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260412233000 +0000" stop="20260413013000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : RCD Mallorca vs Rayo Vallecano</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260413013000 +0000" stop="20260413033000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Celta vs Real Oviedo</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260413033000 +0000" stop="20260413053000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Athletic Club vs Villarreal CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260413053000 +0000" stop="20260413060000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Inside – ELGRANDERBI</title>
+    <desc lang="en">Inside – ELGRANDERBI.</desc>
+  </programme>
+  <programme start="20260413060000 +0000" stop="20260413080000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260413080000 +0000" stop="20260413100000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Sevilla FC vs Atlético de Madrid</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260413100000 +0000" stop="20260413120000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Celta vs Real Oviedo</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260413120000 +0000" stop="20260413123000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Talking Football : Raúl García</title>
+    <desc lang="en">Talking Football.</desc>
+  </programme>
+  <programme start="20260413123000 +0000" stop="20260413143000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : RCD Mallorca vs Rayo Vallecano</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260413143000 +0000" stop="20260413163000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : CA Osasuna vs Real Betis</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260413163000 +0000" stop="20260413183000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Madrid vs Girona FC</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260413183000 +0000" stop="20260413190000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Inside – ELGRANDERBI</title>
+    <desc lang="en">Inside – ELGRANDERBI.</desc>
+  </programme>
+  <programme start="20260413190000 +0000" stop="20260413210000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Levante UD vs Getafe CF ᴸᶦᵛᵉ</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+    <live/>
+  </programme>
+  <programme start="20260413210000 +0000" stop="20260413220000 +0000" channel="LaLiga TV UK">
+    <title lang="en">The meaning: LALIGA Genuine</title>
+    <desc lang="en">The meaning: LALIGA Genuine.</desc>
+  </programme>
+  <programme start="20260413220000 +0000" stop="20260414000000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414000000 +0000" stop="20260414003000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Talking Football : Eusebio Sacristán</title>
+    <desc lang="en">Talking Football.</desc>
+  </programme>
+  <programme start="20260414003000 +0000" stop="20260414023000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : RCD Mallorca vs Rayo Vallecano</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414023000 +0000" stop="20260414043000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Levante UD vs Getafe CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414043000 +0000" stop="20260414063000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Athletic Club vs Villarreal CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414063000 +0000" stop="20260414073000 +0000" channel="LaLiga TV UK">
+    <title lang="en">The meaning: LALIGA Genuine</title>
+    <desc lang="en">The meaning: LALIGA Genuine.</desc>
+  </programme>
+  <programme start="20260414073000 +0000" stop="20260414093000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : CA Osasuna vs Real Betis</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414093000 +0000" stop="20260414113000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Sociedad vs Deportivo Alavés</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414113000 +0000" stop="20260414133000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Elche CF vs Valencia CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414133000 +0000" stop="20260414153000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Madrid vs Girona FC</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414153000 +0000" stop="20260414160000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA HIGHLIGHTS : MD31</title>
+    <desc lang="en">LALIGA HIGHLIGHTS.</desc>
+  </programme>
+  <programme start="20260414160000 +0000" stop="20260414180000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414180000 +0000" stop="20260414200000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Sevilla FC vs Atlético de Madrid</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414200000 +0000" stop="20260414220000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Celta vs Real Oviedo</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414220000 +0000" stop="20260414223000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA HIGHLIGHTS : MD31</title>
+    <desc lang="en">LALIGA HIGHLIGHTS.</desc>
+  </programme>
+  <programme start="20260414223000 +0000" stop="20260415003000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Levante UD vs Getafe CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260415003000 +0000" stop="20260415023000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Madrid vs Girona FC</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260415023000 +0000" stop="20260415030000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Inside – ELGRANDERBI</title>
+    <desc lang="en">Inside – ELGRANDERBI.</desc>
+  </programme>
+  <programme start="20260415030000 +0000" stop="20260415050000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260415050000 +0000" stop="20260415070000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Athletic Club vs Villarreal CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260415070000 +0000" stop="20260415073000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA HIGHLIGHTS : MD31</title>
+    <desc lang="en">LALIGA HIGHLIGHTS.</desc>
+  </programme>
+  <programme start="20260415073000 +0000" stop="20260415093000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Sevilla FC vs Atlético de Madrid</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260415093000 +0000" stop="20260415113000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Madrid vs Girona FC</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260415113000 +0000" stop="20260415133000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : CA Osasuna vs Real Betis</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260415133000 +0000" stop="20260415153000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Levante UD vs Getafe CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260415153000 +0000" stop="20260415160000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA HIGHLIGHTS : MD31</title>
+    <desc lang="en">LALIGA HIGHLIGHTS.</desc>
+  </programme>
+  <programme start="20260415160000 +0000" stop="20260415180000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260415180000 +0000" stop="20260415200000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Athletic Club vs Villarreal CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
 	<programme start="20260412150000 +0200" stop="20260412173000 +0200" channel="Movistar Plus+">
     <title>DIRECTO Final: Alcaraz - Sinner T2026 · Torneo Montecarlo</title>
     <desc>Deportes,Tenis | 2026 | TP | *6.4/10
