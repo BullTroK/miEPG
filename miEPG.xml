@@ -342,6 +342,9 @@
   <channel id="AXN Movies">
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" />
   </channel>
+  <channel id="SkyShowtime">
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png" />
+  </channel>
   <channel id="BBC Series">
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Series.png" />
   </channel>
@@ -618,6 +621,12 @@
   <channel id="UK | Premier Sports 2">
     <icon src="https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png" />
   </channel>
+  <channel id="LaLiga TV US">
+    <icon src="https://iptv-epg.org/logos/UK/LaLigaTVEspanol.us.png" />
+  </channel>
+  <channel id="LaLiga TV UK">
+    <icon src="https://iptv-epg.org/logos/UK/LaLigaTV.uk.png" />
+  </channel>
   <channel id="DE | DAZN 1">
     <icon src="https://www.sky.de/static/img/senderlogos_dark/659_sky_logo_dazn1-hd_tvguide.png" />
   </channel>
@@ -629,6 +638,18 @@
   </channel>
   <channel id="DE | Sky Sport F1">
     <icon src="https://images.tvtoday.de/sender/small/skyf1.png" />
+  </channel>
+  <channel id="DE | Sky Sport Bundesliga 1">
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/119_sky_logo_skybundesligahd2_tvguide.png" />
+  </channel>
+  <channel id="DE | Sky Sport 1">
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/130_sky_logo_skysporthd3_tvguide.png" />
+  </channel>
+  <channel id="DE | Sky Sport 2">
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/131_sky_logo_skysporthd4_tvguide.png" />
+  </channel>
+  <channel id="DE | Rally TV">
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" />
   </channel>
   <channel id="PT | DAZN 1">
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
@@ -764,15 +785,6 @@
   </channel>
   <channel id="Red Bull TV">
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV.png" />
-  </channel>
-  <channel id="DE | Rally TV">
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" />
-  </channel>
-  <channel id="LaLiga TV US">
-    <icon src="https://iptv-epg.org/logos/UK/LaLigaTVEspanol.us.png" />
-  </channel>
-  <channel id="LaLiga TV UK">
-    <icon src="https://iptv-epg.org/logos/UK/LaLigaTV.uk.png" />
   </channel>
 	<programme start="20260412061500 +0200" stop="20260412065500 +0200" channel="Movistar Plus+">
     <title>Los 2010: El boom de las redes sociales</title>
@@ -69336,6 +69348,1523 @@
 · Producción: Noel Clarke, Jason Maza, Maggie Monteith.
 · Productora: Unstoppable Entertainment, Head Gear Films, Metrol Technology.</desc>
 	</programme>
+	<programme start="20260412060200 +0200" stop="20260412065300 +0200" channel="SkyShowtime">
+    <title>Grease: El auge de las Damas rosas T1 E7 · Te la estás buscando</title>
+    <desc>Series,Comedia | 2023 | +12 | *6.0/10
+· Richie no puede más después de todo lo que ha pasado con Jane y se escapa con los T-Birds.
+· País: Estados Unidos
+· Reparto: Marisa Davila, Cheyenne Isabel Wells, Ari Notartomaso, Tricia Fukuhara, Shanel Bailey.</desc>
+	</programme>
+	<programme start="20260412065300 +0200" stop="20260412074800 +0200" channel="SkyShowtime">
+    <title>Grease: El auge de las Damas rosas T1 E8 · O al menos el baile del instituto</title>
+    <desc>Series,Comedia | 2023 | +12 | *6.0/10
+· La única opción de las Pink Ladies para que haya baile escolar es formar equipo con Susan.
+· País: Estados Unidos
+· Reparto: Marisa Davila, Cheyenne Isabel Wells, Ari Notartomaso, Tricia Fukuhara, Shanel Bailey.</desc>
+	</programme>
+	<programme start="20260412074800 +0200" stop="20260412083300 +0200" channel="SkyShowtime">
+    <title>Skymed T1 E7 · Daj Mi Buzi (Dame un beso)</title>
+    <desc>Series,Drama | 2022 | +12 | *5.8/10
+· Nowak hace un esfuerzo excesivo con consecuencias drásticas. Bodie se enfrenta a una verdad inesperada.
+· País: Canadá
+· Dirección: Ron Murphy.
+· Reparto: Natasha Calis, Morgan Holmstrom, Praneet Akilla, Mercedes Morris, Thomas Elms, Kheon Clarke, Aaron Ashmore, Braeden Clarke, Emilia McCarthy, Aason Nadjiwon.
+· Guion: Julie Puckrin.
+· Música: Robert Carli.
+· Productora: Canadian Broadcasting Corporation, Eagle Vision, CBS Studios.</desc>
+	</programme>
+	<programme start="20260412083300 +0200" stop="20260412091800 +0200" channel="SkyShowtime">
+    <title>Skymed T1 E8 · Congelado</title>
+    <desc>Series,Drama | 2022 | +12 | *6.0/10
+· Una ventisca atrapa al equipo junto con la persona con la que menos desean estar atrapados.
+· País: Canadá
+· Dirección: Ron Murphy.
+· Reparto: Natasha Calis, Morgan Holmstrom, Praneet Akilla, Mercedes Morris, Thomas Elms, Kheon Clarke, Aaron Ashmore, Braeden Clarke, Emilia McCarthy, Aason Nadjiwon.
+· Guion: Julie Puckrin.
+· Música: Robert Carli.
+· Productora: Canadian Broadcasting Corporation, Eagle Vision, CBS Studios.</desc>
+	</programme>
+	<programme start="20260412091800 +0200" stop="20260412104300 +0200" channel="SkyShowtime">
+    <title>Gabon: Earth's Last Chance</title>
+    <desc>Documentales,Naturaleza | 2021 | +12 | *6.0/10
+· Un científico se hace amigo del líder de Gabón y lucha contra el cambio climático.
+· País: Estados Unidos
+· Dirección: Steve Greenwood.
+· Producción: Steve Greenwood.
+· Productora: BBC Natural History Unit (NHU).</desc>
+	</programme>
+	<programme start="20260412104300 +0200" stop="20260412122300 +0200" channel="SkyShowtime">
+    <title>The 7.39</title>
+    <desc>Cine,Drama | 2014 | +7 | *6.2/10
+· Tras pelear por un asiento en el tren matutino, dos viajeros entablan una amistad.
+· País: Reino Unido
+· Dirección: John Alexander.
+· Reparto: David Morrissey, Sheridan Smith, Olivia Colman, Sean Maguire.
+· Guion: David Nichols.</desc>
+	</programme>
+	<programme start="20260412122300 +0200" stop="20260412141200 +0200" channel="SkyShowtime">
+    <title>Brock: Over the Top</title>
+    <desc>Documentales,Deportes | 2020 | TP | *5.8/10
+· Una mirada profunda a la vida y la trayectoria del mejor piloto de carreras de Australia.
+· País: Australia
+· Dirección: Kriv Stenders.
+· Guion: Kriv Stenders.</desc>
+	</programme>
+	<programme start="20260412141200 +0200" stop="20260412162700 +0200" channel="SkyShowtime">
+    <title>Cobain: Montage of Heck</title>
+    <desc>Documentales,Música | 2015 | +12 | *7.6/10
+· Una exploración íntima de la vida y la trágica muerte del líder de Nirvana.
+· País: Estados Unidos
+· Dirección: Brett Morgen.
+· Guion: Brett Morgen.
+· Música: Jeff Danna.
+· Producción: Brett Morgen.
+· Productora: HBO Documentary Films.</desc>
+	</programme>
+	<programme start="20260412162700 +0200" stop="20260412181300 +0200" channel="SkyShowtime">
+    <title>Sweet Dreams</title>
+    <desc>Cine,Comedia | 2024 | +16 | *6.0/10
+· Obligado a ingresar en rehabilitación, Morris accede a entrenar a un equipo de sóftbol.
+· País: Estados Unidos
+· Dirección: Lije Sarki.
+· Reparto: Johnny Knoxville, Mohammed Amer, Kate Upton, GaTa, Bobby Lee, Jay Mohr.
+· Productora: 1993 Production.</desc>
+	</programme>
+	<programme start="20260412181300 +0200" stop="20260412200100 +0200" channel="SkyShowtime">
+    <title>Invierno, primavera, verano, otoño</title>
+    <desc>Cine,Drama | 2024 | +12 | *6.4/10
+· Remi se cuestiona su trayectoria profesional cuando conoce a Barnes, que vive el momento.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260412200100 +0200" stop="20260412210100 +0200" channel="SkyShowtime">
+    <title>One Love T1 E2</title>
+    <desc>Series,Drama | 2024 | +12 | *5.8/10
+· El renacer del amor entre Anna y Ale siembra dudas sobre su matrimonio y la estancia de él en Bolonia.
+· País: Italia
+· Reparto: Ottavia Piccolo, Stefano Accorsi, Micaela Ramazzotti, Alessandro Tedeschi, Luca Santoro, Andrea Roncato, Ivan Zerbinati, Beatrice Fiorentini, Margaux Billard.
+· Productora: Cattleya.</desc>
+	</programme>
+	<programme start="20260412210100 +0200" stop="20260412224300 +0200" channel="SkyShowtime">
+    <title>El asesino con ojos de corazón</title>
+    <desc>Cine,Comedia | 2025 | +16 | *6.2/10
+· Dos compañeros de trabajo son confundidos con una pareja por un escurridizo asesino de enamorados.
+· País: Estados Unidos
+· Dirección: Josh Ruben.
+· Reparto: Olivia Holt, Mason Gooding, Devon Sawa, Jordana Brewster, Gigi Zumbado.
+· Guion: Phillip Murphy, Christopher Landon, Michael Kennedy.
+· Música: Jay Wadley.
+· Producción: Christopher Landon, Greg Gilreath.
+· Productora: Spyglass Media Group, Divide/Conquer.</desc>
+	</programme>
+	<programme start="20260412224300 +0200" stop="20260412233600 +0200" channel="SkyShowtime">
+    <title>Marshals: Una historia de Yellowstone T1 E3 · Camino a ninguna parte</title>
+    <desc>Series,Acción | 2026 | +12 | *6.2/10
+· El enfrentamiento entre Broken Rock y los rancheros por la construcción de una mina se vuelve violento.
+· País: Estados Unidos
+· Reparto: Gil Birmingham, Logan Marshall-Green, Luke Grimes, Brecken Merrill, Ash Santos.</desc>
+	</programme>
+	<programme start="20260412233600 +0200" stop="20260413002200 +0200" channel="SkyShowtime">
+    <title>The Death of Bunny Munro T1 E3 · Parte Tres Mujeriego</title>
+    <desc>Series,Drama | 2025 | +16 | *6.2/10
+· El viaje por carretera de Bunny con Junior se complica cuando pierde su lista de clientes.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260413002200 +0200" stop="20260413011100 +0200" channel="SkyShowtime">
+    <title>The Death of Bunny Munro T1 E4 · Parte Cuatro Estafador</title>
+    <desc>Series,Drama | 2025 | +16 | *6.0/10
+· Mientras sigue cayendo en picado, Bunny intenta ganar dinero para poder volver con Junior.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260413011100 +0200" stop="20260413021300 +0200" channel="SkyShowtime">
+    <title>Edyta Górniak: Parte 1</title>
+    <desc>Documentales,Biografía | 2026 | TP | *6.0/10
+· Una fascinante joven de Zi?bice alcanza la fama internacional a través de un viaje inspirador.
+· País: Polonia
+· Dirección: Aleksandra Machnik.
+· Productora: Constantin Entertainment Polska.</desc>
+	</programme>
+	<programme start="20260413021300 +0200" stop="20260413030600 +0200" channel="SkyShowtime">
+    <title>One Love T1 E2</title>
+    <desc>Series,Drama | 2024 | +12 | *5.8/10
+· El renacer del amor entre Anna y Ale siembra dudas sobre su matrimonio y la estancia de él en Bolonia.
+· País: Italia
+· Reparto: Ottavia Piccolo, Stefano Accorsi, Micaela Ramazzotti, Alessandro Tedeschi, Luca Santoro, Andrea Roncato, Ivan Zerbinati, Beatrice Fiorentini, Margaux Billard.
+· Productora: Cattleya.</desc>
+	</programme>
+	<programme start="20260413030600 +0200" stop="20260413043900 +0200" channel="SkyShowtime">
+    <title>El asesino con ojos de corazón</title>
+    <desc>Cine,Comedia | 2025 | +16 | *6.2/10
+· Dos compañeros de trabajo son confundidos con una pareja por un escurridizo asesino de enamorados.
+· País: Estados Unidos
+· Dirección: Josh Ruben.
+· Reparto: Olivia Holt, Mason Gooding, Devon Sawa, Jordana Brewster, Gigi Zumbado.
+· Guion: Phillip Murphy, Christopher Landon, Michael Kennedy.
+· Música: Jay Wadley.
+· Producción: Christopher Landon, Greg Gilreath.
+· Productora: Spyglass Media Group, Divide/Conquer.</desc>
+	</programme>
+	<programme start="20260413043900 +0200" stop="20260413050600 +0200" channel="SkyShowtime">
+    <title>Nurse Jackie T5 E9 · Corazón</title>
+    <desc>Series,Drama | 2013 | +12 | *6.6/10
+· Jackie y Frank tienen sexo. Kevin encuentra una bolsa con pastillas en el bolso de Grace.
+· País: Estados Unidos
+· Reparto: Edie Falco, Merritt Wever, Eve Best.</desc>
+	</programme>
+	<programme start="20260413050600 +0200" stop="20260413053500 +0200" channel="SkyShowtime">
+    <title>Nurse Jackie T5 E10 · Alma</title>
+    <desc>Series,Drama | 2013 | +12 | *6.4/10
+· Jackie celebra un año de sobriedad. A Carrie le notifican una evaluación por pares.
+· País: Estados Unidos
+· Reparto: Edie Falco, Merritt Wever, Eve Best.</desc>
+	</programme>
+	<programme start="20260413053500 +0200" stop="20260413060600 +0200" channel="SkyShowtime">
+    <title>Nurse Jackie T6 E1 · O nadas o te hundes</title>
+    <desc>Series,Drama | 2014 | +12 | *6.6/10
+· De vuelta al consumo de drogas, Jackie consigue su alijo a través de una chica del gimnasio.
+· País: Estados Unidos
+· Reparto: Edie Falco, Merritt Wever, Eve Best.</desc>
+	</programme>
+	<programme start="20260413060600 +0200" stop="20260413062800 +0200" channel="SkyShowtime">
+    <title>Blaze y los Monster Machines T4 E13 · Equipo de construcción al rescate</title>
+    <desc>Infantil,Dibujos animados | 2017 | TP | *5.0/10
+· Cuando Crusher y Pickle se quedan atrapados en lo alto de una torre, el equipo construye una vía de escape.
+· País: Canadá y Estados Unidos
+· Dirección: Blair Simmons, Miguel Martinez-Joffre.
+· Reparto: Dee Bradley Baker, Nat Faxon, Kevin Michael Richardson, Nolan North.
+· Guion: Clark Stubbs.</desc>
+	</programme>
+	<programme start="20260413062800 +0200" stop="20260413065000 +0200" channel="SkyShowtime">
+    <title>Blaze y los Monster Machines T4 E14 · Agente Blaze</title>
+    <desc>Infantil,Dibujos animados | 2017 | TP | *5.2/10
+· Blaze y AJ se unen al departamento de policía y se transforman en coches rápidos para ayudar a los camiones en apuros.
+· País: Canadá y Estados Unidos
+· Dirección: Blair Simmons, Miguel Martinez-Joffre.
+· Reparto: Dee Bradley Baker, Nat Faxon, Kevin Michael Richardson, Nolan North.
+· Guion: Clark Stubbs.</desc>
+	</programme>
+	<programme start="20260413065000 +0200" stop="20260413071200 +0200" channel="SkyShowtime">
+    <title>Bubble Guppies T5 E19 · ¡Amigos del sabor!</title>
+    <desc>Infantil,Dibujos animados | 2019 | TP | *5.8/10
+· Los chefs Molly y Gil llevan su sabroso camión de comida al reino de Bland Land.
+· País: Estados Unidos
+· Dirección: Jeff Astolfo, Mark Salisbury.
+· Reparto: Jacob Bertrand, Gentilella Brianna, Tino Insana, Jelani Imani.
+· Productora: WildBrain Animation Studios, Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260413071200 +0200" stop="20260413073400 +0200" channel="SkyShowtime">
+    <title>Bubble Guppies T5 E20 · ¡Niebla-zilla!</title>
+    <desc>Infantil,Dibujos animados | 2019 | TP | *6.0/10
+· La guardiana del faro, Deema, guía el barco de la capitana Molly con su tarta de cumpleaños hasta la orilla.
+· País: Estados Unidos
+· Dirección: Jeff Astolfo, Mark Salisbury.
+· Reparto: Jacob Bertrand, Gentilella Brianna, Tino Insana, Jelani Imani.
+· Productora: WildBrain Animation Studios, Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260413073400 +0200" stop="20260413075800 +0200" channel="SkyShowtime">
+    <title>Shimmer y Shine T4 E14 · El desfile de los Zahracornios; La toga mágica de Nazboo</title>
+    <desc>Infantil,Dibujos animados | 2018 | TP | *5.8/10
+· Zeta se cuela en el desfile de los zahracornios. Zeta se siente celosa de la toga mágica de Nazboo.
+· País: Estados Unidos
+· Dirección: Matt Engstrom, Dave Knott.
+· Reparto: Dee Bradley Baker, Alina Foley, Isabella Crovetti, Eva Bella.
+· Guion: Sindy Boveda-Spackman.</desc>
+	</programme>
+	<programme start="20260413075800 +0200" stop="20260413085100 +0200" channel="SkyShowtime">
+    <title>Grease: El auge de las Damas rosas T1 E9 · ¿Dejas Rydell?</title>
+    <desc>Series,Comedia | 2023 | +12 | *6.2/10
+· Las Pink Ladies consiguen por fin lo que querían, pero no es tan bueno como pensaban.
+· País: Estados Unidos
+· Reparto: Marisa Davila, Cheyenne Isabel Wells, Ari Notartomaso, Tricia Fukuhara, Shanel Bailey.</desc>
+	</programme>
+	<programme start="20260413085100 +0200" stop="20260413091700 +0200" channel="SkyShowtime">
+    <title>The Office T7 E3 · La obra de Andy</title>
+    <desc>Series,Comedia | 2010 | +12 | *6.2/10
+· Andy invita a la oficina a verle en una obra de teatro con la esperanza de que asista Erin.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260413091700 +0200" stop="20260413094300 +0200" channel="SkyShowtime">
+    <title>The Office T7 E4 · Educación sexual</title>
+    <desc>Series,Comedia | 2010 | +7 | *6.0/10
+· Michael cree que tiene herpes y llama a todas sus ex. Andy organiza un foro de educación sexual.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260413094300 +0200" stop="20260413102600 +0200" channel="SkyShowtime">
+    <title>House T5 E15 · Infiel</title>
+    <desc>Series,Drama | 2008 | +12 | *6.0/10
+· Un sacerdote es admitido en la sala de urgencias. House se enfrenta a Trece y Foreman.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260413102600 +0200" stop="20260413111400 +0200" channel="SkyShowtime">
+    <title>House T5 E16 · El camino más fácil</title>
+    <desc>Series,Drama | 2008 | +12 | *6.0/10
+· El equipo trata a un adolescente que no sabe que tiene mosaicismo genético.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260413111400 +0200" stop="20260413115600 +0200" channel="SkyShowtime">
+    <title>House T5 E17 · El contrato social</title>
+    <desc>Series,Drama | 2008 | +12 | *6.2/10
+· House y el equipo tratan a un paciente que dice lo que piensa descontroladamente.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260413115600 +0200" stop="20260413133800 +0200" channel="SkyShowtime">
+    <title>Un lugar donde quedarse</title>
+    <desc>Cine,Comedia | 2009 | TP | *6.0/10
+· Mientras esperan el nacimiento de su bebé, una pareja busca su nuevo hogar por el país.
+· País: Estados Unidos y Reino Unido
+· Dirección: Sam Mendes.
+· Reparto: Paul Schneider, Catherine O'Hara, John Krasinski, Maya Rudolph, Chris Messina.</desc>
+	</programme>
+	<programme start="20260413133800 +0200" stop="20260413152300 +0200" channel="SkyShowtime">
+    <title>Separados</title>
+    <desc>Cine,Comedia | 2006 | +12 | *6.4/10
+· Una pareja que acaba de romper se ve obligada a compartir piso cuando ninguno quiere irse de casa.
+· País: Estados Unidos
+· Dirección: Peyton Reed.
+· Reparto: Vince Vaughn, Jennifer Aniston, Joey Lauren Adams, Cole Hauser, John Michael Higgins, Judy Davis, Vincent D'Onofrio, Jon Favreau, Jason Bateman, Justin Long.
+· Guion: Jeremy Garelick, Jay Lavender.
+· Música: Jon Brion.
+· Producción: Vince Vaughn, Scott Stuber.
+· Productora: Mosaic Media Group, Universal Pictures, Wild West Picture Show Productions.</desc>
+	</programme>
+	<programme start="20260413152300 +0200" stop="20260413154700 +0200" channel="SkyShowtime">
+    <title>The Office T7 E5 · El golpe</title>
+    <desc>Series,Comedia | 2010 | +7 | *6.2/10
+· Michael organiza una operación encubierta para observar la técnica de ventas de un rival.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260413154700 +0200" stop="20260413161100 +0200" channel="SkyShowtime">
+    <title>The Office T7 E6 · Concurso de disfraces</title>
+    <desc>Series,Comedia | 2010 | +12 | *5.8/10
+· Darryl propone una idea a la empresa. Toda la oficina compite en un concurso de disfraces de Halloween.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260413161100 +0200" stop="20260413173700 +0200" channel="SkyShowtime">
+    <title>Bathtubs Over Broadway</title>
+    <desc>Documentales,Documental cine | 2018 | TP | *6.0/10
+· Un guionista de David Letterman descubre un mundo musical secreto del entretenimiento corporativo.
+· País: Estados Unidos
+· Dirección: Dava Whisenant.
+· Guion: Dava Whisenant.
+· Productora: Blumhouse Television.</desc>
+	</programme>
+	<programme start="20260413173700 +0200" stop="20260413183200 +0200" channel="SkyShowtime">
+    <title>Grease: El auge de las Damas rosas T1 E10 · Competir por las Damas Rosas</title>
+    <desc>Series,Comedia | 2023 | +12 | *5.8/10
+· Jane puede tomar una peligrosa decisión que daría un giro radical a Rydell High.
+· País: Estados Unidos
+· Reparto: Marisa Davila, Cheyenne Isabel Wells, Ari Notartomaso, Tricia Fukuhara, Shanel Bailey.</desc>
+	</programme>
+	<programme start="20260413183200 +0200" stop="20260413191600 +0200" channel="SkyShowtime">
+    <title>House T5 E19 · Encerrado</title>
+    <desc>Series,Drama | 2008 | +12 | *6.0/10
+· Un hombre se despierta en un hospital tras un accidente de bicicleta sin poder moverse ni comunicarse.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260413191600 +0200" stop="20260413200200 +0200" channel="SkyShowtime">
+    <title>House T5 E20 · Una simple explicación</title>
+    <desc>Series,Drama | 2007 | +12 | *6.2/10
+· El equipo intenta curar la condición de una mujer que empeora a medida que su marido se recupera.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260413200200 +0200" stop="20260413210200 +0200" channel="SkyShowtime">
+    <title>Star Trek: Academia de la Flota Estelar T1 E3 · El reflujo de Vitus</title>
+    <desc>Series,Ciencia ficción | 2026 | +12 | *6.0/10
+· Se intensifica una batalla de bromas entre los cadetes de la academia y los de una escuela rival.
+· País: Estados Unidos
+· Dirección: Andi Armaganian, Alex Kurtzman, Douglas Aarniokoski, Jonathan Frakes.
+· Reparto: Brit Marling, Stephen Colbert, Holly Hunter, Gina Yashere, Oded Fehr, Tig Notaro, Robert Picardo, Raoul Bhaneja, Tatiana Maslany, Paul Giamatti, Rebecca Quin, Dale Whibley, Ken Barnett, Avaah Blackwell, Piotr Michael, Kether Donohue, Troy James.
+· Guion: Gene Roddenberry, Gaia Violo, Kirsten Beyer, Jane Maggs, Alex Kurtzman, Tawny Newsome.
+· Música: Jeff Russo.
+· Productora: CBS Studios, CBS Television Studios.</desc>
+	</programme>
+	<programme start="20260413210200 +0200" stop="20260413215900 +0200" channel="SkyShowtime">
+    <title>Edyta Górniak: Parte 2</title>
+    <desc>Documentales,Biografía | 2026 | TP | *6.2/10
+· El coraje, el perdón y el amor son el centro de las difíciles experiencias de Edyta.
+· País: Polonia
+· Dirección: Aleksandra Machnik.
+· Productora: Constantin Entertainment Polska.</desc>
+	</programme>
+	<programme start="20260413215900 +0200" stop="20260413232400 +0200" channel="SkyShowtime">
+    <title>Otto Baxter: No es una p**a historia de terror</title>
+    <desc>Cine,Cine documental | 2023 | +12 | *6.0/10
+· Otto Baxter, un cineasta con síndrome de Down, crea una película de terror autobiográfica.
+· País: Reino Unido
+· Dirección: Peter Beard.
+· Productora: Story Films, SKY Studios.</desc>
+	</programme>
+	<programme start="20260413232400 +0200" stop="20260413235800 +0200" channel="SkyShowtime">
+    <title>Negociaciones T1 E3 · 7 millones de dólares</title>
+    <desc>Series,Thriller | 2022 | +16 | *6.2/10
+· Las puertas principales están bloqueadas. Juyoung busca otra salida mientras Geukryul ayuda a Hyungsoo.
+· País: Corea del Sur</desc>
+	</programme>
+	<programme start="20260413235800 +0200" stop="20260414003400 +0200" channel="SkyShowtime">
+    <title>Negociaciones T1 E4 · La habitación del pánico</title>
+    <desc>Series,Thriller | 2022 | +16 | *6.0/10
+· Los seis postores finalmente salen de su escondite, pero rápidamente comienzan a desconfiar de Hyungsoo.
+· País: Corea del Sur
+· Dirección: Woo-Sung Jeon.
+· Reparto: Ju-Young Lee, Jeon Jong-seo, Jin Seon-kyu, Lee Joo-young, Shin Jae Hwi.
+· Productora: JTBC Studios.</desc>
+	</programme>
+	<programme start="20260414003400 +0200" stop="20260414011700 +0200" channel="SkyShowtime">
+    <title>House T5 E19 · Encerrado</title>
+    <desc>Series,Drama | 2008 | +12 | *6.0/10
+· Un hombre se despierta en un hospital tras un accidente de bicicleta sin poder moverse ni comunicarse.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260414011700 +0200" stop="20260414020100 +0200" channel="SkyShowtime">
+    <title>House T5 E20 · Una simple explicación</title>
+    <desc>Series,Drama | 2007 | +12 | *6.2/10
+· El equipo intenta curar la condición de una mujer que empeora a medida que su marido se recupera.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260414020100 +0200" stop="20260414030400 +0200" channel="SkyShowtime">
+    <title>Star Trek: Academia de la Flota Estelar T1 E3 · El reflujo de Vitus</title>
+    <desc>Series,Ciencia ficción | 2026 | +12 | *6.0/10
+· Se intensifica una batalla de bromas entre los cadetes de la academia y los de una escuela rival.
+· País: Estados Unidos
+· Dirección: Andi Armaganian, Alex Kurtzman, Douglas Aarniokoski, Jonathan Frakes.
+· Reparto: Brit Marling, Stephen Colbert, Holly Hunter, Gina Yashere, Oded Fehr, Tig Notaro, Robert Picardo, Raoul Bhaneja, Tatiana Maslany, Paul Giamatti, Rebecca Quin, Dale Whibley, Ken Barnett, Avaah Blackwell, Piotr Michael, Kether Donohue, Troy James.
+· Guion: Gene Roddenberry, Gaia Violo, Kirsten Beyer, Jane Maggs, Alex Kurtzman, Tawny Newsome.
+· Música: Jeff Russo.
+· Productora: CBS Studios, CBS Television Studios.</desc>
+	</programme>
+	<programme start="20260414030400 +0200" stop="20260414044800 +0200" channel="SkyShowtime">
+    <title>Regalo maldito</title>
+    <desc>Cine,Terror | 2025 | +16 | *6.0/10
+· Una mujer debe seguir las instrucciones que contiene una caja misteriosa o arriesgarlo todo.
+· País: Estados Unidos
+· Dirección: Bryan Bertino.
+· Reparto: Dakota Fanning, Rachel Blanchard, Emily Mitchell, Michael Abbott Jr., Karen Cliché, Mary McCormack, Devyn Nekoda, Klea Scott.
+· Guion: Bryan Bertino.
+· Producción: Bryan Bertino, Richard Suckle.</desc>
+	</programme>
+	<programme start="20260414044800 +0200" stop="20260414050900 +0200" channel="SkyShowtime">
+    <title>The Office T7 E6 · Concurso de disfraces</title>
+    <desc>Series,Comedia | 2010 | +12 | *5.8/10
+· Darryl propone una idea a la empresa. Toda la oficina compite en un concurso de disfraces de Halloween.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260414050900 +0200" stop="20260414060000 +0200" channel="SkyShowtime">
+    <title>Grease: El auge de las Damas rosas T1 E10 · Competir por las Damas Rosas</title>
+    <desc>Series,Comedia | 2023 | +12 | *5.8/10
+· Jane puede tomar una peligrosa decisión que daría un giro radical a Rydell High.
+· País: Estados Unidos
+· Reparto: Marisa Davila, Cheyenne Isabel Wells, Ari Notartomaso, Tricia Fukuhara, Shanel Bailey.</desc>
+	</programme>
+	<programme start="20260414060000 +0200" stop="20260414062000 +0200" channel="SkyShowtime">
+    <title>Blaze y los Monster Machines T4 E15 · El león volador</title>
+    <desc>Infantil,Dibujos animados | 2017 | TP | *6.0/10
+· Cuando Roarian pierde su piedra solar mágica, Blaze y AJ le ayudan a encontrarla para que recupere sus poderes.
+· País: Canadá y Estados Unidos
+· Dirección: Blair Simmons, Miguel Martinez-Joffre.
+· Reparto: Dee Bradley Baker, Nat Faxon, Kevin Michael Richardson, Nolan North.
+· Guion: Clark Stubbs.</desc>
+	</programme>
+	<programme start="20260414062000 +0200" stop="20260414064000 +0200" channel="SkyShowtime">
+    <title>Blaze y los Monster Machines T4 E16 · Sopa ninja</title>
+    <desc>Infantil,Dibujos animados | 2017 | TP | *5.8/10
+· Cuando la abuela ninja se resfría, Blaze, AJ y Cinturón Negro deciden hacer una sopa ninja.
+· País: Canadá y Estados Unidos
+· Dirección: Blair Simmons, Miguel Martinez-Joffre.
+· Reparto: Dee Bradley Baker, Nat Faxon, Kevin Michael Richardson, Nolan North.
+· Guion: Clark Stubbs.</desc>
+	</programme>
+	<programme start="20260414064000 +0200" stop="20260414070500 +0200" channel="SkyShowtime">
+    <title>Bubble Guppies T5 E21 · ¡Paso de Bigfoot!</title>
+    <desc>Infantil,Dibujos animados | 2019 | TP | *6.0/10
+· Los guardabosques Goby y Gil deben ayudar a los nadadores a llegar a salvo al lago.
+· País: Estados Unidos
+· Dirección: Jeff Astolfo, Mark Salisbury.
+· Reparto: Jacob Bertrand, Gentilella Brianna, Tino Insana, Jelani Imani.
+· Productora: WildBrain Animation Studios, Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260414070500 +0200" stop="20260414073000 +0200" channel="SkyShowtime">
+    <title>Bubble Guppies T5 E22 · ¡Un montón de basurillas!</title>
+    <desc>Infantil,Dibujos animados | 2019 | TP | *6.0/10
+· Deema y su tripulación se esfuerzan por limpiar los planetas de la galaxia.
+· País: Estados Unidos
+· Dirección: Jeff Astolfo, Mark Salisbury.
+· Reparto: Jacob Bertrand, Gentilella Brianna, Tino Insana, Jelani Imani.
+· Productora: WildBrain Animation Studios, Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260414073000 +0200" stop="20260414075500 +0200" channel="SkyShowtime">
+    <title>Shimmer y Shine T4 E15 · La hermana de Zeta; Cambiazo sigiloso</title>
+    <desc>Infantil,Dibujos animados | 2018 | TP | *6.0/10
+· Zeta descubre que su hermana es una genio. Zeta engaña a las chicas para que encuentren objetos mágicos para ella.
+· País: Estados Unidos
+· Dirección: Matt Engstrom, Dave Knott.
+· Reparto: Dee Bradley Baker, Alina Foley, Isabella Crovetti, Eva Bella.
+· Guion: Sindy Boveda-Spackman.</desc>
+	</programme>
+	<programme start="20260414075500 +0200" stop="20260414085000 +0200" channel="SkyShowtime">
+    <title>Grease: El auge de las Damas rosas T1 E10 · Competir por las Damas Rosas</title>
+    <desc>Series,Comedia | 2023 | +12 | *5.8/10
+· Jane puede tomar una peligrosa decisión que daría un giro radical a Rydell High.
+· País: Estados Unidos
+· Reparto: Marisa Davila, Cheyenne Isabel Wells, Ari Notartomaso, Tricia Fukuhara, Shanel Bailey.</desc>
+	</programme>
+	<programme start="20260414085000 +0200" stop="20260414091500 +0200" channel="SkyShowtime">
+    <title>The Office T7 E5 · El golpe</title>
+    <desc>Series,Comedia | 2010 | +7 | *6.2/10
+· Michael organiza una operación encubierta para observar la técnica de ventas de un rival.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260414091500 +0200" stop="20260414094000 +0200" channel="SkyShowtime">
+    <title>The Office T7 E6 · Concurso de disfraces</title>
+    <desc>Series,Comedia | 2010 | +12 | *5.8/10
+· Darryl propone una idea a la empresa. Toda la oficina compite en un concurso de disfraces de Halloween.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260414094000 +0200" stop="20260414102500 +0200" channel="SkyShowtime">
+    <title>House T5 E18 · Ven, gatito</title>
+    <desc>Series,Drama | 2008 | +12 | *6.0/10
+· House se propone refutar las acusaciones de una mujer que trabaja en un asilo de ancianos que finge estar enferma.
+· País: Estados Unidos
+· Dirección: Juan José Campanella.
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260414102500 +0200" stop="20260414111000 +0200" channel="SkyShowtime">
+    <title>House T5 E19 · Encerrado</title>
+    <desc>Series,Drama | 2008 | +12 | *6.0/10
+· Un hombre se despierta en un hospital tras un accidente de bicicleta sin poder moverse ni comunicarse.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260414111000 +0200" stop="20260414120000 +0200" channel="SkyShowtime">
+    <title>House T5 E20 · Una simple explicación</title>
+    <desc>Series,Drama | 2007 | +12 | *6.2/10
+· El equipo intenta curar la condición de una mujer que empeora a medida que su marido se recupera.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260414120000 +0200" stop="20260414133500 +0200" channel="SkyShowtime">
+    <title>Otto Baxter: No es una p**a historia de terror</title>
+    <desc>Cine,Cine documental | 2023 | +12 | *6.0/10
+· Otto Baxter, un cineasta con síndrome de Down, crea una película de terror autobiográfica.
+· País: Reino Unido
+· Dirección: Peter Beard.
+· Productora: Story Films, SKY Studios.</desc>
+	</programme>
+	<programme start="20260414133500 +0200" stop="20260414143500 +0200" channel="SkyShowtime">
+    <title>One Love T1 E2</title>
+    <desc>Series,Drama | 2024 | +12 | *5.8/10
+· El renacer del amor entre Anna y Ale siembra dudas sobre su matrimonio y la estancia de él en Bolonia.
+· País: Italia
+· Reparto: Ottavia Piccolo, Stefano Accorsi, Micaela Ramazzotti, Alessandro Tedeschi, Luca Santoro, Andrea Roncato, Ivan Zerbinati, Beatrice Fiorentini, Margaux Billard.
+· Productora: Cattleya.</desc>
+	</programme>
+	<programme start="20260414143500 +0200" stop="20260414150500 +0200" channel="SkyShowtime">
+    <title>The Office T7 E7 · Bautizo</title>
+    <desc>Series,Comedia | 2010 | +12 | *6.0/10
+· Michael invita a toda la oficina a celebrar el bautizo del bebé de Pam y Jim.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260414150500 +0200" stop="20260414153000 +0200" channel="SkyShowtime">
+    <title>The Office T7 E8 · Fiesta frente al televisor</title>
+    <desc>Series,Comedia | 2010 | +12 | *6.4/10
+· Andy está celoso de que Erin y Gabe organicen la quedada de la TV. Erin le confiesa un secreto a Michael.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260414153000 +0200" stop="20260414172000 +0200" channel="SkyShowtime">
+    <title>Brock: Over the Top</title>
+    <desc>Documentales,Deportes | 2020 | TP | *5.8/10
+· Una mirada profunda a la vida y la trayectoria del mejor piloto de carreras de Australia.
+· País: Australia
+· Dirección: Kriv Stenders.
+· Guion: Kriv Stenders.</desc>
+	</programme>
+	<programme start="20260414172000 +0200" stop="20260414175500 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E1 · Un piso y un fondo de inversión</title>
+    <desc>Series,Comedia | 2024 | +12 | *6.2/10
+· Tras la muerte de su padre, los tres hermanos Fernández deben repartirse la herencia.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260414175500 +0200" stop="20260414183000 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E2 · Una cabaña en el bosque</title>
+    <desc>Series,Comedia | 2024 | +12 | *6.0/10
+· Mamen organiza una excursión para conseguir un acuerdo entre el nieto de Conchita y la cuidadora.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260414183000 +0200" stop="20260414191500 +0200" channel="SkyShowtime">
+    <title>House T5 E21 · Salvadores</title>
+    <desc>Series,Drama | 2008 | +12 | *6.2/10
+· Cameron le pide a House que acepte el caso de un activista ambiental que sufrió un colapso.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260414191500 +0200" stop="20260414200000 +0200" channel="SkyShowtime">
+    <title>House T5 E22 · dividido</title>
+    <desc>Series,Drama | 2008 | +12 | *6.4/10
+· Un joven sordo de 14 años sufre un colapso mientras compite en un combate de lucha libre.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260414200000 +0200" stop="20260414210000 +0200" channel="SkyShowtime">
+    <title>Star Trek: Academia de la Flota Estelar T1 E4 · Vox in Excelso</title>
+    <desc>Series,Ciencia ficción | 2026 | +12 | *6.0/10
+· Jay-Den afronta el conflicto con su herencia cultural. Nahla debe salvar la especie de Jay-Den.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260414210000 +0200" stop="20260414215000 +0200" channel="SkyShowtime">
+    <title>Baby Doll T1 E1 · Secuestrada</title>
+    <desc>Series,Thriller | 2026 | +12 | *6.0/10
+· Lily se marcha de una fiesta con su profesor de inglés, pero no vuelve a casa.
+· País: Reino Unido
+· Dirección: Laura Way, Bindu De Stoppani.
+· Reparto: Alfie Allen, Vikash Bhai, Levi Brown, Tallulah Evans, Delphi Evans.
+· Guion: David Turpin (Guionista).
+· Música: Andrew Simon McAllister.
+· Productora: Clapperboard Studios.</desc>
+	</programme>
+	<programme start="20260414215000 +0200" stop="20260414224000 +0200" channel="SkyShowtime">
+    <title>Baby Doll T1 E2 · Atrapada</title>
+    <desc>Series,Thriller | 2026 | +12 | *5.8/10
+· Lily, embarazada, está atrapada en la macabra casa de muñecas de Rick. Abby adormece su dolor con alcohol.
+· País: Reino Unido
+· Dirección: Laura Way, Bindu De Stoppani.
+· Reparto: Alfie Allen, Vikash Bhai, Levi Brown, Tallulah Evans, Delphi Evans.
+· Guion: David Turpin (Guionista).
+· Música: Andrew Simon McAllister.
+· Productora: Clapperboard Studios.</desc>
+	</programme>
+	<programme start="20260414224000 +0200" stop="20260415004500 +0200" channel="SkyShowtime">
+    <title>M3GAN 2.0</title>
+    <desc>Cine,Terror | 2025 | +16 | *6.2/10
+· Una resucitada M3GAN debe acabar con Amelia, una peligrosa arma robótica de grado militar.
+· País: Canadá, Estados Unidos y Nueva Zelanda
+· Dirección: Gerard Johnstone.
+· Reparto: Allison Williams, Amie Donald, Violet McGraw, Brian Jordan Alvarez, Jen Van Epps, Ivanna Sakhno.
+· Guion: Gerard Johnstone, James Wan, Akela Cooper.
+· Música: Chris Bacon.
+· Producción: Jason Blum, James Wan, Allison Williams, Shawn Williamson.
+· Productora: Blumhouse Productions, Universal Pictures, New Zealand Film Commission, Atomic Monster, Divide/Conquer.</desc>
+	</programme>
+	<programme start="20260415004500 +0200" stop="20260415013000 +0200" channel="SkyShowtime">
+    <title>Edyta Górniak: Parte 2</title>
+    <desc>Documentales,Biografía | 2026 | TP | *6.2/10
+· El coraje, el perdón y el amor son el centro de las difíciles experiencias de Edyta.
+· País: Polonia
+· Dirección: Aleksandra Machnik.
+· Productora: Constantin Entertainment Polska.</desc>
+	</programme>
+	<programme start="20260415013000 +0200" stop="20260415021500 +0200" channel="SkyShowtime">
+    <title>House T5 E21 · Salvadores</title>
+    <desc>Series,Drama | 2008 | +12 | *6.2/10
+· Cameron le pide a House que acepte el caso de un activista ambiental que sufrió un colapso.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260415021500 +0200" stop="20260415030500 +0200" channel="SkyShowtime">
+    <title>House T5 E22 · dividido</title>
+    <desc>Series,Drama | 2008 | +12 | *6.4/10
+· Un joven sordo de 14 años sufre un colapso mientras compite en un combate de lucha libre.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260415030500 +0200" stop="20260415041000 +0200" channel="SkyShowtime">
+    <title>Star Trek: Academia de la Flota Estelar T1 E4 · Vox in Excelso</title>
+    <desc>Series,Ciencia ficción | 2026 | +12 | *6.0/10
+· Jay-Den afronta el conflicto con su herencia cultural. Nahla debe salvar la especie de Jay-Den.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260415041000 +0200" stop="20260415044500 +0200" channel="SkyShowtime">
+    <title>Nurse Jackie T6 E2 · Peregrinación</title>
+    <desc>Series,Drama | 2014 | +12 | *6.4/10
+· Jackie roba el número de la DEA del doctor Roman. Coop es reclutado por un 'explorador de esperma'.
+· País: Estados Unidos
+· Reparto: Edie Falco, Merritt Wever, Eve Best.</desc>
+	</programme>
+	<programme start="20260415044500 +0200" stop="20260415052500 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E1 · Un piso y un fondo de inversión</title>
+    <desc>Series,Comedia | 2024 | +12 | *6.2/10
+· Tras la muerte de su padre, los tres hermanos Fernández deben repartirse la herencia.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260415052500 +0200" stop="20260415060000 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E2 · Una cabaña en el bosque</title>
+    <desc>Series,Comedia | 2024 | +12 | *6.0/10
+· Mamen organiza una excursión para conseguir un acuerdo entre el nieto de Conchita y la cuidadora.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260415060000 +0200" stop="20260415062000 +0200" channel="SkyShowtime">
+    <title>Blaze y los Monster Machines T4 E17 · Rescate real</title>
+    <desc>Infantil,Dibujos animados | 2017 | TP | *6.2/10
+· Cuando el rey se catapulta accidentalmente, Blaze, AJ y Zeek deben llevarle de regreso a casa.
+· País: Canadá y Estados Unidos
+· Dirección: Blair Simmons, Miguel Martinez-Joffre.
+· Reparto: Dee Bradley Baker, Nat Faxon, Kevin Michael Richardson, Nolan North.
+· Guion: Clark Stubbs.</desc>
+	</programme>
+	<programme start="20260415062000 +0200" stop="20260415064000 +0200" channel="SkyShowtime">
+    <title>Blaze y los Monster Machines T4 E18 · Blaze y el genio mágico</title>
+    <desc>Infantil,Dibujos animados | 2017 | TP | *6.2/10
+· Blaze y AJ emprenden una búsqueda en el desierto para recuperar las joyas perdidas de un genio mágico.
+· País: Canadá y Estados Unidos
+· Dirección: Blair Simmons, Miguel Martinez-Joffre.
+· Reparto: Dee Bradley Baker, Nat Faxon, Kevin Michael Richardson, Nolan North.
+· Guion: Clark Stubbs.</desc>
+	</programme>
+	<programme start="20260415064000 +0200" stop="20260415070500 +0200" channel="SkyShowtime">
+    <title>Bubble Guppies T5 E23 · ¡Algo raro está pasando!</title>
+    <desc>Infantil,Dibujos animados | 2019 | TP | *6.2/10
+· Los detectives Molly y Gill investigan las misteriosas luces que aparecen en la ciudad.
+· País: Estados Unidos
+· Dirección: Jeff Astolfo, Mark Salisbury.
+· Reparto: Jacob Bertrand, Gentilella Brianna, Tino Insana, Jelani Imani.
+· Productora: WildBrain Animation Studios, Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260415070500 +0200" stop="20260415073000 +0200" channel="SkyShowtime">
+    <title>Bubble Guppies T5 E24 · ¡Carrera al oasis!</title>
+    <desc>Infantil,Dibujos animados | 2019 | TP | *6.0/10
+· Molly y Gil intentan repartir helados en un parque acuático al otro lado de un caluroso desierto.
+· País: Estados Unidos
+· Dirección: Jeff Astolfo, Mark Salisbury.
+· Reparto: Jacob Bertrand, Gentilella Brianna, Tino Insana, Jelani Imani.
+· Productora: WildBrain Animation Studios, Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260415073000 +0200" stop="20260415075500 +0200" channel="SkyShowtime">
+    <title>Shimmer y Shine T4 E16 · La Leyenda de la Gema Dragón</title>
+    <desc>Infantil,Dibujos animados | 2018 | TP | *6.0/10
+· Leah y las genios deben detener a Zeta cuando consigue la Gema dragón.
+· País: Estados Unidos
+· Dirección: Matt Engstrom, Dave Knott.
+· Reparto: Dee Bradley Baker, Alina Foley, Isabella Crovetti, Eva Bella.
+· Guion: Sindy Boveda-Spackman.</desc>
+	</programme>
+	<programme start="20260415075500 +0200" stop="20260415083000 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E1 · Un piso y un fondo de inversión</title>
+    <desc>Series,Comedia | 2024 | +12 | *6.2/10
+· Tras la muerte de su padre, los tres hermanos Fernández deben repartirse la herencia.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260415083000 +0200" stop="20260415090500 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E2 · Una cabaña en el bosque</title>
+    <desc>Series,Comedia | 2024 | +12 | *6.0/10
+· Mamen organiza una excursión para conseguir un acuerdo entre el nieto de Conchita y la cuidadora.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260415090500 +0200" stop="20260415093000 +0200" channel="SkyShowtime">
+    <title>The Office T7 E7 · Bautizo</title>
+    <desc>Series,Comedia | 2010 | +12 | *6.0/10
+· Michael invita a toda la oficina a celebrar el bautizo del bebé de Pam y Jim.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260415093000 +0200" stop="20260415095500 +0200" channel="SkyShowtime">
+    <title>The Office T7 E8 · Fiesta frente al televisor</title>
+    <desc>Series,Comedia | 2010 | +12 | *6.4/10
+· Andy está celoso de que Erin y Gabe organicen la quedada de la TV. Erin le confiesa un secreto a Michael.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260415095500 +0200" stop="20260415104000 +0200" channel="SkyShowtime">
+    <title>House T5 E21 · Salvadores</title>
+    <desc>Series,Drama | 2008 | +12 | *6.2/10
+· Cameron le pide a House que acepte el caso de un activista ambiental que sufrió un colapso.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260415104000 +0200" stop="20260415112500 +0200" channel="SkyShowtime">
+    <title>House T5 E22 · dividido</title>
+    <desc>Series,Drama | 2008 | +12 | *6.4/10
+· Un joven sordo de 14 años sufre un colapso mientras compite en un combate de lucha libre.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260415112500 +0200" stop="20260415133500 +0200" channel="SkyShowtime">
+    <title>Ozzy: No Escape from Now</title>
+    <desc>Documentales,Biografía | 2025 | +7 | *6.6/10
+· La famosa estrella del rock desafía sus problemas de salud para dar su último concierto.
+· País: Estados Unidos
+· Dirección: Tania Alexander.</desc>
+	</programme>
+	<programme start="20260415133500 +0200" stop="20260415140000 +0200" channel="SkyShowtime">
+    <title>The Office T7 E8 · Fiesta frente al televisor</title>
+    <desc>Series,Comedia | 2010 | +12 | *6.4/10
+· Andy está celoso de que Erin y Gabe organicen la quedada de la TV. Erin le confiesa un secreto a Michael.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260415140000 +0200" stop="20260415142500 +0200" channel="SkyShowtime">
+    <title>The Office T7 E9 · WUPHF.com</title>
+    <desc>Series,Comedia | 2010 | +7 | *6.4/10
+· Ryan quiere que el personal invierta en su empresa. Dwight organiza un festival otoñal del heno.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260415142500 +0200" stop="20260415145000 +0200" channel="SkyShowtime">
+    <title>The Office T7 E10 · China</title>
+    <desc>Series,Comedia | 2010 | +7 | *5.8/10
+· Michael y Oscar tienen un enfrentamiento cuando intercambian impresiones sobre la posición mundial de China.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260415145000 +0200" stop="20260415163000 +0200" channel="SkyShowtime">
+    <title>Sweet Dreams</title>
+    <desc>Cine,Comedia | 2024 | +16 | *6.0/10
+· Obligado a ingresar en rehabilitación, Morris accede a entrenar a un equipo de sóftbol.
+· País: Estados Unidos
+· Dirección: Lije Sarki.
+· Reparto: Johnny Knoxville, Mohammed Amer, Kate Upton, GaTa, Bobby Lee, Jay Mohr.
+· Productora: 1993 Production.</desc>
+	</programme>
+	<programme start="20260415163000 +0200" stop="20260415173000 +0200" channel="SkyShowtime">
+    <title>One Love T1 E2</title>
+    <desc>Series,Drama | 2024 | +12 | *5.8/10
+· El renacer del amor entre Anna y Ale siembra dudas sobre su matrimonio y la estancia de él en Bolonia.
+· País: Italia
+· Reparto: Ottavia Piccolo, Stefano Accorsi, Micaela Ramazzotti, Alessandro Tedeschi, Luca Santoro, Andrea Roncato, Ivan Zerbinati, Beatrice Fiorentini, Margaux Billard.
+· Productora: Cattleya.</desc>
+	</programme>
+	<programme start="20260415173000 +0200" stop="20260415180000 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E3 · Una casa encantada</title>
+    <desc>Series,Comedia | 2024 | +12 | *6.0/10
+· Valentina cree que el fantasma de su padre quiere echarla de la casa que ha heredado.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260415180000 +0200" stop="20260415183000 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E4 · Un restaurante frente al mar</title>
+    <desc>Series,Comedia | 2024 | +12 | *6.0/10
+· Cuando dos primos heredan un restaurante ruinoso, Mamen les ayuda a reconciliarse.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260415183000 +0200" stop="20260415191500 +0200" channel="SkyShowtime">
+    <title>House T5 E23 · Bajo mi piel</title>
+    <desc>Series,Drama | 2008 | +12 | *6.2/10
+· House y el equipo tratan a una bailarina cuyos pulmones colapsan durante una actuación.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260415191500 +0200" stop="20260415200000 +0200" channel="SkyShowtime">
+    <title>House T5 E24 · Los dos lados de la moneda</title>
+    <desc>Series,Drama | 2008 | +12 | *6.2/10
+· House trata a un paciente cuyo hemisferio izquierdo y derecho funcionan independientemente.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260415200000 +0200" stop="20260415210000 +0200" channel="SkyShowtime">
+    <title>Star Trek: Academia de la Flota Estelar T1 E5 · Series Acclimation Mil (Sam)</title>
+    <desc>Series,Ciencia ficción | 2026 | +12 | *6.2/10
+· Con el objetivo de resolver un antiguo misterio, Sam emprende un viaje de autodescubrimiento.
+· País: Estados Unidos
+· Dirección: Andi Armaganian, Alex Kurtzman, Douglas Aarniokoski, Jonathan Frakes.
+· Reparto: Brit Marling, Stephen Colbert, Holly Hunter, Gina Yashere, Oded Fehr, Tig Notaro, Robert Picardo, Raoul Bhaneja, Tatiana Maslany, Paul Giamatti, Rebecca Quin, Dale Whibley, Ken Barnett, Avaah Blackwell, Piotr Michael, Kether Donohue, Troy James.
+· Guion: Gene Roddenberry, Gaia Violo, Kirsten Beyer, Jane Maggs, Alex Kurtzman, Tawny Newsome.
+· Música: Jeff Russo.
+· Productora: CBS Studios, CBS Television Studios.</desc>
+	</programme>
+	<programme start="20260415210000 +0200" stop="20260415215000 +0200" channel="SkyShowtime">
+    <title>The Death of Bunny Munro T1 E5 · Parte Cinco Hombre muerto</title>
+    <desc>Series,Drama | 2025 | +16 | *6.0/10
+· Una visita al padre maltratador de Bunny le hace pasar por un momento de crisis.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260415215000 +0200" stop="20260415224000 +0200" channel="SkyShowtime">
+    <title>The Death of Bunny Munro T1 E6 · Parte Seis Artista</title>
+    <desc>Series,Drama | 2025 | +16 | *6.0/10
+· La odisea de pesadilla de Bunny llega a su fin en la feria comercial.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260415224000 +0200" stop="20260416002500 +0200" channel="SkyShowtime">
+    <title>Rewriting Trump</title>
+    <desc>Documentales,SIN CLASIFICAR | 2025 | +12 | *6.0/10
+· Sigue el sorprendente regreso de Trump: del aislamiento en Mar-a-Lago al retorno a la Casa Blanca.
+· País: Reino Unido
+· Dirección: Yasmine Permaul.
+· Productora: SKY Studios.</desc>
+	</programme>
+	<programme start="20260416002500 +0200" stop="20260416011500 +0200" channel="SkyShowtime">
+    <title>Baby Doll T1 E1 · Secuestrada</title>
+    <desc>Series,Thriller | 2026 | +12 | *6.0/10
+· Lily se marcha de una fiesta con su profesor de inglés, pero no vuelve a casa.
+· País: Reino Unido
+· Dirección: Laura Way, Bindu De Stoppani.
+· Reparto: Alfie Allen, Vikash Bhai, Levi Brown, Tallulah Evans, Delphi Evans.
+· Guion: David Turpin (Guionista).
+· Música: Andrew Simon McAllister.
+· Productora: Clapperboard Studios.</desc>
+	</programme>
+	<programme start="20260416011500 +0200" stop="20260416020500 +0200" channel="SkyShowtime">
+    <title>Baby Doll T1 E2 · Atrapada</title>
+    <desc>Series,Thriller | 2026 | +12 | *5.8/10
+· Lily, embarazada, está atrapada en la macabra casa de muñecas de Rick. Abby adormece su dolor con alcohol.
+· País: Reino Unido
+· Dirección: Laura Way, Bindu De Stoppani.
+· Reparto: Alfie Allen, Vikash Bhai, Levi Brown, Tallulah Evans, Delphi Evans.
+· Guion: David Turpin (Guionista).
+· Música: Andrew Simon McAllister.
+· Productora: Clapperboard Studios.</desc>
+	</programme>
+	<programme start="20260416020500 +0200" stop="20260416025000 +0200" channel="SkyShowtime">
+    <title>House T5 E23 · Bajo mi piel</title>
+    <desc>Series,Drama | 2008 | +12 | *6.2/10
+· House y el equipo tratan a una bailarina cuyos pulmones colapsan durante una actuación.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260416025000 +0200" stop="20260416033500 +0200" channel="SkyShowtime">
+    <title>House T5 E24 · Los dos lados de la moneda</title>
+    <desc>Series,Drama | 2008 | +12 | *6.2/10
+· House trata a un paciente cuyo hemisferio izquierdo y derecho funcionan independientemente.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260416033500 +0200" stop="20260416043500 +0200" channel="SkyShowtime">
+    <title>Star Trek: Academia de la Flota Estelar T1 E5 · Series Acclimation Mil (Sam)</title>
+    <desc>Series,Ciencia ficción | 2026 | +12 | *6.2/10
+· Con el objetivo de resolver un antiguo misterio, Sam emprende un viaje de autodescubrimiento.
+· País: Estados Unidos
+· Dirección: Andi Armaganian, Alex Kurtzman, Douglas Aarniokoski, Jonathan Frakes.
+· Reparto: Brit Marling, Stephen Colbert, Holly Hunter, Gina Yashere, Oded Fehr, Tig Notaro, Robert Picardo, Raoul Bhaneja, Tatiana Maslany, Paul Giamatti, Rebecca Quin, Dale Whibley, Ken Barnett, Avaah Blackwell, Piotr Michael, Kether Donohue, Troy James.
+· Guion: Gene Roddenberry, Gaia Violo, Kirsten Beyer, Jane Maggs, Alex Kurtzman, Tawny Newsome.
+· Música: Jeff Russo.
+· Productora: CBS Studios, CBS Television Studios.</desc>
+	</programme>
+	<programme start="20260416043500 +0200" stop="20260416050000 +0200" channel="SkyShowtime">
+    <title>Nurse Jackie T6 E3 · A tope de vitaminas</title>
+    <desc>Series,Drama | 2014 | +12 | *6.2/10
+· Coop recibe noticias impactantes. Carrie tiene un golpe de suerte y Jackie se queda totalmente sorprendida.
+· País: Estados Unidos
+· Reparto: Edie Falco, Merritt Wever, Eve Best.</desc>
+	</programme>
+	<programme start="20260416050000 +0200" stop="20260416053000 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E3 · Una casa encantada</title>
+    <desc>Series,Comedia | 2024 | +12 | *6.0/10
+· Valentina cree que el fantasma de su padre quiere echarla de la casa que ha heredado.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260416053000 +0200" stop="20260416060000 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E4 · Un restaurante frente al mar</title>
+    <desc>Series,Comedia | 2024 | +12 | *6.0/10
+· Cuando dos primos heredan un restaurante ruinoso, Mamen les ayuda a reconciliarse.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260416060000 +0200" stop="20260416062000 +0200" channel="SkyShowtime">
+    <title>Blaze y los Monster Machines T4 E19 · El reto de los 100 huevos</title>
+    <desc>Infantil,Dibujos animados | 2017 | TP | *6.2/10
+· Blaze y Crusher participan en la gran búsqueda de huevos para ver quién encuentra más huevos.
+· País: Canadá y Estados Unidos
+· Dirección: Blair Simmons, Miguel Martinez-Joffre.
+· Reparto: Dee Bradley Baker, Nat Faxon, Kevin Michael Richardson, Nolan North.
+· Guion: Clark Stubbs.</desc>
+	</programme>
+	<programme start="20260416062000 +0200" stop="20260416064000 +0200" channel="SkyShowtime">
+    <title>Blaze y los Monster Machines T4 E20 · La milla nocturna</title>
+    <desc>Infantil,Dibujos animados | 2017 | TP | *6.2/10
+· El primer camión que cruce la línea de meta en la Milla Nocturna gana un trofeo.
+· País: Canadá y Estados Unidos
+· Dirección: Blair Simmons, Miguel Martinez-Joffre.
+· Reparto: Dee Bradley Baker, Nat Faxon, Kevin Michael Richardson, Nolan North.
+· Guion: Clark Stubbs.</desc>
+	</programme>
+	<programme start="20260416064000 +0200" stop="20260416070500 +0200" channel="SkyShowtime">
+    <title>Bubble Guppies T5 E25 · ¡Huída de la isla del volcán!</title>
+    <desc>Infantil,Dibujos animados | 2019 | TP | *5.8/10
+· El capitán Molly y el primer oficial Gil se quedan atrapados en una isla con un volcán activo.
+· País: Estados Unidos
+· Dirección: Jeff Astolfo, Mark Salisbury.
+· Reparto: Jacob Bertrand, Gentilella Brianna, Tino Insana, Jelani Imani.
+· Productora: WildBrain Animation Studios, Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260416070500 +0200" stop="20260416073000 +0200" channel="SkyShowtime">
+    <title>Bubble Guppies T5 E26 · ¡Bubble Puppysaurio!</title>
+    <desc>Infantil,Dibujos animados | 2019 | TP | *6.0/10
+· Bubble Puppy compite contra Boom Boom T. Rex por el título "Toughest Roarier".
+· País: Estados Unidos
+· Dirección: Jeff Astolfo, Mark Salisbury.
+· Reparto: Jacob Bertrand, Gentilella Brianna, Tino Insana, Jelani Imani.
+· Productora: WildBrain Animation Studios, Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260416073000 +0200" stop="20260416075500 +0200" channel="SkyShowtime">
+    <title>Shimmer y Shine T4 E17 · La gallina escurridiza; Las pulseras de Adara</title>
+    <desc>Infantil,Dibujos animados | 2018 | TP | *5.8/10
+· Una poción le da vida a la gallina de Nazboo. Zeta controla las pulseras de la princesa Adara.
+· País: Estados Unidos
+· Dirección: Matt Engstrom, Dave Knott.
+· Reparto: Dee Bradley Baker, Alina Foley, Isabella Crovetti, Eva Bella.
+· Guion: Sindy Boveda-Spackman.</desc>
+	</programme>
+	<programme start="20260416075500 +0200" stop="20260416082500 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E3 · Una casa encantada</title>
+    <desc>Series,Comedia | 2024 | +12 | *6.0/10
+· Valentina cree que el fantasma de su padre quiere echarla de la casa que ha heredado.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260416082500 +0200" stop="20260416085500 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E4 · Un restaurante frente al mar</title>
+    <desc>Series,Comedia | 2024 | +12 | *6.0/10
+· Cuando dos primos heredan un restaurante ruinoso, Mamen les ayuda a reconciliarse.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260416085500 +0200" stop="20260416092000 +0200" channel="SkyShowtime">
+    <title>The Office T7 E9 · WUPHF.com</title>
+    <desc>Series,Comedia | 2010 | +7 | *6.4/10
+· Ryan quiere que el personal invierta en su empresa. Dwight organiza un festival otoñal del heno.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260416092000 +0200" stop="20260416094500 +0200" channel="SkyShowtime">
+    <title>The Office T7 E10 · China</title>
+    <desc>Series,Comedia | 2010 | +7 | *5.8/10
+· Michael y Oscar tienen un enfrentamiento cuando intercambian impresiones sobre la posición mundial de China.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260416094500 +0200" stop="20260416103000 +0200" channel="SkyShowtime">
+    <title>House T5 E23 · Bajo mi piel</title>
+    <desc>Series,Drama | 2008 | +12 | *6.2/10
+· House y el equipo tratan a una bailarina cuyos pulmones colapsan durante una actuación.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260416103000 +0200" stop="20260416111500 +0200" channel="SkyShowtime">
+    <title>House T5 E24 · Los dos lados de la moneda</title>
+    <desc>Series,Drama | 2008 | +12 | *6.2/10
+· House trata a un paciente cuyo hemisferio izquierdo y derecho funcionan independientemente.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Kal Penn, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260416111500 +0200" stop="20260416124500 +0200" channel="SkyShowtime">
+    <title>Bathtubs Over Broadway</title>
+    <desc>Documentales,Documental cine | 2018 | TP | *6.0/10
+· Un guionista de David Letterman descubre un mundo musical secreto del entretenimiento corporativo.
+· País: Estados Unidos
+· Dirección: Dava Whisenant.
+· Guion: Dava Whisenant.
+· Productora: Blumhouse Television.</desc>
+	</programme>
+	<programme start="20260416124500 +0200" stop="20260416150000 +0200" channel="SkyShowtime">
+    <title>Cobain: Montage of Heck</title>
+    <desc>Documentales,Música | 2015 | +12 | *7.6/10
+· Una exploración íntima de la vida y la trágica muerte del líder de Nirvana.
+· País: Estados Unidos
+· Dirección: Brett Morgen.
+· Guion: Brett Morgen.
+· Música: Jeff Danna.
+· Producción: Brett Morgen.
+· Productora: HBO Documentary Films.</desc>
+	</programme>
+	<programme start="20260416150000 +0200" stop="20260416153000 +0200" channel="SkyShowtime">
+    <title>The Office T7 E11 · Navidades con estilo 1ª Parte</title>
+    <desc>Series,Comedia | 2010 | +12 | *6.0/10
+· Michael le dice a Pam que posponga la fiesta de Navidad por Holly. Una pelea con bolas de nieve se intensifica.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260416153000 +0200" stop="20260416155500 +0200" channel="SkyShowtime">
+    <title>The Office T7 E12 · Navidades con clase 2ª Parte</title>
+    <desc>Series,Comedia | 2010 | +12 | *6.0/10
+· Oscar descubre algo sobre el novio de Angela y Holly recibe una visita inesperada.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260416155500 +0200" stop="20260416173500 +0200" channel="SkyShowtime">
+    <title>Un lugar donde quedarse</title>
+    <desc>Cine,Comedia | 2009 | TP | *6.0/10
+· Mientras esperan el nacimiento de su bebé, una pareja busca su nuevo hogar por el país.
+· País: Estados Unidos y Reino Unido
+· Dirección: Sam Mendes.
+· Reparto: Paul Schneider, Catherine O'Hara, John Krasinski, Maya Rudolph, Chris Messina.</desc>
+	</programme>
+	<programme start="20260416173500 +0200" stop="20260416180000 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E5 · Nicolásss</title>
+    <desc>Series,Comedia | 2024 | +12 | *6.0/10
+· Una señora adinerada lega sus bienes a "Nicolásss", pero nadie sabe quién es.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260416180000 +0200" stop="20260416183000 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E6 · Joyas, ropa interior y un manuscrito</title>
+    <desc>Series,Comedia | 2024 | +12 | *5.8/10
+· David debe tomar las riendas de Mediaciones Mayo para resolver un caso entre dos hermanos.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260416183000 +0200" stop="20260416191500 +0200" channel="SkyShowtime">
+    <title>House T6 E1 · Roto (I)</title>
+    <desc>Series,Drama | 2009 | +12 | *6.0/10
+· House se somete a una desintoxicación con la esperanza de que desaparezcan las alucinaciones que le atormentaban.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260416191500 +0200" stop="20260416200000 +0200" channel="SkyShowtime">
+    <title>House T6 E2 · Roto (II)</title>
+    <desc>Series,Drama | 2009 | +12 | *6.2/10
+· House decide aceptar el tratamiento del doctor Nolan para recuperar su licencia.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260416200000 +0200" stop="20260416210000 +0200" channel="SkyShowtime">
+    <title>Star Trek: Academia de la Flota Estelar T1 E6 · ¡Vamos, salgamos!</title>
+    <desc>Series,Ciencia ficción | 2026 | +12 | *6.2/10
+· Los cadetes se enfrentan a un peligroso enemigo durante su primera misión de entrenamiento.
+· País: Estados Unidos
+· Dirección: Andi Armaganian, Alex Kurtzman, Douglas Aarniokoski, Jonathan Frakes.
+· Reparto: Brit Marling, Stephen Colbert, Holly Hunter, Gina Yashere, Oded Fehr, Tig Notaro, Robert Picardo, Raoul Bhaneja, Tatiana Maslany, Paul Giamatti, Rebecca Quin, Dale Whibley, Ken Barnett, Avaah Blackwell, Piotr Michael, Kether Donohue, Troy James.
+· Guion: Gene Roddenberry, Gaia Violo, Kirsten Beyer, Jane Maggs, Alex Kurtzman, Tawny Newsome.
+· Música: Jeff Russo.
+· Productora: CBS Studios, CBS Television Studios.</desc>
+	</programme>
+	<programme start="20260416210000 +0200" stop="20260416215000 +0200" channel="SkyShowtime">
+    <title>Marshals: Una historia de Yellowstone T1 E4 · La tormenta que se aproxima</title>
+    <desc>Series,Acción | 2026 | +12 | *6.2/10
+· Kayce y Cal buscan a los supervivientes de un accidente de helicóptero.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260416215000 +0200" stop="20260416233000 +0200" channel="SkyShowtime">
+    <title>El asesino con ojos de corazón</title>
+    <desc>Cine,Comedia | 2025 | +16 | *6.2/10
+· Dos compañeros de trabajo son confundidos con una pareja por un escurridizo asesino de enamorados.
+· País: Estados Unidos
+· Dirección: Josh Ruben.
+· Reparto: Olivia Holt, Mason Gooding, Devon Sawa, Jordana Brewster, Gigi Zumbado.
+· Guion: Phillip Murphy, Christopher Landon, Michael Kennedy.
+· Música: Jay Wadley.
+· Producción: Christopher Landon, Greg Gilreath.
+· Productora: Spyglass Media Group, Divide/Conquer.</desc>
+	</programme>
+	<programme start="20260416233000 +0200" stop="20260417002000 +0200" channel="SkyShowtime">
+    <title>The Death of Bunny Munro T1 E5 · Parte Cinco Hombre muerto</title>
+    <desc>Series,Drama | 2025 | +16 | *6.0/10
+· Una visita al padre maltratador de Bunny le hace pasar por un momento de crisis.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260417002000 +0200" stop="20260417011000 +0200" channel="SkyShowtime">
+    <title>The Death of Bunny Munro T1 E6 · Parte Seis Artista</title>
+    <desc>Series,Drama | 2025 | +16 | *6.0/10
+· La odisea de pesadilla de Bunny llega a su fin en la feria comercial.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260417011000 +0200" stop="20260417015500 +0200" channel="SkyShowtime">
+    <title>House T6 E1 · Roto (I)</title>
+    <desc>Series,Drama | 2009 | +12 | *6.0/10
+· House se somete a una desintoxicación con la esperanza de que desaparezcan las alucinaciones que le atormentaban.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260417015500 +0200" stop="20260417024000 +0200" channel="SkyShowtime">
+    <title>House T6 E2 · Roto (II)</title>
+    <desc>Series,Drama | 2009 | +12 | *6.2/10
+· House decide aceptar el tratamiento del doctor Nolan para recuperar su licencia.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260417024000 +0200" stop="20260417034000 +0200" channel="SkyShowtime">
+    <title>Star Trek: Academia de la Flota Estelar T1 E6 · ¡Vamos, salgamos!</title>
+    <desc>Series,Ciencia ficción | 2026 | +12 | *6.2/10
+· Los cadetes se enfrentan a un peligroso enemigo durante su primera misión de entrenamiento.
+· País: Estados Unidos
+· Dirección: Andi Armaganian, Alex Kurtzman, Douglas Aarniokoski, Jonathan Frakes.
+· Reparto: Brit Marling, Stephen Colbert, Holly Hunter, Gina Yashere, Oded Fehr, Tig Notaro, Robert Picardo, Raoul Bhaneja, Tatiana Maslany, Paul Giamatti, Rebecca Quin, Dale Whibley, Ken Barnett, Avaah Blackwell, Piotr Michael, Kether Donohue, Troy James.
+· Guion: Gene Roddenberry, Gaia Violo, Kirsten Beyer, Jane Maggs, Alex Kurtzman, Tawny Newsome.
+· Música: Jeff Russo.
+· Productora: CBS Studios, CBS Television Studios.</desc>
+	</programme>
+	<programme start="20260417034000 +0200" stop="20260417040500 +0200" channel="SkyShowtime">
+    <title>Nurse Jackie T6 E4 · La selva del amor</title>
+    <desc>Series,Drama | 2014 | +12 | *6.0/10
+· Jackie se vuelve loca con la relación que tienen Kevin y su prometida. Frank revela un secreto.
+· País: Estados Unidos
+· Reparto: Edie Falco, Merritt Wever, Eve Best.</desc>
+	</programme>
+	<programme start="20260417040500 +0200" stop="20260417043500 +0200" channel="SkyShowtime">
+    <title>Nurse Jackie T6 E5 · Carne y hueso</title>
+    <desc>Series,Drama | 2014 | +12 | *6.6/10
+· Zoey se enfrenta a Prentiss. Jackie le hace una pregunta sorprendente a Frank.
+· País: Estados Unidos
+· Reparto: Edie Falco, Merritt Wever, Eve Best.</desc>
+	</programme>
+	<programme start="20260417043500 +0200" stop="20260417050500 +0200" channel="SkyShowtime">
+    <title>Nurse Jackie T6 E6 · Nancy Wood</title>
+    <desc>Series,Drama | 2014 | +12 | *6.2/10
+· La identidad falsa de Jackie se ve comprometida. Prentiss planea una cita con Zoey.
+· País: Estados Unidos
+· Reparto: Edie Falco, Merritt Wever, Eve Best.</desc>
+	</programme>
+	<programme start="20260417050500 +0200" stop="20260417053000 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E5 · Nicolásss</title>
+    <desc>Series,Comedia | 2024 | +12 | *6.0/10
+· Una señora adinerada lega sus bienes a "Nicolásss", pero nadie sabe quién es.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260417053000 +0200" stop="20260417060000 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E6 · Joyas, ropa interior y un manuscrito</title>
+    <desc>Series,Comedia | 2024 | +12 | *5.8/10
+· David debe tomar las riendas de Mediaciones Mayo para resolver un caso entre dos hermanos.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260417060000 +0200" stop="20260417062000 +0200" channel="SkyShowtime">
+    <title>Blaze y los Monster Machines T5 E1 · AJ al rescate</title>
+    <desc>Infantil,Dibujos animados | 2019 | TP | *6.2/10
+· Blaze se queda atrapado en un lodo pegajoso mientras corre por la jungla con AJ.
+· País: Canadá y Estados Unidos
+· Dirección: Blair Simmons, Miguel Martinez-Joffre.
+· Reparto: Dee Bradley Baker, Nat Faxon, Kevin Michael Richardson, Nolan North.</desc>
+	</programme>
+	<programme start="20260417062000 +0200" stop="20260417064000 +0200" channel="SkyShowtime">
+    <title>Blaze y los Monster Machines T5 E2 · La búsqueda del trofeo</title>
+    <desc>Infantil,Dibujos animados | 2019 | TP | *6.2/10
+· Blaze debe recuperar el trofeo del campeonato robado por Crusher antes de que empiece la gran carrera.
+· País: Canadá y Estados Unidos
+· Dirección: Blair Simmons, Miguel Martinez-Joffre.
+· Reparto: Dee Bradley Baker, Nat Faxon, Kevin Michael Richardson, Nolan North.</desc>
+	</programme>
+	<programme start="20260417064000 +0200" stop="20260417070500 +0200" channel="SkyShowtime">
+    <title>Bubble Guppies T6 E1 · ¡Los hombres lobo de Bubbledon!</title>
+    <desc>Infantil,Dibujos animados | 2020 | TP | *6.0/10
+· Es Halloween en la ciudad de Bubbledon y todos están nerviosos por un hombre lobo al que han visto merodeando.
+· País: Estados Unidos
+· Dirección: Jeff Astolfo, Mark Salisbury.
+· Reparto: Selena Gonzalez, Christopher Borger, Gentilella Brianna, Teddy Walsh.
+· Productora: WildBrain Animation Studios, Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260417070500 +0200" stop="20260417073000 +0200" channel="SkyShowtime">
+    <title>Bubble Guppies T6 E2 · ¡Llega la Navidad!</title>
+    <desc>Infantil,Dibujos animados | 2020 | TP | *6.0/10
+· Lady Oona y Lord Goby inician una misión para entregar un árbol en la fiesta de Navidad del rey Mero.
+· País: Estados Unidos
+· Dirección: Jeff Astolfo, Mark Salisbury.
+· Reparto: Selena Gonzalez, Christopher Borger, Gentilella Brianna, Teddy Walsh.
+· Productora: WildBrain Animation Studios, Nickelodeon Animation Studios.</desc>
+	</programme>
+	<programme start="20260417073000 +0200" stop="20260417075500 +0200" channel="SkyShowtime">
+    <title>Shimmer y Shine T4 E18 · Nazboo regresa a casa; Surfeando el cielo</title>
+    <desc>Infantil,Dibujos animados | 2018 | TP | *5.8/10
+· A Zeta le preocupa haber perdido la lealtad de Nazboo. Las chicas aprenden a surfear las nubes.
+· País: Estados Unidos
+· Dirección: Matt Engstrom, Dave Knott.
+· Reparto: Dee Bradley Baker, Alina Foley, Isabella Crovetti, Eva Bella.
+· Guion: Sindy Boveda-Spackman.</desc>
+	</programme>
+	<programme start="20260417075500 +0200" stop="20260417082000 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E5 · Nicolásss</title>
+    <desc>Series,Comedia | 2024 | +12 | *6.0/10
+· Una señora adinerada lega sus bienes a "Nicolásss", pero nadie sabe quién es.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260417082000 +0200" stop="20260417085000 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E6 · Joyas, ropa interior y un manuscrito</title>
+    <desc>Series,Comedia | 2024 | +12 | *5.8/10
+· David debe tomar las riendas de Mediaciones Mayo para resolver un caso entre dos hermanos.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260417085000 +0200" stop="20260417091500 +0200" channel="SkyShowtime">
+    <title>The Office T7 E11 · Navidades con estilo 1ª Parte</title>
+    <desc>Series,Comedia | 2010 | +12 | *6.0/10
+· Michael le dice a Pam que posponga la fiesta de Navidad por Holly. Una pelea con bolas de nieve se intensifica.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260417091500 +0200" stop="20260417094000 +0200" channel="SkyShowtime">
+    <title>The Office T7 E12 · Navidades con clase 2ª Parte</title>
+    <desc>Series,Comedia | 2010 | +12 | *6.0/10
+· Oscar descubre algo sobre el novio de Angela y Holly recibe una visita inesperada.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260417094000 +0200" stop="20260417102500 +0200" channel="SkyShowtime">
+    <title>House T6 E1 · Roto (I)</title>
+    <desc>Series,Drama | 2009 | +12 | *6.0/10
+· House se somete a una desintoxicación con la esperanza de que desaparezcan las alucinaciones que le atormentaban.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260417102500 +0200" stop="20260417111000 +0200" channel="SkyShowtime">
+    <title>House T6 E2 · Roto (II)</title>
+    <desc>Series,Drama | 2009 | +12 | *6.2/10
+· House decide aceptar el tratamiento del doctor Nolan para recuperar su licencia.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260417111000 +0200" stop="20260417125000 +0200" channel="SkyShowtime">
+    <title>Sweet Dreams</title>
+    <desc>Cine,Comedia | 2024 | +16 | *6.0/10
+· Obligado a ingresar en rehabilitación, Morris accede a entrenar a un equipo de sóftbol.
+· País: Estados Unidos
+· Dirección: Lije Sarki.
+· Reparto: Johnny Knoxville, Mohammed Amer, Kate Upton, GaTa, Bobby Lee, Jay Mohr.
+· Productora: 1993 Production.</desc>
+	</programme>
+	<programme start="20260417125000 +0200" stop="20260417142500 +0200" channel="SkyShowtime">
+    <title>Dean</title>
+    <desc>Cine,Comedia | 2016 | +7 | *5.8/10
+· Un ilustrador intenta evitar que su padre venda la casa familiar tras la muerte de su madre.
+· País: Estados Unidos
+· Dirección: Demetri Martin.
+· Reparto: Gillian Jacobs, Kevin Kline, Ginger Gonzaga, Rory Scovel.
+· Guion: Demetri Martin.
+· Música: Mark Noseworthy.
+· Productora: Honora.</desc>
+	</programme>
+	<programme start="20260417142500 +0200" stop="20260417144500 +0200" channel="SkyShowtime">
+    <title>The Office T7 E12 · Navidades con clase 2ª Parte</title>
+    <desc>Series,Comedia | 2010 | +12 | *6.0/10
+· Oscar descubre algo sobre el novio de Angela y Holly recibe una visita inesperada.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260417144500 +0200" stop="20260417151000 +0200" channel="SkyShowtime">
+    <title>The Office T7 E13 · Ultimátum</title>
+    <desc>Series,Comedia | 2010 | +7 | *6.2/10
+· Erin ayuda a Michael a prepararse para las noticias, buenas o malas, sobre Holly y AJ.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260417151000 +0200" stop="20260417153500 +0200" channel="SkyShowtime">
+    <title>The Office T7 E14 · El seminario</title>
+    <desc>Series,Comedia | 2010 | +7 | *6.0/10
+· Holly y Michael se hacen pasar por clientes para ayudar a Andy a atraer nuevos clientes.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+	</programme>
+	<programme start="20260417153500 +0200" stop="20260417172500 +0200" channel="SkyShowtime">
+    <title>Separados</title>
+    <desc>Cine,Comedia | 2006 | +12 | *6.4/10
+· Una pareja que acaba de romper se ve obligada a compartir piso cuando ninguno quiere irse de casa.
+· País: Estados Unidos
+· Dirección: Peyton Reed.
+· Reparto: Vince Vaughn, Jennifer Aniston, Joey Lauren Adams, Cole Hauser, John Michael Higgins, Judy Davis, Vincent D'Onofrio, Jon Favreau, Jason Bateman, Justin Long.
+· Guion: Jeremy Garelick, Jay Lavender.
+· Música: Jon Brion.
+· Producción: Vince Vaughn, Scott Stuber.
+· Productora: Mosaic Media Group, Universal Pictures, Wild West Picture Show Productions.</desc>
+	</programme>
+	<programme start="20260417172500 +0200" stop="20260417175000 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E7 · Un mechón de pelo</title>
+    <desc>Series,Comedia | 2024 | +12 | *6.4/10
+· Mamen investiga la herencia de una reliquia sagrada entre un grupo de monjas y un obispo.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260417175000 +0200" stop="20260417183000 +0200" channel="SkyShowtime">
+    <title>Mamen Mayo T1 E8 · Mediaciones Mayo</title>
+    <desc>Series,Comedia | 2024 | +12 | *6.0/10
+· Mamen intenta mediar con Rebeca Mayo, su hermana, con la que es difícil tratar.
+· País: España
+· Dirección: Carmen Aumedes.
+· Reparto: Silvia Abril, Clara Sans, Pablo Capuz, Mona Martínez, Toni Acosta.
+· Guion: Pol Cortecans.
+· Productora: Nostromo Pictures.</desc>
+	</programme>
+	<programme start="20260417183000 +0200" stop="20260417191500 +0200" channel="SkyShowtime">
+    <title>House T6 E3 · Fracaso épico</title>
+    <desc>Series,Drama | 2009 | +12 | *6.2/10
+· Un creador de videojuegos enfermo opta por los tratamientos sugeridos por personas en Internet.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260417191500 +0200" stop="20260417200000 +0200" channel="SkyShowtime">
+    <title>House T6 E4 · El tirano</title>
+    <desc>Series,Drama | 2009 | +12 | *6.2/10
+· El equipo trata a un controvertido político africano que ha enfermado.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260417200000 +0200" stop="20260417210000 +0200" channel="SkyShowtime">
+    <title>Star Trek: Academia de la Flota Estelar T1 E7 · Ko'Zeine</title>
+    <desc>Series,Ciencia ficción | 2026 | +12 | *5.8/10
+· Los cadetes deben elegir entre lo que sus familias esperan de ellos y sus propios deseos.
+· País: Estados Unidos
+· Dirección: Andi Armaganian, Alex Kurtzman, Douglas Aarniokoski, Jonathan Frakes.
+· Reparto: Brit Marling, Stephen Colbert, Holly Hunter, Gina Yashere, Oded Fehr, Tig Notaro, Robert Picardo, Raoul Bhaneja, Tatiana Maslany, Paul Giamatti, Rebecca Quin, Dale Whibley, Ken Barnett, Avaah Blackwell, Piotr Michael, Kether Donohue, Troy James.
+· Guion: Gene Roddenberry, Gaia Violo, Kirsten Beyer, Jane Maggs, Alex Kurtzman, Tawny Newsome.
+· Música: Jeff Russo.
+· Productora: CBS Studios, CBS Television Studios.</desc>
+	</programme>
+	<programme start="20260417210000 +0200" stop="20260417214000 +0200" channel="SkyShowtime">
+    <title>Negociaciones T1 E5 · Arma, dinero y mentiras</title>
+    <desc>Series,Thriller | 2022 | +16 | *5.8/10
+· Juyoung y Hyungsoo logran escapar de la sala de almacenamiento, pero solo encuentran más tragedia.
+· País: Corea del Sur</desc>
+	</programme>
+	<programme start="20260417214000 +0200" stop="20260417222000 +0200" channel="SkyShowtime">
+    <title>Negociaciones T1 E6 · Suma cero</title>
+    <desc>Series,Thriller | 2022 | +16 | *5.8/10
+· Junto a Hyungsoo, Juyoung lleva a cabo un último y letal intento de escape.
+· País: Corea del Sur
+· Dirección: Woo-Sung Jeon.
+· Reparto: Ju-Young Lee, Jeon Jong-seo, Jin Seon-kyu, Lee Joo-young, Shin Jae Hwi.
+· Productora: JTBC Studios.</desc>
+	</programme>
+	<programme start="20260417222000 +0200" stop="20260417235500 +0200" channel="SkyShowtime">
+    <title>Nadie 2</title>
+    <desc>Cine,Comedia | 2025 | +16 | *7.0/10
+· Durante sus vacaciones, un asesino se convierte en el objetivo de un sanguinario jefe criminal.
+· País: Canadá y Estados Unidos
+· Dirección: Timo Tjahjanto.
+· Reparto: Bob Odenkirk, Connie Nielsen, Christopher Lloyd, Sharon Stone, Colin Hanks, Gage Munroe, Paisley Cadorath, John Ortiz, RZA, Colin Salmon, Jacob Blair, Daniel Bernhardt, Lucius Hoyos, David Lawrence Brown, Alec Carlos, John B. Lowe, Adam Hurtig.
+· Guion: Derek Kolstad, Aaron Rabin.
+· Música: Dominic Lewis.
+· Producción: David Leitch, Braden Aftergood, Kelly McCormick, Bob Odenkirk.
+· Productora: 87North, Eighty Two Films, Universal Pictures.</desc>
+	</programme>
+	<programme start="20260417235500 +0200" stop="20260418004500 +0200" channel="SkyShowtime">
+    <title>Marshals: Una historia de Yellowstone T1 E4 · La tormenta que se aproxima</title>
+    <desc>Series,Acción | 2026 | +12 | *6.2/10
+· Kayce y Cal buscan a los supervivientes de un accidente de helicóptero.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260418004500 +0200" stop="20260418013000 +0200" channel="SkyShowtime">
+    <title>House T6 E3 · Fracaso épico</title>
+    <desc>Series,Drama | 2009 | +12 | *6.2/10
+· Un creador de videojuegos enfermo opta por los tratamientos sugeridos por personas en Internet.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
+	<programme start="20260418013000 +0200" stop="20260418021500 +0200" channel="SkyShowtime">
+    <title>House T6 E4 · El tirano</title>
+    <desc>Series,Drama | 2009 | +12 | *6.2/10
+· El equipo trata a un controvertido político africano que ha enfermado.
+· País: Estados Unidos
+· Reparto: Hugh Laurie, Omar Epps, Robert Sean Leonard, Lisa Edelstein, Jesse Spencer, Jennifer Morrison, Olivia Wilde, Peter Jacobson.
+· Productora: Bad Hat Harry Productions, NBC Universal Television, Heel &amp; Toe Films, Shore Z Productions.</desc>
+	</programme>
 	<programme start="20260412063000 +0200" stop="20260412071600 +0200" channel="BBC Series">
     <title>¡Llama a la comadrona! T13 E10</title>
     <desc>Series,Drama | 2023 | TP | *6.0/10
@@ -122489,6 +124018,693 @@ Cobertura de las noticias del mundo deportivo. Información actualizada de lo qu
     <desc>Ice Hockey,Sports
 · Winnipeg Jets v San Jose Sharks.</desc>
 	</programme>
+  <programme start="20260411000000 +0000" stop="20260411020000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260411020000 +0000" stop="20260411023000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Chronicles</title>
+    <desc lang="en">Las acciones y momentos más destacados de los partidos de fútbol de La Liga en España.</desc>
+  </programme>
+  <programme start="20260411023000 +0000" stop="20260411043000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260411043000 +0000" stop="20260411063000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260411063000 +0000" stop="20260411083000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260411083000 +0000" stop="20260411090000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Talking Football</title>
+    <desc lang="en">Entrevistas con personalidades destacadas de LaLiga.</desc>
+  </programme>
+  <programme start="20260411090000 +0000" stop="20260411093000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga World</title>
+    <desc lang="en">Reportajes y entrevistas, con una muestra de la otra cara del fútbol español.</desc>
+  </programme>
+  <programme start="20260411093000 +0000" stop="20260411100000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Chronicles</title>
+    <desc lang="en">Las acciones y momentos más destacados de los partidos de fútbol de La Liga en España.</desc>
+  </programme>
+  <programme start="20260411100000 +0000" stop="20260411120000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260411120000 +0000" stop="20260411140000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Classics</title>
+    <desc lang="en">Un viaje al pasado para revivir los partidos más destacados en LaLiga a lo largo de los años.</desc>
+  </programme>
+  <programme start="20260411140000 +0000" stop="20260411143000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Fans</title>
+    <desc lang="en">Un programa sobre los aficionados muy especiales que siguen a los equipos que compiten en LaLiga.</desc>
+  </programme>
+  <programme start="20260411143000 +0000" stop="20260411150000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Tactics</title>
+    <desc lang="en">Un vistazo exclusivo a la serie de LaLiga.</desc>
+  </programme>
+  <programme start="20260411150000 +0000" stop="20260411153000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga World</title>
+    <desc lang="en">Reportajes y entrevistas, con una muestra de la otra cara del fútbol español.</desc>
+  </programme>
+  <programme start="20260411153000 +0000" stop="20260411173000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260411173000 +0000" stop="20260411180000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Chronicles</title>
+    <desc lang="en">Las acciones y momentos más destacados de los partidos de fútbol de La Liga en España.</desc>
+  </programme>
+  <programme start="20260411180000 +0000" stop="20260411190000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga EA Sports Highlights</title>
+    <desc lang="en">El programa presenta un resumen del fútbol en la competición LaLiga de EA Sports.</desc>
+  </programme>
+  <programme start="20260411190000 +0000" stop="20260411210000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Classics</title>
+    <desc lang="en">Un viaje al pasado para revivir los partidos más destacados en LaLiga a lo largo de los años.</desc>
+  </programme>
+  <programme start="20260411210000 +0000" stop="20260411230000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260411230000 +0000" stop="20260411233000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Best 11</title>
+    <desc lang="en">En LaLiga Best 11, nueve leyendas de la LaLiga son invitadas a elegir su once ideal.</desc>
+  </programme>
+  <programme start="20260411233000 +0000" stop="20260412000000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Talking Football</title>
+    <desc lang="en">Entrevistas con personalidades destacadas de LaLiga.</desc>
+  </programme>
+  <programme start="20260412000000 +0000" stop="20260412020000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260412020000 +0000" stop="20260412023000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Fans</title>
+    <desc lang="en">Un programa sobre los aficionados muy especiales que siguen a los equipos que compiten en LaLiga.</desc>
+  </programme>
+  <programme start="20260412023000 +0000" stop="20260412043000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260412043000 +0000" stop="20260412073000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260412073000 +0000" stop="20260412083000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga  Post-Match  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Un panel de expertos en LaLiga mientras analizan el partido que se acaba de jugar.</desc>
+    <live/>
+  </programme>
+  <programme start="20260412083000 +0000" stop="20260412103000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260412103000 +0000" stop="20260412110000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga World</title>
+    <desc lang="en">Reportajes y entrevistas, con una muestra de la otra cara del fútbol español.</desc>
+  </programme>
+  <programme start="20260412110000 +0000" stop="20260412113000 +0000" channel="LaLiga TV US">
+    <title lang="en">Matches highlights</title>
+    <desc lang="en">Resúmenes locutados de partidos de la jornada en vigor.</desc>
+  </programme>
+  <programme start="20260412113000 +0000" stop="20260412120000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga ZAP</title>
+    <desc lang="en">Las mejores imágenes, la más curiosas, espectaculares y divertidas de LaLiga Santander.</desc>
+  </programme>
+  <programme start="20260412120000 +0000" stop="20260412130000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga  Pre-Match  ᴺᵉʷ</title>
+    <desc lang="en">Toda la acción de cada jornada de LaLiga con avances y entrevistas con expertos.</desc>
+    <new/>
+  </programme>
+  <programme start="20260412130000 +0000" stop="20260412150000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260412150000 +0000" stop="20260412151500 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Live  ᴺᵉʷ</title>
+    <desc lang="en">Un panel de expertos viene al estudio a hablar sobre las jugadas de la última fecha de LaLiga.</desc>
+    <new/>
+  </programme>
+  <programme start="20260412151500 +0000" stop="20260412171500 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260412171500 +0000" stop="20260412173000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Live  ᴺᵉʷ</title>
+    <desc lang="en">Un panel de expertos viene al estudio a hablar sobre las jugadas de la última fecha de LaLiga.</desc>
+    <new/>
+  </programme>
+  <programme start="20260412173000 +0000" stop="20260412193000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260412193000 +0000" stop="20260412200000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Live  ᴺᵉʷ</title>
+    <desc lang="en">Un panel de expertos viene al estudio a hablar sobre las jugadas de la última fecha de LaLiga.</desc>
+    <new/>
+  </programme>
+  <programme start="20260412200000 +0000" stop="20260412220000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260412220000 +0000" stop="20260412233000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga  Post-Match  ᴺᵉʷ</title>
+    <desc lang="en">Un panel de expertos en LaLiga mientras analizan el partido que se acaba de jugar.</desc>
+    <new/>
+  </programme>
+  <programme start="20260412233000 +0000" stop="20260413003000 +0000" channel="LaLiga TV US">
+    <title lang="en">Matches highlights  ᴺᵉʷ</title>
+    <desc lang="en">Resúmenes locutados de partidos de la jornada en vigor.</desc>
+    <new/>
+  </programme>
+  <programme start="20260413003000 +0000" stop="20260413023000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260413023000 +0000" stop="20260413030000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga World</title>
+    <desc lang="en">Reportajes y entrevistas, con una muestra de la otra cara del fútbol español.</desc>
+  </programme>
+  <programme start="20260413030000 +0000" stop="20260413033000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga ZAP</title>
+    <desc lang="en">Las mejores imágenes, la más curiosas, espectaculares y divertidas de LaLiga Santander.</desc>
+  </programme>
+  <programme start="20260413033000 +0000" stop="20260413040000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260413040000 +0000" stop="20260413043000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga ZAP</title>
+    <desc lang="en">Las mejores imágenes, la más curiosas, espectaculares y divertidas de LaLiga Santander.</desc>
+  </programme>
+  <programme start="20260413043000 +0000" stop="20260413063000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260413063000 +0000" stop="20260413083000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260413083000 +0000" stop="20260413100000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga  Post-Match  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Un panel de expertos en LaLiga mientras analizan el partido que se acaba de jugar.</desc>
+    <live/>
+  </programme>
+  <programme start="20260413100000 +0000" stop="20260413120000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260413120000 +0000" stop="20260413140000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260413140000 +0000" stop="20260413150000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga EA Sports Highlights</title>
+    <desc lang="en">El programa presenta un resumen del fútbol en la competición LaLiga de EA Sports.</desc>
+  </programme>
+  <programme start="20260413150000 +0000" stop="20260413153000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga News  ᴺᵉʷ</title>
+    <desc lang="en">Las noticias más importantes de lo que acontece en la Liga Santander.</desc>
+    <new/>
+  </programme>
+  <programme start="20260413153000 +0000" stop="20260413170000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga  Post-Match  ᴸᶦᵛᵉ</title>
+    <desc lang="en">Un panel de expertos en LaLiga mientras analizan el partido que se acaba de jugar.</desc>
+    <live/>
+  </programme>
+  <programme start="20260413170000 +0000" stop="20260413173000 +0000" channel="LaLiga TV US">
+    <title lang="en">La Liga World</title>
+    <desc lang="en">Entrevistas exclusivas con los mejores jugadores de la división y las antiguas leyendas de LaLiga.</desc>
+  </programme>
+  <programme start="20260413173000 +0000" stop="20260413180000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga ZAP</title>
+    <desc lang="en">Las mejores imágenes, la más curiosas, espectaculares y divertidas de LaLiga Santander.</desc>
+  </programme>
+  <programme start="20260413180000 +0000" stop="20260413183000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Best 11</title>
+    <desc lang="en">En LaLiga Best 11, nueve leyendas de la LaLiga son invitadas a elegir su once ideal.</desc>
+  </programme>
+  <programme start="20260413183000 +0000" stop="20260413190000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga News</title>
+    <desc lang="en">Las noticias más importantes de lo que acontece en la Liga Santander.</desc>
+  </programme>
+  <programme start="20260413190000 +0000" stop="20260413203000 +0000" channel="LaLiga TV US">
+    <title lang="en">Viva LaLiga!</title>
+    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
+  </programme>
+  <programme start="20260413203000 +0000" stop="20260413210000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Fans</title>
+    <desc lang="en">Un programa sobre los aficionados muy especiales que siguen a los equipos que compiten en LaLiga.</desc>
+  </programme>
+  <programme start="20260413210000 +0000" stop="20260413230000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260413230000 +0000" stop="20260414000000 +0000" channel="LaLiga TV US">
+    <title lang="en">Matches highlights</title>
+    <desc lang="en">Resúmenes locutados de partidos de la jornada en vigor.</desc>
+  </programme>
+  <programme start="20260414000000 +0000" stop="20260414013000 +0000" channel="LaLiga TV US">
+    <title lang="en">Viva LaLiga!</title>
+    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
+  </programme>
+  <programme start="20260414013000 +0000" stop="20260414020000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga ZAP</title>
+    <desc lang="en">Las mejores imágenes, la más curiosas, espectaculares y divertidas de LaLiga Santander.</desc>
+  </programme>
+  <programme start="20260414020000 +0000" stop="20260414023000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Talking Football</title>
+    <desc lang="en">Entrevistas con personalidades destacadas de LaLiga.</desc>
+  </programme>
+  <programme start="20260414023000 +0000" stop="20260414043000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260414043000 +0000" stop="20260414063000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260414063000 +0000" stop="20260414083000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260414083000 +0000" stop="20260414100000 +0000" channel="LaLiga TV US">
+    <title lang="en">Viva LaLiga!</title>
+    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
+  </programme>
+  <programme start="20260414100000 +0000" stop="20260414120000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260414120000 +0000" stop="20260414140000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Classics</title>
+    <desc lang="en">Un viaje al pasado para revivir los partidos más destacados en LaLiga a lo largo de los años.</desc>
+  </programme>
+  <programme start="20260414140000 +0000" stop="20260414150000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga HyperMotion  ᴺᵉʷ</title>
+    <desc lang="en">El programa muestra resúmenes de los partidos de LaLiga española de fútbol.</desc>
+    <new/>
+  </programme>
+  <programme start="20260414150000 +0000" stop="20260414153000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga News  ᴺᵉʷ</title>
+    <desc lang="en">Las noticias más importantes de lo que acontece en la Liga Santander.</desc>
+    <new/>
+  </programme>
+  <programme start="20260414153000 +0000" stop="20260414170000 +0000" channel="LaLiga TV US">
+    <title lang="en">Viva LaLiga!</title>
+    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
+  </programme>
+  <programme start="20260414170000 +0000" stop="20260414180000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga EA Sports Highlights</title>
+    <desc lang="en">El programa presenta un resumen del fútbol en la competición LaLiga de EA Sports.</desc>
+  </programme>
+  <programme start="20260414180000 +0000" stop="20260414183000 +0000" channel="LaLiga TV US">
+    <title lang="en">La Liga World</title>
+    <desc lang="en">Entrevistas exclusivas con los mejores jugadores de la división y las antiguas leyendas de LaLiga.</desc>
+  </programme>
+  <programme start="20260414183000 +0000" stop="20260414190000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga News</title>
+    <desc lang="en">Las noticias más importantes de lo que acontece en la Liga Santander.</desc>
+  </programme>
+  <programme start="20260414190000 +0000" stop="20260414203000 +0000" channel="LaLiga TV US">
+    <title lang="en">Viva LaLiga!  ᴺᵉʷ</title>
+    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
+    <new/>
+  </programme>
+  <programme start="20260414203000 +0000" stop="20260414210000 +0000" channel="LaLiga TV US">
+    <title lang="en">La Liga World</title>
+    <desc lang="en">Entrevistas exclusivas con los mejores jugadores de la división y las antiguas leyendas de LaLiga.</desc>
+  </programme>
+  <programme start="20260414210000 +0000" stop="20260414230000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260414230000 +0000" stop="20260415000000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga HyperMotion</title>
+    <desc lang="en">El programa muestra resúmenes de los partidos de LaLiga española de fútbol.</desc>
+  </programme>
+  <programme start="20260415000000 +0000" stop="20260415013000 +0000" channel="LaLiga TV US">
+    <title lang="en">Viva LaLiga!  ᴺᵉʷ</title>
+    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
+    <new/>
+  </programme>
+  <programme start="20260415013000 +0000" stop="20260415023000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga EA Sports Highlights</title>
+    <desc lang="en">El programa presenta un resumen del fútbol en la competición LaLiga de EA Sports.</desc>
+  </programme>
+  <programme start="20260415023000 +0000" stop="20260415043000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260415043000 +0000" stop="20260415063000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260415063000 +0000" stop="20260415083000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260415083000 +0000" stop="20260415100000 +0000" channel="LaLiga TV US">
+    <title lang="en">Viva LaLiga!</title>
+    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
+  </programme>
+  <programme start="20260415100000 +0000" stop="20260415120000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260415120000 +0000" stop="20260415133000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Classics</title>
+    <desc lang="en">Un viaje al pasado para revivir los partidos más destacados en LaLiga a lo largo de los años.</desc>
+  </programme>
+  <programme start="20260415133000 +0000" stop="20260415140000 +0000" channel="LaLiga TV US">
+    <title lang="en">Fútbol LaLiga</title>
+    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
+  </programme>
+  <programme start="20260415140000 +0000" stop="20260415143000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga ZAP</title>
+    <desc lang="en">Las mejores imágenes, la más curiosas, espectaculares y divertidas de LaLiga Santander.</desc>
+  </programme>
+  <programme start="20260415143000 +0000" stop="20260415150000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga World</title>
+    <desc lang="en">Reportajes y entrevistas, con una muestra de la otra cara del fútbol español.</desc>
+  </programme>
+  <programme start="20260415150000 +0000" stop="20260415153000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga News</title>
+    <desc lang="en">Las noticias más importantes de lo que acontece en la Liga Santander.</desc>
+  </programme>
+  <programme start="20260415153000 +0000" stop="20260415170000 +0000" channel="LaLiga TV US">
+    <title lang="en">Viva LaLiga!</title>
+    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
+  </programme>
+  <programme start="20260415170000 +0000" stop="20260415173000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Best 11</title>
+    <desc lang="en">En LaLiga Best 11, nueve leyendas de la LaLiga son invitadas a elegir su once ideal.</desc>
+  </programme>
+  <programme start="20260415173000 +0000" stop="20260415180000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga World</title>
+    <desc lang="en">Reportajes y entrevistas, con una muestra de la otra cara del fútbol español.</desc>
+  </programme>
+  <programme start="20260415180000 +0000" stop="20260415190000 +0000" channel="LaLiga TV US">
+    <title lang="en">LaLiga Chronicles</title>
+    <desc lang="en">Las acciones y momentos más destacados de los partidos de fútbol de La Liga en España.</desc>
+  </programme>
+  <programme start="20260415190000 +0000" stop="20260415203000 +0000" channel="LaLiga TV US">
+    <title lang="en">Viva LaLiga!</title>
+    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
+  </programme>
+  <programme start="20260411013000 +0000" stop="20260411023000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD30 : Girona FC vs Villarreal CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD30.</desc>
+  </programme>
+  <programme start="20260411023000 +0000" stop="20260411043000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD30 : Real Sociedad vs Levante UD</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD30.</desc>
+  </programme>
+  <programme start="20260411043000 +0000" stop="20260411063000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD30 : Atlético de Madrid vs FC Barcelona</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD30.</desc>
+  </programme>
+  <programme start="20260411063000 +0000" stop="20260411070000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Talking Football : Eusebio Sacristán</title>
+    <desc lang="en">Talking Football.</desc>
+  </programme>
+  <programme start="20260411070000 +0000" stop="20260411090000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD30 : Getafe CF vs Athletic Club</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD30.</desc>
+  </programme>
+  <programme start="20260411090000 +0000" stop="20260411110000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Madrid vs Girona FC</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260411110000 +0000" stop="20260411120000 +0000" channel="LaLiga TV UK">
+    <title lang="en">The meaning: LALIGA Genuine</title>
+    <desc lang="en">The meaning: LALIGA Genuine.</desc>
+  </programme>
+  <programme start="20260411120000 +0000" stop="20260411141500 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Sociedad vs Deportivo Alavés ᴸᶦᵛᵉ</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+    <live/>
+  </programme>
+  <programme start="20260411141500 +0000" stop="20260411163000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Elche CF vs Valencia CF ᴸᶦᵛᵉ</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+    <live/>
+  </programme>
+  <programme start="20260411163000 +0000" stop="20260411183000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol ᴸᶦᵛᵉ</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+    <live/>
+  </programme>
+  <programme start="20260411183000 +0000" stop="20260411190000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Inside – ELGRANDERBI</title>
+    <desc lang="en">Inside – ELGRANDERBI.</desc>
+  </programme>
+  <programme start="20260411190000 +0000" stop="20260411210000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Sevilla FC vs Atlético de Madrid ᴸᶦᵛᵉ</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+    <live/>
+  </programme>
+  <programme start="20260411210000 +0000" stop="20260411230000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260411230000 +0000" stop="20260411233000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Talking Football : Eusebio Sacristán</title>
+    <desc lang="en">Talking Football.</desc>
+  </programme>
+  <programme start="20260411233000 +0000" stop="20260412013000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Sociedad vs Deportivo Alavés</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260412013000 +0000" stop="20260412033000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Elche CF vs Valencia CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260412033000 +0000" stop="20260412053000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Sevilla FC vs Atlético de Madrid</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260412053000 +0000" stop="20260412073000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Madrid vs Girona FC</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260412073000 +0000" stop="20260412093000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Elche CF vs Valencia CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260412093000 +0000" stop="20260412113000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260412113000 +0000" stop="20260412120000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Inside – ELGRANDERBI</title>
+    <desc lang="en">Inside – ELGRANDERBI.</desc>
+  </programme>
+  <programme start="20260412120000 +0000" stop="20260412141500 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : CA Osasuna vs Real Betis ᴸᶦᵛᵉ</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+    <live/>
+  </programme>
+  <programme start="20260412141500 +0000" stop="20260412163000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : RCD Mallorca vs Rayo Vallecano ᴸᶦᵛᵉ</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+    <live/>
+  </programme>
+  <programme start="20260412163000 +0000" stop="20260412183000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Celta vs Real Oviedo ᴸᶦᵛᵉ</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+    <live/>
+  </programme>
+  <programme start="20260412183000 +0000" stop="20260412190000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Inside – ELGRANDERBI</title>
+    <desc lang="en">Inside – ELGRANDERBI.</desc>
+  </programme>
+  <programme start="20260412190000 +0000" stop="20260412210000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Athletic Club vs Villarreal CF ᴸᶦᵛᵉ</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+    <live/>
+  </programme>
+  <programme start="20260412210000 +0000" stop="20260412213000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Talking Football : Raúl García</title>
+    <desc lang="en">Talking Football.</desc>
+  </programme>
+  <programme start="20260412213000 +0000" stop="20260412233000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : CA Osasuna vs Real Betis</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260412233000 +0000" stop="20260413013000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : RCD Mallorca vs Rayo Vallecano</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260413013000 +0000" stop="20260413033000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Celta vs Real Oviedo</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260413033000 +0000" stop="20260413053000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Athletic Club vs Villarreal CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260413053000 +0000" stop="20260413060000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Inside – ELGRANDERBI</title>
+    <desc lang="en">Inside – ELGRANDERBI.</desc>
+  </programme>
+  <programme start="20260413060000 +0000" stop="20260413080000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260413080000 +0000" stop="20260413100000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Sevilla FC vs Atlético de Madrid</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260413100000 +0000" stop="20260413120000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Celta vs Real Oviedo</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260413120000 +0000" stop="20260413123000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Talking Football : Raúl García</title>
+    <desc lang="en">Talking Football.</desc>
+  </programme>
+  <programme start="20260413123000 +0000" stop="20260413143000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : RCD Mallorca vs Rayo Vallecano</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260413143000 +0000" stop="20260413163000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : CA Osasuna vs Real Betis</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260413163000 +0000" stop="20260413183000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Madrid vs Girona FC</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260413183000 +0000" stop="20260413190000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Inside – ELGRANDERBI</title>
+    <desc lang="en">Inside – ELGRANDERBI.</desc>
+  </programme>
+  <programme start="20260413190000 +0000" stop="20260413210000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Levante UD vs Getafe CF ᴸᶦᵛᵉ</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+    <live/>
+  </programme>
+  <programme start="20260413210000 +0000" stop="20260413220000 +0000" channel="LaLiga TV UK">
+    <title lang="en">The meaning: LALIGA Genuine</title>
+    <desc lang="en">The meaning: LALIGA Genuine.</desc>
+  </programme>
+  <programme start="20260413220000 +0000" stop="20260414000000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414000000 +0000" stop="20260414003000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Talking Football : Eusebio Sacristán</title>
+    <desc lang="en">Talking Football.</desc>
+  </programme>
+  <programme start="20260414003000 +0000" stop="20260414023000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : RCD Mallorca vs Rayo Vallecano</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414023000 +0000" stop="20260414043000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Levante UD vs Getafe CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414043000 +0000" stop="20260414063000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Athletic Club vs Villarreal CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414063000 +0000" stop="20260414073000 +0000" channel="LaLiga TV UK">
+    <title lang="en">The meaning: LALIGA Genuine</title>
+    <desc lang="en">The meaning: LALIGA Genuine.</desc>
+  </programme>
+  <programme start="20260414073000 +0000" stop="20260414093000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : CA Osasuna vs Real Betis</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414093000 +0000" stop="20260414113000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Sociedad vs Deportivo Alavés</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414113000 +0000" stop="20260414133000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Elche CF vs Valencia CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414133000 +0000" stop="20260414153000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Madrid vs Girona FC</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414153000 +0000" stop="20260414160000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA HIGHLIGHTS : MD31</title>
+    <desc lang="en">LALIGA HIGHLIGHTS.</desc>
+  </programme>
+  <programme start="20260414160000 +0000" stop="20260414180000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414180000 +0000" stop="20260414200000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Sevilla FC vs Atlético de Madrid</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414200000 +0000" stop="20260414220000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Celta vs Real Oviedo</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260414220000 +0000" stop="20260414223000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA HIGHLIGHTS : MD31</title>
+    <desc lang="en">LALIGA HIGHLIGHTS.</desc>
+  </programme>
+  <programme start="20260414223000 +0000" stop="20260415003000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Levante UD vs Getafe CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260415003000 +0000" stop="20260415023000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Madrid vs Girona FC</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260415023000 +0000" stop="20260415030000 +0000" channel="LaLiga TV UK">
+    <title lang="en">Inside – ELGRANDERBI</title>
+    <desc lang="en">Inside – ELGRANDERBI.</desc>
+  </programme>
+  <programme start="20260415030000 +0000" stop="20260415050000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260415050000 +0000" stop="20260415070000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Athletic Club vs Villarreal CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260415070000 +0000" stop="20260415073000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA HIGHLIGHTS : MD31</title>
+    <desc lang="en">LALIGA HIGHLIGHTS.</desc>
+  </programme>
+  <programme start="20260415073000 +0000" stop="20260415093000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Sevilla FC vs Atlético de Madrid</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260415093000 +0000" stop="20260415113000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Madrid vs Girona FC</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260415113000 +0000" stop="20260415133000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : CA Osasuna vs Real Betis</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260415133000 +0000" stop="20260415153000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Levante UD vs Getafe CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260415153000 +0000" stop="20260415160000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA HIGHLIGHTS : MD31</title>
+    <desc lang="en">LALIGA HIGHLIGHTS.</desc>
+  </programme>
+  <programme start="20260415160000 +0000" stop="20260415180000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
+  <programme start="20260415180000 +0000" stop="20260415200000 +0000" channel="LaLiga TV UK">
+    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Athletic Club vs Villarreal CF</title>
+    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
+  </programme>
 	<programme start="20260412000000 +0000" stop="20260412080000 +0000" channel="DE | DAZN 1">
     <title>Sendepause</title>
     <desc>Sendepause
@@ -124565,6 +126781,206 @@ Cobertura de las noticias del mundo deportivo. Información actualizada de lo qu
     <title>Motorsport: GT World Challenge Europe · Highlights: Paul Ricard (Endurance Cup)</title>
     <desc>Motorsport
 · Die GT World Challenge Europe gibt Vollgas: Wer rast in der Saison 2026 zum Sieg und krönt sich zum Champ? Die Highlights des Rennens. (Senderinfo).</desc>
+	</programme>
+	<programme start="20260412124000 +0000" stop="20260412130000 +0000" channel="DE | Sky Sport Bundesliga 1">
+    <title>Es folgt: LIVE 2. Liga</title>
+    <desc>Fußball
+· Es folgt: Live 2. Bundesliga.</desc>
+	</programme>
+	<programme start="20260412130000 +0000" stop="20260412153500 +0000" channel="DE | Sky Sport Bundesliga 1">
+    <title>Live 2. BL: Sonntags-Konferenz, 29. Spieltag</title>
+    <desc>Fußball
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260412153500 +0000" stop="20260412163000 +0000" channel="DE | Sky Sport Bundesliga 1">
+    <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 29. Spieltag, Sonntag</title>
+    <desc>Fußball
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260412163000 +0000" stop="20260412173000 +0000" channel="DE | Sky Sport Bundesliga 1">
+    <title>Live BL: Skylights: Die #SkySportShow</title>
+    <desc>Fußball
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260412173000 +0000" stop="20260412180000 +0000" channel="DE | Sky Sport Bundesliga 1">
+    <title>Live BL: Highlights XXL: KOE - SVW, 29. Spieltag</title>
+    <desc>Fußball
+· 1. FC Köln vs. Werder Bremen. Alle Highlights des Sonntagsspiels.</desc>
+	</programme>
+	<programme start="20260412180000 +0000" stop="20260412193000 +0000" channel="DE | Sky Sport Bundesliga 1">
+    <title>Live BL: Sky90 - Die Fußballdebatte</title>
+    <desc>Fußball
+· Kontrovers, unterhaltsam, meinungsbildend. Mit Sky90 präsentiert Sky den umfassendsten Fußball-Live-Talk Deutschlands. Sonntags ab 18:00 Uhr begrüßt Moderator Patrick Wasserziehr kompetente Gäste im Sky Studio.</desc>
+	</programme>
+	<programme start="20260412193000 +0000" stop="20260412204500 +0000" channel="DE | Sky Sport Bundesliga 1">
+    <title>Live BL: Highlights XXL: VFB - HSV, 29. Spieltag</title>
+    <desc>Fußball
+· VfB Stuttgart vs. Hamburger SV. Alle Highlights des Sonntagsspiels.</desc>
+	</programme>
+	<programme start="20260413191000 +0000" stop="20260413193000 +0000" channel="DE | Sky Sport Bundesliga 1">
+    <title>Es folgt: Live Bundesliga</title>
+    <desc>Fußball
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260413193000 +0000" stop="20260413201500 +0000" channel="DE | Sky Sport Bundesliga 1">
+    <title>Live BL: STP - KOE: tipico Countdown, Flutlicht-Freitag, 30. Spieltag</title>
+    <desc>Fußball
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260413201500 +0000" stop="20260413231500 +0000" channel="DE | Sky Sport Bundesliga 1">
+    <title>Live BL: FC St. Pauli - 1. FC Köln, Flutlicht-Freitag, 30. Spieltag</title>
+    <desc>Fußball
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260412121000 +0000" stop="20260412123000 +0000" channel="DE | Sky Sport 1">
+    <title>Es folgt: Live Tennis WTA Tour</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260412181000 +0000" stop="20260412183000 +0000" channel="DE | Sky Sport 1">
+    <title>Es folgt: Live Tennis WTA Tour</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260412183000 +0000" stop="20260412223000 +0000" channel="DE | Sky Sport 1">
+    <title>Live WTA 500: Porsche Tennis Grand Prix in Stuttgart, 1. Tag</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260412232500 +0000" stop="20260412234500 +0000" channel="DE | Sky Sport 1">
+    <title>Es folgt: LIVE NBA</title>
+    <desc>Basketball
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260412234500 +0000" stop="20260413100000 +0000" channel="DE | Sky Sport 1">
+    <title>Live NBA: Orlando Magic @ Boston Celtics</title>
+    <desc>Basketball
+· Spektakuläre Drei-Punkte-Würfe, Rebounds und Dunks: In der NBA zeigen Stars wie Stephen Curry, Nikola Jokic oder Dennis Schröder ihr Können. Wer führt sein Team zum großen Erfolg?</desc>
+	</programme>
+	<programme start="20260413121000 +0000" stop="20260413123000 +0000" channel="DE | Sky Sport 1">
+    <title>Es folgt: Live Tennis WTA Tour</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260413181000 +0000" stop="20260413183000 +0000" channel="DE | Sky Sport 1">
+    <title>Es folgt: LIVE Tennis WTA Tour</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260413183000 +0000" stop="20260413223000 +0000" channel="DE | Sky Sport 1">
+    <title>Live WTA 500: Porsche Tennis Grand Prix in Stuttgart, 1. Tag</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260414121000 +0000" stop="20260414123000 +0000" channel="DE | Sky Sport 1">
+    <title>Es folgt: Live Tennis WTA Tour</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260414123000 +0000" stop="20260414230000 +0000" channel="DE | Sky Sport 1">
+    <title>Live WTA 500: Porsche Tennis Grand Prix in Stuttgart, 3. Tag</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260415121000 +0000" stop="20260415123000 +0000" channel="DE | Sky Sport 1">
+    <title>Es folgt: Live Tennis WTA Tour</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260415123000 +0000" stop="20260415230000 +0000" channel="DE | Sky Sport 1">
+    <title>Live WTA 500: Porsche Tennis Grand Prix in Stuttgart, 4. Tag</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260416121000 +0000" stop="20260416123000 +0000" channel="DE | Sky Sport 1">
+    <title>Es folgt: Live Tennis WTA Tour</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260416123000 +0000" stop="20260416230000 +0000" channel="DE | Sky Sport 1">
+    <title>Live WTA 500: Porsche Tennis Grand Prix in Stuttgart, 4. Tag</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260412104000 +0000" stop="20260412110000 +0000" channel="DE | Sky Sport 2">
+    <title>Es folgt: Live ATP Tour</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260412110000 +0000" stop="20260412150000 +0000" channel="DE | Sky Sport 2">
+    <title>Live ATP 500: Barcelona Open BancSabadell in Barcelona (ESP), 3. Tag</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260412150000 +0000" stop="20260412160000 +0000" channel="DE | Sky Sport 2">
+    <title>Es folgt: Live ATP Tour</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260412160000 +0000" stop="20260412200000 +0000" channel="DE | Sky Sport 2">
+    <title>Live ATP 500: Barcelona Open BancSabadell in Barcelona (ESP), 2. Tag</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260413104000 +0000" stop="20260413110000 +0000" channel="DE | Sky Sport 2">
+    <title>Es folgt: Live ATP Tour</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260413110000 +0000" stop="20260413150000 +0000" channel="DE | Sky Sport 2">
+    <title>Live ATP 500: Barcelona Open BancSabadell in Barcelona (ESP), 3. Tag</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260413150000 +0000" stop="20260413160000 +0000" channel="DE | Sky Sport 2">
+    <title>Es folgt: Live ATP Tour</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260413160000 +0000" stop="20260413200000 +0000" channel="DE | Sky Sport 2">
+    <title>Live ATP 500: Barcelona Open BancSabadell in Barcelona (ESP), 2. Tag</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260413203000 +0000" stop="20260413205000 +0000" channel="DE | Sky Sport 2">
+    <title>Es folgt LIVE UEFA Europa League</title>
+    <desc>Fußball
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260413205000 +0000" stop="20260413230500 +0000" channel="DE | Sky Sport 2">
+    <title>Live UEFA ECL: AEK Athen - Rayo Vallecano, Viertelfinale Rückspiel</title>
+    <desc>Fußball
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260414104000 +0000" stop="20260414110000 +0000" channel="DE | Sky Sport 2">
+    <title>Es folgt: Live ATP Tour</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260414110000 +0000" stop="20260414150000 +0000" channel="DE | Sky Sport 2">
+    <title>Live ATP 500: Barcelona Open BancSabadell in Barcelona (ESP), 3. Tag</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260414150000 +0000" stop="20260414160000 +0000" channel="DE | Sky Sport 2">
+    <title>Es folgt: Live ATP Tour</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260414160000 +0000" stop="20260414200000 +0000" channel="DE | Sky Sport 2">
+    <title>Live ATP 500: Barcelona Open BancSabadell in Barcelona (ESP), 2. Tag</title>
+    <desc>Tennis
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260414203000 +0000" stop="20260414205000 +0000" channel="DE | Sky Sport 2">
+    <title>Es folgt LIVE UEFA Europa League</title>
+    <desc>Fußball
+· Sin detalles...</desc>
+	</programme>
+	<programme start="20260414205000 +0000" stop="20260414230500 +0000" channel="DE | Sky Sport 2">
+    <title>Live UEFA ECL: AEK Athen - Rayo Vallecano, Viertelfinale Rückspiel</title>
+    <desc>Fußball
+· Sin detalles...</desc>
 	</programme>
 	<programme start="20260412013000 +0000" stop="20260412020000 +0000" channel="PT | DAZN 1">
     <title>Premier League T1 E34 · Jack Grealish</title>
@@ -138944,693 +141360,6 @@ Cobertura de las noticias del mundo deportivo. Información actualizada de lo qu
     <desc>Crime | 2019
 · When famous Colombian drag icon Madorilyn Crawford is found murdered in her home, it exposes dark secrets involving powerful people, who believe themselves to be above the law.</desc>
 	</programme>
-  <programme start="20260411000000 +0000" stop="20260411020000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260411020000 +0000" stop="20260411023000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Chronicles</title>
-    <desc lang="en">Las acciones y momentos más destacados de los partidos de fútbol de La Liga en España.</desc>
-  </programme>
-  <programme start="20260411023000 +0000" stop="20260411043000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260411043000 +0000" stop="20260411063000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260411063000 +0000" stop="20260411083000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260411083000 +0000" stop="20260411090000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Talking Football</title>
-    <desc lang="en">Entrevistas con personalidades destacadas de LaLiga.</desc>
-  </programme>
-  <programme start="20260411090000 +0000" stop="20260411093000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga World</title>
-    <desc lang="en">Reportajes y entrevistas, con una muestra de la otra cara del fútbol español.</desc>
-  </programme>
-  <programme start="20260411093000 +0000" stop="20260411100000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Chronicles</title>
-    <desc lang="en">Las acciones y momentos más destacados de los partidos de fútbol de La Liga en España.</desc>
-  </programme>
-  <programme start="20260411100000 +0000" stop="20260411120000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260411120000 +0000" stop="20260411140000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Classics</title>
-    <desc lang="en">Un viaje al pasado para revivir los partidos más destacados en LaLiga a lo largo de los años.</desc>
-  </programme>
-  <programme start="20260411140000 +0000" stop="20260411143000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Fans</title>
-    <desc lang="en">Un programa sobre los aficionados muy especiales que siguen a los equipos que compiten en LaLiga.</desc>
-  </programme>
-  <programme start="20260411143000 +0000" stop="20260411150000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Tactics</title>
-    <desc lang="en">Un vistazo exclusivo a la serie de LaLiga.</desc>
-  </programme>
-  <programme start="20260411150000 +0000" stop="20260411153000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga World</title>
-    <desc lang="en">Reportajes y entrevistas, con una muestra de la otra cara del fútbol español.</desc>
-  </programme>
-  <programme start="20260411153000 +0000" stop="20260411173000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260411173000 +0000" stop="20260411180000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Chronicles</title>
-    <desc lang="en">Las acciones y momentos más destacados de los partidos de fútbol de La Liga en España.</desc>
-  </programme>
-  <programme start="20260411180000 +0000" stop="20260411190000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga EA Sports Highlights</title>
-    <desc lang="en">El programa presenta un resumen del fútbol en la competición LaLiga de EA Sports.</desc>
-  </programme>
-  <programme start="20260411190000 +0000" stop="20260411210000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Classics</title>
-    <desc lang="en">Un viaje al pasado para revivir los partidos más destacados en LaLiga a lo largo de los años.</desc>
-  </programme>
-  <programme start="20260411210000 +0000" stop="20260411230000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260411230000 +0000" stop="20260411233000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Best 11</title>
-    <desc lang="en">En LaLiga Best 11, nueve leyendas de la LaLiga son invitadas a elegir su once ideal.</desc>
-  </programme>
-  <programme start="20260411233000 +0000" stop="20260412000000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Talking Football</title>
-    <desc lang="en">Entrevistas con personalidades destacadas de LaLiga.</desc>
-  </programme>
-  <programme start="20260412000000 +0000" stop="20260412020000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260412020000 +0000" stop="20260412023000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Fans</title>
-    <desc lang="en">Un programa sobre los aficionados muy especiales que siguen a los equipos que compiten en LaLiga.</desc>
-  </programme>
-  <programme start="20260412023000 +0000" stop="20260412043000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260412043000 +0000" stop="20260412073000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260412073000 +0000" stop="20260412083000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga  Post-Match  ᴸᶦᵛᵉ</title>
-    <desc lang="en">Un panel de expertos en LaLiga mientras analizan el partido que se acaba de jugar.</desc>
-    <live/>
-  </programme>
-  <programme start="20260412083000 +0000" stop="20260412103000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260412103000 +0000" stop="20260412110000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga World</title>
-    <desc lang="en">Reportajes y entrevistas, con una muestra de la otra cara del fútbol español.</desc>
-  </programme>
-  <programme start="20260412110000 +0000" stop="20260412113000 +0000" channel="LaLiga TV US">
-    <title lang="en">Matches highlights</title>
-    <desc lang="en">Resúmenes locutados de partidos de la jornada en vigor.</desc>
-  </programme>
-  <programme start="20260412113000 +0000" stop="20260412120000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga ZAP</title>
-    <desc lang="en">Las mejores imágenes, la más curiosas, espectaculares y divertidas de LaLiga Santander.</desc>
-  </programme>
-  <programme start="20260412120000 +0000" stop="20260412130000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga  Pre-Match  ᴺᵉʷ</title>
-    <desc lang="en">Toda la acción de cada jornada de LaLiga con avances y entrevistas con expertos.</desc>
-    <new/>
-  </programme>
-  <programme start="20260412130000 +0000" stop="20260412150000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260412150000 +0000" stop="20260412151500 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Live  ᴺᵉʷ</title>
-    <desc lang="en">Un panel de expertos viene al estudio a hablar sobre las jugadas de la última fecha de LaLiga.</desc>
-    <new/>
-  </programme>
-  <programme start="20260412151500 +0000" stop="20260412171500 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260412171500 +0000" stop="20260412173000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Live  ᴺᵉʷ</title>
-    <desc lang="en">Un panel de expertos viene al estudio a hablar sobre las jugadas de la última fecha de LaLiga.</desc>
-    <new/>
-  </programme>
-  <programme start="20260412173000 +0000" stop="20260412193000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260412193000 +0000" stop="20260412200000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Live  ᴺᵉʷ</title>
-    <desc lang="en">Un panel de expertos viene al estudio a hablar sobre las jugadas de la última fecha de LaLiga.</desc>
-    <new/>
-  </programme>
-  <programme start="20260412200000 +0000" stop="20260412220000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260412220000 +0000" stop="20260412233000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga  Post-Match  ᴺᵉʷ</title>
-    <desc lang="en">Un panel de expertos en LaLiga mientras analizan el partido que se acaba de jugar.</desc>
-    <new/>
-  </programme>
-  <programme start="20260412233000 +0000" stop="20260413003000 +0000" channel="LaLiga TV US">
-    <title lang="en">Matches highlights  ᴺᵉʷ</title>
-    <desc lang="en">Resúmenes locutados de partidos de la jornada en vigor.</desc>
-    <new/>
-  </programme>
-  <programme start="20260413003000 +0000" stop="20260413023000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260413023000 +0000" stop="20260413030000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga World</title>
-    <desc lang="en">Reportajes y entrevistas, con una muestra de la otra cara del fútbol español.</desc>
-  </programme>
-  <programme start="20260413030000 +0000" stop="20260413033000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga ZAP</title>
-    <desc lang="en">Las mejores imágenes, la más curiosas, espectaculares y divertidas de LaLiga Santander.</desc>
-  </programme>
-  <programme start="20260413033000 +0000" stop="20260413040000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260413040000 +0000" stop="20260413043000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga ZAP</title>
-    <desc lang="en">Las mejores imágenes, la más curiosas, espectaculares y divertidas de LaLiga Santander.</desc>
-  </programme>
-  <programme start="20260413043000 +0000" stop="20260413063000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260413063000 +0000" stop="20260413083000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260413083000 +0000" stop="20260413100000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga  Post-Match  ᴸᶦᵛᵉ</title>
-    <desc lang="en">Un panel de expertos en LaLiga mientras analizan el partido que se acaba de jugar.</desc>
-    <live/>
-  </programme>
-  <programme start="20260413100000 +0000" stop="20260413120000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260413120000 +0000" stop="20260413140000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260413140000 +0000" stop="20260413150000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga EA Sports Highlights</title>
-    <desc lang="en">El programa presenta un resumen del fútbol en la competición LaLiga de EA Sports.</desc>
-  </programme>
-  <programme start="20260413150000 +0000" stop="20260413153000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga News  ᴺᵉʷ</title>
-    <desc lang="en">Las noticias más importantes de lo que acontece en la Liga Santander.</desc>
-    <new/>
-  </programme>
-  <programme start="20260413153000 +0000" stop="20260413170000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga  Post-Match  ᴸᶦᵛᵉ</title>
-    <desc lang="en">Un panel de expertos en LaLiga mientras analizan el partido que se acaba de jugar.</desc>
-    <live/>
-  </programme>
-  <programme start="20260413170000 +0000" stop="20260413173000 +0000" channel="LaLiga TV US">
-    <title lang="en">La Liga World</title>
-    <desc lang="en">Entrevistas exclusivas con los mejores jugadores de la división y las antiguas leyendas de LaLiga.</desc>
-  </programme>
-  <programme start="20260413173000 +0000" stop="20260413180000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga ZAP</title>
-    <desc lang="en">Las mejores imágenes, la más curiosas, espectaculares y divertidas de LaLiga Santander.</desc>
-  </programme>
-  <programme start="20260413180000 +0000" stop="20260413183000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Best 11</title>
-    <desc lang="en">En LaLiga Best 11, nueve leyendas de la LaLiga son invitadas a elegir su once ideal.</desc>
-  </programme>
-  <programme start="20260413183000 +0000" stop="20260413190000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga News</title>
-    <desc lang="en">Las noticias más importantes de lo que acontece en la Liga Santander.</desc>
-  </programme>
-  <programme start="20260413190000 +0000" stop="20260413203000 +0000" channel="LaLiga TV US">
-    <title lang="en">Viva LaLiga!</title>
-    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
-  </programme>
-  <programme start="20260413203000 +0000" stop="20260413210000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Fans</title>
-    <desc lang="en">Un programa sobre los aficionados muy especiales que siguen a los equipos que compiten en LaLiga.</desc>
-  </programme>
-  <programme start="20260413210000 +0000" stop="20260413230000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260413230000 +0000" stop="20260414000000 +0000" channel="LaLiga TV US">
-    <title lang="en">Matches highlights</title>
-    <desc lang="en">Resúmenes locutados de partidos de la jornada en vigor.</desc>
-  </programme>
-  <programme start="20260414000000 +0000" stop="20260414013000 +0000" channel="LaLiga TV US">
-    <title lang="en">Viva LaLiga!</title>
-    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
-  </programme>
-  <programme start="20260414013000 +0000" stop="20260414020000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga ZAP</title>
-    <desc lang="en">Las mejores imágenes, la más curiosas, espectaculares y divertidas de LaLiga Santander.</desc>
-  </programme>
-  <programme start="20260414020000 +0000" stop="20260414023000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Talking Football</title>
-    <desc lang="en">Entrevistas con personalidades destacadas de LaLiga.</desc>
-  </programme>
-  <programme start="20260414023000 +0000" stop="20260414043000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260414043000 +0000" stop="20260414063000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260414063000 +0000" stop="20260414083000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260414083000 +0000" stop="20260414100000 +0000" channel="LaLiga TV US">
-    <title lang="en">Viva LaLiga!</title>
-    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
-  </programme>
-  <programme start="20260414100000 +0000" stop="20260414120000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260414120000 +0000" stop="20260414140000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Classics</title>
-    <desc lang="en">Un viaje al pasado para revivir los partidos más destacados en LaLiga a lo largo de los años.</desc>
-  </programme>
-  <programme start="20260414140000 +0000" stop="20260414150000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga HyperMotion  ᴺᵉʷ</title>
-    <desc lang="en">El programa muestra resúmenes de los partidos de LaLiga española de fútbol.</desc>
-    <new/>
-  </programme>
-  <programme start="20260414150000 +0000" stop="20260414153000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga News  ᴺᵉʷ</title>
-    <desc lang="en">Las noticias más importantes de lo que acontece en la Liga Santander.</desc>
-    <new/>
-  </programme>
-  <programme start="20260414153000 +0000" stop="20260414170000 +0000" channel="LaLiga TV US">
-    <title lang="en">Viva LaLiga!</title>
-    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
-  </programme>
-  <programme start="20260414170000 +0000" stop="20260414180000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga EA Sports Highlights</title>
-    <desc lang="en">El programa presenta un resumen del fútbol en la competición LaLiga de EA Sports.</desc>
-  </programme>
-  <programme start="20260414180000 +0000" stop="20260414183000 +0000" channel="LaLiga TV US">
-    <title lang="en">La Liga World</title>
-    <desc lang="en">Entrevistas exclusivas con los mejores jugadores de la división y las antiguas leyendas de LaLiga.</desc>
-  </programme>
-  <programme start="20260414183000 +0000" stop="20260414190000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga News</title>
-    <desc lang="en">Las noticias más importantes de lo que acontece en la Liga Santander.</desc>
-  </programme>
-  <programme start="20260414190000 +0000" stop="20260414203000 +0000" channel="LaLiga TV US">
-    <title lang="en">Viva LaLiga!  ᴺᵉʷ</title>
-    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
-    <new/>
-  </programme>
-  <programme start="20260414203000 +0000" stop="20260414210000 +0000" channel="LaLiga TV US">
-    <title lang="en">La Liga World</title>
-    <desc lang="en">Entrevistas exclusivas con los mejores jugadores de la división y las antiguas leyendas de LaLiga.</desc>
-  </programme>
-  <programme start="20260414210000 +0000" stop="20260414230000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260414230000 +0000" stop="20260415000000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga HyperMotion</title>
-    <desc lang="en">El programa muestra resúmenes de los partidos de LaLiga española de fútbol.</desc>
-  </programme>
-  <programme start="20260415000000 +0000" stop="20260415013000 +0000" channel="LaLiga TV US">
-    <title lang="en">Viva LaLiga!  ᴺᵉʷ</title>
-    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
-    <new/>
-  </programme>
-  <programme start="20260415013000 +0000" stop="20260415023000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga EA Sports Highlights</title>
-    <desc lang="en">El programa presenta un resumen del fútbol en la competición LaLiga de EA Sports.</desc>
-  </programme>
-  <programme start="20260415023000 +0000" stop="20260415043000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260415043000 +0000" stop="20260415063000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260415063000 +0000" stop="20260415083000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260415083000 +0000" stop="20260415100000 +0000" channel="LaLiga TV US">
-    <title lang="en">Viva LaLiga!</title>
-    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
-  </programme>
-  <programme start="20260415100000 +0000" stop="20260415120000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260415120000 +0000" stop="20260415133000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Classics</title>
-    <desc lang="en">Un viaje al pasado para revivir los partidos más destacados en LaLiga a lo largo de los años.</desc>
-  </programme>
-  <programme start="20260415133000 +0000" stop="20260415140000 +0000" channel="LaLiga TV US">
-    <title lang="en">Fútbol LaLiga</title>
-    <desc lang="en">La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
-  </programme>
-  <programme start="20260415140000 +0000" stop="20260415143000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga ZAP</title>
-    <desc lang="en">Las mejores imágenes, la más curiosas, espectaculares y divertidas de LaLiga Santander.</desc>
-  </programme>
-  <programme start="20260415143000 +0000" stop="20260415150000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga World</title>
-    <desc lang="en">Reportajes y entrevistas, con una muestra de la otra cara del fútbol español.</desc>
-  </programme>
-  <programme start="20260415150000 +0000" stop="20260415153000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga News</title>
-    <desc lang="en">Las noticias más importantes de lo que acontece en la Liga Santander.</desc>
-  </programme>
-  <programme start="20260415153000 +0000" stop="20260415170000 +0000" channel="LaLiga TV US">
-    <title lang="en">Viva LaLiga!</title>
-    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
-  </programme>
-  <programme start="20260415170000 +0000" stop="20260415173000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Best 11</title>
-    <desc lang="en">En LaLiga Best 11, nueve leyendas de la LaLiga son invitadas a elegir su once ideal.</desc>
-  </programme>
-  <programme start="20260415173000 +0000" stop="20260415180000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga World</title>
-    <desc lang="en">Reportajes y entrevistas, con una muestra de la otra cara del fútbol español.</desc>
-  </programme>
-  <programme start="20260415180000 +0000" stop="20260415190000 +0000" channel="LaLiga TV US">
-    <title lang="en">LaLiga Chronicles</title>
-    <desc lang="en">Las acciones y momentos más destacados de los partidos de fútbol de La Liga en España.</desc>
-  </programme>
-  <programme start="20260415190000 +0000" stop="20260415203000 +0000" channel="LaLiga TV US">
-    <title lang="en">Viva LaLiga!</title>
-    <desc lang="en">Panel diario presentado por exjugadores y expertos, que discuten los temas de LaLiga de España.</desc>
-  </programme>
-  <programme start="20260411013000 +0000" stop="20260411023000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD30 : Girona FC vs Villarreal CF</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD30.</desc>
-  </programme>
-  <programme start="20260411023000 +0000" stop="20260411043000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD30 : Real Sociedad vs Levante UD</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD30.</desc>
-  </programme>
-  <programme start="20260411043000 +0000" stop="20260411063000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD30 : Atlético de Madrid vs FC Barcelona</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD30.</desc>
-  </programme>
-  <programme start="20260411063000 +0000" stop="20260411070000 +0000" channel="LaLiga TV UK">
-    <title lang="en">Talking Football : Eusebio Sacristán</title>
-    <desc lang="en">Talking Football.</desc>
-  </programme>
-  <programme start="20260411070000 +0000" stop="20260411090000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD30 : Getafe CF vs Athletic Club</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD30.</desc>
-  </programme>
-  <programme start="20260411090000 +0000" stop="20260411110000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Madrid vs Girona FC</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260411110000 +0000" stop="20260411120000 +0000" channel="LaLiga TV UK">
-    <title lang="en">The meaning: LALIGA Genuine</title>
-    <desc lang="en">The meaning: LALIGA Genuine.</desc>
-  </programme>
-  <programme start="20260411120000 +0000" stop="20260411141500 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Sociedad vs Deportivo Alavés ᴸᶦᵛᵉ</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-    <live/>
-  </programme>
-  <programme start="20260411141500 +0000" stop="20260411163000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Elche CF vs Valencia CF ᴸᶦᵛᵉ</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-    <live/>
-  </programme>
-  <programme start="20260411163000 +0000" stop="20260411183000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol ᴸᶦᵛᵉ</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-    <live/>
-  </programme>
-  <programme start="20260411183000 +0000" stop="20260411190000 +0000" channel="LaLiga TV UK">
-    <title lang="en">Inside – ELGRANDERBI</title>
-    <desc lang="en">Inside – ELGRANDERBI.</desc>
-  </programme>
-  <programme start="20260411190000 +0000" stop="20260411210000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Sevilla FC vs Atlético de Madrid ᴸᶦᵛᵉ</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-    <live/>
-  </programme>
-  <programme start="20260411210000 +0000" stop="20260411230000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260411230000 +0000" stop="20260411233000 +0000" channel="LaLiga TV UK">
-    <title lang="en">Talking Football : Eusebio Sacristán</title>
-    <desc lang="en">Talking Football.</desc>
-  </programme>
-  <programme start="20260411233000 +0000" stop="20260412013000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Sociedad vs Deportivo Alavés</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260412013000 +0000" stop="20260412033000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Elche CF vs Valencia CF</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260412033000 +0000" stop="20260412053000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Sevilla FC vs Atlético de Madrid</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260412053000 +0000" stop="20260412073000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Madrid vs Girona FC</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260412073000 +0000" stop="20260412093000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Elche CF vs Valencia CF</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260412093000 +0000" stop="20260412113000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260412113000 +0000" stop="20260412120000 +0000" channel="LaLiga TV UK">
-    <title lang="en">Inside – ELGRANDERBI</title>
-    <desc lang="en">Inside – ELGRANDERBI.</desc>
-  </programme>
-  <programme start="20260412120000 +0000" stop="20260412141500 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : CA Osasuna vs Real Betis ᴸᶦᵛᵉ</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-    <live/>
-  </programme>
-  <programme start="20260412141500 +0000" stop="20260412163000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : RCD Mallorca vs Rayo Vallecano ᴸᶦᵛᵉ</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-    <live/>
-  </programme>
-  <programme start="20260412163000 +0000" stop="20260412183000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Celta vs Real Oviedo ᴸᶦᵛᵉ</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-    <live/>
-  </programme>
-  <programme start="20260412183000 +0000" stop="20260412190000 +0000" channel="LaLiga TV UK">
-    <title lang="en">Inside – ELGRANDERBI</title>
-    <desc lang="en">Inside – ELGRANDERBI.</desc>
-  </programme>
-  <programme start="20260412190000 +0000" stop="20260412210000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Athletic Club vs Villarreal CF ᴸᶦᵛᵉ</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-    <live/>
-  </programme>
-  <programme start="20260412210000 +0000" stop="20260412213000 +0000" channel="LaLiga TV UK">
-    <title lang="en">Talking Football : Raúl García</title>
-    <desc lang="en">Talking Football.</desc>
-  </programme>
-  <programme start="20260412213000 +0000" stop="20260412233000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : CA Osasuna vs Real Betis</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260412233000 +0000" stop="20260413013000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : RCD Mallorca vs Rayo Vallecano</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260413013000 +0000" stop="20260413033000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Celta vs Real Oviedo</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260413033000 +0000" stop="20260413053000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Athletic Club vs Villarreal CF</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260413053000 +0000" stop="20260413060000 +0000" channel="LaLiga TV UK">
-    <title lang="en">Inside – ELGRANDERBI</title>
-    <desc lang="en">Inside – ELGRANDERBI.</desc>
-  </programme>
-  <programme start="20260413060000 +0000" stop="20260413080000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260413080000 +0000" stop="20260413100000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Sevilla FC vs Atlético de Madrid</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260413100000 +0000" stop="20260413120000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Celta vs Real Oviedo</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260413120000 +0000" stop="20260413123000 +0000" channel="LaLiga TV UK">
-    <title lang="en">Talking Football : Raúl García</title>
-    <desc lang="en">Talking Football.</desc>
-  </programme>
-  <programme start="20260413123000 +0000" stop="20260413143000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : RCD Mallorca vs Rayo Vallecano</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260413143000 +0000" stop="20260413163000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : CA Osasuna vs Real Betis</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260413163000 +0000" stop="20260413183000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Madrid vs Girona FC</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260413183000 +0000" stop="20260413190000 +0000" channel="LaLiga TV UK">
-    <title lang="en">Inside – ELGRANDERBI</title>
-    <desc lang="en">Inside – ELGRANDERBI.</desc>
-  </programme>
-  <programme start="20260413190000 +0000" stop="20260413210000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Levante UD vs Getafe CF ᴸᶦᵛᵉ</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-    <live/>
-  </programme>
-  <programme start="20260413210000 +0000" stop="20260413220000 +0000" channel="LaLiga TV UK">
-    <title lang="en">The meaning: LALIGA Genuine</title>
-    <desc lang="en">The meaning: LALIGA Genuine.</desc>
-  </programme>
-  <programme start="20260413220000 +0000" stop="20260414000000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260414000000 +0000" stop="20260414003000 +0000" channel="LaLiga TV UK">
-    <title lang="en">Talking Football : Eusebio Sacristán</title>
-    <desc lang="en">Talking Football.</desc>
-  </programme>
-  <programme start="20260414003000 +0000" stop="20260414023000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : RCD Mallorca vs Rayo Vallecano</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260414023000 +0000" stop="20260414043000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Levante UD vs Getafe CF</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260414043000 +0000" stop="20260414063000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Athletic Club vs Villarreal CF</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260414063000 +0000" stop="20260414073000 +0000" channel="LaLiga TV UK">
-    <title lang="en">The meaning: LALIGA Genuine</title>
-    <desc lang="en">The meaning: LALIGA Genuine.</desc>
-  </programme>
-  <programme start="20260414073000 +0000" stop="20260414093000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : CA Osasuna vs Real Betis</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260414093000 +0000" stop="20260414113000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Sociedad vs Deportivo Alavés</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260414113000 +0000" stop="20260414133000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Elche CF vs Valencia CF</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260414133000 +0000" stop="20260414153000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Madrid vs Girona FC</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260414153000 +0000" stop="20260414160000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA HIGHLIGHTS : MD31</title>
-    <desc lang="en">LALIGA HIGHLIGHTS.</desc>
-  </programme>
-  <programme start="20260414160000 +0000" stop="20260414180000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260414180000 +0000" stop="20260414200000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Sevilla FC vs Atlético de Madrid</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260414200000 +0000" stop="20260414220000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Celta vs Real Oviedo</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260414220000 +0000" stop="20260414223000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA HIGHLIGHTS : MD31</title>
-    <desc lang="en">LALIGA HIGHLIGHTS.</desc>
-  </programme>
-  <programme start="20260414223000 +0000" stop="20260415003000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Levante UD vs Getafe CF</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260415003000 +0000" stop="20260415023000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Madrid vs Girona FC</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260415023000 +0000" stop="20260415030000 +0000" channel="LaLiga TV UK">
-    <title lang="en">Inside – ELGRANDERBI</title>
-    <desc lang="en">Inside – ELGRANDERBI.</desc>
-  </programme>
-  <programme start="20260415030000 +0000" stop="20260415050000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260415050000 +0000" stop="20260415070000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Athletic Club vs Villarreal CF</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260415070000 +0000" stop="20260415073000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA HIGHLIGHTS : MD31</title>
-    <desc lang="en">LALIGA HIGHLIGHTS.</desc>
-  </programme>
-  <programme start="20260415073000 +0000" stop="20260415093000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Sevilla FC vs Atlético de Madrid</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260415093000 +0000" stop="20260415113000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Real Madrid vs Girona FC</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260415113000 +0000" stop="20260415133000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : CA Osasuna vs Real Betis</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260415133000 +0000" stop="20260415153000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Levante UD vs Getafe CF</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260415153000 +0000" stop="20260415160000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA HIGHLIGHTS : MD31</title>
-    <desc lang="en">LALIGA HIGHLIGHTS.</desc>
-  </programme>
-  <programme start="20260415160000 +0000" stop="20260415180000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : FC Barcelona vs RCD Espanyol</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
-  <programme start="20260415180000 +0000" stop="20260415200000 +0000" channel="LaLiga TV UK">
-    <title lang="en">LALIGA EA SPORTS 2025/2026 MD31 : Athletic Club vs Villarreal CF</title>
-    <desc lang="en">LALIGA EA SPORTS 2025/2026 MD31.</desc>
-  </programme>
   <programme start="20260413000245 +0000" stop="20260413015623 +0000" channel="Sony One Hits Acción">
     <title>Equipo de Ataque</title>
     <desc>Cuando el mariscal Lawson (Steven Seagal) pierde a su equipo en un ataque a sangre fría, aparentemente aleatorio, se toma como algo personal investigar las sospechosas circunstancias de la brutal matanza. Pronto descubre la CTX Majestic, una operación militar tan confidencial que ahora los militantes quieren eliminar a Lawson para proteger el secreto... Infatigable en su misión, Lawson se implica en una cruenta batalla contra una operación de tráfico de drogas que parece estar financiada clandestinamente por un grupo criminal del ejército.</desc>
