@@ -107,7 +107,7 @@ ABCKERO.us,US - ABC KERO Bakersfield CA,https://iptv-epg.org/logos/USA/ABCKERO.u
 CBSKBAK.us,US - CBS KBAK Bakersfield CA,https://iptv-epg.org/logos/USA/CBSKBAK.us.png
 FOXKBFX.us,US - FOX KBFX Bakersfield CA,https://iptv-epg.org/logos/USA/FOXKBFX.us.png
 ABCKRCR.us,US - ABC KRCR Redding CA,https://iptv-epg.org/logos/USA/ABCKRCR.us.png
-FOXKRCRDT2.us,US - FOX KRCR-DT2 Redding CA,
+FOXKRCRDT2.us,US - FOX KRCR-DT2 Redding CA,https://iptv-epg.org/logos/USA/FOXKRCRDT2.us.png
 PBSKIXE.us,US - PBS KIXE Redding CA,https://iptv-epg.org/logos/USA/PBSKIXE.us.png
 CBSKHSL.us,US - CBS KHSL Chico/Redding CA,https://iptv-epg.org/logos/USA/CBSKHSL.us.png
 MyNetworkKRVU.us,US - MyNetwork KRVU Chico CA,https://iptv-epg.org/logos/USA/MyNetworkKRVU.us.png
@@ -120,7 +120,7 @@ NBCKIEM.us,US - NBC KIEM Eureka CA,https://iptv-epg.org/logos/USA/NBCKIEM.us.png
 PBSKEET.us,US - PBS KEET Eureka CA,https://iptv-epg.org/logos/USA/PBSKEET.us.png
 CBSKVIQ.us,US - CBS KVIQ Eureka CA,https://iptv-epg.org/logos/USA/CBSKVIQ.us.png
 ABCKAEF.us,US - ABC KAEF Eureka CA,https://iptv-epg.org/logos/USA/ABCKAEF.us.png
-FOXKAEFDT2.us,US - FOX KAEF-DT2 Eureka CA,
+FOXKAEFDT2.us,US - FOX KAEF-DT2 Eureka CA,https://iptv-epg.org/logos/USA/FOXKAEFDT2.us.png
 CWKECA.us,US - CW KECA Eureka CA,https://iptv-epg.org/logos/USA/CWKECA.us.png
 PBSKVPT.us,US - PBS KVPT Fresno CA,https://iptv-epg.org/logos/USA/PBSKVPT.us.png
 UnivisionKFTV.us,US - Univision KFTV Fresno Hanford CA,https://iptv-epg.org/logos/USA/UnivisionKFTV.us.png
@@ -2288,6 +2288,8 @@ CineLatino.us,US - Cine Latino,https://iptv-epg.org/logos/USA/CineLatino.us.png
 HolaTV.us,US - ¡Hola! TV,https://iptv-epg.org/logos/USA/HolaTV.us.png
 HistoryenEspanol.us,US - History en Español,https://iptv-epg.org/logos/USA/HistoryenEspanol.us.png
 EstrellaTV.us,US - Estrella TV,https://iptv-epg.org/logos/USA/EstrellaTV.us.png
+VietfaceTV.us,US - Vietface TV,
+Schannel.us,US - S-channel,
 FuelTV.us,US - Fuel TV,https://iptv-epg.org/logos/USA/FuelTV.us.png
 INFAST.us,US - INFAST,https://iptv-epg.org/logos/USA/INFAST.us.png
 Dazn1Linear.us,US - Dazn 1 Linear,https://iptv-epg.org/logos/USA/Dazn1Linear.us.png
