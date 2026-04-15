@@ -268,4 +268,9 @@ FR · beIN SPORTS 3,FR · beIN SPORTS 3,https://raw.githubusercontent.com/davidm
 61922be835f3910007fc58f6,En el punto de mira,https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png
 622f42b831233300078658cc,Ciudadanos por el mundo,https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png
 NBAtv.us,NBA TV,https://iptv-epg.org/logos/USA/NBAtv.us.png
-Tennis Channel,Tennis Channel,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png
+FoxSports1.us,FOX SPORTS 1 US,https://iptv-epg.org/logos/USA/FoxSports1.us.png
+FoxSports2.us,FOX SPORTS 2 US,https://iptv-epg.org/logos/USA/FoxSports2.us.png
+ESPN.us,US - ESPN US,https://iptv-epg.org/logos/USA/ESPN.us.png
+ESPNU.us,US - ESPN U US,https://iptv-epg.org/logos/USA/ESPNU.us.png
+ESPN2.us,US - ESPN 2 US,https://iptv-epg.org/logos/USA/ESPN2.us.png
+TennisChannel.us,TENNIS CHANNEL US,https://iptv-epg.org/logos/USA/TennisChannel.us.png
