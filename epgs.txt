@@ -13,6 +13,3 @@ https://iptv-epg.org/files/epg-py.xml
 https://iptv-epg.org/files/epg-pe.xml
 https://iptv-epg.org/files/epg-uy.xml
 https://iptv-epg.org/files/epg-ve.xml
-https://iptv-epg.org/files/epg-br.xml
-https://iptv-epg.org/files/epg-us.xml
-https://iptv-epg.org/files/epg-gb.xml
