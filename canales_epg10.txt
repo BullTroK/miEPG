@@ -1,0 +1,96 @@
+# Fuente: https://iptv-epg.org/files/epg-gt.xml
+3ABN.gt,GT - 3ABN,https://iptv-epg.org/logos/Guatemala/3ABN.gt.png
+A&amp;E.gt,GT - A&amp;E,https://iptv-epg.org/logos/Guatemala/A%26E.gt.png
+AMC.gt,GT - AMC,https://iptv-epg.org/logos/Guatemala/AMC.gt.png
+AnimalPlanet.gt,GT - Animal Planet,https://iptv-epg.org/logos/Guatemala/AnimalPlanet.gt.png
+AXN.gt,GT - AXN,https://iptv-epg.org/logos/Guatemala/AXN.gt.png
+AzCorazon.gt,GT - Az Corazón,https://iptv-epg.org/logos/Guatemala/AzCorazon.gt.png
+AzMundo.gt,GT - Az Mundo,https://iptv-epg.org/logos/Guatemala/AzMundo.gt.png
+Azteca13.gt,GT - Azteca 13,https://iptv-epg.org/logos/Guatemala/Azteca13.gt.png
+AztecaGuatemala.gt,GT - Azteca Guatemala,https://iptv-epg.org/logos/Guatemala/AztecaGuatemala.gt.png
+Cablenoticias.gt,GT - Cablenoticias,https://iptv-epg.org/logos/Guatemala/Cablenoticias.gt.png
+Canal3.gt,GT - Canal 3,https://iptv-epg.org/logos/Guatemala/Canal3.gt.png
+Canal7-Televisiete.gt,GT - Canal 7 - Televisiete,https://iptv-epg.org/logos/Guatemala/Canal7-Televisiete.gt.png
+Canal11-Teleonce.gt,GT - Canal 11 - Teleonce,https://iptv-epg.org/logos/Guatemala/Canal11-Teleonce.gt.png
+Canal13-Trecevision.gt,GT - Canal 13 - Trecevisión,https://iptv-epg.org/logos/Guatemala/Canal13-Trecevision.gt.png
+Canal27.gt,GT - Canal27,https://iptv-epg.org/logos/Guatemala/Canal27.gt.png
+CanalAntigua.gt,GT - Canal Antigua,https://iptv-epg.org/logos/Guatemala/CanalAntigua.gt.png
+CanalAntiguaDeportes.gt,GT - Canal Antigua Deportes,https://iptv-epg.org/logos/Guatemala/CanalAntiguaDeportes.gt.png
+CanalNU.gt,GT - Canal NU,https://iptv-epg.org/logos/Guatemala/CanalNU.gt.png
+CaracolInternacional.gt,GT - Caracol Internacional,https://iptv-epg.org/logos/Guatemala/CaracolInternacional.gt.png
+CartoonNetwork.gt,GT - Cartoon Network,https://iptv-epg.org/logos/Guatemala/CartoonNetwork.gt.png
+Cinecanal.gt,GT - Cinecanal,https://iptv-epg.org/logos/Guatemala/Cinecanal.gt.png
+Cinema+.gt,GT - Cinema+,https://iptv-epg.org/logos/Guatemala/Cinema%2B.gt.png
+Cinemax.gt,GT - Cinemax,https://iptv-epg.org/logos/Guatemala/Cinemax.gt.png
+CineMexicano.gt,GT - Cine Mexicano,https://iptv-epg.org/logos/Guatemala/CineMexicano.gt.png
+Citytv.gt,GT - Citytv,https://iptv-epg.org/logos/Guatemala/Citytv.gt.png
+CNNenEspanol.gt,GT - CNN en Español,https://iptv-epg.org/logos/Guatemala/CNNenEspanol.gt.png
+DHE.gt,GT - DHE,https://iptv-epg.org/logos/Guatemala/DHE.gt.png
+DiscoveryChannel.gt,GT - Discovery Channel,https://iptv-epg.org/logos/Guatemala/DiscoveryChannel.gt.png
+DiscoveryHome&amp;Health.gt,GT - Discovery Home &amp; Health,https://iptv-epg.org/logos/Guatemala/DiscoveryHome%26Health.gt.png
+DiscoveryKids.gt,GT - Discovery Kids,https://iptv-epg.org/logos/Guatemala/DiscoveryKids.gt.png
+DiscoveryWorld.gt,GT - Discovery World,https://iptv-epg.org/logos/Guatemala/DiscoveryWorld.gt.png
+DisneyChannel.gt,GT - Disney Channel,https://iptv-epg.org/logos/Guatemala/DisneyChannel.gt.png
+DisneyJunior.gt,GT - Disney Junior,https://iptv-epg.org/logos/Guatemala/DisneyJunior.gt.png
+DistritoComedia.gt,GT - Distrito Comedia,https://iptv-epg.org/logos/Guatemala/DistritoComedia.gt.png
+E!.gt,GT - E!,https://iptv-epg.org/logos/Guatemala/E%21.gt.png
+EnlaceJuvenil.gt,GT - Enlace Juvenil,https://iptv-epg.org/logos/Guatemala/EnlaceJuvenil.gt.png
+ESPN.gt,GT - ESPN,https://iptv-epg.org/logos/Guatemala/ESPN.gt.png
+ESPN+.gt,GT - ESPN+,https://iptv-epg.org/logos/Guatemala/ESPN%2B.gt.png
+ESPN3.gt,GT - ESPN 3,https://iptv-epg.org/logos/Guatemala/ESPN3.gt.png
+ESPNExtra.gt,GT - ESPN Extra,https://iptv-epg.org/logos/Guatemala/ESPNExtra.gt.png
+FOXSports2.gt,GT - FOX Sports 2,https://iptv-epg.org/logos/Guatemala/FOXSports2.gt.png
+FXMovies.gt,GT - FX Movies,https://iptv-epg.org/logos/Guatemala/FXMovies.gt.png
+Globo.gt,GT - Globo,https://iptv-epg.org/logos/Guatemala/Globo.gt.png
+Guatevision.gt,GT - Guatevisión,https://iptv-epg.org/logos/Guatemala/Guatevision.gt.png
+HBO2.gt,GT - HBO 2,https://iptv-epg.org/logos/Guatemala/HBO2.gt.png
+HBOFamily.gt,GT - HBO Family,https://iptv-epg.org/logos/Guatemala/HBOFamily.gt.png
+HBOMundi.gt,GT - HBO Mundi,https://iptv-epg.org/logos/Guatemala/HBOMundi.gt.png
+HBOOeste.gt,GT - HBO Oeste,https://iptv-epg.org/logos/Guatemala/HBOOeste.gt.png
+HBOPlusMexico.gt,GT - HBO Plus México,https://iptv-epg.org/logos/Guatemala/HBOPlusMexico.gt.png
+HBOPlusPanregional.gt,GT - HBO Plus Panregional,https://iptv-epg.org/logos/Guatemala/HBOPlusPanregional.gt.png
+HBOSignature.gt,GT - HBO Signature,https://iptv-epg.org/logos/Guatemala/HBOSignature.gt.png
+HBOXtreme.gt,GT - HBO Xtreme,https://iptv-epg.org/logos/Guatemala/HBOXtreme.gt.png
+History.gt,GT - History,https://iptv-epg.org/logos/Guatemala/History.gt.png
+History2.gt,GT - History 2,https://iptv-epg.org/logos/Guatemala/History2.gt.png
+LasEstrellas.gt,GT - Las Estrellas,https://iptv-epg.org/logos/Guatemala/LasEstrellas.gt.png
+Lifetime.gt,GT - Lifetime,https://iptv-epg.org/logos/Guatemala/Lifetime.gt.png
+MaxPrimeMexico.gt,GT - Max Prime México,https://iptv-epg.org/logos/Guatemala/MaxPrimeMexico.gt.png
+MTV.gt,GT - MTV,https://iptv-epg.org/logos/Guatemala/MTV.gt.png
+Multipremier.gt,GT - Multipremier,https://iptv-epg.org/logos/Guatemala/Multipremier.gt.png
+NationalGeographic.gt,GT - National Geographic,https://iptv-epg.org/logos/Guatemala/NationalGeographic.gt.png
+NBC.gt,GT - NBC,https://iptv-epg.org/logos/Guatemala/NBC.gt.png
+NickJr.gt,GT - Nick Jr.,https://iptv-epg.org/logos/Guatemala/NickJr.gt.png
+NTV.gt,GT - NTV,https://iptv-epg.org/logos/Guatemala/NTV.gt.png
+Pasiones.gt,GT - Pasiones,https://iptv-epg.org/logos/Guatemala/Pasiones.gt.png
+Platino.gt,GT - Platino,https://iptv-epg.org/logos/Guatemala/Platino.gt.png
+RaiItalia.gt,GT - Rai Italia,https://iptv-epg.org/logos/Guatemala/RaiItalia.gt.png
+Region+.gt,GT - Region +,https://iptv-epg.org/logos/Guatemala/Region%2B.gt.png
+RMS.gt,GT - RMS,https://iptv-epg.org/logos/Guatemala/RMS.gt.png
+RussiaToday.gt,GT - Russia Today,https://iptv-epg.org/logos/Guatemala/RussiaToday.gt.png
+Sony.gt,GT - Sony,https://iptv-epg.org/logos/Guatemala/Sony.gt.png
+Space.gt,GT - Space,https://iptv-epg.org/logos/Guatemala/Space.gt.png
+StarChannel.gt,GT - Star Channel,https://iptv-epg.org/logos/Guatemala/StarChannel.gt.png
+StarLife.gt,GT - Star Life,https://iptv-epg.org/logos/Guatemala/StarLife.gt.png
+Syfy.gt,GT - Syfy,https://iptv-epg.org/logos/Guatemala/Syfy.gt.png
+TBS.gt,GT - TBS,https://iptv-epg.org/logos/Guatemala/TBS.gt.png
+TCM.gt,GT - TCM,https://iptv-epg.org/logos/Guatemala/TCM.gt.png
+TDN.gt,GT - TDN,https://iptv-epg.org/logos/Guatemala/TDN.gt.png
+Telehit.gt,GT - Telehit,https://iptv-epg.org/logos/Guatemala/Telehit.gt.png
+Telemedellin.gt,GT - Telemedellín,https://iptv-epg.org/logos/Guatemala/Telemedellin.gt.png
+Telemicro.gt,GT - Telemicro,https://iptv-epg.org/logos/Guatemala/Telemicro.gt.png
+Telemundo.gt,GT - Telemundo,https://iptv-epg.org/logos/Guatemala/Telemundo.gt.png
+Telenostalgia.gt,GT - Telenostalgia,https://iptv-epg.org/logos/Guatemala/Telenostalgia.gt.png
+Televen.gt,GT - Televen,https://iptv-epg.org/logos/Guatemala/Televen.gt.png
+TLC.gt,GT - TLC,https://iptv-epg.org/logos/Guatemala/TLC.gt.png
+TNT.gt,GT - TNT,https://iptv-epg.org/logos/Guatemala/TNT.gt.png
+TNTSeries.gt,GT - TNT Series,https://iptv-epg.org/logos/Guatemala/TNTSeries.gt.png
+Tooncast.gt,GT - Tooncast,https://iptv-epg.org/logos/Guatemala/Tooncast.gt.png
+TvAgro.gt,GT - Tv Agro,https://iptv-epg.org/logos/Guatemala/TvAgro.gt.png
+TyCSports.gt,GT - TyC Sports,https://iptv-epg.org/logos/Guatemala/TyCSports.gt.png
+VH1ClassicUSA.gt,GT - VH1 Classic USA,https://iptv-epg.org/logos/Guatemala/VH1ClassicUSA.gt.png
+VoaTV.gt,GT - Voa TV,https://iptv-epg.org/logos/Guatemala/VoaTV.gt.png
+WarnerChannel.gt,GT - Warner Channel,https://iptv-epg.org/logos/Guatemala/WarnerChannel.gt.png
+X-Time.gt,GT - X-Time,https://iptv-epg.org/logos/Guatemala/X-Time.gt.png
+Cartoonito.gt,GT - Cartoonito Latin America,https://iptv-epg.org/logos/Guatemala/Cartoonito.gt.png
+TUDNMexico.gt,GT - Tu Deportes Network (TUDN) México,https://iptv-epg.org/logos/Guatemala/TUDNMexico.gt.png

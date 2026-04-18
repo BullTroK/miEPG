@@ -1,944 +1,106 @@
-# Fuente: https://iptv-epg.org/files/epg-gb.xml
-BBCOne.uk,UK - BBC One,https://iptv-epg.org/logos/UK/BBCOne.uk.png
-BBCTwo.uk,UK - BBC Two,https://iptv-epg.org/logos/UK/BBCTwo.uk.png
-ITV1London.uk,UK - ITV1 London,https://iptv-epg.org/logos/UK/ITV1London.uk.png
-ITV1London+1.uk,UK - ITV1London +1,https://iptv-epg.org/logos/UK/ITV1London%2B1.uk.png
-Channel4.uk,UK - Channel 4,https://iptv-epg.org/logos/UK/Channel4.uk.png
-Channel4+1.uk,UK - Channel 4 +1,https://iptv-epg.org/logos/UK/Channel4%2B1.uk.png
-Channel5.uk,UK - Channel 5,https://iptv-epg.org/logos/UK/Channel5.uk.png
-Channel5+1.uk,UK - Channel 5 +1,https://iptv-epg.org/logos/UK/Channel5%2B1.uk.png
-SkyShowcase.uk,UK - Sky Showcase,https://iptv-epg.org/logos/UK/SkyShowcase.uk.png
-SkyShowcase+1.uk,UK - Sky Showcase +1,https://iptv-epg.org/logos/UK/SkyShowcase%2B1.uk.png
-SkyWitness.uk,UK - Sky Witness,https://iptv-epg.org/logos/UK/SkyWitness.uk.png
-SkyWitness+1.uk,UK - Sky Witness +1,https://iptv-epg.org/logos/UK/SkyWitness%2B1.uk.png
-SkyAtlantic.uk,UK - Sky Atlantic,https://iptv-epg.org/logos/UK/SkyAtlantic.uk.png
-SkyAtlantic+1.uk,UK - Sky Atlantic +1,https://iptv-epg.org/logos/UK/SkyAtlantic%2B1.uk.png
-UAndGold.uk,UK - U&amp;Gold,https://iptv-epg.org/logos/UK/UAndGold.uk.png
-UAndGold+1.uk,UK - U&amp;Gold +1,https://iptv-epg.org/logos/UK/UAndGold%2B1.uk.png
-UAndAlibi.uk,UK - U&amp;Alibi,https://iptv-epg.org/logos/UK/UAndAlibi.uk.png
-UAndAlibi+1.uk,UK - U&amp;Alibi +1,https://iptv-epg.org/logos/UK/UAndAlibi%2B1.uk.png
-UandDave.uk,UK - U&amp;Dave,https://iptv-epg.org/logos/UK/UandDave.uk.png
-UandDavejavu.uk,UK - U&amp;Dave ja vu,https://iptv-epg.org/logos/UK/UandDavejavu.uk.png
-ComedyCentral.uk,UK - Comedy Central,https://iptv-epg.org/logos/UK/ComedyCentral.uk.png
-ComedyCentral+1.uk,UK - Comedy Central +1,https://iptv-epg.org/logos/UK/ComedyCentral%2B1.uk.png
-SkyOne.uk,UK - Sky One,https://iptv-epg.org/logos/UK/SkyOne.uk.png
-SkyComedy.uk,UK - Sky Comedy,https://iptv-epg.org/logos/UK/SkyComedy.uk.png
-BBCThree.uk,UK - BBCThree,https://iptv-epg.org/logos/UK/BBCThree.uk.png
-BBCFour.uk,UK - BBCFour,https://iptv-epg.org/logos/UK/BBCFour.uk.png
-LondonLive.uk,UK - London Live,https://iptv-epg.org/logos/UK/LondonLive.uk.png
-ITV2.uk,UK - ITV2,https://iptv-epg.org/logos/UK/ITV2.uk.png
-ITV2+1.uk,UK - ITV2 +1,https://iptv-epg.org/logos/UK/ITV2%2B1.uk.png
-ITV3.uk,UK - ITV3,https://iptv-epg.org/logos/UK/ITV3.uk.png
-ITV3+1.uk,UK - ITV3 +1,https://iptv-epg.org/logos/UK/ITV3%2B1.uk.png
-ITV4.uk,UK - ITV4,https://iptv-epg.org/logos/UK/ITV4.uk.png
-ITV4+1.uk,UK - ITV4 +1,https://iptv-epg.org/logos/UK/ITV4%2B1.uk.png
-SkyDocumentaries.uk,UK - Sky Documentaries,https://iptv-epg.org/logos/UK/SkyDocumentaries.uk.png
-SkyCrime.uk,UK - Sky Crime,https://iptv-epg.org/logos/UK/SkyCrime.uk.png
-SkyCrime+1.uk,UK - Sky Crime +1,https://iptv-epg.org/logos/UK/SkyCrime%2B1.uk.png
-SkyHistory.uk,UK - SkyHistory,https://iptv-epg.org/logos/UK/SkyHistory.uk.png
-SkyHistory+1.uk,UK - Sky History +1,https://iptv-epg.org/logos/UK/SkyHistory%2B1.uk.png
-DiscoveryChannel.uk,UK - Discovery Channel,https://iptv-epg.org/logos/UK/DiscoveryChannel.uk.png
-DiscoveryChannel+1.uk,UK - Discovery Channel +1,https://iptv-epg.org/logos/UK/DiscoveryChannel%2B1.uk.png
-SkyNature.uk,UK - Sky Nature,https://iptv-epg.org/logos/UK/SkyNature.uk.png
-MTV.uk,UK - MTV,https://iptv-epg.org/logos/UK/MTV.uk.png
-ComedyCentralExtra.uk,UK - Comedy Central Extra,https://iptv-epg.org/logos/UK/ComedyCentralExtra.uk.png
-5STAR.uk,UK - 5STAR,https://iptv-epg.org/logos/UK/5STAR.uk.png
-5STAR+1.uk,UK - 5STAR +1,https://iptv-epg.org/logos/UK/5STAR%2B1.uk.png
-NationalGeographicChannel.uk,UK - National Geographic Channel,https://iptv-epg.org/logos/UK/NationalGeographicChannel.uk.png
-NationalGeographicChannel+1.uk,UK - National Geographic Channel +1,https://iptv-epg.org/logos/UK/NationalGeographicChannel%2B1.uk.png
-SkyArts.uk,UK - Sky Arts,https://iptv-epg.org/logos/UK/SkyArts.uk.png
-ITVQuiz.uk,UK - ITV Quiz,https://iptv-epg.org/logos/UK/ITVQuiz.uk.png
-ITVQuiz+1.uk,UK - ITV Quiz +1,
-UandW.uk,UK - U&amp;W,https://iptv-epg.org/logos/UK/UandW.uk.png
-UandW+1.uk,UK - U&amp;W +1,https://iptv-epg.org/logos/UK/UandW%2B1.uk.png
-TLC.uk,UK - TLC,https://iptv-epg.org/logos/UK/TLC.uk.png
-TLC+1.uk,UK - TLC +1,https://iptv-epg.org/logos/UK/TLC%2B1.uk.png
-S4C.uk,UK - S4C,https://iptv-epg.org/logos/UK/S4C.uk.png
-E4.uk,UK - E4,https://iptv-epg.org/logos/UK/E4.uk.png
-E4+1.uk,UK - E4 +1,https://iptv-epg.org/logos/UK/E4%2B1.uk.png
-More4.uk,UK - More 4,https://iptv-epg.org/logos/UK/More4.uk.png
-More4+1.uk,UK - More4 +1,https://iptv-epg.org/logos/UK/More4%2B1.uk.png
-4seven.uk,UK - 4seven,https://iptv-epg.org/logos/UK/4seven.uk.png
-E4Extra.uk,UK - E4 Extra,https://iptv-epg.org/logos/UK/E4Extra.uk.png
-SkySci-Fi.uk,UK - Sky Sci-Fi,https://iptv-epg.org/logos/UK/SkySci-Fi.uk.png
-FoodNetwork.uk,UK - Food Network,https://iptv-epg.org/logos/UK/FoodNetwork.uk.png
-FoodNetwork+1.uk,UK - Food Network +1,https://iptv-epg.org/logos/UK/FoodNetwork%2B1.uk.png
-5USA.uk,UK - 5 USA,https://iptv-epg.org/logos/UK/5USA.uk.png
-5USA+1.uk,UK - 5USA +1,https://iptv-epg.org/logos/UK/5USA%2B1.uk.png
-Really.uk,UK - Really,https://iptv-epg.org/logos/UK/Really.uk.png
-Really+1.uk,UK - Really +1,https://iptv-epg.org/logos/UK/Really%2B1.uk.png
-UandDrama.uk,UK - U&amp;Drama,https://iptv-epg.org/logos/UK/UandDrama.uk.png
-UandDrama+1.uk,UK - U&amp;Drama +1,https://iptv-epg.org/logos/UK/UandDrama%2B1.uk.png
-Quest.uk,UK - Quest,https://iptv-epg.org/logos/UK/Quest.uk.png
-Quest+1.uk,UK - Quest +1,https://iptv-epg.org/logos/UK/Quest%2B1.uk.png
-Challenge.uk,UK - Challenge,https://iptv-epg.org/logos/UK/Challenge.uk.png
-TrueCrime.uk,UK - True Crime,https://iptv-epg.org/logos/UK/TrueCrime.uk.png
-TrueCrime+1.uk,UK - True Crime +1,https://iptv-epg.org/logos/UK/TrueCrime%2B1.uk.png
-TrueCrimeXtra.uk,UK - True Crime Xtra,https://iptv-epg.org/logos/UK/TrueCrimeXtra.uk.png
-Legend.uk,UK - Legend,https://iptv-epg.org/logos/UK/Legend.uk.png
-QuestRed.uk,UK - Quest Red,https://iptv-epg.org/logos/UK/QuestRed.uk.png
-QuestRed+1.uk,UK - Quest Red +1,https://iptv-epg.org/logos/UK/QuestRed%2B1.uk.png
-5Action.uk,UK - 5Action,https://iptv-epg.org/logos/UK/5Action.uk.png
-SkyMix.uk,UK - Sky Mix,https://iptv-epg.org/logos/UK/SkyMix.uk.png
-SkyReplay.uk,UK - Sky Replay,https://iptv-epg.org/logos/UK/SkyReplay.uk.png
-5SELECT.uk,UK - 5SELECT,https://iptv-epg.org/logos/UK/5SELECT.uk.png
-InvestigationDiscovery.uk,UK - Investigation Discovery,https://iptv-epg.org/logos/UK/InvestigationDiscovery.uk.png
-InvestigationDiscovery+1.uk,UK - Investigation Discovery +1,https://iptv-epg.org/logos/UK/InvestigationDiscovery%2B1.uk.png
-UandYesterday.uk,UK - U&amp;Yesterday,https://iptv-epg.org/logos/UK/UandYesterday.uk.png
-UandYesterday+1.uk,UK - U&amp;Yesterday +1,https://iptv-epg.org/logos/UK/UandYesterday%2B1.uk.png
-Crime+Investigation.uk,UK - Crime+Investigation,https://iptv-epg.org/logos/UK/Crime%2BInvestigation.uk.png
-Crime+Investigation+1.uk,UK - Crime + Investigation +1,https://iptv-epg.org/logos/UK/Crime%2BInvestigation%2B1.uk.png
-GREAT!tv.uk,UK - GREAT! tv,https://iptv-epg.org/logos/UK/GREAT%21tv.uk.png
-GREAT!tv+1.uk,UK - GREAT! tv +1,https://iptv-epg.org/logos/UK/GREAT%21tv%2B1.uk.png
-HGTV.uk,UK - HGTV,https://iptv-epg.org/logos/UK/HGTV.uk.png
-HGTV+1.uk,UK - HGTV +1,https://iptv-epg.org/logos/UK/HGTV%2B1.uk.png
-DMAX.uk,UK - DMAX,https://iptv-epg.org/logos/UK/DMAX.uk.png
-DMAX+1.uk,UK - DMAX +1,https://iptv-epg.org/logos/UK/DMAX%2B1.uk.png
-DiscoveryTurbo.uk,UK - Discovery Turbo,https://iptv-epg.org/logos/UK/DiscoveryTurbo.uk.png
-DiscoveryTurbo+1.uk,UK - Discovery Turbo +1,https://iptv-epg.org/logos/UK/DiscoveryTurbo%2B1.uk.png
-AnimalPlanet.uk,UK - Animal Planet,https://iptv-epg.org/logos/UK/AnimalPlanet.uk.png
-AnimalPlanet+1.uk,UK - Animal Planet +1,https://iptv-epg.org/logos/UK/AnimalPlanet%2B1.uk.png
-SkyHistory2.uk,UK - Sky History 2,https://iptv-epg.org/logos/UK/SkyHistory2.uk.png
-Blaze.uk,UK - Blaze,https://iptv-epg.org/logos/UK/Blaze.uk.png
-NationalGeographicWild.uk,UK - National Geographic Wild,https://iptv-epg.org/logos/UK/NationalGeographicWild.uk.png
-UandEden.uk,UK - U&amp;Eden,https://iptv-epg.org/logos/UK/UandEden.uk.png
-UandEden+1.uk,UK - U&amp;Eden +1,https://iptv-epg.org/logos/UK/UandEden%2B1.uk.png
-DiscoveryScience.uk,UK - Discovery Science,https://iptv-epg.org/logos/UK/DiscoveryScience.uk.png
-DiscoveryScience+1.uk,UK - Discovery Science +1,https://iptv-epg.org/logos/UK/DiscoveryScience%2B1.uk.png
-BBCAlba.uk,UK - BBC Alba,https://iptv-epg.org/logos/UK/BBCAlba.uk.png
-TogetherTV.uk,UK - Together TV,https://iptv-epg.org/logos/UK/TogetherTV.uk.png
-TogetherTV+1.uk,UK - Together TV +1,https://iptv-epg.org/logos/UK/TogetherTV%2B1.uk.png
-ThatsTV.uk,UK - That`s TV,https://iptv-epg.org/logos/UK/ThatsTV.uk.png
-PBSAmerica.uk,UK - PBS America,https://iptv-epg.org/logos/UK/PBSAmerica.uk.png
-PBSAmerica+1.uk,UK - PBS America +1,
-DiscoveryHistory.uk,UK - Discovery History,https://iptv-epg.org/logos/UK/DiscoveryHistory.uk.png
-DiscoveryHistory+1.uk,UK - Discovery History +1,https://iptv-epg.org/logos/UK/DiscoveryHistory%2B1.uk.png
-CourtTV.uk,UK - Court TV,https://iptv-epg.org/logos/UK/CourtTV.uk.png
-Channel7.uk,UK - Channel 7,https://iptv-epg.org/logos/UK/Channel7.uk.png
-Travelxp.uk,UK - Travelxp,https://iptv-epg.org/logos/UK/Travelxp.uk.png
-NTD.uk,UK - NTD,https://iptv-epg.org/logos/UK/NTD.uk.png
-AyozatTV.uk,UK - Ayozat TV,https://iptv-epg.org/logos/UK/AyozatTV.uk.png
-BBCScotland.uk,UK - BBC Scotland,https://iptv-epg.org/logos/UK/BBCScotland.uk.png
-ThatsTV2.uk,UK - That`s TV2,https://iptv-epg.org/logos/UK/ThatsTV2.uk.png
-RewindTV.uk,UK - Rewind TV,https://iptv-epg.org/logos/UK/RewindTV.uk.png
-UAndThePast.uk,UK - U&amp;The Past,https://iptv-epg.org/logos/UK/UAndThePast.uk.png
-UAndRealHeroes.uk,UK - U&amp;Real Heroes,https://iptv-epg.org/logos/UK/UAndRealHeroes.uk.png
-UAndTransport.uk,UK - U&amp;Transport,https://iptv-epg.org/logos/UK/UAndTransport.uk.png
-UAndLaughs.uk,UK - U&amp;Laughs,https://iptv-epg.org/logos/UK/UAndLaughs.uk.png
-SkyCinemaPremiere.uk,UK - Sky Cinema Premiere,https://iptv-epg.org/logos/UK/SkyCinemaPremiere.uk.png
-SkyCinemaPremiere+1.uk,UK - Sky Cinema Premiere +1,https://iptv-epg.org/logos/UK/SkyCinemaPremiere%2B1.uk.png
-SkyCinemaSelect.uk,UK - Sky Cinema Select,https://iptv-epg.org/logos/UK/SkyCinemaSelect.uk.png
-SkyCinemaHits.uk,UK - Sky Cinema Hits,https://iptv-epg.org/logos/UK/SkyCinemaHits.uk.png
-SkyCinemaGreats.uk,UK - Sky Cinema Greats,https://iptv-epg.org/logos/UK/SkyCinemaGreats.uk.png
-SkyCinemaFamily.uk,UK - Sky Cinema Family,https://iptv-epg.org/logos/UK/SkyCinemaFamily.uk.png
-SkyCinemaAction.uk,UK - Sky Cinema Action,https://iptv-epg.org/logos/UK/SkyCinemaAction.uk.png
-SkyCinemaComedy.uk,UK - Sky Cinema Comedy,https://iptv-epg.org/logos/UK/SkyCinemaComedy.uk.png
-SkyCinemaThriller.uk,UK - Sky Cinema Thriller,https://iptv-epg.org/logos/UK/SkyCinemaThriller.uk.png
-SkyCinemaDrama.uk,UK - Sky Cinema Drama,https://iptv-epg.org/logos/UK/SkyCinemaDrama.uk.png
-SkyCinemaSci-fiAndHorror.uk,UK - Sky Cinema Sci-fi/Horror,https://iptv-epg.org/logos/UK/SkyCinemaSci-fiAndHorror.uk.png
-SkyCinemaAnimation.uk,UK - Sky Cinema Animation,https://iptv-epg.org/logos/UK/SkyCinemaAnimation.uk.png
-Movies24+.uk,UK - Movies 24+,https://iptv-epg.org/logos/UK/Movies24%2B.uk.png
-Movies24.uk,UK - Movies 24,https://iptv-epg.org/logos/UK/Movies24.uk.png
-Film4.uk,UK - Film4,https://iptv-epg.org/logos/UK/Film4.uk.png
-Film4+1.uk,UK - Film4 +1,https://iptv-epg.org/logos/UK/Film4%2B1.uk.png
-LegendXtra.uk,UK - Legend Xtra,https://iptv-epg.org/logos/UK/LegendXtra.uk.png
-LegendXtra+1.uk,UK - Legend Xtra +1,https://iptv-epg.org/logos/UK/LegendXtra%2B1.uk.png
-GREAT!romance.uk,UK - GREAT! romance,https://iptv-epg.org/logos/UK/GREAT%21romance.uk.png
-GREAT!romance+1.uk,UK - GREAT! romance +1,https://iptv-epg.org/logos/UK/GREAT%21romance%2B1.uk.png
-GREAT!mystery.uk,UK - GREAT! mystery,https://iptv-epg.org/logos/UK/GREAT%21mystery.uk.png
-GREAT!mystery+1.uk,UK - GREAT! mystery +1,https://iptv-epg.org/logos/UK/GREAT%21mystery%2B1.uk.png
-GREAT!action.uk,UK - GREAT! action,https://iptv-epg.org/logos/UK/GREAT%21action.uk.png
-GREAT!action+1.uk,UK - GREAT! action +1,https://iptv-epg.org/logos/UK/GREAT%21action%2B1.uk.png
-TalkingPicturesTV.uk,UK - Talking Pictures TV,https://iptv-epg.org/logos/UK/TalkingPicturesTV.uk.png
-MTVMusic.uk,UK - MTV Music,https://iptv-epg.org/logos/UK/MTVMusic.uk.png
-ClubMTV.uk,UK - Club MTV,https://iptv-epg.org/logos/UK/ClubMTV.uk.png
-MTV90s.uk,UK - MTV 90s,https://iptv-epg.org/logos/UK/MTV90s.uk.png
-MTV80s.uk,UK - MTV 80s,https://iptv-epg.org/logos/UK/MTV80s.uk.png
-NOW70s.uk,UK - NOW 70s,https://iptv-epg.org/logos/UK/NOW70s.uk.png
-NOW80s.uk,UK - NOW 80s,https://iptv-epg.org/logos/UK/NOW80s.uk.png
-NOWRock.uk,UK - NOW Rock,https://iptv-epg.org/logos/UK/NOWRock.uk.png
-ClublandTV.uk,UK - Clubland TV,https://iptv-epg.org/logos/UK/ClublandTV.uk.png
-ThatsTV3.uk,UK - That's TV 3,https://iptv-epg.org/logos/UK/ThatsTV3.uk.png
-ThatsOldies.uk,UK - That's Oldies,https://iptv-epg.org/logos/UK/ThatsOldies.uk.png
-NOW90sAnd00s.uk,UK - NOW 90s &amp; 00s,https://iptv-epg.org/logos/UK/NOW90sAnd00s.uk.png
-Thats70s.uk,UK - That's 70s,https://iptv-epg.org/logos/UK/Thats70s.uk.png
-ThatsMelody.uk,UK - That's Melody,https://iptv-epg.org/logos/UK/ThatsMelody.uk.png
-ThatsRock.uk,UK - That's Rock,https://iptv-epg.org/logos/UK/ThatsRock.uk.png
-BBCNewsChannel.uk,UK - BBC News Channel,https://iptv-epg.org/logos/UK/BBCNewsChannel.uk.png
-SkyNews.uk,UK - Sky News,https://iptv-epg.org/logos/UK/SkyNews.uk.png
-GBNews.uk,UK - GB News,https://iptv-epg.org/logos/UK/GBNews.uk.png
-BBCParliament.uk,UK - BBC Parliament,https://iptv-epg.org/logos/UK/BBCParliament.uk.png
-Bloomberg.uk,UK - Bloomberg,https://iptv-epg.org/logos/UK/Bloomberg.uk.png
-CNBC.uk,UK - CNBC,https://iptv-epg.org/logos/UK/CNBC.uk.png
-Euronews.uk,UK - Euronews,https://iptv-epg.org/logos/UK/Euronews.uk.png
-NDTVWorld.uk,UK - NDTV World,https://iptv-epg.org/logos/UK/NDTVWorld.uk.png
-AlJazeeraEnglish.uk,UK - Al Jazeera English,https://iptv-epg.org/logos/UK/AlJazeeraEnglish.uk.png
-AlJazeeraArabic.uk,UK - Al Jazeera Arabic,https://iptv-epg.org/logos/UK/AlJazeeraArabic.uk.png
-France24.uk,UK - France 24,https://iptv-epg.org/logos/UK/France24.uk.png
-NHKWorld.uk,UK - NHK World,https://iptv-epg.org/logos/UK/NHKWorld.uk.png
-CNN.uk,UK - CNN,https://iptv-epg.org/logos/UK/CNN.uk.png
-TRTWorld.uk,UK - TRT World,https://iptv-epg.org/logos/UK/TRTWorld.uk.png
-Channels24.uk,UK - Channels 24,https://iptv-epg.org/logos/UK/Channels24.uk.png
-Arirang.uk,UK - Arirang,https://iptv-epg.org/logos/UK/Arirang.uk.png
-WION.uk,UK - WION,https://iptv-epg.org/logos/UK/WION.uk.png
-TVCNews.uk,UK - TVC News,https://iptv-epg.org/logos/UK/TVCNews.uk.png
-IndiaToday.uk,UK - India Today,https://iptv-epg.org/logos/UK/IndiaToday.uk.png
-AriseNews.uk,UK - Arise News,https://iptv-epg.org/logos/UK/AriseNews.uk.png
-GodChannel.uk,UK - God Channel,https://iptv-epg.org/logos/UK/GodChannel.uk.png
-revelation.uk,UK - revelation,https://iptv-epg.org/logos/UK/revelation.uk.png
-DAYSTAR.uk,UK - DAYSTAR,https://iptv-epg.org/logos/UK/DAYSTAR.uk.png
-LoveWorld.uk,UK - LoveWorld,https://iptv-epg.org/logos/UK/LoveWorld.uk.png
-EWTNCatholic.uk,UK - EWTN Catholic,https://iptv-epg.org/logos/UK/EWTNCatholic.uk.png
-WordNetwork.uk,UK - Word Network,https://iptv-epg.org/logos/UK/WordNetwork.uk.png
-FaithWorldTV.uk,UK - Faith World TV,https://iptv-epg.org/logos/UK/FaithWorldTV.uk.png
-KICCTV.uk,UK - KICC TV,https://iptv-epg.org/logos/UK/KICCTV.uk.png
-FaithUK.uk,UK - Faith UK,https://iptv-epg.org/logos/UK/FaithUK.uk.png
-DunamisTV.uk,UK - Dunamis TV,https://iptv-epg.org/logos/UK/DunamisTV.uk.png
-SonLife.uk,UK - SonLife,https://iptv-epg.org/logos/UK/SonLife.uk.png
-NewMedia.uk,UK - New Media,https://iptv-epg.org/logos/UK/NewMedia.uk.png
-CBBC.uk,UK - CBBC,https://iptv-epg.org/logos/UK/CBBC.uk.png
-CBeebies.uk,UK - CBeebies,https://iptv-epg.org/logos/UK/CBeebies.uk.png
-BabyTV.uk,UK - Baby TV,https://iptv-epg.org/logos/UK/BabyTV.uk.png
-CartoonNetwork.uk,UK - Cartoon Network,https://iptv-epg.org/logos/UK/CartoonNetwork.uk.png
-CartoonNetwork+1.uk,UK - Cartoon Network +1,https://iptv-epg.org/logos/UK/CartoonNetwork%2B1.uk.png
-Cartoonito.uk,UK - Cartoonito,https://iptv-epg.org/logos/UK/Cartoonito.uk.png
-SkyKids.uk,UK - Sky Kids,https://iptv-epg.org/logos/UK/SkyKids.uk.png
-Nickelodeon.uk,UK - Nickelodeon,https://iptv-epg.org/logos/UK/Nickelodeon.uk.png
-Nickelodeon+1.uk,UK - Nickelodeon +1,https://iptv-epg.org/logos/UK/Nickelodeon%2B1.uk.png
-NickJr.uk,UK - Nick Jr.,https://iptv-epg.org/logos/UK/NickJr.uk.png
-NickJr+1.uk,UK - Nick Jr. +1,https://iptv-epg.org/logos/UK/NickJr%2B1.uk.png
-NickJrToo.uk,UK - Nick Jr Too,https://iptv-epg.org/logos/UK/NickJrToo.uk.png
-Nicktoons.uk,UK - Nicktoons,https://iptv-epg.org/logos/UK/Nicktoons.uk.png
-Boomerang.uk,UK - Boomerang,https://iptv-epg.org/logos/UK/Boomerang.uk.png
-Boomerang+1.uk,UK - Boomerang +1,https://iptv-epg.org/logos/UK/Boomerang%2B1.uk.png
-Pop.uk,UK - Pop,https://iptv-epg.org/logos/UK/Pop.uk.png
-Pop+1.uk,UK - Pop +1,https://iptv-epg.org/logos/UK/Pop%2B1.uk.png
-PopMax.uk,UK - Pop Max,https://iptv-epg.org/logos/UK/PopMax.uk.png
-PopMax+1.uk,UK - Pop Max +1,https://iptv-epg.org/logos/UK/PopMax%2B1.uk.png
-TinyPop.uk,UK - Tiny Pop,https://iptv-epg.org/logos/UK/TinyPop.uk.png
-TinyPop+1.uk,UK - Tiny Pop +1,https://iptv-epg.org/logos/UK/TinyPop%2B1.uk.png
-DisneyJr.uk,UK - Disney Jr,https://iptv-epg.org/logos/UK/DisneyJr.uk.png
-DisneyPlusCinema.uk,UK - Disney+ Cinema,https://iptv-epg.org/logos/UK/DisneyPlusCinema.uk.png
-QVC.uk,UK - QVC,https://iptv-epg.org/logos/UK/QVC.uk.png
-QVCBeauty.uk,UK - QVC Beauty,https://iptv-epg.org/logos/UK/QVCBeauty.uk.png
-QVCStyle.uk,UK - QVC Style,https://iptv-epg.org/logos/UK/QVCStyle.uk.png
-QVCExtra.uk,UK - QVC Extra,https://iptv-epg.org/logos/UK/QVCExtra.uk.png
-IdealWorld.uk,UK - Ideal World,https://iptv-epg.org/logos/UK/IdealWorld.uk.png
-HobbyMaker.uk,UK - HobbyMaker,https://iptv-epg.org/logos/UK/HobbyMaker.uk.png
-GemsTV.uk,UK - Gems TV,https://iptv-epg.org/logos/UK/GemsTV.uk.png
-TJC.uk,UK - TJC,https://iptv-epg.org/logos/UK/TJC.uk.png
-CreateAndCraft.uk,UK - Create &amp; Craft,https://iptv-epg.org/logos/UK/CreateAndCraft.uk.png
-SeenOnTV.uk,UK - Seen On TV,https://iptv-epg.org/logos/UK/SeenOnTV.uk.png
-HighStreetTV1.uk,UK - High Street TV 1,https://iptv-epg.org/logos/UK/HighStreetTV1.uk.png
-HighStreetTV2.uk,UK - High Street TV 2,https://iptv-epg.org/logos/UK/HighStreetTV2.uk.png
-BestDirect.uk,UK - Best Direct,https://iptv-epg.org/logos/UK/BestDirect.uk.png
-HighStreetTV3.uk,UK - High Street TV 3,https://iptv-epg.org/logos/UK/HighStreetTV3.uk.png
-JewelleryMaker.uk,UK - JewelleryMaker,https://iptv-epg.org/logos/UK/JewelleryMaker.uk.png
-HighStreetTV4.uk,UK - High Street TV 4,https://iptv-epg.org/logos/UK/HighStreetTV4.uk.png
-TVWarehouse.uk,UK - TV Warehouse,https://iptv-epg.org/logos/UK/TVWarehouse.uk.png
-CraftExtra.uk,UK - Craft Extra,https://iptv-epg.org/logos/UK/CraftExtra.uk.png
-Cruise1st.tv.uk,TV - Cruise1st.tv,https://iptv-epg.org/logos/UK/Cruise1st.tv.uk.png
-B4UMovies.uk,UK - B4U Movies,https://iptv-epg.org/logos/UK/B4UMovies.uk.png
-B4UMusic.uk,UK - B4U Music,https://iptv-epg.org/logos/UK/B4UMusic.uk.png
-SONYTV.uk,UK - SONY TV,https://iptv-epg.org/logos/UK/SONYTV.uk.png
-UtsavBharat.uk,UK - Utsav Bharat,https://iptv-epg.org/logos/UK/UtsavBharat.uk.png
-UtsavPlus.uk,UK - Utsav Plus,https://iptv-epg.org/logos/UK/UtsavPlus.uk.png
-Colors.uk,UK - Colors,https://iptv-epg.org/logos/UK/Colors.uk.png
-ZeeTV.uk,UK - Zee TV,https://iptv-epg.org/logos/UK/ZeeTV.uk.png
-ZeeCinema.uk,UK - Zee Cinema,https://iptv-epg.org/logos/UK/ZeeCinema.uk.png
-AAJTAK.uk,UK - AAJ TAK,https://iptv-epg.org/logos/UK/AAJTAK.uk.png
-MATVNational.uk,UK - MATV National,https://iptv-epg.org/logos/UK/MATVNational.uk.png
-ColorsRishtey.uk,UK - Colors Rishtey,https://iptv-epg.org/logos/UK/ColorsRishtey.uk.png
-ColorsCineplex.uk,UK - Colors Cineplex,https://iptv-epg.org/logos/UK/ColorsCineplex.uk.png
-SONYMAX.uk,UK - SONY MAX,https://iptv-epg.org/logos/UK/SONYMAX.uk.png
-UtsavGold.uk,UK - Utsav Gold,https://iptv-epg.org/logos/UK/UtsavGold.uk.png
-SONYSAB.uk,UK - SONY SAB,https://iptv-epg.org/logos/UK/SONYSAB.uk.png
-SONYMAX2.uk,UK - SONY MAX2,https://iptv-epg.org/logos/UK/SONYMAX2.uk.png
-Aastha.uk,UK - Aastha,https://iptv-epg.org/logos/UK/Aastha.uk.png
-Sanskar.uk,UK - Sanskar,https://iptv-epg.org/logos/UK/Sanskar.uk.png
-MTA1World.uk,UK - MTA1 World,https://iptv-epg.org/logos/UK/MTA1World.uk.png
-HUMMasala.uk,UK - HUM Masala,https://iptv-epg.org/logos/UK/HUMMasala.uk.png
-GEONews.uk,UK - GEO News,https://iptv-epg.org/logos/UK/GEONews.uk.png
-PTVGlobal.uk,UK - PTV Global,https://iptv-epg.org/logos/UK/PTVGlobal.uk.png
-NewVisionTV.uk,UK - New Vision TV,https://iptv-epg.org/logos/UK/NewVisionTV.uk.png
-IslamChannel.uk,UK - Islam Channel,https://iptv-epg.org/logos/UK/IslamChannel.uk.png
-GEOTV.uk,UK - GEO TV,https://iptv-epg.org/logos/UK/GEOTV.uk.png
-NoorTV.uk,UK - Noor TV,https://iptv-epg.org/logos/UK/NoorTV.uk.png
-IQRATV.uk,UK - IQRA TV,https://iptv-epg.org/logos/UK/IQRATV.uk.png
-92News.uk,UK - 92 News,https://iptv-epg.org/logos/UK/92News.uk.png
-IslamTV.uk,UK - Islam TV,https://iptv-epg.org/logos/UK/IslamTV.uk.png
-AhlebaitTV.uk,UK - Ahlebait TV,https://iptv-epg.org/logos/UK/AhlebaitTV.uk.png
-MadaniChannel.uk,UK - Madani Channel,https://iptv-epg.org/logos/UK/MadaniChannel.uk.png
-TakbeerTV.uk,UK - Takbeer TV,https://iptv-epg.org/logos/UK/TakbeerTV.uk.png
-HumEurope.uk,UK - Hum Europe,https://iptv-epg.org/logos/UK/HumEurope.uk.png
-IslamChannelUrdu.uk,UK - Islam Channel Urdu,https://iptv-epg.org/logos/UK/IslamChannelUrdu.uk.png
-EmanChannel.uk,UK - Eman Channel,https://iptv-epg.org/logos/UK/EmanChannel.uk.png
-ARYDigital.uk,UK - ARY Digital,https://iptv-epg.org/logos/UK/ARYDigital.uk.png
-Samaa.uk,UK - Samaa,https://iptv-epg.org/logos/UK/Samaa.uk.png
-QTVReligious.uk,UK - QTV Religious,https://iptv-epg.org/logos/UK/QTVReligious.uk.png
-PTCPunjabiI.uk,UK - PTC PunjabiI,https://iptv-epg.org/logos/UK/PTCPunjabiI.uk.png
-GTCPunjabi.uk,UK - GTC Punjabi,https://iptv-epg.org/logos/UK/GTCPunjabi.uk.png
-BritAsiaTV.uk,UK - Brit Asia TV,https://iptv-epg.org/logos/UK/BritAsiaTV.uk.png
-SikhChannel.uk,UK - Sikh Channel,https://iptv-epg.org/logos/UK/SikhChannel.uk.png
-Sangat.uk,UK - Sangat,https://iptv-epg.org/logos/UK/Sangat.uk.png
-AkaalChannel.uk,UK - Akaal Channel,https://iptv-epg.org/logos/UK/AkaalChannel.uk.png
-KanshiTV.uk,UK - Kanshi TV,https://iptv-epg.org/logos/UK/KanshiTV.uk.png
-Pitaara.uk,UK - Pitaara,https://iptv-epg.org/logos/UK/Pitaara.uk.png
-PoliticsPunjab.uk,UK - Politics Punjab,https://iptv-epg.org/logos/UK/PoliticsPunjab.uk.png
-PBC.uk,UK - PBC,https://iptv-epg.org/logos/UK/PBC.uk.png
-CHSTV.uk,UK - CHSTV,https://iptv-epg.org/logos/UK/CHSTV.uk.png
-IQRABANGLA.uk,UK - IQRA BANGLA,https://iptv-epg.org/logos/UK/IQRABANGLA.uk.png
-ATN.uk,UK - ATN,https://iptv-epg.org/logos/UK/ATN.uk.png
-NTV.uk,UK - NTV,https://iptv-epg.org/logos/UK/NTV.uk.png
-TVOne.uk,UK - TV One,https://iptv-epg.org/logos/UK/TVOne.uk.png
-ionTV.uk,UK - ion TV,https://iptv-epg.org/logos/UK/ionTV.uk.png
-DeenTV.uk,UK - Deen TV,https://iptv-epg.org/logos/UK/DeenTV.uk.png
-IslamBangla.uk,UK - Islam Bangla,https://iptv-epg.org/logos/UK/IslamBangla.uk.png
-SkyNewsArabia.uk,UK - Sky News Arabia,https://iptv-epg.org/logos/UK/SkyNewsArabia.uk.png
-PhoenixCNEChannel.uk,UK - Phoenix CNE Channel,https://iptv-epg.org/logos/UK/PhoenixCNEChannel.uk.png
-ColorsGujarati.uk,UK - Colors Gujarati,https://iptv-epg.org/logos/UK/ColorsGujarati.uk.png
-SirajTV.uk,UK - Siraj TV,https://iptv-epg.org/logos/UK/SirajTV.uk.png
-ZeePunjabi.uk,UK - Zee Punjabi,https://iptv-epg.org/logos/UK/ZeePunjabi.uk.png
-LaLigaTVEspanol.us,US - LaLiga TV Espanol,https://iptv-epg.org/logos/UK/LaLigaTVEspanol.us.png
-LaLigaTV.uk,UK - LaLiga TV,https://iptv-epg.org/logos/UK/LaLigaTV.uk.png
-MusicIndia.uk,UK - Music India,https://iptv-epg.org/logos/UK/MusicIndia.uk.png
-RTEOne.ie,IE - RTÉ One,https://iptv-epg.org/logos/UK/RTEOne.ie.png
-RTEOne+1.ie,IE - RTÉ One +1,https://iptv-epg.org/logos/UK/RTEOne%2B1.ie.png
-RTE2.ie,IE - RTÉ2,https://iptv-epg.org/logos/UK/RTE2.ie.png
-RTE2+1.ie,IE - RTÉ2 +1,https://iptv-epg.org/logos/UK/RTE2%2B1.ie.png
-RTENews.ie,IE - RTÉ News,https://iptv-epg.org/logos/UK/RTENews.ie.png
-RTEjr.ie,IE - RTÉ jr,https://iptv-epg.org/logos/UK/RTEjr.ie.png
-TG4.ie,IE - TG4,https://iptv-epg.org/logos/UK/TG4.ie.png
-VirginOne.ie,IE - Virgin Media One,https://iptv-epg.org/logos/UK/VirginOne.ie.png
-VirginOne+1.ie,IE - Virgin Media One +1,https://iptv-epg.org/logos/UK/VirginOne%2B1.ie.png
-VirginTwo.ie,IE - Virgin Media Two,https://iptv-epg.org/logos/UK/VirginTwo.ie.png
-VirginThree.ie,IE - Virgin Media Three,https://iptv-epg.org/logos/UK/VirginThree.ie.png
-VirginMediaFour.ie,IE - Virgin Media Four,https://iptv-epg.org/logos/UK/VirginMediaFour.ie.png
-VirginMediaMore.ie,IE - Virgin Media More,https://iptv-epg.org/logos/UK/VirginMediaMore.ie.png
-OireachtasTV.ie,IE - Oireachtas TV,https://iptv-epg.org/logos/UK/OireachtasTV.ie.png
-UTV.ie,IE - UTV Ireland,https://iptv-epg.org/logos/UK/UTV.ie.png
-Cula4.ie,IE - Cula4,https://iptv-epg.org/logos/UK/Cula4.ie.png
-BBCOneNorthEastAndCumbria.uk,UK - BBC One North East &amp; Cumbria,https://iptv-epg.org/logos/UK/BBCOneNorthEastAndCumbria.uk.png
-BBCOneNorthWest.uk,UK - BBC One North West,https://iptv-epg.org/logos/UK/BBCOneNorthWest.uk.png
-BBCOneYorkshire.uk,UK - BBC One Yorkshire,https://iptv-epg.org/logos/UK/BBCOneYorkshire.uk.png
-BBCOneYorkshireAndLincolnshire.uk,UK - BBC One Yorkshire &amp; Lincolnshire,https://iptv-epg.org/logos/UK/BBCOneYorkshireAndLincolnshire.uk.png
-BBCOneWestMidlands.uk,UK - BBC One West Midlands,https://iptv-epg.org/logos/UK/BBCOneWestMidlands.uk.png
-BBCOneEastMidlands.uk,UK - BBC One East Midlands,https://iptv-epg.org/logos/UK/BBCOneEastMidlands.uk.png
-BBCOneEast.uk,UK - BBC One East,https://iptv-epg.org/logos/UK/BBCOneEast.uk.png
-BBCOneSouthEast.uk,UK - BBC One South East,https://iptv-epg.org/logos/UK/BBCOneSouthEast.uk.png
-BBCOneWest.uk,UK - BBC One West,https://iptv-epg.org/logos/UK/BBCOneWest.uk.png
-BBCOneSouth.uk,UK - BBC One South,https://iptv-epg.org/logos/UK/BBCOneSouth.uk.png
-BBCOneSouthWest.uk,UK - BBC One South West,https://iptv-epg.org/logos/UK/BBCOneSouthWest.uk.png
-BBCOneChannelIslands.uk,UK - BBC One Channel Islands,https://iptv-epg.org/logos/UK/BBCOneChannelIslands.uk.png
-BBCOneScotland.uk,UK - BBC One Scotland,https://iptv-epg.org/logos/UK/BBCOneScotland.uk.png
-BBCOneWales.uk,UK - BBC One Wales,https://iptv-epg.org/logos/UK/BBCOneWales.uk.png
-BBCOneNorthernIreland.uk,UK - BBC One Northern Ireland,https://iptv-epg.org/logos/UK/BBCOneNorthernIreland.uk.png
-BBCTwoEngland.uk,UK - BBC Two England,https://iptv-epg.org/logos/UK/BBCTwoEngland.uk.png
-BBCTwoWales.uk,UK - BBC Two Wales,https://iptv-epg.org/logos/UK/BBCTwoWales.uk.png
-BBCTwoNorthernIreland.uk,UK - BBC Two Northern Ireland,https://iptv-epg.org/logos/UK/BBCTwoNorthernIreland.uk.png
-BBCRedButton.uk,UK - BBC Red Button,https://iptv-epg.org/logos/UK/BBCRedButton.uk.png
-BBCOneLondon.uk,UK - BBC One London,https://iptv-epg.org/logos/UK/BBCOneLondon.uk.png
-BBCOneOxfordshire.uk,UK - BBC One Oxfordshire,https://iptv-epg.org/logos/UK/BBCOneOxfordshire.uk.png
-BBCOneCambridgeshire.uk,UK - BBC One Cambridgeshire,https://iptv-epg.org/logos/UK/BBCOneCambridgeshire.uk.png
-ITV1Anglia.uk,UK - ITV1 Anglia,https://iptv-epg.org/logos/UK/ITV1Anglia.uk.png
-ITV1Border.uk,UK - ITV1 Border,https://iptv-epg.org/logos/UK/ITV1Border.uk.png
-ITV1Centraleast.uk,UK - ITV1 Central (EAST),https://iptv-epg.org/logos/UK/ITV1Centraleast.uk.png
-ITV1Granada.uk,UK - ITV1 Granada,https://iptv-epg.org/logos/UK/ITV1Granada.uk.png
-ITV1Meridian.uk,UK - ITV1 Meridian,https://iptv-epg.org/logos/UK/ITV1Meridian.uk.png
-ITV1TyneTees.uk,UK - ITV1 Tyne Tees,https://iptv-epg.org/logos/UK/ITV1TyneTees.uk.png
-ITV1Wales.uk,UK - ITV1 Wales,https://iptv-epg.org/logos/UK/ITV1Wales.uk.png
-ITV1WestCountry.uk,UK - ITV1 West Country,https://iptv-epg.org/logos/UK/ITV1WestCountry.uk.png
-ITV1West.uk,UK - ITV1 West,https://iptv-epg.org/logos/UK/ITV1West.uk.png
-ITV1Yorkshireeast.uk,UK - ITV1 Yorkshire (EAST),https://iptv-epg.org/logos/UK/ITV1Yorkshireeast.uk.png
-ITV1BorderScotland.uk,UK - ITV1 Border Scotland,https://iptv-epg.org/logos/UK/ITV1BorderScotland.uk.png
-ITV1BorderEngland.uk,UK - ITV1 Border England,https://iptv-epg.org/logos/UK/ITV1BorderEngland.uk.png
-ITV1Central+1.uk,UK - ITV1 Central +1,https://iptv-epg.org/logos/UK/ITV1Central%2B1.uk.png
-ITV1Meridian+1.uk,UK - ITV1 Meridian +1,https://iptv-epg.org/logos/UK/ITV1Meridian%2B1.uk.png
-ITV1Granada+1.uk,UK - ITV1 Granada +1,https://iptv-epg.org/logos/UK/ITV1Granada%2B1.uk.png
-ITV1ChannelIslands.uk,UK - ITV1 Channel Islands,https://iptv-epg.org/logos/UK/ITV1ChannelIslands.uk.png
-ITV1Wales+1.uk,UK - ITV1 Wales +1,https://iptv-epg.org/logos/UK/ITV1Wales%2B1.uk.png
-ITV1Yorkshire+1west.uk,UK - ITV1 Yorkshire+1 (WEST),https://iptv-epg.org/logos/UK/ITV1Yorkshire%2B1west.uk.png
-STVCentral.uk,UK - STV Central,https://iptv-epg.org/logos/UK/STVCentral.uk.png
-STVCentral+1.uk,UK - STVCentral +1,https://iptv-epg.org/logos/UK/STVCentral%2B1.uk.png
-STVNorth.uk,UK - STV North,https://iptv-epg.org/logos/UK/STVNorth.uk.png
-STVNorth+1.uk,UK - STVNorth +1,https://iptv-epg.org/logos/UK/STVNorth%2B1.uk.png
-STV.uk,UK - STV,https://iptv-epg.org/logos/UK/STV.uk.png
-BristolTV.uk,UK - Bristol TV,https://iptv-epg.org/logos/UK/BristolTV.uk.png
-WildEarth.uk,UK - WildEarth,https://iptv-epg.org/logos/UK/WildEarth.uk.png
-TyneandWearTV.uk,UK - Tyne &amp; Wear TV,https://iptv-epg.org/logos/UK/TyneandWearTV.uk.png
-ThatsTVMCR.uk,UK - That's TV MCR,https://iptv-epg.org/logos/UK/ThatsTVMCR.uk.png
-Thats90sMCR.uk,UK - That's 90s MCR,https://iptv-epg.org/logos/UK/Thats90sMCR.uk.png
-Thats60sMCR.uk,UK - That's 60s MCR,https://iptv-epg.org/logos/UK/Thats60sMCR.uk.png
-Thats70sMCR.uk,UK - That's 70s (MCR Freeview),https://iptv-epg.org/logos/UK/Thats70sMCR.uk.png
-TeessideTV.uk,UK - Teesside TV,https://iptv-epg.org/logos/UK/TeessideTV.uk.png
-TalkTV.uk,UK - Talk TV,https://iptv-epg.org/logos/UK/TalkTV.uk.png
-PBSAmerica(Freeview).uk,UK - PBS America (Freeview),https://iptv-epg.org/logos/UK/PBSAmerica%28Freeview%29.uk.png
-NorthWalesTV.uk,UK - North Wales TV,https://iptv-epg.org/logos/UK/NorthWalesTV.uk.png
-NottsTV.uk,UK - Notts TV,https://iptv-epg.org/logos/UK/NottsTV.uk.png
-MTVLive.uk,UK - MTV Live,https://iptv-epg.org/logos/UK/MTVLive.uk.png
-MTVIreland.uk,UK - MTV Ireland,https://iptv-epg.org/logos/UK/MTVIreland.uk.png
-LiverpoolTV.uk,UK - Liverpool TV,https://iptv-epg.org/logos/UK/LiverpoolTV.uk.png
-ITV3+1(Freeview).uk,UK - ITV3 +1 (Freeview),https://iptv-epg.org/logos/UK/ITV3%2B1%28Freeview%29.uk.png
-Blaze(Freeview).uk,UK - Blaze (Freeview),https://iptv-epg.org/logos/UK/Blaze%28Freeview%29.uk.png
-BirminghamTV.uk,UK - Birmingham TV,https://iptv-epg.org/logos/UK/BirminghamTV.uk.png
-FashionTV.uk,UK - Fashion TV,https://iptv-epg.org/logos/UK/FashionTV.uk.png
-BBCThree_CBBC.uk,UK - BBC Three / CBBC,https://iptv-epg.org/logos/UK/BBCThree_CBBC.uk.png
-BBCFour_CBeebies.uk,UK - BBC Four / CBeebies,https://iptv-epg.org/logos/UK/BBCFour_CBeebies.uk.png
-HorseAndCountry.uk,UK - Horse &amp; Country,https://iptv-epg.org/logos/UK/HorseAndCountry.uk.png
-EnglishClubTV.uk,UK - English Club TV,https://iptv-epg.org/logos/UK/EnglishClubTV.uk.jpg
-GetLuckyTV.uk,UK - Get Lucky TV,https://iptv-epg.org/logos/UK/GetLuckyTV.uk.png
-XpandedTV.uk,UK - Xpanded TV,https://iptv-epg.org/logos/UK/XpandedTV.uk.png
-BabesandBrazzers.uk,UK - Babes &amp; Brazzers,https://iptv-epg.org/logos/UK/BabesandBrazzers.uk.png
-TelevisionX.uk,UK - Television X,https://iptv-epg.org/logos/UK/TelevisionX.uk.png
-Babenation.uk,UK - Babenation,https://iptv-epg.org/logos/UK/Babenation.uk.png
-AdultChannel.uk,UK - Adult Channel,https://iptv-epg.org/logos/UK/AdultChannel.uk.png
-Climax.uk,UK - Climax,https://iptv-epg.org/logos/UK/Climax.uk.png
-XXXGirlGirl.uk,UK - XXX Girl Girl,https://iptv-epg.org/logos/UK/XXXGirlGirl.uk.png
-TVX40+.uk,UK - TVX 40+,https://iptv-epg.org/logos/UK/TVX40%2B.uk.png
-BBCR1.uk,UK - BBC R1,https://iptv-epg.org/logos/UK/BBCR1.uk.png
-BBCR2.uk,UK - BBC R2,https://iptv-epg.org/logos/UK/BBCR2.uk.png
-BBCR3.uk,UK - BBC R3,https://iptv-epg.org/logos/UK/BBCR3.uk.png
-BBCR4.uk,UK - BBC R4,https://iptv-epg.org/logos/UK/BBCR4.uk.png
-BBCR5L.uk,UK - BBC R5L,https://iptv-epg.org/logos/UK/BBCR5L.uk.png
-ClassicFM.uk,UK - Classic FM,https://iptv-epg.org/logos/UK/ClassicFM.uk.png
-talkSPORT.uk,UK - talkSPORT,https://iptv-epg.org/logos/UK/talkSPORT.uk.png
-Capital.uk,UK - Capital,https://iptv-epg.org/logos/UK/Capital.uk.png
-Heart.uk,UK - Heart,https://iptv-epg.org/logos/UK/Heart.uk.png
-Heart80s.uk,UK - Heart 80s,https://iptv-epg.org/logos/UK/Heart80s.uk.png
-RadioX.uk,UK - Radio X,https://iptv-epg.org/logos/UK/RadioX.uk.png
-CapitalXTRA.uk,UK - Capital XTRA,https://iptv-epg.org/logos/UK/CapitalXTRA.uk.png
-BBCWS.uk,UK - BBC WS,https://iptv-epg.org/logos/UK/BBCWS.uk.png
-BBCRScot.uk,UK - BBC R Scot,https://iptv-epg.org/logos/UK/BBCRScot.uk.png
-BBCRWales.uk,UK - BBC R Wales,https://iptv-epg.org/logos/UK/BBCRWales.uk.png
-BBCRUlster.uk,UK - BBC R Ulster,https://iptv-epg.org/logos/UK/BBCRUlster.uk.png
-BBCAsian.uk,UK - BBCAsian,https://iptv-epg.org/logos/UK/BBCAsian.uk.png
-BBC6Music.uk,UK - BBC 6 Music,https://iptv-epg.org/logos/UK/BBC6Music.uk.png
-Gold.uk,UK - Gold,https://iptv-epg.org/logos/UK/Gold.uk.png
-WRNEurope.uk,UK - WRN Europe,https://iptv-epg.org/logos/UK/WRNEurope.uk.png
-LBC.uk,UK - LBC,https://iptv-epg.org/logos/UK/LBC.uk.png
-Smooth.uk,UK - Smooth,https://iptv-epg.org/logos/UK/Smooth.uk.png
-PanjabRadio.uk,UK - Panjab Radio,https://iptv-epg.org/logos/UK/PanjabRadio.uk.png
-BBCR4Ex.uk,UK - BBC R4 Ex,https://iptv-epg.org/logos/UK/BBCR4Ex.uk.png
-BBCR1X.uk,UK - BBC R1X,https://iptv-epg.org/logos/UK/BBCR1X.uk.png
-TWR.uk.uk,UK - TWR,https://iptv-epg.org/logos/UK/TWR.uk.uk.png
-BBCRnGael.uk,UK - BBC R n Gael,https://iptv-epg.org/logos/UK/BBCRnGael.uk.png
-BBCR5SX.uk,UK - BBC R5SX,https://iptv-epg.org/logos/UK/BBCR5SX.uk.png
-HeartDance.uk,UK - Heart Dance,https://iptv-epg.org/logos/UK/HeartDance.uk.png
-SukhSagar.uk,UK - Sukh Sagar,https://iptv-epg.org/logos/UK/SukhSagar.uk.png
-Khushkhabri.uk,UK - Khushkhabri,https://iptv-epg.org/logos/UK/Khushkhabri.uk.png
-BBCRLondon.uk,UK - BBC R London,https://iptv-epg.org/logos/UK/BBCRLondon.uk.png
-BBCRCymru.uk,UK - BBC R Cymru,https://iptv-epg.org/logos/UK/BBCRCymru.uk.png
-RTERadio1.uk,UK - RTÉ Radio 1,https://iptv-epg.org/logos/UK/RTERadio1.uk.png
-RTE2FM.uk,UK - RTÉ 2FM,https://iptv-epg.org/logos/UK/RTE2FM.uk.png
-RTELyricfm.uk,UK - RTÉ Lyric fm fm,https://iptv-epg.org/logos/UK/RTELyricfm.uk.png
-RTERnaG.uk,UK - RTÉ R na G,https://iptv-epg.org/logos/UK/RTERnaG.uk.png
-BFBSRadio.uk,UK - BFBS Radio,https://iptv-epg.org/logos/UK/BFBSRadio.uk.png
-VirginRadio.uk,UK - Virgin Radio,https://iptv-epg.org/logos/UK/VirginRadio.uk.png
-Heart90s.uk,UK - Heart 90s,https://iptv-epg.org/logos/UK/Heart90s.uk.png
-BBCRCymru2.uk,UK - BBC R Cymru 2,https://iptv-epg.org/logos/UK/BBCRCymru2.uk.png
-BBCRFoyle.uk,UK - BBC R Foyle,https://iptv-epg.org/logos/UK/BBCRFoyle.uk.png
-LBCNews.uk,UK - LBC News,https://iptv-epg.org/logos/UK/LBCNews.uk.png
-PBSHistory.uk,UK - PBS History,https://iptv-epg.org/logos/UK/PBSHistory.uk.png
-WorldWarTV.uk,UK - World War TV,https://iptv-epg.org/logos/UK/WorldWarTV.uk.png
-SkySportsMainEvent.uk,UK - Sky Sports Main Event,https://iptv-epg.org/logos/UK/SkySportsMainEvent.uk.png
-SkySportsPremierLeague.uk,UK - Sky Sports Premier League,https://iptv-epg.org/logos/UK/SkySportsPremierLeague.uk.png
-SkySportsFootball.uk,UK - Sky Sports Football,https://iptv-epg.org/logos/UK/SkySportsFootball.uk.png
-SkySportsCricket.uk,UK - Sky Sports Cricket,https://iptv-epg.org/logos/UK/SkySportsCricket.uk.png
-SkySportsGolf.uk,UK - Sky Sports Golf,https://iptv-epg.org/logos/UK/SkySportsGolf.uk.png
-SkySportsTennis.uk,UK - Sky Sports Tennis,https://iptv-epg.org/logos/UK/SkySportsTennis.uk.png
-SkySportsNews.uk,UK - Sky Sports News,https://iptv-epg.org/logos/UK/SkySportsNews.uk.png
-SkySportsPlus.uk,UK - Sky Sports +,https://iptv-epg.org/logos/UK/SkySportsPlus.uk.png
-SkySportsRacing.uk,UK - Sky Sports Racing,https://iptv-epg.org/logos/UK/SkySportsRacing.uk.png
-SkySportsMix.uk,UK - Sky Sports Mix,https://iptv-epg.org/logos/UK/SkySportsMix.uk.png
-SkySportsAction.uk,UK - Sky Sports Action,https://iptv-epg.org/logos/UK/SkySportsAction.uk.png
-TNTSports1.uk,UK - TNT Sports 1,https://iptv-epg.org/logos/UK/TNTSports1.uk.png
-TNTSports2.uk,UK - TNT Sports 2,https://iptv-epg.org/logos/UK/TNTSports2.uk.png
-TNTSports3.uk,UK - TNT Sports 3,https://iptv-epg.org/logos/UK/TNTSports3.uk.png
-TNTSports4.uk,UK - TNT Sports 4,https://iptv-epg.org/logos/UK/TNTSports4.uk.png
-MUTV.uk,UK - MUTV,https://iptv-epg.org/logos/UK/MUTV.uk.png
-PremierSports1.uk,UK - Premier Sports 1,https://iptv-epg.org/logos/UK/PremierSports1.uk.png
-PremierSports2.uk,UK - Premier Sports 2,https://iptv-epg.org/logos/UK/PremierSports2.uk.png
-RacingTV.uk,UK - Racing TV,https://iptv-epg.org/logos/UK/RacingTV.uk.png
-LFCTV.uk,UK - LFC TV,https://iptv-epg.org/logos/UK/LFCTV.uk.png
-TNTSportsUltimate.uk,UK - TNT Sports Ultimate,https://iptv-epg.org/logos/UK/TNTSportsUltimate.uk.png
-TNTSportsBoxOffice.uk,UK - TNT Sports Box Office,https://iptv-epg.org/logos/UK/TNTSportsBoxOffice.uk.png
-TNTSportsBoxOffice2.uk,UK - TNT Sports Box Office 2,https://iptv-epg.org/logos/UK/TNTSportsBoxOffice2.uk.png
-SkySportsBoxOffice.uk,UK - Sky Sports Box Office,https://iptv-epg.org/logos/UK/SkySportsBoxOffice.uk.png
-SkySportsMainEventUHD.uk,UK - Sky Sports Main Event UHD,https://iptv-epg.org/logos/UK/SkySportsMainEventUHD.uk.png
-TNTSports5.uk,UK - TNT Sports 5,https://iptv-epg.org/logos/UK/TNTSports5.uk.png
-TNTSports6.uk,UK - TNT Sports 6,https://iptv-epg.org/logos/UK/TNTSports6.uk.png
-TNTSports7.uk,UK - TNT Sports 7,https://iptv-epg.org/logos/UK/TNTSports7.uk.png
-TNTSports8.uk,UK - TNT Sports 8,https://iptv-epg.org/logos/UK/TNTSports8.uk.png
-TNTSports9.uk,UK - TNT Sports 9,https://iptv-epg.org/logos/UK/TNTSports9.uk.png
-TNTSports10.uk,UK - TNT Sports 10,https://iptv-epg.org/logos/UK/TNTSports10.uk.png
-SkySportsUltraHD.uk,UK - Sky Sports Ultra HD,https://iptv-epg.org/logos/UK/SkySportsUltraHD.uk.png
-SkySportsUltraHD2.uk,UK - Sky Sports Ultra HD 2,https://iptv-epg.org/logos/UK/SkySportsUltraHD2.uk.png
-SkySportsF1.uk,UK - Sky Sports F1,https://iptv-epg.org/logos/UK/SkySportsF1.uk.png
-SkySportsF1UHD.uk,UK -  Sky Sports F1 UHD,https://iptv-epg.org/logos/UK/SkySportsF1UHD.uk.png
-Eurosport3.uk,UK - Eurosport 3,https://iptv-epg.org/logos/UK/Eurosport3.uk.png
-Eurosport4.uk,UK - Eurosport 4,https://iptv-epg.org/logos/UK/Eurosport4.uk.png
-Eurosport5.uk,UK - Eurosport 5,https://iptv-epg.org/logos/UK/Eurosport5.uk.png
-Eurosport6.uk,UK - Eurosport 6,https://iptv-epg.org/logos/UK/Eurosport6.uk.png
-Eurosport7.uk,UK - Eurosport 7,https://iptv-epg.org/logos/UK/Eurosport7.uk.png
-Eurosport8.uk,UK - Eurosport 8,https://iptv-epg.org/logos/UK/Eurosport8.uk.png
-Eurosport9.uk,UK - Eurosport 9,https://iptv-epg.org/logos/UK/Eurosport9.uk.png
-LeedsTV.uk,UK - Leeds TV,https://iptv-epg.org/logos/UK/LeedsTV.uk.png
-SkySportsPremierLeagueROI.uk,UK - Sky Sports Premier League ROI,https://iptv-epg.org/logos/UK/SkySportsPremierLeagueROI.uk.png
-PremierSports1.ie,IE - Premier Sports 1,https://iptv-epg.org/logos/UK/PremierSports1.ie.png
-PremierSports2.ie,IE - Premier Sports 2,https://iptv-epg.org/logos/UK/PremierSports2.ie.png
-PremierSportsRugby.uk,UK - Premier Sports Rugby,https://iptv-epg.org/logos/UK/PremierSportsRugby.uk.png
-ESRealMadridTV.uk,UK - ES Real Madrid TV,https://iptv-epg.org/logos/UK/ESRealMadridTV.uk.png
-RallyTV.uk,UK - Rally.TV,https://iptv-epg.org/logos/UK/RallyTV.uk.png
-SkySportsClassics.uk,UK - Sky Sports Classics,https://iptv-epg.org/logos/UK/SkySportsClassics.uk.png
-SkySportsStories.uk,UK - Sky Sports Stories,https://iptv-epg.org/logos/UK/SkySportsStories.uk.png
-talkSPORT_TV.uk,UK - talkSPORT TV,https://iptv-epg.org/logos/UK/talkSPORT_TV.uk.png
-AFCBournemouth.epl,EPL - AFC Bournemouth,https://iptv-epg.org/logos/UK/AFCBournemouth.epl.png
-Arsenal.epl,EPL - Arsenal,https://iptv-epg.org/logos/UK/Arsenal.epl.png
-AstonVilla.epl,EPL - Aston Villa,https://iptv-epg.org/logos/UK/AstonVilla.epl.png
-BrentfordFC.epl,EPL - Brentford FC,https://iptv-epg.org/logos/UK/BrentfordFC.epl.png
-BrightonAndHoveAlbionFC.epl,EPL - Brighton &amp;amp; Hove Albion FC,https://iptv-epg.org/logos/UK/BrightonAndHoveAlbionFC.epl.png
-Chelsea.epl,EPL - Chelsea,https://iptv-epg.org/logos/UK/Chelsea.epl.png
-CrystalPalace.epl,EPL - Crystal Palace,https://iptv-epg.org/logos/UK/CrystalPalace.epl.png
-Everton.epl,EPL - Everton,https://iptv-epg.org/logos/UK/Everton.epl.png
-Fulham.epl,EPL - Fulham,https://iptv-epg.org/logos/UK/Fulham.epl.png
-LeedsUnited.epl,EPL - Leeds United,https://iptv-epg.org/logos/UK/LeedsUnited.epl.png
-Liverpool.epl,EPL - Liverpool,https://iptv-epg.org/logos/UK/Liverpool.epl.png
-ManchesterCity.epl,EPL - Manchester City,https://iptv-epg.org/logos/UK/ManchesterCity.epl.png
-ManchesterUnited.epl,EPL - Manchester United,https://iptv-epg.org/logos/UK/ManchesterUnited.epl.png
-NewcastleUnited.epl,EPL - Newcastle United,https://iptv-epg.org/logos/UK/NewcastleUnited.epl.png
-NottinghamForest.epl,EPL - Nottingham Forest,https://iptv-epg.org/logos/UK/NottinghamForest.epl.png
-TottenhamHotspur.epl,EPL - Tottenham Hotspur,https://iptv-epg.org/logos/UK/TottenhamHotspur.epl.png
-WestHamUnited.epl,EPL - West Ham United,https://iptv-epg.org/logos/UK/WestHamUnited.epl.png
-WolverhamptonWanderers.epl,EPL - Wolverhampton Wanderers,https://iptv-epg.org/logos/UK/WolverhamptonWanderers.epl.png
-BurnleyFC.epl,EPL - Burnley FC,https://iptv-epg.org/logos/UK/BurnleyFC.epl.png
-Sunderland.epl,EPL - Sunderland,https://iptv-epg.org/logos/UK/Sunderland.epl.png
-BirminghamCity.efl,EFL - Birmingham City,https://iptv-epg.org/logos/UK/BirminghamCity.efl.png
-BlackburnRovers.efl,EFL - Blackburn Rovers,https://iptv-epg.org/logos/UK/BlackburnRovers.efl.png
-BlackpoolFC.efl,EFL - Blackpool FC,https://iptv-epg.org/logos/UK/BlackpoolFC.efl.png
-BristolCityFC.efl,EFL - Bristol City FC,https://iptv-epg.org/logos/UK/BristolCityFC.efl.png
-CardiffCity.efl,EFL - Cardiff City,https://iptv-epg.org/logos/UK/CardiffCity.efl.png
-CoventryCity.efl,EFL - Coventry City,https://iptv-epg.org/logos/UK/CoventryCity.efl.png
-HuddersfieldTown.efl,EFL - Huddersfield Town,https://iptv-epg.org/logos/UK/HuddersfieldTown.efl.png
-HullCity.efl,EFL - Hull City,https://iptv-epg.org/logos/UK/HullCity.efl.png
-LutonTown.efl,EFL - Luton Town,https://iptv-epg.org/logos/UK/LutonTown.efl.png
-Middlesbrough.efl,EFL - Middlesbrough,https://iptv-epg.org/logos/UK/Middlesbrough.efl.png
-MillwallFC.efl,EFL - Millwall FC,https://iptv-epg.org/logos/UK/MillwallFC.efl.png
-NorwichCity.efl,EFL - Norwich City,https://iptv-epg.org/logos/UK/NorwichCity.efl.png
-PrestonNorthEndFC.efl,EFL - Preston North End FC,https://iptv-epg.org/logos/UK/PrestonNorthEndFC.efl.png
-QueensParkRangers.efl,EFL - Queens Park Rangers,https://iptv-epg.org/logos/UK/QueensParkRangers.efl.png
-ReadingFC.efl,EFL - Reading FC,https://iptv-epg.org/logos/UK/ReadingFC.efl.png
-RotherhamUnitedFC.efl,EFL - Rotherham United FC,https://iptv-epg.org/logos/UK/RotherhamUnitedFC.efl.png
-SheffieldUnited.efl,EFL - Sheffield United,https://iptv-epg.org/logos/UK/SheffieldUnited.efl.png
-StokeCity.efl,EFL - Stoke City,https://iptv-epg.org/logos/UK/StokeCity.efl.png
-SwanseaCity.efl,EFL - Swansea City,https://iptv-epg.org/logos/UK/SwanseaCity.efl.png
-WatfordFC.efl,EFL - Watford FC,https://iptv-epg.org/logos/UK/WatfordFC.efl.png
-WestBromwichAlbion.efl,EFL - West Bromwich Albion,https://iptv-epg.org/logos/UK/WestBromwichAlbion.efl.png
-WiganAthletic.efl,EFL - Wigan Athletic,https://iptv-epg.org/logos/UK/WiganAthletic.efl.png
-LeicesterCity.efl,EFL - Leicester City,https://iptv-epg.org/logos/UK/LeicesterCity.efl.png
-Southampton.efl,EFL - Southampton,https://iptv-epg.org/logos/UK/Southampton.efl.png
-AccringtonStanleyFC.efl,EFL - Accrington Stanley FC,https://iptv-epg.org/logos/UK/AccringtonStanleyFC.efl.png
-Barnsley.efl,EFL - Barnsley,https://iptv-epg.org/logos/UK/Barnsley.efl.png
-BoltonWanderersFC.efl,EFL - Bolton Wanderers FC,https://iptv-epg.org/logos/UK/BoltonWanderersFC.efl.png
-BristolRoversFC.efl,EFL - Bristol Rovers FC,https://iptv-epg.org/logos/UK/BristolRoversFC.efl.png
-BurtonAlbionFC.efl,EFL - Burton Albion FC,https://iptv-epg.org/logos/UK/BurtonAlbionFC.efl.png
-CambridgeUnitedFC.efl,EFL - Cambridge United FC,https://iptv-epg.org/logos/UK/CambridgeUnitedFC.efl.png
-CharltonAthletic.efl,EFL - Charlton Athletic,https://iptv-epg.org/logos/UK/CharltonAthletic.efl.png
-CheltenhamTownFC.efl,EFL - Cheltenham Town FC,https://iptv-epg.org/logos/UK/CheltenhamTownFC.efl.png
-DerbyCounty.efl,EFL - Derby County,https://iptv-epg.org/logos/UK/DerbyCounty.efl.png
-ExeterCityFC.efl,EFL - Exeter City FC,https://iptv-epg.org/logos/UK/ExeterCityFC.efl.png
-FleetwoodTownFC.efl,EFL - Fleetwood Town FC,https://iptv-epg.org/logos/UK/FleetwoodTownFC.efl.png
-ForestGreenRoversFC.efl,EFL - Forest Green Rovers FC,https://iptv-epg.org/logos/UK/ForestGreenRoversFC.efl.png
-IpswichTown.efl,EFL - Ipswich Town,https://iptv-epg.org/logos/UK/IpswichTown.efl.png
-LincolnCityFC.efl,EFL - Lincoln City FC,https://iptv-epg.org/logos/UK/LincolnCityFC.efl.png
-MiltonKeynesDonsFC.efl,EFL - Milton Keynes Dons FC,https://iptv-epg.org/logos/UK/MiltonKeynesDonsFC.efl.png
-MorecambeFC.efl,EFL - Morecambe FC,https://iptv-epg.org/logos/UK/MorecambeFC.efl.png
-OxfordUnited.efl,EFL - Oxford United,https://iptv-epg.org/logos/UK/OxfordUnited.efl.png
-PeterboroughUnitedFC.efl,EFL - Peterborough United FC,https://iptv-epg.org/logos/UK/PeterboroughUnitedFC.efl.png
-PlymouthArgyle.efl,EFL - Plymouth Argyle,https://iptv-epg.org/logos/UK/PlymouthArgyle.efl.png
-PortValeFC.efl,EFL - Port Vale FC,https://iptv-epg.org/logos/UK/PortValeFC.efl.png
-PortsmouthFC.efl,EFL - Portsmouth FC,https://iptv-epg.org/logos/UK/PortsmouthFC.efl.png
-SheffieldWednesday.efl,EFL - Sheffield Wednesday,https://iptv-epg.org/logos/UK/SheffieldWednesday.efl.png
-ShrewsburyTownFC.efl,EFL - Shrewsbury Town FC,https://iptv-epg.org/logos/UK/ShrewsburyTownFC.efl.png
-WycombeWanderersFC.efl,EFL - Wycombe Wanderers FC,https://iptv-epg.org/logos/UK/WycombeWanderersFC.efl.png
-AFCWimbledon.efl,EFL - AFC Wimbledon,https://iptv-epg.org/logos/UK/AFCWimbledon.efl.png
-BarrowAFC.efl,EFL - Barrow AFC,https://iptv-epg.org/logos/UK/BarrowAFC.efl.png
-BradfordCityFC.efl,EFL - Bradford City FC,https://iptv-epg.org/logos/UK/BradfordCityFC.efl.png
-CarlisleUnited.efl,EFL - Carlisle United,https://iptv-epg.org/logos/UK/CarlisleUnited.efl.png
-ColchesterUnitedFC.efl,EFL - Colchester United FC,https://iptv-epg.org/logos/UK/ColchesterUnitedFC.efl.png
-CrawleyTownFC.efl,EFL - Crawley Town FC,https://iptv-epg.org/logos/UK/CrawleyTownFC.efl.png
-CreweAlexandraFC.efl,EFL - Crewe Alexandra FC,https://iptv-epg.org/logos/UK/CreweAlexandraFC.efl.png
-DoncasterRoversFC.efl,EFL - Doncaster Rovers FC,https://iptv-epg.org/logos/UK/DoncasterRoversFC.efl.png
-GillinghamFC.efl,EFL - Gillingham FC,https://iptv-epg.org/logos/UK/GillinghamFC.efl.png
-GrimsbyTownFC.efl,EFL - Grimsby Town FC,https://iptv-epg.org/logos/UK/GrimsbyTownFC.efl.png
-HarrogateTown.efl,EFL - Harrogate Town,https://iptv-epg.org/logos/UK/HarrogateTown.efl.png
-HartlepoolUnitedFC.efl,EFL - Hartlepool United FC,https://iptv-epg.org/logos/UK/HartlepoolUnitedFC.efl.png
-LeytonOrientFC.efl,EFL - Leyton Orient FC,https://iptv-epg.org/logos/UK/LeytonOrientFC.efl.png
-MansfieldTownFC.efl,EFL - Mansfield Town FC,https://iptv-epg.org/logos/UK/MansfieldTownFC.efl.png
-NewportCountyAFC.efl,EFL - Newport County AFC,https://iptv-epg.org/logos/UK/NewportCountyAFC.efl.png
-NorthamptonTownFC.efl,EFL - Northampton Town FC,https://iptv-epg.org/logos/UK/NorthamptonTownFC.efl.png
-RochdaleAFC.efl,EFL - Rochdale AFC,https://iptv-epg.org/logos/UK/RochdaleAFC.efl.png
-SalfordCityFC.efl,EFL - Salford City FC,https://iptv-epg.org/logos/UK/SalfordCityFC.efl.png
-StevenageFC.efl,EFL - Stevenage FC,https://iptv-epg.org/logos/UK/StevenageFC.efl.png
-StockportCounty.efl,EFL - Stockport County,https://iptv-epg.org/logos/UK/StockportCounty.efl.png
-SuttonUnitedFC.efl,EFL - Sutton United FC,https://iptv-epg.org/logos/UK/SuttonUnitedFC.efl.png
-SwindonTownFC.efl,EFL - Swindon Town FC,https://iptv-epg.org/logos/UK/SwindonTownFC.efl.png
-TranmereRoversFC.efl,EFL - Tranmere Rovers FC,https://iptv-epg.org/logos/UK/TranmereRoversFC.efl.png
-WalsallFC.efl,EFL - Walsall FC,https://iptv-epg.org/logos/UK/WalsallFC.efl.png
-Barnet.efl,EFL - Barnet,https://iptv-epg.org/logos/UK/Barnet.efl.png
-OldhamAthletic.efl,EFL - Oldham Athletic,https://iptv-epg.org/logos/UK/OldhamAthletic.efl.png
-Aberdeen.spfl,SPFL - Aberdeen,https://iptv-epg.org/logos/UK/Aberdeen.spfl.png
-Celtic.spfl,SPFL - Celtic,https://iptv-epg.org/logos/UK/Celtic.spfl.png
-DundeeFC.spfl,SPFL - Dundee FC,https://iptv-epg.org/logos/UK/DundeeFC.spfl.png
-DundeeUnited.spfl,SPFL - Dundee United,https://iptv-epg.org/logos/UK/DundeeUnited.spfl.png
-Falkirk.spfl,SPFL - Falkirk,https://iptv-epg.org/logos/UK/Falkirk.spfl.png
-HeartofMidlothian.spfl,SPFL - Heart of Midlothian,https://iptv-epg.org/logos/UK/HeartofMidlothian.spfl.png
-Hibernian.spfl,SPFL - Hibernian,https://iptv-epg.org/logos/UK/Hibernian.spfl.png
-Kilmarnock.spfl,SPFL - Kilmarnock,https://iptv-epg.org/logos/UK/Kilmarnock.spfl.png
-Livingston.spfl,SPFL - Livingston,https://iptv-epg.org/logos/UK/Livingston.spfl.png
-Motherwell.spfl,SPFL - Motherwell,https://iptv-epg.org/logos/UK/Motherwell.spfl.png
-Rangers.spfl,SPFL - Rangers,https://iptv-epg.org/logos/UK/Rangers.spfl.png
-RossCounty.spfl,SPFL - Ross County,https://iptv-epg.org/logos/UK/RossCounty.spfl.png
-StMirren.spfl,SPFL - St Mirren,https://iptv-epg.org/logos/UK/StMirren.spfl.png
-StJohnstone.spfl,SPFL - St Johnstone,https://iptv-epg.org/logos/UK/StJohnstone.spfl.png
-AFCFylde.NationalLeague,NATIONALLEAGUE - AFC Fylde,https://iptv-epg.org/logos/UK/AFCFylde.NationalLeague.png
-AldershotTown.NationalLeague,NATIONALLEAGUE - Aldershot Town,https://iptv-epg.org/logos/UK/AldershotTown.NationalLeague.png
-Altrincham.NationalLeague,NATIONALLEAGUE - Altrincham,https://iptv-epg.org/logos/UK/Altrincham.NationalLeague.png
-BostonUnited.NationalLeague,NATIONALLEAGUE - Boston United,https://iptv-epg.org/logos/UK/BostonUnited.NationalLeague.png
-BraintreeTown.NationalLeague,NATIONALLEAGUE - Braintree Town,https://iptv-epg.org/logos/UK/BraintreeTown.NationalLeague.png
-DagenhamAndRedbridge.NationalLeague,NATIONALLEAGUE - Dagenham &amp;amp; Redbridge,https://iptv-epg.org/logos/UK/DagenhamAndRedbridge.NationalLeague.png
-Eastleigh.NationalLeague,NATIONALLEAGUE - Eastleigh,https://iptv-epg.org/logos/UK/Eastleigh.NationalLeague.png
-EbbsfleetUnited.NationalLeague,NATIONALLEAGUE - Ebbsfleet United,https://iptv-epg.org/logos/UK/EbbsfleetUnited.NationalLeague.png
-FCHalifaxTown.NationalLeague,NATIONALLEAGUE - FC Halifax Town,https://iptv-epg.org/logos/UK/FCHalifaxTown.NationalLeague.png
-ForestGreenRovers.NationalLeague,NATIONALLEAGUE - Forest Green Rovers,https://iptv-epg.org/logos/UK/ForestGreenRovers.NationalLeague.png
-Gateshead.NationalLeague,NATIONALLEAGUE - Gateshead,https://iptv-epg.org/logos/UK/Gateshead.NationalLeague.png
-HartlepoolUnited.NationalLeague,NATIONALLEAGUE - Hartlepool United,https://iptv-epg.org/logos/UK/HartlepoolUnited.NationalLeague.png
-MaidenheadUnited.NationalLeague,NATIONALLEAGUE - Maidenhead United,https://iptv-epg.org/logos/UK/MaidenheadUnited.NationalLeague.png
-Rochdale.NationalLeague,NATIONALLEAGUE - Rochdale,https://iptv-epg.org/logos/UK/Rochdale.NationalLeague.png
-SolihullMoors.NationalLeague,NATIONALLEAGUE - Solihull Moors,https://iptv-epg.org/logos/UK/SolihullMoors.NationalLeague.png
-SouthendUnited.NationalLeague,NATIONALLEAGUE - Southend United,https://iptv-epg.org/logos/UK/SouthendUnited.NationalLeague.png
-SuttonUnited.NationalLeague,NATIONALLEAGUE - Sutton United,https://iptv-epg.org/logos/UK/SuttonUnited.NationalLeague.png
-Tamworth.NationalLeague,NATIONALLEAGUE - Tamworth,https://iptv-epg.org/logos/UK/Tamworth.NationalLeague.png
-Wealdstone.NationalLeague,NATIONALLEAGUE - Wealdstone,https://iptv-epg.org/logos/UK/Wealdstone.NationalLeague.png
-Woking.NationalLeague,NATIONALLEAGUE - Woking,https://iptv-epg.org/logos/UK/Woking.NationalLeague.png
-YeovilTown.NationalLeague,NATIONALLEAGUE - Yeovil Town,https://iptv-epg.org/logos/UK/YeovilTown.NationalLeague.png
-YorkCity.NationalLeague,NATIONALLEAGUE - York City,https://iptv-epg.org/logos/UK/YorkCity.NationalLeague.png
-LeedsUnited.efl,EFL - Leeds United,https://iptv-epg.org/logos/UK/LeedsUnited.efl.png
-WrexhamAFC.efl,EFL - Wrexham AFC,https://iptv-epg.org/logos/UK/WrexhamAFC.efl.png
-BromleyFC.efl,EFL - Bromley FC,https://iptv-epg.org/logos/UK/BromleyFC.efl.png
-ChesterfieldFC.efl,EFL - Chesterfield FC,https://iptv-epg.org/logos/UK/ChesterfieldFC.efl.png
-NottsCountyFC.efl,EFL - Notts County FC,https://iptv-epg.org/logos/UK/NottsCountyFC.efl.png
-DAZN1.uk,UK - DAZN 1,https://iptv-epg.org/logos/UK/DAZN1.uk.png
-DAZN2.uk,UK - DAZN 2,https://iptv-epg.org/logos/UK/DAZN2.uk.png
-DAZN3.uk,UK - DAZN 3,https://iptv-epg.org/logos/UK/DAZN3.uk.png
-DAZN4.uk,UK - DAZN 4,https://iptv-epg.org/logos/UK/DAZN4.uk.png
-DAZN5.uk,UK - DAZN 5,https://iptv-epg.org/logos/UK/DAZN5.uk.png
-DAZN6.uk,UK - DAZN 6,https://iptv-epg.org/logos/UK/DAZN6.uk.png
-DAZN7.uk,UK - DAZN 7,https://iptv-epg.org/logos/UK/DAZN7.uk.png
-DAZN8.uk,UK - DAZN 8,https://iptv-epg.org/logos/UK/DAZN8.uk.png
-DAZN9.uk,UK - DAZN 9,https://iptv-epg.org/logos/UK/DAZN9.uk.png
-DAZN10.uk,UK - DAZN 10,https://iptv-epg.org/logos/UK/DAZN10.uk.png
-AmazonUKEvent0.uk,UK - Amazon UK Event 0,https://iptv-epg.org/logos/UK/AmazonUKEvent0.uk.png
-AmazonUKEvent1.uk,UK - Amazon UK Event 1,https://iptv-epg.org/logos/UK/AmazonUKEvent1.uk.png
-AmazonUKEvent2.uk,UK - Amazon UK Event 2,https://iptv-epg.org/logos/UK/AmazonUKEvent2.uk.png
-AmazonUKEvent3.uk,UK - Amazon UK Event 3,https://iptv-epg.org/logos/UK/AmazonUKEvent3.uk.png
-AmazonUKEvent4.uk,UK - Amazon UK Event 4,https://iptv-epg.org/logos/UK/AmazonUKEvent4.uk.png
-AmazonUKEvent5.uk,UK - Amazon UK Event 5,https://iptv-epg.org/logos/UK/AmazonUKEvent5.uk.png
-AmazonUKEvent6.uk,UK - Amazon UK Event 6,https://iptv-epg.org/logos/UK/AmazonUKEvent6.uk.png
-AmazonUKEvent7.uk,UK - Amazon UK Event 7,https://iptv-epg.org/logos/UK/AmazonUKEvent7.uk.png
-AmazonUKEvent8.uk,UK - Amazon UK Event 8,https://iptv-epg.org/logos/UK/AmazonUKEvent8.uk.png
-AmazonUKEvent9.uk,UK - Amazon UK Event 9,https://iptv-epg.org/logos/UK/AmazonUKEvent9.uk.png
-AmazonUKEvent10.uk,UK - Amazon UK Event 10,https://iptv-epg.org/logos/UK/AmazonUKEvent10.uk.png
-AmazonUKEvent11.uk,UK - Amazon UK Event 11,https://iptv-epg.org/logos/UK/AmazonUKEvent11.uk.png
-AmazonUKEvent12.uk,UK - Amazon UK Event 12,https://iptv-epg.org/logos/UK/AmazonUKEvent12.uk.png
-AmazonUKEvent13.uk,UK - Amazon UK Event 13,https://iptv-epg.org/logos/UK/AmazonUKEvent13.uk.png
-AmazonUKEvent14.uk,UK - Amazon UK Event 14,https://iptv-epg.org/logos/UK/AmazonUKEvent14.uk.png
-AmazonUKEvent15.uk,UK - Amazon UK Event 15,https://iptv-epg.org/logos/UK/AmazonUKEvent15.uk.png
-AmazonUKEvent16.uk,UK - Amazon UK Event 16,https://iptv-epg.org/logos/UK/AmazonUKEvent16.uk.png
-AmazonUKEvent17.uk,UK - Amazon UK Event 17,https://iptv-epg.org/logos/UK/AmazonUKEvent17.uk.png
-AmazonUKEvent18.uk,UK - Amazon UK Event 18,https://iptv-epg.org/logos/UK/AmazonUKEvent18.uk.png
-AmazonUKEvent19.uk,UK - Amazon UK Event 19,https://iptv-epg.org/logos/UK/AmazonUKEvent19.uk.png
-AmazonUKEvent20.uk,UK - Amazon UK Event 20,https://iptv-epg.org/logos/UK/AmazonUKEvent20.uk.png
-AmazonUKEvent21.uk,UK - Amazon UK Event 21,https://iptv-epg.org/logos/UK/AmazonUKEvent21.uk.png
-AmazonUKEvent22.uk,UK - Amazon UK Event 22,https://iptv-epg.org/logos/UK/AmazonUKEvent22.uk.png
-AmazonUKEvent23.uk,UK - Amazon UK Event 23,https://iptv-epg.org/logos/UK/AmazonUKEvent23.uk.png
-AmazonUKEvent24.uk,UK - Amazon UK Event 24,https://iptv-epg.org/logos/UK/AmazonUKEvent24.uk.png
-AmazonUKEvent25.uk,UK - Amazon UK Event 25,https://iptv-epg.org/logos/UK/AmazonUKEvent25.uk.png
-AmazonUKEvent26.uk,UK - Amazon UK Event 26,https://iptv-epg.org/logos/UK/AmazonUKEvent26.uk.png
-AmazonUKEvent27.uk,UK - Amazon UK Event 27,https://iptv-epg.org/logos/UK/AmazonUKEvent27.uk.png
-AmazonUKEvent28.uk,UK - Amazon UK Event 28,https://iptv-epg.org/logos/UK/AmazonUKEvent28.uk.png
-AmazonUKEvent29.uk,UK - Amazon UK Event 29,https://iptv-epg.org/logos/UK/AmazonUKEvent29.uk.png
-AmazonUKEvent30.uk,UK - Amazon UK Event 30,https://iptv-epg.org/logos/UK/AmazonUKEvent30.uk.png
-AmazonUKEvent31.uk,UK - Amazon UK Event 31,https://iptv-epg.org/logos/UK/AmazonUKEvent31.uk.png
-AmazonUKEvent32.uk,UK - Amazon UK Event 32,https://iptv-epg.org/logos/UK/AmazonUKEvent32.uk.png
-AmazonUKEvent33.uk,UK - Amazon UK Event 33,https://iptv-epg.org/logos/UK/AmazonUKEvent33.uk.png
-AmazonUKEvent34.uk,UK - Amazon UK Event 34,https://iptv-epg.org/logos/UK/AmazonUKEvent34.uk.png
-AmazonUKEvent35.uk,UK - Amazon UK Event 35,https://iptv-epg.org/logos/UK/AmazonUKEvent35.uk.png
-AmazonUKEvent36.uk,UK - Amazon UK Event 36,https://iptv-epg.org/logos/UK/AmazonUKEvent36.uk.png
-AmazonUKEvent37.uk,UK - Amazon UK Event 37,https://iptv-epg.org/logos/UK/AmazonUKEvent37.uk.png
-AmazonUKEvent38.uk,UK - Amazon UK Event 38,https://iptv-epg.org/logos/UK/AmazonUKEvent38.uk.png
-AmazonUKEvent39.uk,UK - Amazon UK Event 39,https://iptv-epg.org/logos/UK/AmazonUKEvent39.uk.png
-AmazonUKEvent40.uk,UK - Amazon UK Event 40,https://iptv-epg.org/logos/UK/AmazonUKEvent40.uk.png
-AmazonUKEvent41.uk,UK - Amazon UK Event 41,https://iptv-epg.org/logos/UK/AmazonUKEvent41.uk.png
-AmazonUKEvent42.uk,UK - Amazon UK Event 42,https://iptv-epg.org/logos/UK/AmazonUKEvent42.uk.png
-AmazonUKEvent43.uk,UK - Amazon UK Event 43,https://iptv-epg.org/logos/UK/AmazonUKEvent43.uk.png
-AmazonUKEvent44.uk,UK - Amazon UK Event 44,https://iptv-epg.org/logos/UK/AmazonUKEvent44.uk.png
-AmazonUKEvent45.uk,UK - Amazon UK Event 45,https://iptv-epg.org/logos/UK/AmazonUKEvent45.uk.png
-AmazonUKEvent46.uk,UK - Amazon UK Event 46,https://iptv-epg.org/logos/UK/AmazonUKEvent46.uk.png
-AmazonUKEvent47.uk,UK - Amazon UK Event 47,https://iptv-epg.org/logos/UK/AmazonUKEvent47.uk.png
-AmazonUKEvent48.uk,UK - Amazon UK Event 48,https://iptv-epg.org/logos/UK/AmazonUKEvent48.uk.png
-AmazonUKEvent49.uk,UK - Amazon UK Event 49,https://iptv-epg.org/logos/UK/AmazonUKEvent49.uk.png
-AmazonUKEvent50.uk,UK - Amazon UK Event 50,https://iptv-epg.org/logos/UK/AmazonUKEvent50.uk.png
-LOI1.uk,UK - LOI 1,https://iptv-epg.org/logos/UK/LOI1.uk.png
-LOI2.uk,UK - LOI 2,https://iptv-epg.org/logos/UK/LOI2.uk.png
-LOI3.uk,UK - LOI 3,https://iptv-epg.org/logos/UK/LOI3.uk.png
-LOI4.uk,UK - LOI 4,https://iptv-epg.org/logos/UK/LOI4.uk.png
-LOI5.uk,UK - LOI 5,https://iptv-epg.org/logos/UK/LOI5.uk.png
-LOI6.uk,UK - LOI 6,https://iptv-epg.org/logos/UK/LOI6.uk.png
-LOI7.uk,UK - LOI 7,https://iptv-epg.org/logos/UK/LOI7.uk.png
-LOI8.uk,UK - LOI 8,https://iptv-epg.org/logos/UK/LOI8.uk.png
-LOI9.uk,UK - LOI 9,https://iptv-epg.org/logos/UK/LOI9.uk.png
-GAAGO1.uk,UK - GAAGO 1,https://iptv-epg.org/logos/UK/GAAGO1.uk.png
-GAAGO2.uk,UK - GAAGO 2,https://iptv-epg.org/logos/UK/GAAGO2.uk.png
-GAAGO3.uk,UK - GAAGO 3,https://iptv-epg.org/logos/UK/GAAGO3.uk.png
-GAAGO4.uk,UK - GAAGO 4,https://iptv-epg.org/logos/UK/GAAGO4.uk.png
-GAAGO5.uk,UK - GAAGO 5,https://iptv-epg.org/logos/UK/GAAGO5.uk.png
-GAAGO6.uk,UK - GAAGO 6,https://iptv-epg.org/logos/UK/GAAGO6.uk.png
-GAAGO7.uk,UK - GAAGO 7,https://iptv-epg.org/logos/UK/GAAGO7.uk.png
-GAAGO8.uk,UK - GAAGO 8,https://iptv-epg.org/logos/UK/GAAGO8.uk.png
-SS+event1.uk,UK - SS+ event 1,https://iptv-epg.org/logos/UK/SS%2Bevent1.uk.png
-SS+event2.uk,UK - SS+ event 2,https://iptv-epg.org/logos/UK/SS%2Bevent2.uk.png
-SS+event3.uk,UK - SS+ event 3,https://iptv-epg.org/logos/UK/SS%2Bevent3.uk.png
-SS+event4.uk,UK - SS+ event 4,https://iptv-epg.org/logos/UK/SS%2Bevent4.uk.png
-SS+event5.uk,UK - SS+ event 5,https://iptv-epg.org/logos/UK/SS%2Bevent5.uk.png
-SS+event6.uk,UK - SS+ event 6,https://iptv-epg.org/logos/UK/SS%2Bevent6.uk.png
-SS+event7.uk,UK - SS+ event 7,https://iptv-epg.org/logos/UK/SS%2Bevent7.uk.png
-SS+event8.uk,UK - SS+ event 8,https://iptv-epg.org/logos/UK/SS%2Bevent8.uk.png
-SS+event9.uk,UK - SS+ event 9,https://iptv-epg.org/logos/UK/SS%2Bevent9.uk.png
-SS+event10.uk,UK - SS+ event 10,https://iptv-epg.org/logos/UK/SS%2Bevent10.uk.png
-SS+event11.uk,UK - SS+ event 11,https://iptv-epg.org/logos/UK/SS%2Bevent11.uk.png
-SS+event12.uk,UK - SS+ event 12,https://iptv-epg.org/logos/UK/SS%2Bevent12.uk.png
-SS+event13.uk,UK - SS+ event 13,https://iptv-epg.org/logos/UK/SS%2Bevent13.uk.png
-SS+event14.uk,UK - SS+ event 14,https://iptv-epg.org/logos/UK/SS%2Bevent14.uk.png
-SS+event15.uk,UK - SS+ event 15,https://iptv-epg.org/logos/UK/SS%2Bevent15.uk.png
-SS+event16.uk,UK - SS+ event 16,https://iptv-epg.org/logos/UK/SS%2Bevent16.uk.png
-SS+event17.uk,UK - SS+ event 17,https://iptv-epg.org/logos/UK/SS%2Bevent17.uk.png
-SS+event18.uk,UK - SS+ event 18,https://iptv-epg.org/logos/UK/SS%2Bevent18.uk.png
-SS+event19.uk,UK - SS+ event 19,https://iptv-epg.org/logos/UK/SS%2Bevent19.uk.png
-SS+event20.uk,UK - SS+ event 20,https://iptv-epg.org/logos/UK/SS%2Bevent20.uk.png
-SS+event21.uk,UK - SS+ event 21,https://iptv-epg.org/logos/UK/SS%2Bevent21.uk.png
-SS+event22.uk,UK - SS+ event 22,https://iptv-epg.org/logos/UK/SS%2Bevent22.uk.png
-SS+event23.uk,UK - SS+ event 23,https://iptv-epg.org/logos/UK/SS%2Bevent23.uk.png
-SS+event24.uk,UK - SS+ event 24,https://iptv-epg.org/logos/UK/SS%2Bevent24.uk.png
-SS+event25.uk,UK - SS+ event 25,https://iptv-epg.org/logos/UK/SS%2Bevent25.uk.png
-SS+event26.uk,UK - SS+ event 26,https://iptv-epg.org/logos/UK/SS%2Bevent26.uk.png
-SS+event27.uk,UK - SS+ event 27,https://iptv-epg.org/logos/UK/SS%2Bevent27.uk.png
-SS+event28.uk,UK - SS+ event 28,https://iptv-epg.org/logos/UK/SS%2Bevent28.uk.png
-SS+event29.uk,UK - SS+ event 29,https://iptv-epg.org/logos/UK/SS%2Bevent29.uk.png
-SS+event30.uk,UK - SS+ event 30,https://iptv-epg.org/logos/UK/SS%2Bevent30.uk.png
-SS+event31.uk,UK - SS+ event 31,https://iptv-epg.org/logos/UK/SS%2Bevent31.uk.png
-SS+event32.uk,UK - SS+ event 32,https://iptv-epg.org/logos/UK/SS%2Bevent32.uk.png
-SS+event33.uk,UK - SS+ event 33,https://iptv-epg.org/logos/UK/SS%2Bevent33.uk.png
-SS+event34.uk,UK - SS+ event 34,https://iptv-epg.org/logos/UK/SS%2Bevent34.uk.png
-SS+event35.uk,UK - SS+ event 35,https://iptv-epg.org/logos/UK/SS%2Bevent35.uk.png
-SS+event36.uk,UK - SS+ event 36,https://iptv-epg.org/logos/UK/SS%2Bevent36.uk.png
-SS+event37.uk,UK - SS+ event 37,https://iptv-epg.org/logos/UK/SS%2Bevent37.uk.png
-SS+event38.uk,UK - SS+ event 38,https://iptv-epg.org/logos/UK/SS%2Bevent38.uk.png
-SS+event39.uk,UK - SS+ event 39,https://iptv-epg.org/logos/UK/SS%2Bevent39.uk.png
-SS+event40.uk,UK - SS+ event 40,https://iptv-epg.org/logos/UK/SS%2Bevent40.uk.png
-SS+event41.uk,UK - SS+ event 41,https://iptv-epg.org/logos/UK/SS%2Bevent41.uk.png
-SS+event42.uk,UK - SS+ event 42,https://iptv-epg.org/logos/UK/SS%2Bevent42.uk.png
-SS+event43.uk,UK - SS+ event 43,https://iptv-epg.org/logos/UK/SS%2Bevent43.uk.png
-SS+event44.uk,UK - SS+ event 44,https://iptv-epg.org/logos/UK/SS%2Bevent44.uk.png
-SS+event45.uk,UK - SS+ event 45,https://iptv-epg.org/logos/UK/SS%2Bevent45.uk.png
-SS+event46.uk,UK - SS+ event 46,https://iptv-epg.org/logos/UK/SS%2Bevent46.uk.png
-SS+event47.uk,UK - SS+ event 47,https://iptv-epg.org/logos/UK/SS%2Bevent47.uk.png
-SS+event48.uk,UK - SS+ event 48,https://iptv-epg.org/logos/UK/SS%2Bevent48.uk.png
-SS+event49.uk,UK - SS+ event 49,https://iptv-epg.org/logos/UK/SS%2Bevent49.uk.png
-SS+event50.uk,UK - SS+ event 50,https://iptv-epg.org/logos/UK/SS%2Bevent50.uk.png
-SS+event51.uk,UK - SS+ event 51,https://iptv-epg.org/logos/UK/SS%2Bevent51.uk.png
-SS+event52.uk,UK - SS+ event 52,https://iptv-epg.org/logos/UK/SS%2Bevent52.uk.png
-SS+event53.uk,UK - SS+ event 53,https://iptv-epg.org/logos/UK/SS%2Bevent53.uk.png
-SS+event54.uk,UK - SS+ event 54,https://iptv-epg.org/logos/UK/SS%2Bevent54.uk.png
-SS+event55.uk,UK - SS+ event 55,https://iptv-epg.org/logos/UK/SS%2Bevent55.uk.png
-SS+event56.uk,UK - SS+ event 56,https://iptv-epg.org/logos/UK/SS%2Bevent56.uk.png
-SS+event57.uk,UK - SS+ event 57,https://iptv-epg.org/logos/UK/SS%2Bevent57.uk.png
-SS+event58.uk,UK - SS+ event 58,https://iptv-epg.org/logos/UK/SS%2Bevent58.uk.png
-SS+event59.uk,UK - SS+ event 59,https://iptv-epg.org/logos/UK/SS%2Bevent59.uk.png
-SS+event60.uk,UK - SS+ event 60,https://iptv-epg.org/logos/UK/SS%2Bevent60.uk.png
-PDC1.uk,UK - PDC Darts1,https://iptv-epg.org/logos/UK/PDC1.uk.png
-PDC2.uk,UK - PDC Darts2,https://iptv-epg.org/logos/UK/PDC2.uk.png
-PDC3.uk,UK - PDC Darts3,https://iptv-epg.org/logos/UK/PDC3.uk.png
-PDC4.uk,UK - PDC Darts4,https://iptv-epg.org/logos/UK/PDC4.uk.png
-PDC5.uk,UK - PDC Darts5,https://iptv-epg.org/logos/UK/PDC5.uk.png
-PDC6.uk,UK - PDC Darts6,https://iptv-epg.org/logos/UK/PDC6.uk.png
-PDC7.uk,UK - PDC Darts7,https://iptv-epg.org/logos/UK/PDC7.uk.png
-PDC8.uk,UK - PDC Darts8,https://iptv-epg.org/logos/UK/PDC8.uk.png
-VirginTVUltra.uk,UK - Virgin TV Ultra HD,https://iptv-epg.org/logos/UK/VirginTVUltra.uk.png
-TBN.uk,UK - TBN,https://iptv-epg.org/logos/UK/TBN.uk.png
-GINXeSportsTV.uk,UK - GINX e-Sports,https://iptv-epg.org/logos/UK/GINXeSportsTV.uk.png
-NFL01.Vig,VIG - NFL 01,https://iptv-epg.org/logos/UK/NFL01.Vig.png
-NFL02.Vig,VIG - NFL 02,https://iptv-epg.org/logos/UK/NFL02.Vig.png
-NFL05.Vig,VIG - NFL 05,https://iptv-epg.org/logos/UK/NFL05.Vig.png
-NFL03.Vig,VIG - NFL 03,https://iptv-epg.org/logos/UK/NFL03.Vig.png
-NFL04.Vig,VIG - NFL 04,https://iptv-epg.org/logos/UK/NFL04.Vig.png
-NFL06.Vig,VIG - NFL 06,https://iptv-epg.org/logos/UK/NFL06.Vig.png
-NFL12.Vig,VIG - NFL 12,https://iptv-epg.org/logos/UK/NFL12.Vig.png
-NFL09.Vig,VIG - NFL 09,https://iptv-epg.org/logos/UK/NFL09.Vig.png
-NFL10.Vig,VIG - NFL 10,https://iptv-epg.org/logos/UK/NFL10.Vig.png
-NFL11.Vig,VIG - NFL 11,https://iptv-epg.org/logos/UK/NFL11.Vig.png
-NFL07.Vig,VIG - NFL 07,https://iptv-epg.org/logos/UK/NFL07.Vig.png
-NFL08.Vig,VIG - NFL 08,https://iptv-epg.org/logos/UK/NFL08.Vig.png
-NFL13.Vig,VIG - NFL 13,https://iptv-epg.org/logos/UK/NFL13.Vig.png
-NFL14.Vig,VIG - NFL 14,https://iptv-epg.org/logos/UK/NFL14.Vig.png
-NFL15.Vig,VIG - NFL 15,https://iptv-epg.org/logos/UK/NFL15.Vig.png
-NFL16.Vig,VIG - NFL 16,https://iptv-epg.org/logos/UK/NFL16.Vig.png
-NFL17.Vig,VIG - NFL 17,https://iptv-epg.org/logos/UK/NFL17.Vig.png
-NFL18.Vig,VIG - NFL 18,https://iptv-epg.org/logos/UK/NFL18.Vig.png
-NFL19.Vig,VIG - NFL 19,https://iptv-epg.org/logos/UK/NFL19.Vig.png
-NFL20.Vig,VIG - NFL 20,https://iptv-epg.org/logos/UK/NFL20.Vig.png
-SkySports+1.Vig,VIG - Sky Sports+ 1,https://iptv-epg.org/logos/UK/SkySports%2B1.Vig.png
-SkySports+2.Vig,VIG - Sky Sports+ 2,https://iptv-epg.org/logos/UK/SkySports%2B2.Vig.png
-SkySports+3.Vig,VIG - Sky Sports+ 3,https://iptv-epg.org/logos/UK/SkySports%2B3.Vig.png
-SkySports+4.Vig,VIG - Sky Sports+ 4,https://iptv-epg.org/logos/UK/SkySports%2B4.Vig.png
-SkySports+5.Vig,VIG - Sky Sports+ 5,https://iptv-epg.org/logos/UK/SkySports%2B5.Vig.png
-SkySports+6.Vig,VIG - Sky Sports+ 6,https://iptv-epg.org/logos/UK/SkySports%2B6.Vig.png
-SkySports+7.Vig,VIG - Sky Sports+ 7,https://iptv-epg.org/logos/UK/SkySports%2B7.Vig.png
-SkySports+8.Vig,VIG - Sky Sports+ 8,https://iptv-epg.org/logos/UK/SkySports%2B8.Vig.png
-SkySports+9.Vig,VIG - Sky Sports+ 9,https://iptv-epg.org/logos/UK/SkySports%2B9.Vig.png
-SkySports+10.Vig,VIG - Sky Sports+ 10,https://iptv-epg.org/logos/UK/SkySports%2B10.Vig.png
-SkySports+11.Vig,VIG - Sky Sports+ 11,https://iptv-epg.org/logos/UK/SkySports%2B11.Vig.png
-SkySports+12.Vig,VIG - Sky Sports+ 12,https://iptv-epg.org/logos/UK/SkySports%2B12.Vig.png
-SkySports+13.Vig,VIG - Sky Sports+ 13,https://iptv-epg.org/logos/UK/SkySports%2B13.Vig.png
-SkySports+14.Vig,VIG - Sky Sports+ 14,https://iptv-epg.org/logos/UK/SkySports%2B14.Vig.png
-SkySports+15.Vig,VIG - Sky Sports+ 15,https://iptv-epg.org/logos/UK/SkySports%2B15.Vig.png
-SkySports+16.Vig,VIG - Sky Sports+ 16,https://iptv-epg.org/logos/UK/SkySports%2B16.Vig.png
-SkySports+17.Vig,VIG - Sky Sports+ 17,https://iptv-epg.org/logos/UK/SkySports%2B17.Vig.png
-SkySports+18.Vig,VIG - Sky Sports+ 18,https://iptv-epg.org/logos/UK/SkySports%2B18.Vig.png
-SkySports+19.Vig,VIG - Sky Sports+ 19,https://iptv-epg.org/logos/UK/SkySports%2B19.Vig.png
-SkySports+20.Vig,VIG - Sky Sports+ 20,https://iptv-epg.org/logos/UK/SkySports%2B20.Vig.png
-SkySports+21.Vig,VIG - Sky Sports+ 21,https://iptv-epg.org/logos/UK/SkySports%2B21.Vig.png
-SkySports+22.Vig,VIG - Sky Sports+ 22,https://iptv-epg.org/logos/UK/SkySports%2B22.Vig.png
-SkySports+23.Vig,VIG - Sky Sports+ 23,https://iptv-epg.org/logos/UK/SkySports%2B23.Vig.png
-SkySports+24.Vig,VIG - Sky Sports+ 24,https://iptv-epg.org/logos/UK/SkySports%2B24.Vig.png
-SkySports+25.Vig,VIG - Sky Sports+ 25,https://iptv-epg.org/logos/UK/SkySports%2B25.Vig.png
-SkySports+26.Vig,VIG - Sky Sports+ 26,https://iptv-epg.org/logos/UK/SkySports%2B26.Vig.png
-SkySports+27.Vig,VIG - Sky Sports+ 27,https://iptv-epg.org/logos/UK/SkySports%2B27.Vig.png
-SkySports+28.Vig,VIG - Sky Sports+ 28,https://iptv-epg.org/logos/UK/SkySports%2B28.Vig.png
-SkySports+29.Vig,VIG - Sky Sports+ 29,https://iptv-epg.org/logos/UK/SkySports%2B29.Vig.png
-SkySports+30.Vig,VIG - Sky Sports+ 30,https://iptv-epg.org/logos/UK/SkySports%2B30.Vig.png
-SkySports+31.Vig,VIG - Sky Sports+ 31,https://iptv-epg.org/logos/UK/SkySports%2B31.Vig.png
-SkySports+32.Vig,VIG - Sky Sports+ 32,https://iptv-epg.org/logos/UK/SkySports%2B32.Vig.png
-SkySports+33.Vig,VIG - Sky Sports+ 33,https://iptv-epg.org/logos/UK/SkySports%2B33.Vig.png
-SkySports+34.Vig,VIG - Sky Sports+ 34,https://iptv-epg.org/logos/UK/SkySports%2B34.Vig.png
-SkySports+35.Vig,VIG - Sky Sports+ 35,https://iptv-epg.org/logos/UK/SkySports%2B35.Vig.png
-SkySports+36.Vig,VIG - Sky Sports+ 36,https://iptv-epg.org/logos/UK/SkySports%2B36.Vig.png
-SkySports+37.Vig,VIG - Sky Sports+ 37,https://iptv-epg.org/logos/UK/SkySports%2B37.Vig.png
-SkySports+38.Vig,VIG - Sky Sports+ 38,https://iptv-epg.org/logos/UK/SkySports%2B38.Vig.png
-SkySports+39.Vig,VIG - Sky Sports+ 39,https://iptv-epg.org/logos/UK/SkySports%2B39.Vig.png
-SkySports+40.Vig,VIG - Sky Sports+ 40,https://iptv-epg.org/logos/UK/SkySports%2B40.Vig.png
-SkySports+41.Vig,VIG - Sky Sports+ 41,https://iptv-epg.org/logos/UK/SkySports%2B41.Vig.png
-SkySports+42.Vig,VIG - Sky Sports+ 42,https://iptv-epg.org/logos/UK/SkySports%2B42.Vig.png
-SkySports+43.Vig,VIG - Sky Sports+ 43,https://iptv-epg.org/logos/UK/SkySports%2B43.Vig.png
-SkySports+44.Vig,VIG - Sky Sports+ 44,https://iptv-epg.org/logos/UK/SkySports%2B44.Vig.png
-SkySports+45.Vig,VIG - Sky Sports+ 45,https://iptv-epg.org/logos/UK/SkySports%2B45.Vig.png
-SkySports+46.Vig,VIG - Sky Sports+ 46,https://iptv-epg.org/logos/UK/SkySports%2B46.Vig.png
-SkySports+47.Vig,VIG - Sky Sports+ 47,https://iptv-epg.org/logos/UK/SkySports%2B47.Vig.png
-SkySports+48.Vig,VIG - Sky Sports+ 48,https://iptv-epg.org/logos/UK/SkySports%2B48.Vig.png
-SkySports+49.Vig,VIG - Sky Sports+ 49,https://iptv-epg.org/logos/UK/SkySports%2B49.Vig.png
-SkySports+50.Vig,VIG - Sky Sports+ 50,https://iptv-epg.org/logos/UK/SkySports%2B50.Vig.png
-SkySports+51.Vig,VIG - Sky Sports+ 51,https://iptv-epg.org/logos/UK/SkySports%2B51.Vig.png
-SkySports+52.Vig,VIG - Sky Sports+ 52,https://iptv-epg.org/logos/UK/SkySports%2B52.Vig.png
-SkySports+53.Vig,VIG - Sky Sports+ 53,https://iptv-epg.org/logos/UK/SkySports%2B53.Vig.png
-SkySports+54.Vig,VIG - Sky Sports+ 54,https://iptv-epg.org/logos/UK/SkySports%2B54.Vig.png
-SkySports+55.Vig,VIG - Sky Sports+ 55,https://iptv-epg.org/logos/UK/SkySports%2B55.Vig.png
-SkySports+56.Vig,VIG - Sky Sports+ 56,https://iptv-epg.org/logos/UK/SkySports%2B56.Vig.png
-SkySports+57.Vig,VIG - Sky Sports+ 57,https://iptv-epg.org/logos/UK/SkySports%2B57.Vig.png
-SkySports+58.Vig,VIG - Sky Sports+ 58,https://iptv-epg.org/logos/UK/SkySports%2B58.Vig.png
-SkySports+59.Vig,VIG - Sky Sports+ 59,https://iptv-epg.org/logos/UK/SkySports%2B59.Vig.png
-SkySports+60.Vig,VIG - Sky Sports+ 60,https://iptv-epg.org/logos/UK/SkySports%2B60.Vig.png
-SkySports+61.Vig,VIG - Sky Sports+ 61,https://iptv-epg.org/logos/UK/SkySports%2B61.Vig.png
-SkySports+62.Vig,VIG - Sky Sports+ 62,https://iptv-epg.org/logos/UK/SkySports%2B62.Vig.png
-SkySports+63.Vig,VIG - Sky Sports+ 63,https://iptv-epg.org/logos/UK/SkySports%2B63.Vig.png
-SkySports+64.Vig,VIG - Sky Sports+ 64,https://iptv-epg.org/logos/UK/SkySports%2B64.Vig.png
-SkySports+65.Vig,VIG - Sky Sports+ 65,https://iptv-epg.org/logos/UK/SkySports%2B65.Vig.png
-SkySports+66.Vig,VIG - Sky Sports+ 66,https://iptv-epg.org/logos/UK/SkySports%2B66.Vig.png
-SkySports+67.Vig,VIG - Sky Sports+ 67,https://iptv-epg.org/logos/UK/SkySports%2B67.Vig.png
-SkySports+68.Vig,VIG - Sky Sports+ 68,https://iptv-epg.org/logos/UK/SkySports%2B68.Vig.png
-SkySports+69.Vig,VIG - Sky Sports+ 69,https://iptv-epg.org/logos/UK/SkySports%2B69.Vig.png
-SkySports+70.Vig,VIG - Sky Sports+ 70,https://iptv-epg.org/logos/UK/SkySports%2B70.Vig.png
-SkySports+71.Vig,VIG - Sky Sports+ 71,https://iptv-epg.org/logos/UK/SkySports%2B71.Vig.png
-SkySports+72.Vig,VIG - Sky Sports+ 72,https://iptv-epg.org/logos/UK/SkySports%2B72.Vig.png
-SkySports+73.Vig,VIG - Sky Sports+ 73,https://iptv-epg.org/logos/UK/SkySports%2B73.Vig.png
-SkySports+74.Vig,VIG - Sky Sports+ 74,https://iptv-epg.org/logos/UK/SkySports%2B74.Vig.png
-SkySports+75.Vig,VIG - Sky Sports+ 75,https://iptv-epg.org/logos/UK/SkySports%2B75.Vig.png
-SkySports+76.Vig,VIG - Sky Sports+ 76,https://iptv-epg.org/logos/UK/SkySports%2B76.Vig.png
-SkySports+77.Vig,VIG - Sky Sports+ 77,https://iptv-epg.org/logos/UK/SkySports%2B77.Vig.png
-SkySports+78.Vig,VIG - Sky Sports+ 78,https://iptv-epg.org/logos/UK/SkySports%2B78.Vig.png
-SkySports+79.Vig,VIG - Sky Sports+ 79,https://iptv-epg.org/logos/UK/SkySports%2B79.Vig.png
-SkySports+80.Vig,VIG - Sky Sports+ 80,https://iptv-epg.org/logos/UK/SkySports%2B80.Vig.png
-SkySports+81.Vig,VIG - Sky Sports+ 81,https://iptv-epg.org/logos/UK/SkySports%2B81.Vig.png
-SkySports+82.Vig,VIG - Sky Sports+ 82,https://iptv-epg.org/logos/UK/SkySports%2B82.Vig.png
-SkySports+83.Vig,VIG - Sky Sports+ 83,https://iptv-epg.org/logos/UK/SkySports%2B83.Vig.png
-SkySports+84.Vig,VIG - Sky Sports+ 84,https://iptv-epg.org/logos/UK/SkySports%2B84.Vig.png
-SkySports+85.Vig,VIG - Sky Sports+ 85,https://iptv-epg.org/logos/UK/SkySports%2B85.Vig.png
-SkySports+86.Vig,VIG - Sky Sports+ 86,https://iptv-epg.org/logos/UK/SkySports%2B86.Vig.png
-SkySports+87.Vig,VIG - Sky Sports+ 87,https://iptv-epg.org/logos/UK/SkySports%2B87.Vig.png
-SkySports+88.Vig,VIG - Sky Sports+ 88,https://iptv-epg.org/logos/UK/SkySports%2B88.Vig.png
-SkySports+89.Vig,VIG - Sky Sports+ 89,https://iptv-epg.org/logos/UK/SkySports%2B89.Vig.png
-SkySports+90.Vig,VIG - Sky Sports+ 90,https://iptv-epg.org/logos/UK/SkySports%2B90.Vig.png
-SkySports+91.Vig,VIG - Sky Sports+ 91,https://iptv-epg.org/logos/UK/SkySports%2B91.Vig.png
-SkySports+92.Vig,VIG - Sky Sports+ 92,https://iptv-epg.org/logos/UK/SkySports%2B92.Vig.png
-SkySports+93.Vig,VIG - Sky Sports+ 93,https://iptv-epg.org/logos/UK/SkySports%2B93.Vig.png
-SkySports+94.Vig,VIG - Sky Sports+ 94,https://iptv-epg.org/logos/UK/SkySports%2B94.Vig.png
-SkySports+95.Vig,VIG - Sky Sports+ 95,https://iptv-epg.org/logos/UK/SkySports%2B95.Vig.png
-SkySports+96.Vig,VIG - Sky Sports+ 96,https://iptv-epg.org/logos/UK/SkySports%2B96.Vig.png
-SkySports+97.Vig,VIG - Sky Sports+ 97,https://iptv-epg.org/logos/UK/SkySports%2B97.Vig.png
-SkySports+98.Vig,VIG - Sky Sports+ 98,https://iptv-epg.org/logos/UK/SkySports%2B98.Vig.png
-SkySports+99.Vig,VIG - Sky Sports+ 99,https://iptv-epg.org/logos/UK/SkySports%2B99.Vig.png
-EPL01.v,V - EPL01,https://iptv-epg.org/logos/UK/EPL01.v.png
-EPL02.v,V - EPL02,https://iptv-epg.org/logos/UK/EPL02.v.png
-EPL03.v,V - EPL03,https://iptv-epg.org/logos/UK/EPL03.v.png
-EPL04.v,V - EPL04,https://iptv-epg.org/logos/UK/EPL04.v.png
-EPL05.v,V - EPL05,https://iptv-epg.org/logos/UK/EPL05.v.png
-EPL06.v,V - EPL06,https://iptv-epg.org/logos/UK/EPL06.v.png
-EPL07.v,V - EPL07,https://iptv-epg.org/logos/UK/EPL07.v.png
-EPL08.v,V - EPL08,https://iptv-epg.org/logos/UK/EPL08.v.png
-EPL09.v,V - EPL09,https://iptv-epg.org/logos/UK/EPL09.v.png
-EPL10.v,V - EPL10,https://iptv-epg.org/logos/UK/EPL10.v.png
-EPL11.v,V - EPL11,https://iptv-epg.org/logos/UK/EPL11.v.png
-EPL12.v,V - EPL12,https://iptv-epg.org/logos/UK/EPL12.v.png
-EPL13.v,V - EPL13,https://iptv-epg.org/logos/UK/EPL13.v.png
-EFL01.v,V - EFL01,https://iptv-epg.org/logos/UK/EFL01.v.png
-EFL02.v,V - EFL02,https://iptv-epg.org/logos/UK/EFL02.v.png
-EFL03.v,V - EFL03,https://iptv-epg.org/logos/UK/EFL03.v.png
-EFL04.v,V - EFL04,https://iptv-epg.org/logos/UK/EFL04.v.png
-EFL05.v,V - EFL05,https://iptv-epg.org/logos/UK/EFL05.v.png
-EFL06.v,V - EFL06,https://iptv-epg.org/logos/UK/EFL06.v.png
-EFL07.v,V - EFL07,https://iptv-epg.org/logos/UK/EFL07.v.png
-EFL08.v,V - EFL08,https://iptv-epg.org/logos/UK/EFL08.v.png
-EFL09.v,V - EFL09,https://iptv-epg.org/logos/UK/EFL09.v.png
-EFL10.v,V - EFL10,https://iptv-epg.org/logos/UK/EFL10.v.png
-EFL11.v,V - EFL11,https://iptv-epg.org/logos/UK/EFL11.v.png
-EFL12.v,V - EFL12,https://iptv-epg.org/logos/UK/EFL12.v.png
-EFL13.v,V - EFL13,https://iptv-epg.org/logos/UK/EFL13.v.png
-EFL14.v,V - EFL14,https://iptv-epg.org/logos/UK/EFL14.v.png
-EFL15.v,V - EFL15,https://iptv-epg.org/logos/UK/EFL15.v.png
-EFL16.v,V - EFL16,https://iptv-epg.org/logos/UK/EFL16.v.png
-EFL17.v,V - EFL17,https://iptv-epg.org/logos/UK/EFL17.v.png
-EFL18.v,V - EFL18,https://iptv-epg.org/logos/UK/EFL18.v.png
-EFL19.v,V - EFL19,https://iptv-epg.org/logos/UK/EFL19.v.png
-EFL20.v,V - EFL20,https://iptv-epg.org/logos/UK/EFL20.v.png
-EFL21.v,V - EFL21,https://iptv-epg.org/logos/UK/EFL21.v.png
-EFL22.v,V - EFL22,https://iptv-epg.org/logos/UK/EFL22.v.png
-EFL23.v,V - EFL23,https://iptv-epg.org/logos/UK/EFL23.v.png
-EFL24.v,V - EFL24,https://iptv-epg.org/logos/UK/EFL24.v.png
-EFL25.v,V - EFL25,https://iptv-epg.org/logos/UK/EFL25.v.png
-EFL26.v,V - EFL26,https://iptv-epg.org/logos/UK/EFL26.v.png
-EFL27.v,V - EFL27,https://iptv-epg.org/logos/UK/EFL27.v.png
-EFL28.v,V - EFL28,https://iptv-epg.org/logos/UK/EFL28.v.png
-EFL29.v,V - EFL29,https://iptv-epg.org/logos/UK/EFL29.v.png
-EFL30.v,V - EFL30,https://iptv-epg.org/logos/UK/EFL30.v.png
-EFL31.v,V - EFL31,https://iptv-epg.org/logos/UK/EFL31.v.png
-EFL32.v,V - EFL32,https://iptv-epg.org/logos/UK/EFL32.v.png
-EFL33.v,V - EFL33,https://iptv-epg.org/logos/UK/EFL33.v.png
-EFL34.v,V - EFL34,https://iptv-epg.org/logos/UK/EFL34.v.png
+# Fuente: https://iptv-epg.org/files/epg-ec.xml
+RTS.ec,EC - RTS Red Telesistema,https://iptv-epg.org/logos/Ecuador/RTS.ec.png
+Teleamazonas.ec,EC - Teleamazonas,https://iptv-epg.org/logos/Ecuador/Teleamazonas.ec.png
+Gamavision.ec,EC - Gamavisión,https://iptv-epg.org/logos/Ecuador/Gamavision.ec.png
+OromarTV.ec,EC - Oromar Televisión,https://iptv-epg.org/logos/Ecuador/OromarTV.ec.png
+TCtv.ec,EC - TC Televisión,https://iptv-epg.org/logos/Ecuador/TCtv.ec.png
+Ecuavisa.ec,EC - Ecuavisa,https://iptv-epg.org/logos/Ecuador/Ecuavisa.ec.png
+EcuavisaInternacional.ec,EC - Ecuavisa Internacional,https://iptv-epg.org/logos/Ecuador/EcuavisaInternacional.ec.png
+EcuadorTV.ec,EC - Ecuador TV,https://iptv-epg.org/logos/Ecuador/EcuadorTV.ec.png
+RTU.ec,EC - RTU,https://iptv-epg.org/logos/Ecuador/RTU.ec.png
+TelevicentroEcuador.ec,EC - Televicentro Ecuador,https://iptv-epg.org/logos/Ecuador/TelevicentroEcuador.ec.png
+DisneyChannelSur.ec,EC - Disney Channel (Sur),https://iptv-epg.org/logos/Ecuador/DisneyChannelSur.ec.png
+DisneyChannel.ec,EC - Disney Channel,https://iptv-epg.org/logos/Ecuador/DisneyChannel.ec.png
+DisneyJrSur.ec,EC - Disney Jr. Sur,https://iptv-epg.org/logos/Ecuador/DisneyJrSur.ec.png
+DisneyJr.ec,EC - Disney Jr.,https://iptv-epg.org/logos/Ecuador/DisneyJr.ec.png
+DiscoveryKidsLatinAmerica.ec,EC - Discovery Kids Latin America,https://iptv-epg.org/logos/Ecuador/DiscoveryKidsLatinAmerica.ec.png
+NickJrLatinoamerica.ec,EC - Nick Jr. Latinoamerica,https://iptv-epg.org/logos/Ecuador/NickJrLatinoamerica.ec.png
+CartoonNetworkLatinAmerica-Panregional.ec,EC - Cartoon Network Latin America - Panregional,https://iptv-epg.org/logos/Ecuador/CartoonNetworkLatinAmerica-Panregional.ec.png
+NickelodeonLatinAmerica/Central.ec,EC - Nickelodeon Latin America / Central,
+ESPNColombia.ec,EC - ESPN Colombia,https://iptv-epg.org/logos/Ecuador/ESPNColombia.ec.png
+ESPN2Colombia.ec,EC - ESPN 2 Colombia,https://iptv-epg.org/logos/Ecuador/ESPN2Colombia.ec.png
+ESPN3Andina.ec,EC - ESPN 3 Andina,https://iptv-epg.org/logos/Ecuador/ESPN3Andina.ec.png
+ESPN4.ec,EC - ESPN 4,https://iptv-epg.org/logos/Ecuador/ESPN4.ec.png
+ESPN5.ec,EC - ESPN 5,https://iptv-epg.org/logos/Ecuador/ESPN5.ec.png
+ESPN6.ec,EC - ESPN 6,https://iptv-epg.org/logos/Ecuador/ESPN6.ec.png
+ESPN7.ec,EC - ESPN 7,https://iptv-epg.org/logos/Ecuador/ESPN7.ec.png
+STARChannel.ec,EC - STAR Channel,https://iptv-epg.org/logos/Ecuador/STARChannel.ec.png
+WarnerChannelAndes.ec,EC - Warner Channel Andes,https://iptv-epg.org/logos/Ecuador/WarnerChannelAndes.ec.png
+InvestigationDiscoveryLatinAmerica.ec,EC - Investigation Discovery Latin America,https://iptv-epg.org/logos/Ecuador/InvestigationDiscoveryLatinAmerica.ec.png
+FXLatinAmericaColombia.ec,EC - FX Latin America Colombia,https://iptv-epg.org/logos/Ecuador/FXLatinAmericaColombia.ec.png
+SonyEntertainmentTelevisionAndesfeed.ec,EC - Sony Entertainment Television Andes feed,https://iptv-epg.org/logos/Ecuador/SonyEntertainmentTelevisionAndesfeed.ec.png
+AXNAndes.ec,EC - AXN Andes,https://iptv-epg.org/logos/Ecuador/AXNAndes.ec.png
+TNTLatinAmericaPan-Regional.ec,EC - TNT Latin America Pan-Regional,https://iptv-epg.org/logos/Ecuador/TNTLatinAmericaPan-Regional.ec.png
+SpacePanamericano.ec,EC - Space Panamericano,https://iptv-epg.org/logos/Ecuador/SpacePanamericano.ec.png
+UniversalChannelLatinAmerica.ec,EC - Universal Channel Latin America,https://iptv-epg.org/logos/Ecuador/UniversalChannelLatinAmerica.ec.png
+CinecanalColombia.ec,EC - Cinecanal Colombia,https://iptv-epg.org/logos/Ecuador/CinecanalColombia.ec.png
+CinemaxPanamerican.ec,EC - Cinemax Panamerican,https://iptv-epg.org/logos/Ecuador/CinemaxPanamerican.ec.png
+BabyTV.ec,EC - Baby TV,https://iptv-epg.org/logos/Ecuador/BabyTV.ec.png
+HBO.ec,EC - HBO,https://iptv-epg.org/logos/Ecuador/HBO.ec.png
+HBO2.ec,EC - HBO 2,https://iptv-epg.org/logos/Ecuador/HBO2.ec.png
+HBOSignature.ec,EC - HBO Signature,https://iptv-epg.org/logos/Ecuador/HBOSignature.ec.png
+HBOFamily.ec,EC - HBO Family,https://iptv-epg.org/logos/Ecuador/HBOFamily.ec.png
+HBOMundi.ec,EC - HBO Mundi,https://iptv-epg.org/logos/Ecuador/HBOMundi.ec.png
+HBOPop.ec,EC - HBO Pop,https://iptv-epg.org/logos/Ecuador/HBOPop.ec.png
+HBOXtreme.ec,EC - HBO Xtreme,https://iptv-epg.org/logos/Ecuador/HBOXtreme.ec.png
+HBOPlus.ec,EC - HBO Plus,https://iptv-epg.org/logos/Ecuador/HBOPlus.ec.png
+TNTNovelas.ec,EC - TNT Novelas,https://iptv-epg.org/logos/Ecuador/TNTNovelas.ec.png
+LasEstrellas.ec,EC - Las Estrellas,https://iptv-epg.org/logos/Ecuador/LasEstrellas.ec.png
+DiscoveryHomeandHealthLatinAmerica.ec,EC - Discovery Home &amp; Health Latin America,https://iptv-epg.org/logos/Ecuador/DiscoveryHomeandHealthLatinAmerica.ec.png
+TLCLatinAmerica.ec,EC - TLC Latin America,https://iptv-epg.org/logos/Ecuador/TLCLatinAmerica.ec.png
+AandEAndes.ec,EC - A&amp;E Andes,https://iptv-epg.org/logos/Ecuador/AandEAndes.ec.png
+E!EntertainmentTelevisionAndes.ec,EC - E! Entertainment Television Andes,https://iptv-epg.org/logos/Ecuador/E%21EntertainmentTelevisionAndes.ec.png
+CNNenEspañolLatinAmerica.ec,EC - CNN en Español Latin America,
+CNNChile.ec,EC - CNN Chile,https://iptv-epg.org/logos/Ecuador/CNNChile.ec.png
+CNNInternational.ec,EC - CNN International,https://iptv-epg.org/logos/Ecuador/CNNInternational.ec.png
+BBCWorldNewsLatinAmerica.ec,EC - BBC World News Latin America,https://iptv-epg.org/logos/Ecuador/BBCWorldNewsLatinAmerica.ec.png
+TelemundoInternacional.ec,EC - Telemundo Internacional,https://iptv-epg.org/logos/Ecuador/TelemundoInternacional.ec.png
+VePlusTV.ec,EC - Ve Plus TV,https://iptv-epg.org/logos/Ecuador/VePlusTV.ec.png
+TelefeInternacionaldeArgentina.ec,EC - Telefe Internacional de Argentina,https://iptv-epg.org/logos/Ecuador/TelefeInternacionaldeArgentina.ec.png
+RAIInternational.ec,EC - RAI International,https://iptv-epg.org/logos/Ecuador/RAIInternational.ec.png
+TheHistoryChannelAndes.ec,EC - The History Channel Andes,https://iptv-epg.org/logos/Ecuador/TheHistoryChannelAndes.ec.png
+TheDiscoveryChannelLatinAmerica.ec,EC - The Discovery Channel Latin America,https://iptv-epg.org/logos/Ecuador/TheDiscoveryChannelLatinAmerica.ec.png
+AnimalPlanetInternational.ec,EC - Animal Planet International,https://iptv-epg.org/logos/Ecuador/AnimalPlanetInternational.ec.png
+NationalGeographic.ec,EC - National Geographic,https://iptv-epg.org/logos/Ecuador/NationalGeographic.ec.png
+DiscoveryTurboInternational.ec,EC - Discovery Turbo International,https://iptv-epg.org/logos/Ecuador/DiscoveryTurboInternational.ec.png
+MTVHits.ec,EC - MTV Hits,https://iptv-epg.org/logos/Ecuador/MTVHits.ec.png
+MTV00s.ec,EC - MTV 00's,https://iptv-epg.org/logos/Ecuador/MTV00s.ec.png
+MTVLive.ec,EC - MTV Live,https://iptv-epg.org/logos/Ecuador/MTVLive.ec.png
+MTV.ec,EC - MTV,https://iptv-epg.org/logos/Ecuador/MTV.ec.png
+MTVLatino.ec,EC - MTV Latino,https://iptv-epg.org/logos/Ecuador/MTVLatino.ec.png
+TBNEnlaceLatinAmerica.ec,EC - TBN Enlace Latin America,https://iptv-epg.org/logos/Ecuador/TBNEnlaceLatinAmerica.ec.png
+UniversalPremiere.ec,EC - Universal Premiere,https://iptv-epg.org/logos/Ecuador/UniversalPremiere.ec.png
+UniversalPremiereOeste.ec,EC - Universal Premiere Oeste,https://iptv-epg.org/logos/Ecuador/UniversalPremiereOeste.ec.png
+Universal Cinema,Universal Cinema,https://iptv-epg.org/logos/Ecuador/Universal+Cinema.png
+UNIVERSALCinemaWest.ec,EC - UNIVERSAL Cinema West,https://iptv-epg.org/logos/Ecuador/UNIVERSALCinemaWest.ec.png
+UniversalComedy.ec,EC - Universal Comedy,https://iptv-epg.org/logos/Ecuador/UniversalComedy.ec.png
+UniversalCrime.ec,EC - Universal Crime,https://iptv-epg.org/logos/Ecuador/UniversalCrime.ec.png
+UniversalCrimeOeste.ec,EC - Universal Crime Oeste,https://iptv-epg.org/logos/Ecuador/UniversalCrimeOeste.ec.png
+UniversalReality.ec,EC - Universal Reality,https://iptv-epg.org/logos/Ecuador/UniversalReality.ec.png
+CartoonitoLatinAmerica.ec,EC - Cartoonito Latin America,https://iptv-epg.org/logos/Ecuador/CartoonitoLatinAmerica.ec.png
+TeenNickGlobalLatinAmerica/Pan-regional.ec,EC - Teen Nick Global Latin America/Pan-regional,
+TNTSeriesPAN.ec,EC - TNT Series PAN,https://iptv-epg.org/logos/Ecuador/TNTSeriesPAN.ec.png
+AXNLatinAmerica.ec,EC - AXN Latin America,https://iptv-epg.org/logos/Ecuador/AXNLatinAmerica.ec.png
+Atreseries.ec,EC - Atreseries,https://iptv-epg.org/logos/Ecuador/Atreseries.ec.png
+ParamountNetworkLatinAmerica.ec,EC - Paramount Network Latin America,https://iptv-epg.org/logos/Ecuador/ParamountNetworkLatinAmerica.ec.png
+AMCLatinAmerica.ec,EC - AMC Latin America,https://iptv-epg.org/logos/Ecuador/AMCLatinAmerica.ec.png
+Golden.ec,EC - Golden,https://iptv-epg.org/logos/Ecuador/Golden.ec.png
+GoldenEdge.ec,EC - Golden Edge,https://iptv-epg.org/logos/Ecuador/GoldenEdge.ec.png
+Pasiones.ec,EC - Pasiones,https://iptv-epg.org/logos/Ecuador/Pasiones.ec.png
+HGTVLatinAmericaPanregional.ec,EC - HGTV Latin America Panregional,https://iptv-epg.org/logos/Ecuador/HGTVLatinAmericaPanregional.ec.png
+HolaTV.ec,EC - Hola TV,https://iptv-epg.org/logos/Ecuador/HolaTV.ec.png
+ElgourmetcomNorte.ec,EC - Elgourmet.com Norte,https://iptv-epg.org/logos/Ecuador/ElgourmetcomNorte.ec.png
+LifetimeLatinAmerica.ec,EC - Lifetime Latin America,https://iptv-epg.org/logos/Ecuador/LifetimeLatinAmerica.ec.png
+INTINetwork.ec,EC - INTI Network,https://iptv-epg.org/logos/Ecuador/INTINetwork.ec.png
+Antena3Internacional.ec,EC - Antena 3 Internacional,https://iptv-epg.org/logos/Ecuador/Antena3Internacional.ec.png
+DeutscheWelleTVEspañol.ec,EC - Deutsche Welle TV Español,https://iptv-epg.org/logos/Ecuador/DeutscheWelleTVEspa%C3%B1ol.ec.png
+History2LatinAmerica.ec,EC - History 2 Latin America,https://iptv-epg.org/logos/Ecuador/History2LatinAmerica.ec.png
+DiscoveryWorldLatinAmerica.ec,EC - Discovery World Latin America,https://iptv-epg.org/logos/Ecuador/DiscoveryWorldLatinAmerica.ec.png
+SonyMovieChannel.ec,EC - Sony Movie Channel,https://iptv-epg.org/logos/Ecuador/SonyMovieChannel.ec.png
+CanalDHE.ec,EC - Canal DHE,https://iptv-epg.org/logos/Ecuador/CanalDHE.ec.png
+GolfChannel.ec,EC - Golf Channel,https://iptv-epg.org/logos/Ecuador/GolfChannel.ec.png
+TyCSports.ec,EC - TyC Sports,https://iptv-epg.org/logos/Ecuador/TyCSports.ec.png
+DIRECTVSports.ec,EC - DIRECTV Sports,https://iptv-epg.org/logos/Ecuador/DIRECTVSports.ec.png
+DIRECTVSports2.ec,EC - DIRECTV Sports 2,https://iptv-epg.org/logos/Ecuador/DIRECTVSports2.ec.png
+DIRECTVSports+.ec,EC - DIRECTV Sports +,https://iptv-epg.org/logos/Ecuador/DIRECTVSports%2B.ec.png
+DIRECTVSportsFight.ec,EC - DIRECTV Sports Fight,https://iptv-epg.org/logos/Ecuador/DIRECTVSportsFight.ec.png

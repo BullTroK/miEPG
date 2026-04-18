@@ -1,0 +1,128 @@
+# Fuente: https://iptv-epg.org/files/epg-hn.xml
+Telecadena.hn,HN - Canal 7 Telecadena,https://iptv-epg.org/logos/Honduras/Telecadena.hn.png
+3ABNLatino.hn,HN - 3ABN Latino,https://iptv-epg.org/logos/Honduras/3ABNLatino.hn.png
+A&amp;E.hn,HN - A&amp;E,https://iptv-epg.org/logos/Honduras/A%26E.hn.png
+Alfa&amp;OmegaVision.hn,HN - Alfa &amp; Omega Vision,
+AMC.hn,HN - AMC,https://iptv-epg.org/logos/Honduras/AMC.hn.png
+AnimalPlanet.hn,HN - Animal Planet,https://iptv-epg.org/logos/Honduras/AnimalPlanet.hn.png
+Antena3.hn,HN - Antena 3,https://iptv-epg.org/logos/Honduras/Antena3.hn.png
+AXN.hn,HN - AXN,https://iptv-epg.org/logos/Honduras/AXN.hn.png
+AzCorazon.hn,HN - Az Corazón,https://iptv-epg.org/logos/Honduras/AzCorazon.hn.png
+Azteca7.hn,HN - Azteca 7,https://iptv-epg.org/logos/Honduras/Azteca7.hn.png
+Azteca13.hn,HN - Azteca 13,https://iptv-epg.org/logos/Honduras/Azteca13.hn.png
+AztecaHonduras.hn,HN - Azteca Honduras,https://iptv-epg.org/logos/Honduras/AztecaHonduras.hn.png
+Bandamax.hn,HN - Bandamax,https://iptv-epg.org/logos/Honduras/Bandamax.hn.png
+BeatTV.hn,HN - Beat TV,https://iptv-epg.org/logos/Honduras/BeatTV.hn.png
+Bethel.hn,HN - Bethel,https://iptv-epg.org/logos/Honduras/Bethel.hn.png
+Bloomberg.hn,HN - Bloomberg,https://iptv-epg.org/logos/Honduras/Bloomberg.hn.png
+Canal5.hn,HN - Canal 5,https://iptv-epg.org/logos/Honduras/Canal5.hn.png
+Canal11.hn,HN - Canal 11,https://iptv-epg.org/logos/Honduras/Canal11.hn.png
+CaracolInternacional.hn,HN - Caracol Internacional,https://iptv-epg.org/logos/Honduras/CaracolInternacional.hn.png
+Cartoonito.hn,HN - Cartoonito,https://iptv-epg.org/logos/Honduras/Cartoonito.hn.png
+CartoonNetwork.hn,HN - Cartoon Network,https://iptv-epg.org/logos/Honduras/CartoonNetwork.hn.png
+CCIChannel.hn,HN - CCI Channel,https://iptv-epg.org/logos/Honduras/CCIChannel.hn.png
+CDM-CadenadeMilagros.hn,HN - CDM - Cadena de Milagros,https://iptv-epg.org/logos/Honduras/CDM-CadenadeMilagros.hn.png
+Chocolate.hn,HN - Chocolate,https://iptv-epg.org/logos/Honduras/Chocolate.hn.png
+Cinecanal.hn,HN - Cinecanal,https://iptv-epg.org/logos/Honduras/Cinecanal.hn.png
+Cinelatino.hn,HN - Cinelatino,https://iptv-epg.org/logos/Honduras/Cinelatino.hn.png
+Cinema+.hn,HN - Cinema+,https://iptv-epg.org/logos/Honduras/Cinema%2B.hn.png
+CNN.hn,HN - CNN,https://iptv-epg.org/logos/Honduras/CNN.hn.png
+CNNenEspanol.hn,HN - CNN en Español,https://iptv-epg.org/logos/Honduras/CNNenEspanol.hn.png
+Cubavision.hn,HN - Cubavisión,https://iptv-epg.org/logos/Honduras/Cubavision.hn.png
+DePelicula.hn,HN - De Película,https://iptv-epg.org/logos/Honduras/DePelicula.hn.png
+DHE.hn,HN - DHE,https://iptv-epg.org/logos/Honduras/DHE.hn.png
+DiscoveryChannel.hn,HN - Discovery Channel,https://iptv-epg.org/logos/Honduras/DiscoveryChannel.hn.png
+DiscoveryHome&amp;Health.hn,HN - Discovery Home &amp; Health,https://iptv-epg.org/logos/Honduras/DiscoveryHome%26Health.hn.png
+DiscoveryKids.hn,HN - Discovery Kids,https://iptv-epg.org/logos/Honduras/DiscoveryKids.hn.png
+DiscoveryTheater.hn,HN - Discovery Theater,https://iptv-epg.org/logos/Honduras/DiscoveryTheater.hn.png
+DiscoveryWorld.hn,HN - Discovery World,https://iptv-epg.org/logos/Honduras/DiscoveryWorld.hn.png
+DisneyChannel.hn,HN - Disney Channel,https://iptv-epg.org/logos/Honduras/DisneyChannel.hn.png
+DisneyJunior.hn,HN - Disney Junior,https://iptv-epg.org/logos/Honduras/DisneyJunior.hn.png
+DisneyXD.hn,HN - Disney XD,https://iptv-epg.org/logos/Honduras/DisneyXD.hn.png
+DistritoComedia.hn,HN - Distrito Comedia,https://iptv-epg.org/logos/Honduras/DistritoComedia.hn.png
+DTV.hn,HN - DTV,https://iptv-epg.org/logos/Honduras/DTV.hn.png
+E!.hn,HN - E!,https://iptv-epg.org/logos/Honduras/E%21.hn.png
+ElGourmet.hn,HN - El Gourmet,https://iptv-epg.org/logos/Honduras/ElGourmet.hn.png
+Enlace.hn,HN - Enlace,https://iptv-epg.org/logos/Honduras/Enlace.hn.png
+ESPN.hn,HN - ESPN,https://iptv-epg.org/logos/Honduras/ESPN.hn.png
+ESPN+.hn,HN - ESPN+,https://iptv-epg.org/logos/Honduras/ESPN%2B.hn.png
+ESPN2.hn,HN - ESPN 2,https://iptv-epg.org/logos/Honduras/ESPN2.hn.png
+ESPN3.hn,HN - ESPN 3,https://iptv-epg.org/logos/Honduras/ESPN3.hn.png
+ESPNExtra.hn,HN - ESPN Extra,https://iptv-epg.org/logos/Honduras/ESPNExtra.hn.png
+EWTN.hn,HN - EWTN,https://iptv-epg.org/logos/Honduras/EWTN.hn.png
+FOXSports.hn,HN - FOX Sports,https://iptv-epg.org/logos/Honduras/FOXSports.hn.png
+FOXSports2.hn,HN - FOX Sports 2,https://iptv-epg.org/logos/Honduras/FOXSports2.hn.png
+FOXSports3.hn,HN - FOX Sports 3,https://iptv-epg.org/logos/Honduras/FOXSports3.hn.png
+FX.hn,HN - FX,https://iptv-epg.org/logos/Honduras/FX.hn.png
+FXMovies.hn,HN - FX Movies,https://iptv-epg.org/logos/Honduras/FXMovies.hn.png
+GloboTV.hn,HN - Globo TV,https://iptv-epg.org/logos/Honduras/GloboTV.hn.png
+Golden.hn,HN - Golden,https://iptv-epg.org/logos/Honduras/Golden.hn.png
+GolTV.hn,HN - Gol TV,https://iptv-epg.org/logos/Honduras/GolTV.hn.png
+Guatevision.hn,HN - Guatevisión,https://iptv-epg.org/logos/Honduras/Guatevision.hn.png
+HableComoHabla.hn,HN - Hable Como Habla,https://iptv-epg.org/logos/Honduras/HableComoHabla.hn.png
+HBO.hn,HN - HBO,https://iptv-epg.org/logos/Honduras/HBO.hn.png
+HBOFamily.hn,HN - HBO Family,https://iptv-epg.org/logos/Honduras/HBOFamily.hn.png
+HBOPlusMexico.hn,HN - HBO Plus México,https://iptv-epg.org/logos/Honduras/HBOPlusMexico.hn.png
+HBOXtreme.hn,HN - HBO Xtreme,https://iptv-epg.org/logos/Honduras/HBOXtreme.hn.png
+HispanTV.hn,HN - HispanTV,https://iptv-epg.org/logos/Honduras/HispanTV.hn.png
+History.hn,HN - History,https://iptv-epg.org/logos/Honduras/History.hn.png
+HTV.hn,HN - HTV,https://iptv-epg.org/logos/Honduras/HTV.hn.png
+InvestigationDiscovery.hn,HN - Investigation Discovery,https://iptv-epg.org/logos/Honduras/InvestigationDiscovery.hn.png
+KMusic.hn,HN - K Music,https://iptv-epg.org/logos/Honduras/KMusic.hn.png
+LaCosecha.hn,HN - La Cosecha,
+LasEstrellas.hn,HN - Las Estrellas,https://iptv-epg.org/logos/Honduras/LasEstrellas.hn.png
+Lifetime.hn,HN - Lifetime,https://iptv-epg.org/logos/Honduras/Lifetime.hn.png
+MaxPrimeMexico.hn,HN - Max Prime México,https://iptv-epg.org/logos/Honduras/MaxPrimeMexico.hn.png
+MTV.hn,HN - MTV,https://iptv-epg.org/logos/Honduras/MTV.hn.png
+Multipremier.hn,HN - Multipremier,https://iptv-epg.org/logos/Honduras/Multipremier.hn.png
+MasChic.hn,HN - Más Chic,https://iptv-epg.org/logos/Honduras/MasChic.hn.png
+NationalGeographic.hn,HN - National Geographic,https://iptv-epg.org/logos/Honduras/NationalGeographic.hn.png
+Nick.hn,HN - Nick,https://iptv-epg.org/logos/Honduras/Nick.hn.png
+NickJr..hn, - Nick Jr.,https://iptv-epg.org/logos/Honduras/NickJr..hn.png
+Pasiones.hn,HN - Pasiones,https://iptv-epg.org/logos/Honduras/Pasiones.hn.png
+RaiItalia.hn,HN - Rai Italia,https://iptv-epg.org/logos/Honduras/RaiItalia.hn.png
+RMS.hn,HN - RMS,https://iptv-epg.org/logos/Honduras/RMS.hn.png
+Sedena.hn,HN - Sedena,
+SITV.hn,HN - SITV,https://iptv-epg.org/logos/Honduras/SITV.hn.png
+Sony.hn,HN - Sony,https://iptv-epg.org/logos/Honduras/Sony.hn.png
+Space.hn,HN - Space,https://iptv-epg.org/logos/Honduras/Space.hn.png
+StarAction(Oeste).hn,HN - Star Action (Oeste),https://iptv-epg.org/logos/Honduras/StarAction%28Oeste%29.hn.png
+StarChannel.hn,HN - Star Channel,https://iptv-epg.org/logos/Honduras/StarChannel.hn.png
+StarClassics.hn,HN - Star Classics,https://iptv-epg.org/logos/Honduras/StarClassics.hn.png
+StarHits.hn,HN - Star Hits,https://iptv-epg.org/logos/Honduras/StarHits.hn.png
+StarLife.hn,HN - Star Life,https://iptv-epg.org/logos/Honduras/StarLife.hn.png
+StarSeries(Oeste).hn,HN - Star Series (Oeste),https://iptv-epg.org/logos/Honduras/StarSeries%28Oeste%29.hn.png
+StarSeries.hn,HN - Star Series,https://iptv-epg.org/logos/Honduras/StarSeries.hn.png
+StudioUniversal.hn,HN - Studio Universal,https://iptv-epg.org/logos/Honduras/StudioUniversal.hn.png
+SuyapaEducativaTV.hn,HN - Suyapa Educativa TV,https://iptv-epg.org/logos/Honduras/SuyapaEducativaTV.hn.png
+SuyapaTV.hn,HN - Suyapa TV,https://iptv-epg.org/logos/Honduras/SuyapaTV.hn.png
+Syfy.hn,HN - Syfy,https://iptv-epg.org/logos/Honduras/Syfy.hn.png
+TCM.hn,HN - TCM,https://iptv-epg.org/logos/Honduras/TCM.hn.png
+TDN.hn,HN - TDN,https://iptv-epg.org/logos/Honduras/TDN.hn.png
+Telecadena7y4.hn,HN - Telecadena 7 y 4,https://iptv-epg.org/logos/Honduras/Telecadena7y4.hn.png
+Teleceiba.hn,HN - Teleceiba,https://iptv-epg.org/logos/Honduras/Teleceiba.hn.png
+Telehit.hn,HN - Telehit,https://iptv-epg.org/logos/Honduras/Telehit.hn.png
+Telemundo.hn,HN - Telemundo,https://iptv-epg.org/logos/Honduras/Telemundo.hn.png
+Telenostalgia.hn,HN - Telenostalgia,https://iptv-epg.org/logos/Honduras/Telenostalgia.hn.png
+Telered21.hn,HN - TeleRed 21,https://iptvboss.xyz/logos/Honduras/TeleRed21.hn.png
+Telesistema3y7.hn,HN - Telesistema 3 y 7,https://iptv-epg.org/logos/Honduras/Telesistema3y7.hn.png
+teleSUR.hn,HN - teleSUR,https://iptv-epg.org/logos/Honduras/teleSUR.hn.png
+TLC.hn,HN - TLC,https://iptv-epg.org/logos/Honduras/TLC.hn.png
+TLNovelas.hn,HN - TLNovelas,https://iptv-epg.org/logos/Honduras/TLNovelas.hn.png
+TNT.hn,HN - TNT,https://iptv-epg.org/logos/Honduras/TNT.hn.png
+TNTSeries.hn,HN - TNT Series,https://iptv-epg.org/logos/Honduras/TNTSeries.hn.png
+TodoDeportes.hn,HN - Todo Deportes,https://iptv-epg.org/logos/Honduras/TodoDeportes.hn.png
+TruTV.hn,HN - TruTV,https://iptv-epg.org/logos/Honduras/TruTV.hn.png
+TVE.hn,HN - TVE,https://iptv-epg.org/logos/Honduras/TVE.hn.png
+TVH.hn,HN - TVH,https://iptv-epg.org/logos/Honduras/TVH.hn.png
+UniversalTV.hn,HN - Universal TV,https://iptv-epg.org/logos/Honduras/UniversalTV.hn.png
+Univision.hn,HN - Univision,https://iptv-epg.org/logos/Honduras/Univision.hn.png
+UTV-UniversidadAutonoma.hn,HN - UTV - Universidad Autónoma,https://iptv-epg.org/logos/Honduras/UTV-UniversidadAutonoma.hn.png
+Venus.hn,HN - Venus,https://iptv-epg.org/logos/Honduras/Venus.hn.png
+VePlusTV.hn,HN - Ve Plus TV,https://iptv-epg.org/logos/Honduras/VePlusTV.hn.png
+VH1.hn,HN - VH1,https://iptv-epg.org/logos/Honduras/VH1.hn.png
+VH1ClassicUSA.hn,HN - VH1 Classic USA,https://iptv-epg.org/logos/Honduras/VH1ClassicUSA.hn.png
+VTV.hn,HN - VTV,https://iptv-epg.org/logos/Honduras/VTV.hn.png
+WarnerChannel.hn,HN - Warner Channel,https://iptv-epg.org/logos/Honduras/WarnerChannel.hn.png
+VICA.hn,HN - Programación VICA,
+RCN.hn,HN - RCN,https://iptv-epg.org/logos/Honduras/RCN.hn.png

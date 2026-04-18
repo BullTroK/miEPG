@@ -1,0 +1,80 @@
+# Fuente: https://iptv-epg.org/files/epg-py.xml
+A&amp;E.py,PY - A&amp;E,https://iptv-epg.org/logos/Paraguay/A%26E.py.png
+ABCTV.py,PY - ABC TV,https://iptv-epg.org/logos/Paraguay/ABCTV.py.png
+America24.py,PY - America 24,https://iptv-epg.org/logos/Paraguay/America24.py.png
+AMERICATELEVISION.py,PY - AMÉRICA TELEVISION,https://iptv-epg.org/logos/Paraguay/AMERICATELEVISION.py.png
+AnimalPlanet.py,PY - Animal Planet,https://iptv-epg.org/logos/Paraguay/AnimalPlanet.py.png
+AXN.py,PY - AXN,https://iptv-epg.org/logos/Paraguay/AXN.py.png
+AzCorazon.py,PY - Az Corazón,https://iptv-epg.org/logos/Paraguay/AzCorazon.py.png
+C9N.py,PY - C9N,https://iptv-epg.org/logos/Paraguay/C9N.py.png
+CaracolInternacional.py,PY - Caracol Internacional,https://iptv-epg.org/logos/Paraguay/CaracolInternacional.py.png
+CartoonNetwork.py,PY - Cartoon Network,https://iptv-epg.org/logos/Paraguay/CartoonNetwork.py.png
+Cinecanal.py,PY - Cinecanal,https://iptv-epg.org/logos/Paraguay/Cinecanal.py.png
+Cinelatino.py,PY - Cinelatino,https://iptv-epg.org/logos/Paraguay/Cinelatino.py.png
+CNNenEspanol.py,PY - CNN en Español,https://iptv-epg.org/logos/Paraguay/CNNenEspanol.py.png
+ComedyCentral.py,PY - Comedy Central,https://iptv-epg.org/logos/Paraguay/ComedyCentral.py.png
+DHE.py,PY - DHE,https://iptv-epg.org/logos/Paraguay/DHE.py.png
+DiscoveryChannel.py,PY - Discovery Channel,https://iptv-epg.org/logos/Paraguay/DiscoveryChannel.py.png
+DiscoveryKids.py,PY - Discovery Kids,https://iptv-epg.org/logos/Paraguay/DiscoveryKids.py.png
+DiscoveryTurbo.py,PY - Discovery Turbo,https://iptv-epg.org/logos/Paraguay/DiscoveryTurbo.py.png
+DiscoveryWorld.py,PY - Discovery World,https://iptv-epg.org/logos/Paraguay/DiscoveryWorld.py.png
+DisneyChannel.py,PY - Disney Channel,https://iptv-epg.org/logos/Paraguay/DisneyChannel.py.png
+DisneyXD.py,PY - Disney XD,https://iptv-epg.org/logos/Paraguay/DisneyXD.py.png
+ElTrece.py,PY - El Trece,https://iptv-epg.org/logos/Paraguay/ElTrece.py.png
+Enlace.py,PY - Enlace,https://iptv-epg.org/logos/Paraguay/Enlace.py.png
+ESPN.py,PY - ESPN,https://iptv-epg.org/logos/Paraguay/ESPN.py.png
+ESPN2.py,PY - ESPN 2 ,https://iptv-epg.org/logos/Paraguay/ESPN2.py.png
+ESPN3.py,PY - ESPN 3,https://iptv-epg.org/logos/Paraguay/ESPN3.py.png
+FOXSports.py,PY - FOX Sports,https://iptv-epg.org/logos/Paraguay/FOXSports.py.png
+FOXSports3.py,PY - FOX Sports 3,https://iptv-epg.org/logos/Paraguay/FOXSports3.py.png
+FX.py,PY - FX,https://iptv-epg.org/logos/Paraguay/FX.py.png
+Golden.py,PY - Golden,https://iptv-epg.org/logos/Paraguay/Golden.py.png
+GolTV.py,PY - Gol TV,https://iptv-epg.org/logos/Paraguay/GolTV.py.png
+HBO.py,PY - HBO,https://iptv-epg.org/logos/Paraguay/HBO.py.png
+HBOMundi.py,PY - HBO Mundi,https://iptv-epg.org/logos/Paraguay/HBOMundi.py.png
+HBOPlusEste.py,PY - HBO Plus Este,https://iptv-epg.org/logos/Paraguay/HBOPlusEste.py.png
+HBOPop.py,PY - HBO Pop,https://iptv-epg.org/logos/Paraguay/HBOPop.py.png
+HBOSignature.py,PY - HBO Signature,https://iptv-epg.org/logos/Paraguay/HBOSignature.py.png
+HEiNetwork.py,PY - HEi Network,https://iptv-epg.org/logos/Paraguay/HEiNetwork.py.png
+History.py,PY - History,https://iptv-epg.org/logos/Paraguay/History.py.png
+HTV.py,PY - HTV,https://iptv-epg.org/logos/Paraguay/HTV.py.png
+LasEstrellas.py,PY - Las Estrellas,https://iptv-epg.org/logos/Paraguay/LasEstrellas.py.png
+latele.py,PY - latele,https://iptv-epg.org/logos/Paraguay/latele.py.png
+MTV.py,PY - MTV,https://iptv-epg.org/logos/Paraguay/MTV.py.png
+Multipremier.py,PY - Multipremier,https://iptv-epg.org/logos/Paraguay/Multipremier.py.png
+NationalGeographic.py,PY - National Geographic,https://iptv-epg.org/logos/Paraguay/NationalGeographic.py.png
+ParaguayTV.py,PY - Paraguay TV,https://iptv-epg.org/logos/Paraguay/ParaguayTV.py.png
+Paravision.py,PY - Paravisión,https://iptv-epg.org/logos/Paraguay/Paravision.py.png
+Playboy.py,PY - Playboy,https://iptv-epg.org/logos/Paraguay/Playboy.py.png
+RedGuarani.py,PY - Red Guaraní,https://iptv-epg.org/logos/Paraguay/RedGuarani.py.png
+RPC.py,PY - RPC,https://iptv-epg.org/logos/Paraguay/RPC.py.png
+RussiaToday.py,PY - Russia Today,https://iptv-epg.org/logos/Paraguay/RussiaToday.py.png
+SNT.py,PY - SNT,https://iptv-epg.org/logos/Paraguay/SNT.py.png
+Sony.py,PY - Sony,https://iptv-epg.org/logos/Paraguay/Sony.py.png
+Space.py,PY - Space,https://iptv-epg.org/logos/Paraguay/Space.py.png
+StarAction.py,PY - Star Action,https://iptv-epg.org/logos/Paraguay/StarAction.py.png
+StarChannel.py,PY - Star Channel,https://iptv-epg.org/logos/Paraguay/StarChannel.py.png
+StarComedy.py,PY - Star Comedy,https://iptv-epg.org/logos/Paraguay/StarComedy.py.png
+StarFun.py,PY - Star Fun,https://iptv-epg.org/logos/Paraguay/StarFun.py.png
+StarHits.py,PY - Star Hits,https://iptv-epg.org/logos/Paraguay/StarHits.py.png
+StarSeries.py,PY - Star Series,https://iptv-epg.org/logos/Paraguay/StarSeries.py.png
+StudioUniversal.py,PY - Studio Universal,https://iptv-epg.org/logos/Paraguay/StudioUniversal.py.png
+SurTV.py,PY - Sur TV,https://iptv-epg.org/logos/Paraguay/SurTV.py.png
+TeleAmiga.py,PY - TeleAmiga,https://iptv-epg.org/logos/Paraguay/TeleAmiga.py.png
+Telecafe.py,PY - Telecafé,https://iptv-epg.org/logos/Paraguay/Telecafe.py.png
+TelefeInternacional.py,PY - Telefe Internacional,https://iptv-epg.org/logos/Paraguay/TelefeInternacional.py.png
+Telefuturo.py,PY - Telefuturo,https://iptv-epg.org/logos/Paraguay/Telefuturo.py.png
+Telemundo.py,PY - Telemundo,https://iptv-epg.org/logos/Paraguay/Telemundo.py.png
+TigoSports.py,PY - Tigo Sports,https://iptv-epg.org/logos/Paraguay/TigoSports.py.png
+TLNovelas.py,PY - TLNovelas,https://iptv-epg.org/logos/Paraguay/TLNovelas.py.png
+TNT.py,PY - TNT,https://iptv-epg.org/logos/Paraguay/TNT.py.png
+TNTSeries.py,PY - TNT Series,https://iptv-epg.org/logos/Paraguay/TNTSeries.py.png
+Tooncast.py,PY - Tooncast,https://iptv-epg.org/logos/Paraguay/Tooncast.py.png
+TVS.py,PY - TVS,https://iptv-epg.org/logos/Paraguay/TVS.py.png
+TyCSports.py,PY - TyC Sports,https://iptv-epg.org/logos/Paraguay/TyCSports.py.png
+Unicanal.py,PY - Unicanal,https://iptv-epg.org/logos/Paraguay/Unicanal.py.png
+UniversalChannel.py,PY - Universal Channel,https://iptv-epg.org/logos/Paraguay/UniversalChannel.py.png
+Univision.py,PY - Univision,https://iptv-epg.org/logos/Paraguay/Univision.py.png
+Venus.py,PY - Venus,https://iptv-epg.org/logos/Paraguay/Venus.py.png
+WarnerChannel.py,PY - Warner Channel,https://iptv-epg.org/logos/Paraguay/WarnerChannel.py.png
+Cartoonito.py,PY - Cartoonito,https://iptv-epg.org/logos/Paraguay/Cartoonito.py.png

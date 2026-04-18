@@ -1,0 +1,57 @@
+# Fuente: https://iptv-epg.org/files/epg-ve.xml
+AandE.ve,VE - AandE,https://iptv-epg.org/logos/Venezuela/AandE.ve.png
+AMC.ve,VE - AMC,https://iptv-epg.org/logos/Venezuela/AMC.ve.png
+AnimalPlanet.ve,VE - Animal Planet,https://iptv-epg.org/logos/Venezuela/AnimalPlanet.ve.png
+AXN.ve,VE - AXN,https://iptv-epg.org/logos/Venezuela/AXN.ve.png
+Boomerang.ve,VE - Boomerang,https://iptv-epg.org/logos/Venezuela/Boomerang.ve.png
+CartoonNetwork.ve,VE - Cartoon Network,https://iptv-epg.org/logos/Venezuela/CartoonNetwork.ve.png
+Cartoonito.ve,VE - Cartoonito,https://iptv-epg.org/logos/Venezuela/Cartoonito.ve.png
+Cinecanal.ve,VE - Cinecanal,https://iptv-epg.org/logos/Venezuela/Cinecanal.ve.png
+Cinemax.ve,VE - Cinemax,https://iptv-epg.org/logos/Venezuela/Cinemax.ve.png
+ComedyCentral.ve,VE - Comedy Central,https://iptv-epg.org/logos/Venezuela/ComedyCentral.ve.png
+DiscoveryChannel.ve,VE - Discovery Channel,https://iptv-epg.org/logos/Venezuela/DiscoveryChannel.ve.png
+DiscoveryHomeandHealth.ve,VE - Discovery Home and Health,https://iptv-epg.org/logos/Venezuela/DiscoveryHomeandHealth.ve.png
+DiscoveryKids.ve,VE - Discovery Kids,https://iptv-epg.org/logos/Venezuela/DiscoveryKids.ve.png
+DisneyChannel.ve,VE - Disney Channel,https://iptv-epg.org/logos/Venezuela/DisneyChannel.ve.png
+DisneyJunior.ve,VE - Disney Junior,https://iptv-epg.org/logos/Venezuela/DisneyJunior.ve.png
+DisneyXD.ve,VE - Disney XD,https://iptv-epg.org/logos/Venezuela/DisneyXD.ve.png
+E!EntertainmentTelevision.ve,VE - E! Entertainment Television,https://iptv-epg.org/logos/Venezuela/E%21EntertainmentTelevision.ve.png
+ESPN.ve,VE - ESPN,https://iptv-epg.org/logos/Venezuela/ESPN.ve.png
+ESPN2.ve,VE - ESPN 2,https://iptv-epg.org/logos/Venezuela/ESPN2.ve.png
+ESPN3.ve,VE - ESPN 3,https://iptv-epg.org/logos/Venezuela/ESPN3.ve.png
+ESPN4.ve,VE - ESPN 4,https://iptv-epg.org/logos/Venezuela/ESPN4.ve.png
+FoxChannel.ve,VE - Fox Channel,https://iptv-epg.org/logos/Venezuela/FoxChannel.ve.png
+FoxLife.ve,VE - Fox Life,https://iptv-epg.org/logos/Venezuela/FoxLife.ve.png
+FoxSports.ve,VE - Fox Sports,https://iptv-epg.org/logos/Venezuela/FoxSports.ve.png
+FoxSports2.ve,VE - Fox Sports 2,https://iptv-epg.org/logos/Venezuela/FoxSports2.ve.png
+FoxSports3.ve,VE - Fox Sports 3,https://iptv-epg.org/logos/Venezuela/FoxSports3.ve.png
+FX.ve,VE - FX,https://iptv-epg.org/logos/Venezuela/FX.ve.png
+FXM.ve,VE - FXM,https://iptv-epg.org/logos/Venezuela/FXM.ve.png
+Golden.ve,VE - Golden,https://iptv-epg.org/logos/Venezuela/Golden.ve.png
+History.ve,VE - History,https://iptv-epg.org/logos/Venezuela/History.ve.png
+History2.ve,VE - History 2,https://iptv-epg.org/logos/Venezuela/History2.ve.png
+InvestigationDiscovery.ve,VE - Investigation Discovery,https://iptv-epg.org/logos/Venezuela/InvestigationDiscovery.ve.png
+LasEstrellas.ve,VE - Las Estrellas,https://iptv-epg.org/logos/Venezuela/LasEstrellas.ve.png
+Lifetime.ve,VE - Lifetime,https://iptv-epg.org/logos/Venezuela/Lifetime.ve.png
+MTV.ve,VE - MTV,https://iptv-epg.org/logos/Venezuela/MTV.ve.png
+NatGeoKids.ve,VE - Nat Geo Kids,https://iptv-epg.org/logos/Venezuela/NatGeoKids.ve.png
+NationalGeographic.ve,VE - National Geographic,https://iptv-epg.org/logos/Venezuela/NationalGeographic.ve.png
+NationalGeographicWild.ve,VE - National Geographic Wild,https://iptv-epg.org/logos/Venezuela/NationalGeographicWild.ve.png
+NickJr.ve,VE - Nick Jr.,https://iptv-epg.org/logos/Venezuela/NickJr.ve.png
+Nickelodeon.ve,VE - Nickelodeon,https://iptv-epg.org/logos/Venezuela/Nickelodeon.ve.png
+ParamountChannel.ve,VE - Paramount Channel,https://iptv-epg.org/logos/Venezuela/ParamountChannel.ve.png
+Sony.ve,VE - Sony,https://iptv-epg.org/logos/Venezuela/Sony.ve.png
+Space.ve,VE - Space,https://iptv-epg.org/logos/Venezuela/Space.ve.png
+StarChannel.ve,VE - Star Channel,https://iptv-epg.org/logos/Venezuela/StarChannel.ve.png
+StarLife.ve,VE - Star Life,https://iptv-epg.org/logos/Venezuela/StarLife.ve.png
+StudioUniversal.ve,VE - Studio Universal,https://iptv-epg.org/logos/Venezuela/StudioUniversal.ve.png
+Syfy.ve,VE - Syfy,https://iptv-epg.org/logos/Venezuela/Syfy.ve.png
+TBS.ve,VE - TBS,https://iptv-epg.org/logos/Venezuela/TBS.ve.png
+TCM.ve,VE - TCM,https://iptv-epg.org/logos/Venezuela/TCM.ve.png
+Telemundo.ve,VE - Telemundo,https://iptv-epg.org/logos/Venezuela/Telemundo.ve.png
+TLC.ve,VE - TLC,https://iptv-epg.org/logos/Venezuela/TLC.ve.png
+TLNovelas.ve,VE - TLNovelas,https://iptv-epg.org/logos/Venezuela/TLNovelas.ve.png
+TNT.ve,VE - TNT,https://iptv-epg.org/logos/Venezuela/TNT.ve.png
+TNTSeries.ve,VE - TNT Series,https://iptv-epg.org/logos/Venezuela/TNTSeries.ve.png
+UniversalTV.ve,VE - Universal TV,https://iptv-epg.org/logos/Venezuela/UniversalTV.ve.png
+WarnerTV.ve,VE - Warner TV,https://iptv-epg.org/logos/Venezuela/WarnerTV.ve.png

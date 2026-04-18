@@ -1,0 +1,88 @@
+# Fuente: https://iptv-epg.org/files/epg-sv.xml
+A&amp;E.sv,SV - A&amp;E,https://iptv-epg.org/logos/El_Salvador/A%26E.sv.png
+AMC.sv,SV - AMC,https://iptv-epg.org/logos/El_Salvador/AMC.sv.png
+AnimalPlanet.sv,SV - Animal Planet,https://iptv-epg.org/logos/El_Salvador/AnimalPlanet.sv.png
+AXN.sv,SV - AXN,https://iptv-epg.org/logos/El_Salvador/AXN.sv.png
+AzCorazon.sv,SV - Az Corazón,https://iptv-epg.org/logos/El_Salvador/AzCorazon.sv.png
+Azteca13.sv,SV - Azteca 13,https://iptv-epg.org/logos/El_Salvador/Azteca13.sv.png
+Bandamax.sv,SV - Bandamax,https://iptv-epg.org/logos/El_Salvador/Bandamax.sv.png
+BBCWorld.sv,SV - BBC World,https://iptv-epg.org/logos/El_Salvador/BBCWorld.sv.png
+Canal2.sv,SV - Canal 2,https://iptv-epg.org/logos/El_Salvador/Canal2.sv.png
+Canal4.sv,SV - Canal 4,https://iptv-epg.org/logos/El_Salvador/Canal4.sv.png
+Canal6.sv,SV - Canal 6,https://iptv-epg.org/logos/El_Salvador/Canal6.sv.png
+Canal10.sv,SV - Canal 10,https://iptv-epg.org/logos/El_Salvador/Canal10.sv.png
+Canal12.sv,SV - Canal 12,https://iptv-epg.org/logos/El_Salvador/Canal12.sv.png
+Canal19.sv,SV - Canal 19,https://iptv-epg.org/logos/El_Salvador/Canal19.sv.png
+Canal21.sv,SV - Canal 21,https://iptv-epg.org/logos/El_Salvador/Canal21.sv.png
+CanalClaro.sv,SV - Canal Claro,https://iptv-epg.org/logos/El_Salvador/CanalClaro.sv.png
+Cartoonito.sv,SV - Cartoonito,https://iptv-epg.org/logos/El_Salvador/Cartoonito.sv.png
+CartoonNetwork.sv,SV - Cartoon Network,https://iptv-epg.org/logos/El_Salvador/CartoonNetwork.sv.png
+Cinecanal.sv,SV - Cinecanal,https://iptv-epg.org/logos/El_Salvador/Cinecanal.sv.png
+Cinelatino.sv,SV - Cinelatino,https://iptv-epg.org/logos/El_Salvador/Cinelatino.sv.png
+Cinemax.sv,SV - Cinemax,https://iptv-epg.org/logos/El_Salvador/Cinemax.sv.png
+CNN.sv,SV - CNN,https://iptv-epg.org/logos/El_Salvador/CNN.sv.png
+CNNenEspanol.sv,SV - CNN en Español,https://iptv-epg.org/logos/El_Salvador/CNNenEspanol.sv.png
+ConcertChannel.sv,SV - Concert Channel,https://iptv-epg.org/logos/El_Salvador/ConcertChannel.sv.png
+DePelicula.sv,SV - De Película,https://iptv-epg.org/logos/El_Salvador/DePelicula.sv.png
+DISCOVERYCHANNEL.sv,SV - DISCOVERY CHANNEL,https://iptv-epg.org/logos/El_Salvador/DISCOVERYCHANNEL.sv.png
+DiscoveryChannel.sv,SV - Discovery Channel,http://iptvboss.xyz/logos/El_Salvador/DISCOVERYCHANNEL.sv.png
+DiscoveryHome&amp;Health.sv,SV - Discovery Home &amp; Health,https://iptv-epg.org/logos/El_Salvador/DiscoveryHome%26Health.sv.png
+DiscoveryKids.sv,SV - Discovery Kids,https://iptv-epg.org/logos/El_Salvador/DiscoveryKids.sv.png
+DiscoveryWorld.sv,SV - Discovery World,https://iptv-epg.org/logos/El_Salvador/DiscoveryWorld.sv.png
+DisneyChannel.sv,SV - Disney Channel,https://iptv-epg.org/logos/El_Salvador/DisneyChannel.sv.png
+DisneyJunior.sv,SV - Disney Junior,https://iptv-epg.org/logos/El_Salvador/DisneyJunior.sv.png
+DisneyXD.sv,SV - Disney XD,https://iptv-epg.org/logos/El_Salvador/DisneyXD.sv.png
+E!.sv,SV - E!,https://iptv-epg.org/logos/El_Salvador/E%21.sv.png
+ElGourmet.sv,SV - El Gourmet,https://iptv-epg.org/logos/El_Salvador/ElGourmet.sv.png
+Enlace.sv,SV - Enlace,https://iptv-epg.org/logos/El_Salvador/Enlace.sv.png
+ESPN.sv,SV - ESPN,https://iptv-epg.org/logos/El_Salvador/ESPN.sv.png
+ESPN+.sv,SV - ESPN+,https://iptv-epg.org/logos/El_Salvador/ESPN%2B.sv.png
+ESPN2.sv,SV - ESPN 2,https://iptv-epg.org/logos/El_Salvador/ESPN2.sv.png
+EWTN.sv,SV - EWTN,https://iptv-epg.org/logos/El_Salvador/EWTN.sv.png
+FOXSports.sv,SV - FOX Sports,https://iptv-epg.org/logos/El_Salvador/FOXSports.sv.png
+FOXSports2.sv,SV - FOX Sports 2,https://iptv-epg.org/logos/El_Salvador/FOXSports2.sv.png
+FOXSports3.sv,SV - FOX Sports 3,https://iptv-epg.org/logos/El_Salvador/FOXSports3.sv.png
+FX.sv,SV - FX,https://iptv-epg.org/logos/El_Salvador/FX.sv.png
+FXMovies.sv,SV - FX Movies,https://iptv-epg.org/logos/El_Salvador/FXMovies.sv.png
+Genteve.sv,SV - Gentevé,https://iptv-epg.org/logos/El_Salvador/Genteve.sv.png
+Golden.sv,SV - Golden,https://iptv-epg.org/logos/El_Salvador/Golden.sv.png
+HBO.sv,SV - HBO,https://iptv-epg.org/logos/El_Salvador/HBO.sv.png
+HBO2.sv,SV - HBO 2,https://iptv-epg.org/logos/El_Salvador/HBO2.sv.png
+HBOMundi.sv,SV - HBO Mundi,https://iptv-epg.org/logos/El_Salvador/HBOMundi.sv.png
+History.sv,SV - History,https://iptv-epg.org/logos/El_Salvador/History.sv.png
+History2.sv,SV - History 2,https://iptv-epg.org/logos/El_Salvador/History2.sv.png
+HTV.sv,SV - HTV,https://iptv-epg.org/logos/El_Salvador/HTV.sv.png
+InvestigationDiscovery.sv,SV - Investigation Discovery,https://iptv-epg.org/logos/El_Salvador/InvestigationDiscovery.sv.png
+LasEstrellas.sv,SV - Las Estrellas,https://iptv-epg.org/logos/El_Salvador/LasEstrellas.sv.png
+Lifetime.sv,SV - Lifetime,https://iptv-epg.org/logos/El_Salvador/Lifetime.sv.png
+MTV.sv,SV - MTV,https://iptv-epg.org/logos/El_Salvador/MTV.sv.png
+Multipremier.sv,SV - Multipremier,https://iptv-epg.org/logos/El_Salvador/Multipremier.sv.png
+MasChic.sv,SV - Más Chic,https://iptv-epg.org/logos/El_Salvador/MasChic.sv.png
+NationalGeographic.sv,SV - National Geographic,https://iptv-epg.org/logos/El_Salvador/NationalGeographic.sv.png
+Nick.sv,SV - Nick,https://iptv-epg.org/logos/El_Salvador/Nick.sv.png
+RaiItalia.sv,SV - Rai Italia,https://iptv-epg.org/logos/El_Salvador/RaiItalia.sv.png
+RMS.sv,SV - RMS,https://iptv-epg.org/logos/El_Salvador/RMS.sv.png
+Sony.sv,SV - Sony,https://iptv-epg.org/logos/El_Salvador/Sony.sv.png
+Space.sv,SV - Space,https://iptv-epg.org/logos/El_Salvador/Space.sv.png
+StarChannel.sv,SV - Star Channel,https://iptv-epg.org/logos/El_Salvador/StarChannel.sv.png
+StarLife.sv,SV - Star Life,https://iptv-epg.org/logos/El_Salvador/StarLife.sv.png
+StudioUniversal.sv,SV - Studio Universal,https://iptv-epg.org/logos/El_Salvador/StudioUniversal.sv.png
+TabernaculoBiblicoBautista.sv,SV - Tabernaculo Biblico Bautista,
+TBS.sv,SV - TBS,https://iptv-epg.org/logos/El_Salvador/TBS.sv.png
+TCM.sv,SV - TCM,https://iptv-epg.org/logos/El_Salvador/TCM.sv.png
+TDN.sv,SV - TDN,https://iptv-epg.org/logos/El_Salvador/TDN.sv.png
+Telemundo.sv,SV - Telemundo,https://iptv-epg.org/logos/El_Salvador/Telemundo.sv.png
+teleSUR.sv,SV - teleSUR,https://iptv-epg.org/logos/El_Salvador/teleSUR.sv.png
+TLC.sv,SV - TLC,https://iptv-epg.org/logos/El_Salvador/TLC.sv.png
+TLNovelas.sv,SV - TLNovelas,https://iptv-epg.org/logos/El_Salvador/TLNovelas.sv.png
+TNT.sv,SV - TNT,https://iptv-epg.org/logos/El_Salvador/TNT.sv.png
+TNTSeries.sv,SV - TNT Series,https://iptv-epg.org/logos/El_Salvador/TNTSeries.sv.png
+TVE.sv,SV - TVE,https://iptv-epg.org/logos/El_Salvador/TVE.sv.png
+TVNChile.sv,SV - TVN Chile,https://iptv-epg.org/logos/El_Salvador/TVNChile.sv.png
+TVOCanal23.sv,SV - TV Oriente Canal 23,https://iptv-epg.org/logos/El_Salvador/TVOCanal23.sv.png
+TVX.sv,SV - TVX,https://iptv-epg.org/logos/El_Salvador/TVX.sv.png
+UniversalTV.sv,SV - Universal TV,https://iptv-epg.org/logos/El_Salvador/UniversalTV.sv.png
+VePlusTV.sv,SV - Ve Plus TV,https://iptv-epg.org/logos/El_Salvador/VePlusTV.sv.png
+VH1.sv,SV - VH1,https://iptv-epg.org/logos/El_Salvador/VH1.sv.png
+VTV.sv,SV - VTV,https://iptv-epg.org/logos/El_Salvador/VTV.sv.png
+WarnerChannel.sv,SV - Warner Channel,https://iptv-epg.org/logos/El_Salvador/WarnerChannel.sv.png
