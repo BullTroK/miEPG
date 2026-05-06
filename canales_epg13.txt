@@ -15,8 +15,8 @@ Bethel.pe,PE - Bethel,https://iptv-epg.org/logos/Peru/Bethel.pe.png
 BYUtv.pe,PE - BYUtv,https://iptv-epg.org/logos/Peru/BYUtv.pe.png
 Cablenoticias.pe,PE - Cablenoticias,https://iptv-epg.org/logos/Peru/Cablenoticias.pe.png
 Canal7.pe,PE - Canal 7,https://iptv-epg.org/logos/Peru/Canal7.pe.png
-Cartoonito.pe,PE - Cartoonito,https://iptv-epg.org/logos/Peru/Cartoonito.pe.png
 CartoonNetwork.pe,PE - Cartoon Network,https://iptv-epg.org/logos/Peru/CartoonNetwork.pe.png
+Cartoonito.pe,PE - Cartoonito,https://iptv-epg.org/logos/Peru/Cartoonito.pe.png
 CCTV4.pe,PE - CCTV 4,https://iptv-epg.org/logos/Peru/CCTV4.pe.png
 Chilevision.pe,PE - Chilevisión,https://iptv-epg.org/logos/Peru/Chilevision.pe.png
 Cinecanal.pe,PE - Cinecanal,https://iptv-epg.org/logos/Peru/Cinecanal.pe.png
@@ -29,6 +29,10 @@ CNNEEUU.pe,PE - CNN (EE.UU.),https://iptv-epg.org/logos/Peru/CNNEEUU.pe.png
 CNNenEspanol.pe,PE - CNN en Español,https://iptv-epg.org/logos/Peru/CNNenEspanol.pe.png
 DePelicula.pe,PE - De Película,https://iptv-epg.org/logos/Peru/DePelicula.pe.png
 DestinosTV.pe,PE - Destinos TV,https://iptv-epg.org/logos/Peru/DestinosTV.pe.png
+DIRECTVSports.pe,PE - DIRECTV Sports,https://iptv-epg.org/logos/Peru/DIRECTVSports.pe.png
+DIRECTVSports2.pe,PE - DIRECTV Sports 2,https://iptv-epg.org/logos/Peru/DIRECTVSports2.pe.png
+DIRECTVSports+.pe,PE - DIRECTV Sports +,https://iptv-epg.org/logos/Peru/DIRECTVSports%2B.pe.png
+DIRECTVSportsFight.pe,PE - DIRECTV Sports Fight,https://iptv-epg.org/logos/Peru/DIRECTVSportsFight.pe.png
 DiscoveryChannel.pe,PE - Discovery Channel,https://iptv-epg.org/logos/Peru/DiscoveryChannel.pe.png
 DiscoveryHome&amp;Health.pe,PE - Discovery Home &amp; Health,https://iptv-epg.org/logos/Peru/DiscoveryHome%26Health.pe.png
 DiscoveryKids.pe,PE - Discovery Kids,https://iptv-epg.org/logos/Peru/DiscoveryKids.pe.png
@@ -40,28 +44,35 @@ DWEspanol.pe,PE - DW (Español),https://iptv-epg.org/logos/Peru/DWEspanol.pe.png
 E!.pe,PE - E!,https://iptv-epg.org/logos/Peru/E%21.pe.png
 ElGourmet.pe,PE - El Gourmet,https://iptv-epg.org/logos/Peru/ElGourmet.pe.png
 EnlaceTBN.pe,PE - Enlace TBN,https://iptv-epg.org/logos/Peru/EnlaceTBN.pe.png
+ESPN.pe,PE - ESPN,https://iptv-epg.org/logos/Peru/ESPN.pe.png
+ESPN2.pe,PE - ESPN 2,https://iptv-epg.org/logos/Peru/ESPN2.pe.png
+ESPN3.pe,PE - ESPN 3,https://iptv-epg.org/logos/Peru/ESPN3.pe.png
+ESPN4.pe,PE - ESPN 4,https://iptv-epg.org/logos/Peru/ESPN4.pe.png
+ESPN5.pe,PE - ESPN 5,https://iptv-epg.org/logos/Peru/ESPN5.pe.png
+ESPN6.pe,PE - ESPN 6,https://iptv-epg.org/logos/Peru/ESPN6.pe.png
+ESPN7.pe,PE - ESPN 7,https://iptv-epg.org/logos/Peru/ESPN7.pe.png
 Eurochannel.pe,PE - Eurochannel,https://iptv-epg.org/logos/Peru/Eurochannel.pe.png
 Euronews.pe,PE - Euronews,https://iptv-epg.org/logos/Peru/Euronews.pe.png
 EuropaEuropa.pe,PE - Europa Europa,https://iptv-epg.org/logos/Peru/EuropaEuropa.pe.png
 EWTN.pe,PE - EWTN,https://iptv-epg.org/logos/Peru/EWTN.pe.png
-film&amp;arts.pe,PE - film&amp;arts,https://iptv-epg.org/logos/Peru/film%26arts.pe.png
 FilmZone.pe,PE - Film Zone,https://iptv-epg.org/logos/Peru/FilmZone.pe.png
+film&amp;arts.pe,PE - film&amp;arts,https://iptv-epg.org/logos/Peru/film%26arts.pe.png
 FOXSports.pe,PE - FOX Sports,https://iptv-epg.org/logos/Peru/FOXSports.pe.png
 FOXSports2.pe,PE - FOX Sports 2,https://iptv-epg.org/logos/Peru/FOXSports2.pe.png
 FOXSports3.pe,PE - FOX Sports 3,https://iptv-epg.org/logos/Peru/FOXSports3.pe.png
 FX.pe,PE - FX,https://iptv-epg.org/logos/Peru/FX.pe.png
 Glitz.pe,PE - Glitz,https://iptv-epg.org/logos/Peru/Glitz.pe.png
+GOLTV.pe,PE - GOL TV,https://iptv-epg.org/logos/Peru/GOLTV.pe.png
 Golden.pe,PE - Golden,https://iptv-epg.org/logos/Peru/Golden.pe.png
 GoldenEdge.pe,PE - Golden Edge,https://iptv-epg.org/logos/Peru/GoldenEdge.pe.png
-GOLTV.pe,PE - GOL TV,https://iptv-epg.org/logos/Peru/GOLTV.pe.png
+GolfChannel.pe,PE - Golf Channel,https://iptv-epg.org/logos/Peru/GolfChannel.pe.png
 HBO.pe,PE - HBO,https://iptv-epg.org/logos/Peru/HBO.pe.png
 History.pe,PE - History,https://iptv-epg.org/logos/Peru/History.pe.png
 History2.pe,PE - History 2,https://iptv-epg.org/logos/Peru/History2.pe.png
 HTV.pe,PE - HTV,https://iptv-epg.org/logos/Peru/HTV.pe.png
-I.Sat.pe,SAT - I.Sat,https://iptv-epg.org/logos/Peru/I.Sat.pe.png
 InvestigationDiscovery.pe,PE - Investigation Discovery,https://iptv-epg.org/logos/Peru/InvestigationDiscovery.pe.png
-LasEstrellas.pe,PE - Las Estrellas,https://iptv-epg.org/logos/Peru/LasEstrellas.pe.png
 LaTele.pe,PE - La Tele,https://iptv-epg.org/logos/Peru/LaTele.pe.png
+LasEstrellas.pe,PE - Las Estrellas,https://iptv-epg.org/logos/Peru/LasEstrellas.pe.png
 Latina.pe,PE - Latina,https://iptv-epg.org/logos/Peru/Latina.pe.png
 Lifetime.pe,PE - Lifetime,https://iptv-epg.org/logos/Peru/Lifetime.pe.png
 Mariavision.pe,PE - Mariavisión,https://iptv-epg.org/logos/Peru/Mariavision.pe.png
@@ -79,6 +90,7 @@ PanamericanaTV.pe,PE - Panamericana TV,https://iptv-epg.org/logos/Peru/Panameric
 ParamountNetwork.pe,PE - Paramount Network,https://iptv-epg.org/logos/Peru/ParamountNetwork.pe.png
 PAT.pe,PE - PAT,https://iptv-epg.org/logos/Peru/PAT.pe.png
 PFC.pe,PE - PFC,https://iptv-epg.org/logos/Peru/PFC.pe.png
+PXSports.pe,PE - PX Sports,https://iptv-epg.org/logos/Peru/PXSports.pe.png
 RBC.pe,PE - RBC,https://iptv-epg.org/logos/Peru/RBC.pe.png
 RMS.pe,PE - RMS,https://iptv-epg.org/logos/Peru/RMS.pe.png
 RumbaTV.pe,PE - Rumba TV,https://iptv-epg.org/logos/Peru/RumbaTV.pe.png
@@ -102,25 +114,13 @@ TNT.pe,PE - TNT,https://iptv-epg.org/logos/Peru/TNT.pe.png
 TNTSeries.pe,PE - TNT Series,https://iptv-epg.org/logos/Peru/TNTSeries.pe.png
 TruTV.pe,PE - TruTV,https://iptv-epg.org/logos/Peru/TruTV.pe.png
 TvAgro.pe,PE - Tv Agro,https://iptv-epg.org/logos/Peru/TvAgro.pe.png
+TVPeru.pe,PE - TV Perú,https://iptv-epg.org/logos/Peru/TVPeru.pe.png
 TVE.pe,PE - TVE,https://iptv-epg.org/logos/Peru/TVE.pe.png
 TVNChile.pe,PE - TVN Chile,https://iptv-epg.org/logos/Peru/TVNChile.pe.png
-TVPeru.pe,PE - TV Perú,https://iptv-epg.org/logos/Peru/TVPeru.pe.png
+TyCSports.pe,PE - TyC Sports,https://iptv-epg.org/logos/Peru/TyCSports.pe.png
 Unitel.pe,PE - Unitel,https://iptv-epg.org/logos/Peru/Unitel.pe.png
 UniversalTV.pe,PE - Universal TV,https://iptv-epg.org/logos/Peru/UniversalTV.pe.png
 VePlusTV.pe,PE - Ve Plus TV,https://iptv-epg.org/logos/Peru/VePlusTV.pe.png
 WarnerChannel.pe,PE - Warner Channel,https://iptv-epg.org/logos/Peru/WarnerChannel.pe.png
 Willax.pe,PE - Willax,https://iptv-epg.org/logos/Peru/Willax.pe.png
-ESPN.pe,PE - ESPN,https://iptv-epg.org/logos/Peru/ESPN.pe.png
-ESPN2.pe,PE - ESPN 2,https://iptv-epg.org/logos/Peru/ESPN2.pe.png
-ESPN3.pe,PE - ESPN 3,https://iptv-epg.org/logos/Peru/ESPN3.pe.png
-GolfChannel.pe,PE - Golf Channel,https://iptv-epg.org/logos/Peru/GolfChannel.pe.png
-ESPN4.pe,PE - ESPN 4,https://iptv-epg.org/logos/Peru/ESPN4.pe.png
-ESPN5.pe,PE - ESPN 5,https://iptv-epg.org/logos/Peru/ESPN5.pe.png
-ESPN6.pe,PE - ESPN 6,https://iptv-epg.org/logos/Peru/ESPN6.pe.png
-ESPN7.pe,PE - ESPN 7,https://iptv-epg.org/logos/Peru/ESPN7.pe.png
-TyCSports.pe,PE - TyC Sports,https://iptv-epg.org/logos/Peru/TyCSports.pe.png
-PXSports.pe,PE - PX Sports,https://iptv-epg.org/logos/Peru/PXSports.pe.png
-DIRECTVSports.pe,PE - DIRECTV Sports,https://iptv-epg.org/logos/Peru/DIRECTVSports.pe.png
-DIRECTVSports2.pe,PE - DIRECTV Sports 2,https://iptv-epg.org/logos/Peru/DIRECTVSports2.pe.png
-DIRECTVSports+.pe,PE - DIRECTV Sports +,https://iptv-epg.org/logos/Peru/DIRECTVSports%2B.pe.png
-DIRECTVSportsFight.pe,PE - DIRECTV Sports Fight,https://iptv-epg.org/logos/Peru/DIRECTVSportsFight.pe.png
+I.Sat.pe,SAT - I.Sat,https://iptv-epg.org/logos/Peru/I.Sat.pe.png

@@ -9,6 +9,7 @@ AzCorazon.py,PY - Az Corazón,https://iptv-epg.org/logos/Paraguay/AzCorazon.py.p
 C9N.py,PY - C9N,https://iptv-epg.org/logos/Paraguay/C9N.py.png
 CaracolInternacional.py,PY - Caracol Internacional,https://iptv-epg.org/logos/Paraguay/CaracolInternacional.py.png
 CartoonNetwork.py,PY - Cartoon Network,https://iptv-epg.org/logos/Paraguay/CartoonNetwork.py.png
+Cartoonito.py,PY - Cartoonito,https://iptv-epg.org/logos/Paraguay/Cartoonito.py.png
 Cinecanal.py,PY - Cinecanal,https://iptv-epg.org/logos/Paraguay/Cinecanal.py.png
 Cinelatino.py,PY - Cinelatino,https://iptv-epg.org/logos/Paraguay/Cinelatino.py.png
 CNNenEspanol.py,PY - CNN en Español,https://iptv-epg.org/logos/Paraguay/CNNenEspanol.py.png
@@ -28,8 +29,8 @@ ESPN3.py,PY - ESPN 3,https://iptv-epg.org/logos/Paraguay/ESPN3.py.png
 FOXSports.py,PY - FOX Sports,https://iptv-epg.org/logos/Paraguay/FOXSports.py.png
 FOXSports3.py,PY - FOX Sports 3,https://iptv-epg.org/logos/Paraguay/FOXSports3.py.png
 FX.py,PY - FX,https://iptv-epg.org/logos/Paraguay/FX.py.png
-Golden.py,PY - Golden,https://iptv-epg.org/logos/Paraguay/Golden.py.png
 GolTV.py,PY - Gol TV,https://iptv-epg.org/logos/Paraguay/GolTV.py.png
+Golden.py,PY - Golden,https://iptv-epg.org/logos/Paraguay/Golden.py.png
 HBO.py,PY - HBO,https://iptv-epg.org/logos/Paraguay/HBO.py.png
 HBOMundi.py,PY - HBO Mundi,https://iptv-epg.org/logos/Paraguay/HBOMundi.py.png
 HBOPlusEste.py,PY - HBO Plus Este,https://iptv-epg.org/logos/Paraguay/HBOPlusEste.py.png
@@ -77,4 +78,3 @@ UniversalChannel.py,PY - Universal Channel,https://iptv-epg.org/logos/Paraguay/U
 Univision.py,PY - Univision,https://iptv-epg.org/logos/Paraguay/Univision.py.png
 Venus.py,PY - Venus,https://iptv-epg.org/logos/Paraguay/Venus.py.png
 WarnerChannel.py,PY - Warner Channel,https://iptv-epg.org/logos/Paraguay/WarnerChannel.py.png
-Cartoonito.py,PY - Cartoonito,https://iptv-epg.org/logos/Paraguay/Cartoonito.py.png

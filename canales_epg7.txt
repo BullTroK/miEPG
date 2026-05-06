@@ -1,98 +1,98 @@
 # Fuente: https://iptv-epg.org/files/epg-do.xml
-TeleAntillas.dr,DR - Tele Antillas,https://iptv-epg.org/logos/Dominican_Republic/TeleAntillas.dr.png
-TelemicroInternacional.dr,DR - Telemicro Internacional,https://iptv-epg.org/logos/Dominican_Republic/TelemicroInternacional.dr.png
-Canal7.dr,DR - Canal 7,https://iptv-epg.org/logos/Dominican_Republic/Canal7.dr.png
-CDNDeportes.dr,DR - CDN Deportes,https://iptv-epg.org/logos/Dominican_Republic/CDNDeportes.dr.png
-ColorVision.dr,DR - Color Visión,https://iptv-epg.org/logos/Dominican_Republic/ColorVision.dr.png
-Telesistema11.dr,DR - Telesistema 11,https://iptv-epg.org/logos/Dominican_Republic/Telesistema11.dr.png
-Telecentro.dr,DR - Telecentro,https://iptv-epg.org/logos/Dominican_Republic/Telecentro.dr.png
-Telemicro.dr,DR - Telemicro,https://iptv-epg.org/logos/Dominican_Republic/Telemicro.dr.png
-Teleunion.dr,DR - Teleunión,https://iptv-epg.org/logos/Dominican_Republic/Teleunion.dr.png
-TeleUniverso.dr,DR - TeleUniverso,https://iptv-epg.org/logos/Dominican_Republic/TeleUniverso.dr.png
-CDN.dr,DR - CDN,https://iptv-epg.org/logos/Dominican_Republic/CDN.dr.png
-FoxNews.dr,DR - Fox News,https://iptv-epg.org/logos/Dominican_Republic/FoxNews.dr.png
-CNN.dr,DR - CNN,https://iptv-epg.org/logos/Dominican_Republic/CNN.dr.png
-CNNInternacional.dr,DR - CNN Internacional,https://iptv-epg.org/logos/Dominican_Republic/CNNInternacional.dr.png
-BBCWorldNews.dr,DR - BBC World News,https://iptv-epg.org/logos/Dominican_Republic/BBCWorldNews.dr.png
-HLN.dr,DR - HLN,https://iptv-epg.org/logos/Dominican_Republic/HLN.dr.png
-ClaroTV.dr,DR - Claro TV,https://iptv-epg.org/logos/Dominican_Republic/ClaroTV.dr.png
-Sony.dr,DR - Sony,https://iptv-epg.org/logos/Dominican_Republic/Sony.dr.png
-E_EntertainmentTelevision.dr,DR - E! Entertainment Television,https://iptv-epg.org/logos/Dominican_Republic/E_EntertainmentTelevision.dr.png
-AXN.dr,DR - AXN,https://iptv-epg.org/logos/Dominican_Republic/AXN.dr.png
-InvestigationDiscovery.dr,DR - Investigation Discovery,https://iptv-epg.org/logos/Dominican_Republic/InvestigationDiscovery.dr.png
-FX.dr,DR - FX,https://iptv-epg.org/logos/Dominican_Republic/FX.dr.png
-DistritoComedia.dr,DR - Distrito Comedia,https://iptv-epg.org/logos/Dominican_Republic/DistritoComedia.dr.png
-UniversalTV.dr,DR - Universal TV,https://iptv-epg.org/logos/Dominican_Republic/UniversalTV.dr.png
-TNTNovelas.dr,DR - TNT Novelas,https://iptv-epg.org/logos/Dominican_Republic/TNTNovelas.dr.png
 AAndE.dr,DR - A&amp;E,https://iptv-epg.org/logos/Dominican_Republic/AAndE.dr.png
-StudioUniversal.dr,DR - Studio Universal,https://iptv-epg.org/logos/Dominican_Republic/StudioUniversal.dr.png
-WarnerTV.dr,DR - Warner TV,https://iptv-epg.org/logos/Dominican_Republic/WarnerTV.dr.png
-Space.dr,DR - Space,https://iptv-epg.org/logos/Dominican_Republic/Space.dr.png
-FilmAndArts.dr,DR - Film &amp; Arts,https://iptv-epg.org/logos/Dominican_Republic/FilmAndArts.dr.png
-TLNovelas.dr,DR - TLNovelas,https://iptv-epg.org/logos/Dominican_Republic/TLNovelas.dr.png
-LasEstrellas.dr,DR - Las Estrellas,https://iptv-epg.org/logos/Dominican_Republic/LasEstrellas.dr.png
-Telemundo.dr,DR - Telemundo,https://iptv-epg.org/logos/Dominican_Republic/Telemundo.dr.png
-TNTSeries.dr,DR - TNT Series,https://iptv-epg.org/logos/Dominican_Republic/TNTSeries.dr.png
-Lifetime.dr,DR - Lifetime,https://iptv-epg.org/logos/Dominican_Republic/Lifetime.dr.png
-USANetwork.dr,DR - USA Network,https://iptv-epg.org/logos/Dominican_Republic/USANetwork.dr.png
-RCNNovelas.dr,DR - RCN Novelas,https://iptv-epg.org/logos/Dominican_Republic/RCNNovelas.dr.png
-ComedyCentral.dr,DR - Comedy Central,https://iptv-epg.org/logos/Dominican_Republic/ComedyCentral.dr.png
-Telehit.dr,DR - Telehit,https://iptv-epg.org/logos/Dominican_Republic/Telehit.dr.png
-TelehitMusica.dr,DR - Telehit Música,https://iptv-epg.org/logos/Dominican_Republic/TelehitMusica.dr.png
-MTV.dr,DR - MTV,https://iptv-epg.org/logos/Dominican_Republic/MTV.dr.png
-MTV00s.dr,DR - MTV 00s,https://iptv-epg.org/logos/Dominican_Republic/MTV00s.dr.png
-HTV.dr,DR - HTV,https://iptv-epg.org/logos/Dominican_Republic/HTV.dr.png
-ExaTV.dr,DR - Exa TV,https://iptv-epg.org/logos/Dominican_Republic/ExaTV.dr.png
-ESPN.dr,DR - ESPN,https://iptv-epg.org/logos/Dominican_Republic/ESPN.dr.png
-ESPN3.dr,DR - ESPN 3,https://iptv-epg.org/logos/Dominican_Republic/ESPN3.dr.png
-ESPN2.dr,DR - ESPN 2,https://iptv-epg.org/logos/Dominican_Republic/ESPN2.dr.png
-DiscoveryTurbo.dr,DR - Discovery Turbo,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryTurbo.dr.png
-GolfChannel.dr,DR - Golf Channel,https://iptv-epg.org/logos/Dominican_Republic/GolfChannel.dr.png
-DiscoveryKids.dr,DR - Discovery Kids,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryKids.dr.png
-DisneyChannel.dr,DR - Disney Channel,https://iptv-epg.org/logos/Dominican_Republic/DisneyChannel.dr.png
-Nickelodeon.dr,DR - Nickelodeon,https://iptv-epg.org/logos/Dominican_Republic/Nickelodeon.dr.png
+AMC.dr,DR - AMC,https://iptv-epg.org/logos/Dominican_Republic/AMC.dr.png
+AnimalPlanet.dr,DR - Animal Planet,https://iptv-epg.org/logos/Dominican_Republic/AnimalPlanet.dr.png
+Antena3.dr,DR - Antena 3,https://iptv-epg.org/logos/Dominican_Republic/Antena3.dr.png
+AXN.dr,DR - AXN,https://iptv-epg.org/logos/Dominican_Republic/AXN.dr.png
+BabyTV.dr,DR - Baby TV,https://iptv-epg.org/logos/Dominican_Republic/BabyTV.dr.png
+BBCWorldNews.dr,DR - BBC World News,https://iptv-epg.org/logos/Dominican_Republic/BBCWorldNews.dr.png
+BitMe.dr,DR - BitMe,https://iptv-epg.org/logos/Dominican_Republic/BitMe.dr.png
+Canal7.dr,DR - Canal 7,https://iptv-epg.org/logos/Dominican_Republic/Canal7.dr.png
+CaracolInternacional.dr,DR - Caracol Internacional,https://iptv-epg.org/logos/Dominican_Republic/CaracolInternacional.dr.png
 CartoonNetwork.dr,DR - Cartoon Network,https://iptv-epg.org/logos/Dominican_Republic/CartoonNetwork.dr.png
 Cartoonito.dr,DR - Cartoonito,https://iptv-epg.org/logos/Dominican_Republic/Cartoonito.dr.png
-BitMe.dr,DR - BitMe,https://iptv-epg.org/logos/Dominican_Republic/BitMe.dr.png
-NickJr.dr,DR - Nick Jr.,https://iptv-epg.org/logos/Dominican_Republic/NickJr.dr.png
-BabyTV.dr,DR - Baby TV,https://iptv-epg.org/logos/Dominican_Republic/BabyTV.dr.png
-DisneyJunior.dr,DR - Disney Junior,https://iptv-epg.org/logos/Dominican_Republic/DisneyJunior.dr.png
-Tooncast.dr,DR - Tooncast,https://iptv-epg.org/logos/Dominican_Republic/Tooncast.dr.png
-History2.dr,DR - History 2,https://iptv-epg.org/logos/Dominican_Republic/History2.dr.png
-History.dr,DR - History,https://iptv-epg.org/logos/Dominican_Republic/History.dr.png
-AnimalPlanet.dr,DR - Animal Planet,https://iptv-epg.org/logos/Dominican_Republic/AnimalPlanet.dr.png
-NationalGeographic.dr,DR - National Geographic,https://iptv-epg.org/logos/Dominican_Republic/NationalGeographic.dr.png
-MasChic.dr,DR - Mas Chic,https://iptv-epg.org/logos/Dominican_Republic/MasChic.dr.png
-Elgourmet.dr,DR - Elgourmet,https://iptv-epg.org/logos/Dominican_Republic/Elgourmet.dr.png
-DiscoveryChannel.dr,DR - Discovery Channel,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryChannel.dr.png
-DiscoveryHomeAndHealth.dr,DR - Discovery Home &amp; Health,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryHomeAndHealth.dr.png
-TLC.dr,DR - TLC,https://iptv-epg.org/logos/Dominican_Republic/TLC.dr.png
-DiscoveryScience.dr,DR - Discovery Science,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryScience.dr.png
-Enlace.dr,DR - Enlace,https://iptv-epg.org/logos/Dominican_Republic/Enlace.dr.png
-EWTN.dr,DR - EWTN,https://iptv-epg.org/logos/Dominican_Republic/EWTN.dr.png
-TVAztecaMundo.dr,DR - TV Azteca Mundo,https://iptv-epg.org/logos/Dominican_Republic/TVAztecaMundo.dr.png
-TVEInternacional.dr,DR - TVE Internacional,https://iptv-epg.org/logos/Dominican_Republic/TVEInternacional.dr.png
-TV5MONDE.dr,DR - TV5MONDE,https://iptv-epg.org/logos/Dominican_Republic/TV5MONDE.dr.png
-CaracolInternacional.dr,DR - Caracol Internacional,https://iptv-epg.org/logos/Dominican_Republic/CaracolInternacional.dr.png
-Antena3.dr,DR - Antena 3,https://iptv-epg.org/logos/Dominican_Republic/Antena3.dr.png
-RAIInternational.dr,DR - RAI International,https://iptv-epg.org/logos/Dominican_Republic/RAIInternational.dr.png
-RCNNuestraTele_Internacional.dr,DR - RCN Nuestra Tele (Internacional),https://iptv-epg.org/logos/Dominican_Republic/RCNNuestraTele_Internacional.dr.png
-DW.dr,DR - DW,https://iptv-epg.org/logos/Dominican_Republic/DW.dr.png
-TNT.dr,DR - TNT,https://iptv-epg.org/logos/Dominican_Republic/TNT.dr.png
-DePelicula.dr,DR - De Película,https://iptv-epg.org/logos/Dominican_Republic/DePelicula.dr.png
-TCM.dr,DR - TCM,https://iptv-epg.org/logos/Dominican_Republic/TCM.dr.png
-AMC.dr,DR - AMC,https://iptv-epg.org/logos/Dominican_Republic/AMC.dr.png
+CDN.dr,DR - CDN,https://iptv-epg.org/logos/Dominican_Republic/CDN.dr.png
+CDNDeportes.dr,DR - CDN Deportes,https://iptv-epg.org/logos/Dominican_Republic/CDNDeportes.dr.png
+Cinecanal.dr,DR - Cinecanal,https://iptv-epg.org/logos/Dominican_Republic/Cinecanal.dr.png
 Cinelatino.dr,DR - Cinelatino,https://iptv-epg.org/logos/Dominican_Republic/Cinelatino.dr.png
 Cinemax.dr,DR - Cinemax,https://iptv-epg.org/logos/Dominican_Republic/Cinemax.dr.png
-Golden.dr,DR - Golden,https://iptv-epg.org/logos/Dominican_Republic/Golden.dr.png
-Multipremier.dr,DR - Multipremier,https://iptv-epg.org/logos/Dominican_Republic/Multipremier.dr.png
-Cinecanal.dr,DR - Cinecanal,https://iptv-epg.org/logos/Dominican_Republic/Cinecanal.dr.png
-ParamountChannel.dr,DR - Paramount Channel,https://iptv-epg.org/logos/Dominican_Republic/ParamountChannel.dr.png
-StarChannel.dr,DR - Star Channel,https://iptv-epg.org/logos/Dominican_Republic/StarChannel.dr.png
-VH1.dr,DR - VH1,https://iptv-epg.org/logos/Dominican_Republic/VH1.dr.png
-MTVLive.dr,DR - MTV Live,https://iptv-epg.org/logos/Dominican_Republic/MTVLive.dr.png
+ClaroTV.dr,DR - Claro TV,https://iptv-epg.org/logos/Dominican_Republic/ClaroTV.dr.png
+CNN.dr,DR - CNN,https://iptv-epg.org/logos/Dominican_Republic/CNN.dr.png
+CNNInternacional.dr,DR - CNN Internacional,https://iptv-epg.org/logos/Dominican_Republic/CNNInternacional.dr.png
+ColorVision.dr,DR - Color Visión,https://iptv-epg.org/logos/Dominican_Republic/ColorVision.dr.png
+ComedyCentral.dr,DR - Comedy Central,https://iptv-epg.org/logos/Dominican_Republic/ComedyCentral.dr.png
 ConcertChannel.dr,DR - Concert Channel,https://iptv-epg.org/logos/Dominican_Republic/ConcertChannel.dr.png
-ESPN4.dr,DR - ESPN 4,https://iptv-epg.org/logos/Dominican_Republic/ESPN4.dr.png
-DiscoveryWorld.dr,DR - Discovery World,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryWorld.dr.png
-DiscoveryTheater.dr,DR - Discovery Theater,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryTheater.dr.png
+DePelicula.dr,DR - De Película,https://iptv-epg.org/logos/Dominican_Republic/DePelicula.dr.png
 DHE.dr,DR - DHE,https://iptv-epg.org/logos/Dominican_Republic/DHE.dr.png
+DiscoveryChannel.dr,DR - Discovery Channel,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryChannel.dr.png
+DiscoveryHomeAndHealth.dr,DR - Discovery Home &amp; Health,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryHomeAndHealth.dr.png
+DiscoveryKids.dr,DR - Discovery Kids,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryKids.dr.png
+DiscoveryScience.dr,DR - Discovery Science,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryScience.dr.png
+DiscoveryTheater.dr,DR - Discovery Theater,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryTheater.dr.png
+DiscoveryTurbo.dr,DR - Discovery Turbo,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryTurbo.dr.png
+DiscoveryWorld.dr,DR - Discovery World,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryWorld.dr.png
+DisneyChannel.dr,DR - Disney Channel,https://iptv-epg.org/logos/Dominican_Republic/DisneyChannel.dr.png
+DisneyJunior.dr,DR - Disney Junior,https://iptv-epg.org/logos/Dominican_Republic/DisneyJunior.dr.png
+DistritoComedia.dr,DR - Distrito Comedia,https://iptv-epg.org/logos/Dominican_Republic/DistritoComedia.dr.png
+DW.dr,DR - DW,https://iptv-epg.org/logos/Dominican_Republic/DW.dr.png
+E_EntertainmentTelevision.dr,DR - E! Entertainment Television,https://iptv-epg.org/logos/Dominican_Republic/E_EntertainmentTelevision.dr.png
+Elgourmet.dr,DR - Elgourmet,https://iptv-epg.org/logos/Dominican_Republic/Elgourmet.dr.png
+Enlace.dr,DR - Enlace,https://iptv-epg.org/logos/Dominican_Republic/Enlace.dr.png
+ESPN.dr,DR - ESPN,https://iptv-epg.org/logos/Dominican_Republic/ESPN.dr.png
+ESPN2.dr,DR - ESPN 2,https://iptv-epg.org/logos/Dominican_Republic/ESPN2.dr.png
+ESPN3.dr,DR - ESPN 3,https://iptv-epg.org/logos/Dominican_Republic/ESPN3.dr.png
+ESPN4.dr,DR - ESPN 4,https://iptv-epg.org/logos/Dominican_Republic/ESPN4.dr.png
+EWTN.dr,DR - EWTN,https://iptv-epg.org/logos/Dominican_Republic/EWTN.dr.png
+ExaTV.dr,DR - Exa TV,https://iptv-epg.org/logos/Dominican_Republic/ExaTV.dr.png
+FilmAndArts.dr,DR - Film &amp; Arts,https://iptv-epg.org/logos/Dominican_Republic/FilmAndArts.dr.png
+FoxNews.dr,DR - Fox News,https://iptv-epg.org/logos/Dominican_Republic/FoxNews.dr.png
+FX.dr,DR - FX,https://iptv-epg.org/logos/Dominican_Republic/FX.dr.png
+Golden.dr,DR - Golden,https://iptv-epg.org/logos/Dominican_Republic/Golden.dr.png
+GolfChannel.dr,DR - Golf Channel,https://iptv-epg.org/logos/Dominican_Republic/GolfChannel.dr.png
+History.dr,DR - History,https://iptv-epg.org/logos/Dominican_Republic/History.dr.png
+History2.dr,DR - History 2,https://iptv-epg.org/logos/Dominican_Republic/History2.dr.png
+HLN.dr,DR - HLN,https://iptv-epg.org/logos/Dominican_Republic/HLN.dr.png
+HTV.dr,DR - HTV,https://iptv-epg.org/logos/Dominican_Republic/HTV.dr.png
+InvestigationDiscovery.dr,DR - Investigation Discovery,https://iptv-epg.org/logos/Dominican_Republic/InvestigationDiscovery.dr.png
+LasEstrellas.dr,DR - Las Estrellas,https://iptv-epg.org/logos/Dominican_Republic/LasEstrellas.dr.png
+Lifetime.dr,DR - Lifetime,https://iptv-epg.org/logos/Dominican_Republic/Lifetime.dr.png
+MasChic.dr,DR - Mas Chic,https://iptv-epg.org/logos/Dominican_Republic/MasChic.dr.png
+MTV.dr,DR - MTV,https://iptv-epg.org/logos/Dominican_Republic/MTV.dr.png
+MTV00s.dr,DR - MTV 00s,https://iptv-epg.org/logos/Dominican_Republic/MTV00s.dr.png
+MTVLive.dr,DR - MTV Live,https://iptv-epg.org/logos/Dominican_Republic/MTVLive.dr.png
+Multipremier.dr,DR - Multipremier,https://iptv-epg.org/logos/Dominican_Republic/Multipremier.dr.png
+NationalGeographic.dr,DR - National Geographic,https://iptv-epg.org/logos/Dominican_Republic/NationalGeographic.dr.png
+NickJr.dr,DR - Nick Jr.,https://iptv-epg.org/logos/Dominican_Republic/NickJr.dr.png
+Nickelodeon.dr,DR - Nickelodeon,https://iptv-epg.org/logos/Dominican_Republic/Nickelodeon.dr.png
+ParamountChannel.dr,DR - Paramount Channel,https://iptv-epg.org/logos/Dominican_Republic/ParamountChannel.dr.png
+RAIInternational.dr,DR - RAI International,https://iptv-epg.org/logos/Dominican_Republic/RAIInternational.dr.png
+RCNNovelas.dr,DR - RCN Novelas,https://iptv-epg.org/logos/Dominican_Republic/RCNNovelas.dr.png
+RCNNuestraTele_Internacional.dr,DR - RCN Nuestra Tele (Internacional),https://iptv-epg.org/logos/Dominican_Republic/RCNNuestraTele_Internacional.dr.png
+Sony.dr,DR - Sony,https://iptv-epg.org/logos/Dominican_Republic/Sony.dr.png
+Space.dr,DR - Space,https://iptv-epg.org/logos/Dominican_Republic/Space.dr.png
+StarChannel.dr,DR - Star Channel,https://iptv-epg.org/logos/Dominican_Republic/StarChannel.dr.png
+StudioUniversal.dr,DR - Studio Universal,https://iptv-epg.org/logos/Dominican_Republic/StudioUniversal.dr.png
+TCM.dr,DR - TCM,https://iptv-epg.org/logos/Dominican_Republic/TCM.dr.png
+TeleAntillas.dr,DR - Tele Antillas,https://iptv-epg.org/logos/Dominican_Republic/TeleAntillas.dr.png
+Telecentro.dr,DR - Telecentro,https://iptv-epg.org/logos/Dominican_Republic/Telecentro.dr.png
+Telehit.dr,DR - Telehit,https://iptv-epg.org/logos/Dominican_Republic/Telehit.dr.png
+TelehitMusica.dr,DR - Telehit Música,https://iptv-epg.org/logos/Dominican_Republic/TelehitMusica.dr.png
+Telemicro.dr,DR - Telemicro,https://iptv-epg.org/logos/Dominican_Republic/Telemicro.dr.png
+TelemicroInternacional.dr,DR - Telemicro Internacional,https://iptv-epg.org/logos/Dominican_Republic/TelemicroInternacional.dr.png
+Telemundo.dr,DR - Telemundo,https://iptv-epg.org/logos/Dominican_Republic/Telemundo.dr.png
+Telesistema11.dr,DR - Telesistema 11,https://iptv-epg.org/logos/Dominican_Republic/Telesistema11.dr.png
+TeleUniverso.dr,DR - TeleUniverso,https://iptv-epg.org/logos/Dominican_Republic/TeleUniverso.dr.png
+Teleunion.dr,DR - Teleunión,https://iptv-epg.org/logos/Dominican_Republic/Teleunion.dr.png
+TLC.dr,DR - TLC,https://iptv-epg.org/logos/Dominican_Republic/TLC.dr.png
+TLNovelas.dr,DR - TLNovelas,https://iptv-epg.org/logos/Dominican_Republic/TLNovelas.dr.png
+TNT.dr,DR - TNT,https://iptv-epg.org/logos/Dominican_Republic/TNT.dr.png
+TNTNovelas.dr,DR - TNT Novelas,https://iptv-epg.org/logos/Dominican_Republic/TNTNovelas.dr.png
+TNTSeries.dr,DR - TNT Series,https://iptv-epg.org/logos/Dominican_Republic/TNTSeries.dr.png
+Tooncast.dr,DR - Tooncast,https://iptv-epg.org/logos/Dominican_Republic/Tooncast.dr.png
+TV5MONDE.dr,DR - TV5MONDE,https://iptv-epg.org/logos/Dominican_Republic/TV5MONDE.dr.png
+TVAztecaMundo.dr,DR - TV Azteca Mundo,https://iptv-epg.org/logos/Dominican_Republic/TVAztecaMundo.dr.png
+TVEInternacional.dr,DR - TVE Internacional,https://iptv-epg.org/logos/Dominican_Republic/TVEInternacional.dr.png
+UniversalTV.dr,DR - Universal TV,https://iptv-epg.org/logos/Dominican_Republic/UniversalTV.dr.png
+USANetwork.dr,DR - USA Network,https://iptv-epg.org/logos/Dominican_Republic/USANetwork.dr.png
+VH1.dr,DR - VH1,https://iptv-epg.org/logos/Dominican_Republic/VH1.dr.png
+WarnerTV.dr,DR - Warner TV,https://iptv-epg.org/logos/Dominican_Republic/WarnerTV.dr.png

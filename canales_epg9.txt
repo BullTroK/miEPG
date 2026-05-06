@@ -15,8 +15,8 @@ Canal12.sv,SV - Canal 12,https://iptv-epg.org/logos/El_Salvador/Canal12.sv.png
 Canal19.sv,SV - Canal 19,https://iptv-epg.org/logos/El_Salvador/Canal19.sv.png
 Canal21.sv,SV - Canal 21,https://iptv-epg.org/logos/El_Salvador/Canal21.sv.png
 CanalClaro.sv,SV - Canal Claro,https://iptv-epg.org/logos/El_Salvador/CanalClaro.sv.png
-Cartoonito.sv,SV - Cartoonito,https://iptv-epg.org/logos/El_Salvador/Cartoonito.sv.png
 CartoonNetwork.sv,SV - Cartoon Network,https://iptv-epg.org/logos/El_Salvador/CartoonNetwork.sv.png
+Cartoonito.sv,SV - Cartoonito,https://iptv-epg.org/logos/El_Salvador/Cartoonito.sv.png
 Cinecanal.sv,SV - Cinecanal,https://iptv-epg.org/logos/El_Salvador/Cinecanal.sv.png
 Cinelatino.sv,SV - Cinelatino,https://iptv-epg.org/logos/El_Salvador/Cinelatino.sv.png
 Cinemax.sv,SV - Cinemax,https://iptv-epg.org/logos/El_Salvador/Cinemax.sv.png
@@ -24,8 +24,8 @@ CNN.sv,SV - CNN,https://iptv-epg.org/logos/El_Salvador/CNN.sv.png
 CNNenEspanol.sv,SV - CNN en Español,https://iptv-epg.org/logos/El_Salvador/CNNenEspanol.sv.png
 ConcertChannel.sv,SV - Concert Channel,https://iptv-epg.org/logos/El_Salvador/ConcertChannel.sv.png
 DePelicula.sv,SV - De Película,https://iptv-epg.org/logos/El_Salvador/DePelicula.sv.png
-DISCOVERYCHANNEL.sv,SV - DISCOVERY CHANNEL,https://iptv-epg.org/logos/El_Salvador/DISCOVERYCHANNEL.sv.png
 DiscoveryChannel.sv,SV - Discovery Channel,http://iptvboss.xyz/logos/El_Salvador/DISCOVERYCHANNEL.sv.png
+DISCOVERYCHANNEL.sv,SV - DISCOVERY CHANNEL,https://iptv-epg.org/logos/El_Salvador/DISCOVERYCHANNEL.sv.png
 DiscoveryHome&amp;Health.sv,SV - Discovery Home &amp; Health,https://iptv-epg.org/logos/El_Salvador/DiscoveryHome%26Health.sv.png
 DiscoveryKids.sv,SV - Discovery Kids,https://iptv-epg.org/logos/El_Salvador/DiscoveryKids.sv.png
 DiscoveryWorld.sv,SV - Discovery World,https://iptv-epg.org/logos/El_Salvador/DiscoveryWorld.sv.png
@@ -36,8 +36,8 @@ E!.sv,SV - E!,https://iptv-epg.org/logos/El_Salvador/E%21.sv.png
 ElGourmet.sv,SV - El Gourmet,https://iptv-epg.org/logos/El_Salvador/ElGourmet.sv.png
 Enlace.sv,SV - Enlace,https://iptv-epg.org/logos/El_Salvador/Enlace.sv.png
 ESPN.sv,SV - ESPN,https://iptv-epg.org/logos/El_Salvador/ESPN.sv.png
-ESPN+.sv,SV - ESPN+,https://iptv-epg.org/logos/El_Salvador/ESPN%2B.sv.png
 ESPN2.sv,SV - ESPN 2,https://iptv-epg.org/logos/El_Salvador/ESPN2.sv.png
+ESPN+.sv,SV - ESPN+,https://iptv-epg.org/logos/El_Salvador/ESPN%2B.sv.png
 EWTN.sv,SV - EWTN,https://iptv-epg.org/logos/El_Salvador/EWTN.sv.png
 FOXSports.sv,SV - FOX Sports,https://iptv-epg.org/logos/El_Salvador/FOXSports.sv.png
 FOXSports2.sv,SV - FOX Sports 2,https://iptv-epg.org/logos/El_Salvador/FOXSports2.sv.png
@@ -77,9 +77,9 @@ TLC.sv,SV - TLC,https://iptv-epg.org/logos/El_Salvador/TLC.sv.png
 TLNovelas.sv,SV - TLNovelas,https://iptv-epg.org/logos/El_Salvador/TLNovelas.sv.png
 TNT.sv,SV - TNT,https://iptv-epg.org/logos/El_Salvador/TNT.sv.png
 TNTSeries.sv,SV - TNT Series,https://iptv-epg.org/logos/El_Salvador/TNTSeries.sv.png
+TVOCanal23.sv,SV - TV Oriente Canal 23,https://iptv-epg.org/logos/El_Salvador/TVOCanal23.sv.png
 TVE.sv,SV - TVE,https://iptv-epg.org/logos/El_Salvador/TVE.sv.png
 TVNChile.sv,SV - TVN Chile,https://iptv-epg.org/logos/El_Salvador/TVNChile.sv.png
-TVOCanal23.sv,SV - TV Oriente Canal 23,https://iptv-epg.org/logos/El_Salvador/TVOCanal23.sv.png
 TVX.sv,SV - TVX,https://iptv-epg.org/logos/El_Salvador/TVX.sv.png
 UniversalTV.sv,SV - Universal TV,https://iptv-epg.org/logos/El_Salvador/UniversalTV.sv.png
 VePlusTV.sv,SV - Ve Plus TV,https://iptv-epg.org/logos/El_Salvador/VePlusTV.sv.png

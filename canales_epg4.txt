@@ -1,4 +1,6 @@
 # Fuente: https://iptv-epg.org/files/epg-cl.xml
+TelevisionNacionalDeChile.ch,CH - Televisión Nacional de Chile,https://iptv-epg.org/logos/Chile/TelevisionNacionalDeChile.ch.png
+History2.cl1,CL1 - CL - History 2,https://iptv-epg.org/logos/Chile/History2.cl1.png
 13C.cl,CL - 13C,https://iptv-epg.org/logos/Chile/13C.cl.png
 24Horas.cl,CL - 24 Horas,https://iptv-epg.org/logos/Chile/24Horas.cl.png
 A&amp;E.cl,CL - A&amp;E,https://iptv-epg.org/logos/Chile/A%26E.cl.png
@@ -22,14 +24,14 @@ Canal24hsEspana.cl,CL - Canal 24hs España,https://iptv-epg.org/logos/Chile/Cana
 CanaldelSur.cl,CL - Canal del Sur,https://iptv-epg.org/logos/Chile/CanaldelSur.cl.png
 CanalVasco.cl,CL - Canal Vasco,https://iptv-epg.org/logos/Chile/CanalVasco.cl.png
 CaracolInternacional.cl,CL - Caracol Internacional,https://iptv-epg.org/logos/Chile/CaracolInternacional.cl.png
-Cartoonito.cl,CL - Cartoonito,https://iptv-epg.org/logos/Chile/Cartoonito.cl.png
 CartoonNetwork.cl,CL - Cartoon Network,https://iptv-epg.org/logos/Chile/CartoonNetwork.cl.png
+Cartoonito.cl,CL - Cartoonito,https://iptv-epg.org/logos/Chile/Cartoonito.cl.png
 CCTV4.cl,CL - CCTV 4,https://iptv-epg.org/logos/Chile/CCTV4.cl.png
-CDFBasico.cl,CL - CDF Básico,https://iptv-epg.org/logos/Chile/CDFBasico.cl.png
 CDF.cl,CL - CDF,https://iptv-epg.org/logos/Chile/CDF.cl.png
+CDFBasico.cl,CL - CDF Básico,https://iptv-epg.org/logos/Chile/CDFBasico.cl.png
 CDFPremium.cl,CL - CDF Premium,https://iptv-epg.org/logos/Chile/CDFPremium.cl.png
-CDOBasico.cl,CL - CDO Básico,https://iptv-epg.org/logos/Chile/CDOBasico.cl.png
 CDO.cl,CL - CDO,https://iptv-epg.org/logos/Chile/CDO.cl.png
+CDOBasico.cl,CL - CDO Básico,https://iptv-epg.org/logos/Chile/CDOBasico.cl.png
 CDOPremium.cl,CL - CDO Premium,https://iptv-epg.org/logos/Chile/CDOPremium.cl.png
 Chilevision.cl,CL - Chilevisión,https://iptv-epg.org/logos/Chile/Chilevision.cl.png
 Cinecanal.cl,CL - Cinecanal,https://iptv-epg.org/logos/Chile/Cinecanal.cl.png
@@ -41,9 +43,13 @@ ComedyCentral.cl,CL - Comedy Central,https://iptv-epg.org/logos/Chile/ComedyCent
 ConcertChannel.cl,CL - Concert Channel,https://iptv-epg.org/logos/Chile/ConcertChannel.cl.png
 DePelicula.cl,CL - De Película,https://iptv-epg.org/logos/Chile/DePelicula.cl.png
 DHE.cl,CL - DHE,https://iptv-epg.org/logos/Chile/DHE.cl.png
+DIRECTVSports.cl,CL - DIRECTV Sports,https://iptv-epg.org/logos/Chile/DIRECTVSports.cl.png
+DIRECTVSports2.cl,CL - DIRECTV Sports 2,https://iptv-epg.org/logos/Chile/DIRECTVSports2.cl.png
+DIRECTVSports+.cl,CL - DIRECTV Sports +,https://iptv-epg.org/logos/Chile/DIRECTVSports%2B.cl.png
+DIRECTVSportsFight.cl,CL - DIRECTV Sports Fight,https://iptv-epg.org/logos/Chile/DIRECTVSportsFight.cl.png
+Discovery.cl,CL - Discovery,https://iptv-epg.org/logos/Chile/Discovery.cl.png
 DiscoveryChannel.cl,CL - Discovery Channel,https://iptv-epg.org/logos/Chile/DiscoveryChannel.cl.png
 DiscoveryCivilization.cl,CL - Discovery Civilization,https://iptv-epg.org/logos/Chile/DiscoveryCivilization.cl.png
-Discovery.cl,CL - Discovery,https://iptv-epg.org/logos/Chile/Discovery.cl.png
 DiscoveryHome&amp;Health.cl,CL - Discovery Home &amp; Health,https://iptv-epg.org/logos/Chile/DiscoveryHome%26Health.cl.png
 DiscoveryKids.cl,CL - Discovery Kids,https://iptv-epg.org/logos/Chile/DiscoveryKids.cl.png
 DiscoveryScience.cl,CL - Discovery Science,https://iptv-epg.org/logos/Chile/DiscoveryScience.cl.png
@@ -60,6 +66,14 @@ ElGarageTv.cl,CL - El Garage Tv,https://iptv-epg.org/logos/Chile/ElGarageTv.cl.p
 ElGourmet.cl,CL - El Gourmet,https://iptv-epg.org/logos/Chile/ElGourmet.cl.png
 ElTreceInternacional.cl,CL - El Trece Internacional,https://iptv-epg.org/logos/Chile/ElTreceInternacional.cl.png
 EnlaceTBN.cl,CL - Enlace TBN,https://iptv-epg.org/logos/Chile/EnlaceTBN.cl.png
+ESPN.cl,CL - ESPN,https://iptv-epg.org/logos/Chile/ESPN.cl.png
+ESPN2.cl,CL - ESPN 2,https://iptv-epg.org/logos/Chile/ESPN2.cl.png
+ESPN3.cl,CL - ESPN 3,https://iptv-epg.org/logos/Chile/ESPN3.cl.png
+ESPN4.cl,CL - ESPN 4,https://iptv-epg.org/logos/Chile/ESPN4.cl.png
+ESPN5.cl,CL - ESPN 5,https://iptv-epg.org/logos/Chile/ESPN5.cl.png
+ESPN6.cl,CL - ESPN 6,https://iptv-epg.org/logos/Chile/ESPN6.cl.png
+ESPN7.cl,CL - ESPN 7,https://iptv-epg.org/logos/Chile/ESPN7.cl.png
+ESPNExtra.cl,CL - ESPN Extra,https://iptv-epg.org/logos/Chile/ESPNExtra.cl.png
 ETCTV.cl,CL - ETC TV,https://iptv-epg.org/logos/Chile/ETCTV.cl.png
 Eurochannel.cl,CL - Eurochannel,https://iptv-epg.org/logos/Chile/Eurochannel.cl.png
 Euronews.cl,CL - Euronews,https://iptv-epg.org/logos/Chile/Euronews.cl.png
@@ -77,9 +91,10 @@ Funbox.cl,CL - Funbox,https://iptv-epg.org/logos/Chile/Funbox.cl.png
 FX.cl,CL - FX,https://iptv-epg.org/logos/Chile/FX.cl.png
 FXMovies.cl,CL - FX Movies,https://iptv-epg.org/logos/Chile/FXMovies.cl.png
 Glitz.cl,CL - Glitz,https://iptv-epg.org/logos/Chile/Glitz.cl.png
+GOLTV.cl,CL - GOL TV,https://iptv-epg.org/logos/Chile/GOLTV.cl.png
 Golden.cl,CL - Golden,https://iptv-epg.org/logos/Chile/Golden.cl.png
 GoldenEdge.cl,CL - Golden Edge,https://iptv-epg.org/logos/Chile/GoldenEdge.cl.png
-GOLTV.cl,CL - GOL TV,https://iptv-epg.org/logos/Chile/GOLTV.cl.png
+GolfChannel.cl,CL - Golf Channel,https://iptv-epg.org/logos/Chile/GolfChannel.cl.png
 HBO.cl,CL - HBO,https://iptv-epg.org/logos/Chile/HBO.cl.png
 HBO2.cl,CL - HBO 2,https://iptv-epg.org/logos/Chile/HBO2.cl.png
 HBOFamily.cl,CL - HBO Family,https://iptv-epg.org/logos/Chile/HBOFamily.cl.png
@@ -88,18 +103,17 @@ HBOPlusEste.cl,CL - HBO Plus Este,https://iptv-epg.org/logos/Chile/HBOPlusEste.c
 HBOPlusPanregional.cl,CL - HBO Plus Panregional,https://iptv-epg.org/logos/Chile/HBOPlusPanregional.cl.png
 HBOPop.cl,CL - HBO Pop,https://iptv-epg.org/logos/Chile/HBOPop.cl.png
 HBOSignature.cl,CL - HBO Signature,https://iptv-epg.org/logos/Chile/HBOSignature.cl.png
-HBOXtreme.cl,CL - HBO Xtreme,https://iptv-epg.org/logos/Chile/HBOXtreme.cl.png
 HBOXtreme(Oeste).cl,CL - HBO Xtreme (Oeste),https://iptv-epg.org/logos/Chile/HBOXtreme%28Oeste%29.cl.png
+HBOXtreme.cl,CL - HBO Xtreme,https://iptv-epg.org/logos/Chile/HBOXtreme.cl.png
 History.cl,CL - History,https://iptv-epg.org/logos/Chile/History.cl.png
-History2.cl1,CL1 - CL - History 2,https://iptv-epg.org/logos/Chile/History2.cl1.png
 HTV.cl,CL - HTV,https://iptv-epg.org/logos/Chile/HTV.cl.png
-I.Sat.cl,SAT - I.Sat,https://iptv-epg.org/logos/Chile/I.Sat.cl.png
 InvestigationDiscovery.cl,CL - Investigation Discovery,https://iptv-epg.org/logos/Chile/InvestigationDiscovery.cl.png
 ISBTV.cl,CL - ISB TV,https://iptv-epg.org/logos/Chile/ISBTV.cl.png
 LaRed.cl,CL - La Red,https://iptv-epg.org/logos/Chile/LaRed.cl.png
 LasEstrellas.cl,CL - Las Estrellas,https://iptv-epg.org/logos/Chile/LasEstrellas.cl.png
 Lifetime.cl,CL - Lifetime,https://iptv-epg.org/logos/Chile/Lifetime.cl.png
 Mariavision.cl,CL - Mariavisión,https://iptv-epg.org/logos/Chile/Mariavision.cl.png
+MasChic.cl,CL - Mas Chic,https://iptv-epg.org/logos/Chile/MasChic.cl.png
 Mega.cl,CL - Mega,https://iptv-epg.org/logos/Chile/Mega.cl.png
 MTV.cl,CL - MTV,https://iptv-epg.org/logos/Chile/MTV.cl.png
 MTVDance.cl,CL - MTV Dance,https://iptv-epg.org/logos/Chile/MTVDance.cl.png
@@ -107,7 +121,6 @@ MTVHits.cl,CL - MTV Hits,https://iptv-epg.org/logos/Chile/MTVHits.cl.png
 MTVLive.cl,CL - MTV Live,https://iptv-epg.org/logos/Chile/MTVLive.cl.png
 MuchMusic.cl,CL - MuchMusic,https://iptv-epg.org/logos/Chile/MuchMusic.cl.png
 MundoTV.cl,CL - Mundo TV,https://iptv-epg.org/logos/Chile/MundoTV.cl.png
-MasChic.cl,CL - Mas Chic,https://iptv-epg.org/logos/Chile/MasChic.cl.png
 NatGeoKids.cl,CL - Nat Geo Kids,https://iptv-epg.org/logos/Chile/NatGeoKids.cl.png
 NatGeoWild.cl,CL - Nat Geo Wild,https://iptv-epg.org/logos/Chile/NatGeoWild.cl.png
 NationalGeographic.cl,CL - National Geographic,https://iptv-epg.org/logos/Chile/NationalGeographic.cl.png
@@ -126,14 +139,14 @@ RMS.cl,CL - RMS,https://iptv-epg.org/logos/Chile/RMS.cl.png
 RussiaToday.cl,CL - Russia Today,https://iptv-epg.org/logos/Chile/RussiaToday.cl.png
 Sony.cl,CL - Sony,https://iptv-epg.org/logos/Chile/Sony.cl.png
 Space.cl,CL - Space,https://iptv-epg.org/logos/Chile/Space.cl.png
-StarAction.cl,CL - Star Action,https://iptv-epg.org/logos/Chile/StarAction.cl.png
 StarAction(Oeste).cl,CL - Star Action (Oeste),https://iptv-epg.org/logos/Chile/StarAction%28Oeste%29.cl.png
+StarAction.cl,CL - Star Action,https://iptv-epg.org/logos/Chile/StarAction.cl.png
 StarChannel.cl,CL - Star Channel,https://iptv-epg.org/logos/Chile/StarChannel.cl.png
 StarCinema.cl,CL - Star Cinema,https://iptv-epg.org/logos/Chile/StarCinema.cl.png
 StarClassics.cl,CL - Star Classics,https://iptv-epg.org/logos/Chile/StarClassics.cl.png
 StarComedy.cl,CL - Star Comedy,https://iptv-epg.org/logos/Chile/StarComedy.cl.png
-StarFun.cl,CL - Star Fun,https://iptv-epg.org/logos/Chile/StarFun.cl.png
 StarFun(Oeste).cl,CL - Star Fun (Oeste),https://iptv-epg.org/logos/Chile/StarFun%28Oeste%29.cl.png
+StarFun.cl,CL - Star Fun,https://iptv-epg.org/logos/Chile/StarFun.cl.png
 StarHits.cl,CL - Star Hits,https://iptv-epg.org/logos/Chile/StarHits.cl.png
 StarLife.cl,CL - Star Life,https://iptv-epg.org/logos/Chile/StarLife.cl.png
 StarSeries.cl,CL - Star Series,https://iptv-epg.org/logos/Chile/StarSeries.cl.png
@@ -149,16 +162,20 @@ TLC.cl,CL - TLC,https://iptv-epg.org/logos/Chile/TLC.cl.png
 TLNovelas.cl,CL - TLNovelas,https://iptv-epg.org/logos/Chile/TLNovelas.cl.png
 TNT.cl,CL - TNT,https://iptv-epg.org/logos/Chile/TNT.cl.png
 TNTSeries.cl,CL - TNT Series,https://iptv-epg.org/logos/Chile/TNTSeries.cl.png
+TNTSports.cl,CL - TNT Sports,https://iptv-epg.org/logos/Chile/TNTSports.cl.png
+TNTSports3.cl,CL - TNT Sports 3,https://iptv-epg.org/logos/Chile/TNTSports3.cl.png
+TNTSportsPremium.cl,CL - TNT Sports Premium,https://iptv-epg.org/logos/Chile/TNTSportsPremium.cl.png
 Tooncast.cl,CL - Tooncast,https://iptv-epg.org/logos/Chile/Tooncast.cl.png
 TruTV.cl,CL - TruTV,https://iptv-epg.org/logos/Chile/TruTV.cl.png
 truTV.cl,CL - truTV,http://iptvboss.xyz/logos/Chile/TruTV.cl.png
 TV5.cl,CL - TV 5,https://iptv-epg.org/logos/Chile/TV5.cl.png
 TVDiputados.cl,CL - TV Diputados,https://iptv-epg.org/logos/Chile/TVDiputados.cl.png
-TVE.cl,CL - TVE,https://iptv-epg.org/logos/Chile/TVE.cl.png
 TVGlobo.cl,CL - TV Globo,https://iptv-epg.org/logos/Chile/TVGlobo.cl.png
-TVN.cl,CL - TVN,https://iptv-epg.org/logos/Chile/TVN.cl.png
 TVSenado.cl,CL - TV Senado,https://iptv-epg.org/logos/Chile/TVSenado.cl.png
+TVE.cl,CL - TVE,https://iptv-epg.org/logos/Chile/TVE.cl.png
+TVN.cl,CL - TVN,https://iptv-epg.org/logos/Chile/TVN.cl.png
 TVU.cl,CL - TVU,https://iptv-epg.org/logos/Chile/TVU.cl.png
+TyCSports.cl,CL - TyC Sports,https://iptv-epg.org/logos/Chile/TyCSports.cl.png
 UCVTV.cl,CL - UCV TV,https://iptv-epg.org/logos/Chile/UCVTV.cl.png
 Ufrovision.cl,CL - Ufrovisión,https://iptv-epg.org/logos/Chile/Ufrovision.cl.png
 Unicable.cl,CL - Unicable,https://iptv-epg.org/logos/Chile/Unicable.cl.png
@@ -169,21 +186,4 @@ VH1MegaHits.cl,CL - VH1 Mega Hits,https://iptv-epg.org/logos/Chile/VH1MegaHits.c
 ViaX.cl,CL - Vía X,https://iptv-epg.org/logos/Chile/ViaX.cl.png
 WarnerChannel.cl,CL - Warner Channel,https://iptv-epg.org/logos/Chile/WarnerChannel.cl.png
 ZonaLatina.cl,CL - Zona Latina,https://iptv-epg.org/logos/Chile/ZonaLatina.cl.png
-ESPNExtra.cl,CL - ESPN Extra,https://iptv-epg.org/logos/Chile/ESPNExtra.cl.png
-TelevisionNacionalDeChile.ch,CH - Televisión Nacional de Chile,https://iptv-epg.org/logos/Chile/TelevisionNacionalDeChile.ch.png
-TNTSportsPremium.cl,CL - TNT Sports Premium,https://iptv-epg.org/logos/Chile/TNTSportsPremium.cl.png
-TNTSports.cl,CL - TNT Sports,https://iptv-epg.org/logos/Chile/TNTSports.cl.png
-TNTSports3.cl,CL - TNT Sports 3,https://iptv-epg.org/logos/Chile/TNTSports3.cl.png
-ESPN.cl,CL - ESPN,https://iptv-epg.org/logos/Chile/ESPN.cl.png
-ESPN2.cl,CL - ESPN 2,https://iptv-epg.org/logos/Chile/ESPN2.cl.png
-ESPN3.cl,CL - ESPN 3,https://iptv-epg.org/logos/Chile/ESPN3.cl.png
-ESPN4.cl,CL - ESPN 4,https://iptv-epg.org/logos/Chile/ESPN4.cl.png
-ESPN5.cl,CL - ESPN 5,https://iptv-epg.org/logos/Chile/ESPN5.cl.png
-ESPN6.cl,CL - ESPN 6,https://iptv-epg.org/logos/Chile/ESPN6.cl.png
-ESPN7.cl,CL - ESPN 7,https://iptv-epg.org/logos/Chile/ESPN7.cl.png
-TyCSports.cl,CL - TyC Sports,https://iptv-epg.org/logos/Chile/TyCSports.cl.png
-DIRECTVSports.cl,CL - DIRECTV Sports,https://iptv-epg.org/logos/Chile/DIRECTVSports.cl.png
-DIRECTVSports2.cl,CL - DIRECTV Sports 2,https://iptv-epg.org/logos/Chile/DIRECTVSports2.cl.png
-DIRECTVSports+.cl,CL - DIRECTV Sports +,https://iptv-epg.org/logos/Chile/DIRECTVSports%2B.cl.png
-DIRECTVSportsFight.cl,CL - DIRECTV Sports Fight,https://iptv-epg.org/logos/Chile/DIRECTVSportsFight.cl.png
-GolfChannel.cl,CL - Golf Channel,https://iptv-epg.org/logos/Chile/GolfChannel.cl.png
+I.Sat.cl,SAT - I.Sat,https://iptv-epg.org/logos/Chile/I.Sat.cl.png

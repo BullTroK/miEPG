@@ -9,20 +9,21 @@ AzMundo.gt,GT - Az Mundo,https://iptv-epg.org/logos/Guatemala/AzMundo.gt.png
 Azteca13.gt,GT - Azteca 13,https://iptv-epg.org/logos/Guatemala/Azteca13.gt.png
 AztecaGuatemala.gt,GT - Azteca Guatemala,https://iptv-epg.org/logos/Guatemala/AztecaGuatemala.gt.png
 Cablenoticias.gt,GT - Cablenoticias,https://iptv-epg.org/logos/Guatemala/Cablenoticias.gt.png
+Canal27.gt,GT - Canal27,https://iptv-epg.org/logos/Guatemala/Canal27.gt.png
 Canal3.gt,GT - Canal 3,https://iptv-epg.org/logos/Guatemala/Canal3.gt.png
 Canal7-Televisiete.gt,GT - Canal 7 - Televisiete,https://iptv-epg.org/logos/Guatemala/Canal7-Televisiete.gt.png
 Canal11-Teleonce.gt,GT - Canal 11 - Teleonce,https://iptv-epg.org/logos/Guatemala/Canal11-Teleonce.gt.png
 Canal13-Trecevision.gt,GT - Canal 13 - Trecevisión,https://iptv-epg.org/logos/Guatemala/Canal13-Trecevision.gt.png
-Canal27.gt,GT - Canal27,https://iptv-epg.org/logos/Guatemala/Canal27.gt.png
 CanalAntigua.gt,GT - Canal Antigua,https://iptv-epg.org/logos/Guatemala/CanalAntigua.gt.png
 CanalAntiguaDeportes.gt,GT - Canal Antigua Deportes,https://iptv-epg.org/logos/Guatemala/CanalAntiguaDeportes.gt.png
 CanalNU.gt,GT - Canal NU,https://iptv-epg.org/logos/Guatemala/CanalNU.gt.png
 CaracolInternacional.gt,GT - Caracol Internacional,https://iptv-epg.org/logos/Guatemala/CaracolInternacional.gt.png
 CartoonNetwork.gt,GT - Cartoon Network,https://iptv-epg.org/logos/Guatemala/CartoonNetwork.gt.png
+Cartoonito.gt,GT - Cartoonito Latin America,https://iptv-epg.org/logos/Guatemala/Cartoonito.gt.png
+CineMexicano.gt,GT - Cine Mexicano,https://iptv-epg.org/logos/Guatemala/CineMexicano.gt.png
 Cinecanal.gt,GT - Cinecanal,https://iptv-epg.org/logos/Guatemala/Cinecanal.gt.png
 Cinema+.gt,GT - Cinema+,https://iptv-epg.org/logos/Guatemala/Cinema%2B.gt.png
 Cinemax.gt,GT - Cinemax,https://iptv-epg.org/logos/Guatemala/Cinemax.gt.png
-CineMexicano.gt,GT - Cine Mexicano,https://iptv-epg.org/logos/Guatemala/CineMexicano.gt.png
 Citytv.gt,GT - Citytv,https://iptv-epg.org/logos/Guatemala/Citytv.gt.png
 CNNenEspanol.gt,GT - CNN en Español,https://iptv-epg.org/logos/Guatemala/CNNenEspanol.gt.png
 DHE.gt,GT - DHE,https://iptv-epg.org/logos/Guatemala/DHE.gt.png
@@ -36,9 +37,9 @@ DistritoComedia.gt,GT - Distrito Comedia,https://iptv-epg.org/logos/Guatemala/Di
 E!.gt,GT - E!,https://iptv-epg.org/logos/Guatemala/E%21.gt.png
 EnlaceJuvenil.gt,GT - Enlace Juvenil,https://iptv-epg.org/logos/Guatemala/EnlaceJuvenil.gt.png
 ESPN.gt,GT - ESPN,https://iptv-epg.org/logos/Guatemala/ESPN.gt.png
-ESPN+.gt,GT - ESPN+,https://iptv-epg.org/logos/Guatemala/ESPN%2B.gt.png
 ESPN3.gt,GT - ESPN 3,https://iptv-epg.org/logos/Guatemala/ESPN3.gt.png
 ESPNExtra.gt,GT - ESPN Extra,https://iptv-epg.org/logos/Guatemala/ESPNExtra.gt.png
+ESPN+.gt,GT - ESPN+,https://iptv-epg.org/logos/Guatemala/ESPN%2B.gt.png
 FOXSports2.gt,GT - FOX Sports 2,https://iptv-epg.org/logos/Guatemala/FOXSports2.gt.png
 FXMovies.gt,GT - FX Movies,https://iptv-epg.org/logos/Guatemala/FXMovies.gt.png
 Globo.gt,GT - Globo,https://iptv-epg.org/logos/Guatemala/Globo.gt.png
@@ -86,11 +87,10 @@ TLC.gt,GT - TLC,https://iptv-epg.org/logos/Guatemala/TLC.gt.png
 TNT.gt,GT - TNT,https://iptv-epg.org/logos/Guatemala/TNT.gt.png
 TNTSeries.gt,GT - TNT Series,https://iptv-epg.org/logos/Guatemala/TNTSeries.gt.png
 Tooncast.gt,GT - Tooncast,https://iptv-epg.org/logos/Guatemala/Tooncast.gt.png
+TUDNMexico.gt,GT - Tu Deportes Network (TUDN) México,https://iptv-epg.org/logos/Guatemala/TUDNMexico.gt.png
 TvAgro.gt,GT - Tv Agro,https://iptv-epg.org/logos/Guatemala/TvAgro.gt.png
 TyCSports.gt,GT - TyC Sports,https://iptv-epg.org/logos/Guatemala/TyCSports.gt.png
 VH1ClassicUSA.gt,GT - VH1 Classic USA,https://iptv-epg.org/logos/Guatemala/VH1ClassicUSA.gt.png
 VoaTV.gt,GT - Voa TV,https://iptv-epg.org/logos/Guatemala/VoaTV.gt.png
 WarnerChannel.gt,GT - Warner Channel,https://iptv-epg.org/logos/Guatemala/WarnerChannel.gt.png
 X-Time.gt,GT - X-Time,https://iptv-epg.org/logos/Guatemala/X-Time.gt.png
-Cartoonito.gt,GT - Cartoonito Latin America,https://iptv-epg.org/logos/Guatemala/Cartoonito.gt.png
-TUDNMexico.gt,GT - Tu Deportes Network (TUDN) México,https://iptv-epg.org/logos/Guatemala/TUDNMexico.gt.png

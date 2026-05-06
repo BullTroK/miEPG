@@ -25,8 +25,8 @@ CanalTR3CE.co,CO - Canal TR3CE,https://iptv-epg.org/logos/Colombia/CanalTR3CE.co
 CanalTRO.co,CO - Canal TRO,https://iptv-epg.org/logos/Colombia/CanalTRO.co.png
 CanalU.co,CO - Canal U,https://iptv-epg.org/logos/Colombia/CanalU.co.png
 Caracol.co,CO - Caracol,https://iptv-epg.org/logos/Colombia/Caracol.co.png
-Cartoonito.co,CO - Cartoonito,https://iptv-epg.org/logos/Colombia/Cartoonito.co.png
 CartoonNetwork.co,CO - Cartoon Network,https://iptv-epg.org/logos/Colombia/CartoonNetwork.co.png
+Cartoonito.co,CO - Cartoonito,https://iptv-epg.org/logos/Colombia/Cartoonito.co.png
 Cinecanal.co,CO - Cinecanal,https://iptv-epg.org/logos/Colombia/Cinecanal.co.png
 Cinelatino.co,CO - Cinelatino,https://iptv-epg.org/logos/Colombia/Cinelatino.co.png
 Cinema+.co,CO - Cinema+,https://iptv-epg.org/logos/Colombia/Cinema%2B.co.png
@@ -40,9 +40,9 @@ ConcertChannel.co,CO - Concert Channel,https://iptv-epg.org/logos/Colombia/Conce
 Cosmovision.co,CO - Cosmovisión,https://iptv-epg.org/logos/Colombia/Cosmovision.co.png
 Cristovision.co,CO - Cristovisión,https://iptv-epg.org/logos/Colombia/Cristovision.co.png
 DHE.co,CO - DHE,https://iptv-epg.org/logos/Colombia/DHE.co.png
+Discovery.co,CO - Discovery,https://iptv-epg.org/logos/Colombia/Discovery.co.png
 DiscoveryChannel.co,CO - Discovery Channel,https://iptv-epg.org/logos/Colombia/DiscoveryChannel.co.png
 DiscoveryCivilization.co,CO - Discovery Civilization,https://iptv-epg.org/logos/Colombia/DiscoveryCivilization.co.png
-Discovery.co,CO - Discovery,https://iptv-epg.org/logos/Colombia/Discovery.co.png
 DiscoveryHome&amp;Health.co,CO - Discovery Home &amp; Health,https://iptv-epg.org/logos/Colombia/DiscoveryHome%26Health.co.png
 DiscoveryKids.co,CO - Discovery Kids,https://iptv-epg.org/logos/Colombia/DiscoveryKids.co.png
 DiscoveryScience.co,CO - Discovery Science,https://iptv-epg.org/logos/Colombia/DiscoveryScience.co.png
@@ -58,22 +58,27 @@ ElGourmet.co,CO - El Gourmet,https://iptv-epg.org/logos/Colombia/ElGourmet.co.pn
 ElTiempoTelevision.co,CO - El Tiempo Television,https://iptv-epg.org/logos/Colombia/ElTiempoTelevision.co.png
 Enlace.co,CO - Enlace,https://iptv-epg.org/logos/Colombia/Enlace.co.png
 EnlaceJuvenil.co,CO - Enlace Juvenil,https://iptv-epg.org/logos/Colombia/EnlaceJuvenil.co.png
+ESPN.co,CO - ESPN,https://iptv-epg.org/logos/Colombia/ESPN.co.png
+ESPN2.co,CO - ESPN 2,https://iptv-epg.org/logos/Colombia/ESPN2.co.png
+ESPN3.co,CO - ESPN 3,https://iptv-epg.org/logos/Colombia/ESPN3.co.png
+ESPNExtra.co,CO - ESPN Extra,https://iptv-epg.org/logos/Colombia/ESPNExtra.co.png
 Eurochannel.co,CO - Eurochannel,https://iptv-epg.org/logos/Colombia/Eurochannel.co.png
 EWTN.co,CO - EWTN,https://iptv-epg.org/logos/Colombia/EWTN.co.png
 F1LatinAmerica.co,CO - F1 Latin America,https://iptv-epg.org/logos/Colombia/F1LatinAmerica.co.png
 FashionOne.co,CO - Fashion One,https://iptv-epg.org/logos/Colombia/FashionOne.co.png
 film&amp;arts.co,CO - film&amp;arts,https://iptv-epg.org/logos/Colombia/film%26arts.co.png
 FOXNewsInternacional.co,CO - FOX News Internacional,https://iptv-epg.org/logos/Colombia/FOXNewsInternacional.co.png
-FOXSports.co,CO - FOX Sports HD,https://iptv-epg.org/logos/Colombia/FOXSports.co.png
 FOXSports2.co,CO - FOX Sports 2 HD,https://iptv-epg.org/logos/Colombia/FOXSports2.co.png
 FOXSports3.co,CO - FOX Sports 3 HD,https://iptv-epg.org/logos/Colombia/FOXSports3.co.png
+FOXSports.co,CO - FOX Sports HD,https://iptv-epg.org/logos/Colombia/FOXSports.co.png
 FX.co,CO - FX,https://iptv-epg.org/logos/Colombia/FX.co.png
 FXMovies.co,CO - FX Movies,https://iptv-epg.org/logos/Colombia/FXMovies.co.png
 Glitz.co,CO - Glitz,https://iptv-epg.org/logos/Colombia/Glitz.co.png
 Globovision.co,CO - Globovisión,https://iptv-epg.org/logos/Colombia/Globovision.co.png
+GolTV.co,CO - Gol TV,https://iptv-epg.org/logos/Colombia/GolTV.co.png
 Golden.co,CO - Golden,https://iptv-epg.org/logos/Colombia/Golden.co.png
 GoldenPremier.co,CO - Golden Premier,https://iptv-epg.org/logos/Colombia/GoldenPremier.co.png
-GolTV.co,CO - Gol TV,https://iptv-epg.org/logos/Colombia/GolTV.co.png
+GolfChannel.co,CO - Golf Channel,https://iptv-epg.org/logos/Colombia/GolfChannel.co.png
 HBO.co,CO - HBO,https://iptv-epg.org/logos/Colombia/HBO.co.png
 HBO2.co,CO - HBO 2,https://iptv-epg.org/logos/Colombia/HBO2.co.png
 HBOFamily.co,CO - HBO Family,https://iptv-epg.org/logos/Colombia/HBOFamily.co.png
@@ -83,10 +88,10 @@ HBOPlusEste.co,CO - HBO Plus Este,https://iptv-epg.org/logos/Colombia/HBOPlusEst
 HBOPlusPanregional.co,CO - HBO Plus Panregional,https://iptv-epg.org/logos/Colombia/HBOPlusPanregional.co.png
 HBOPop.co,CO - HBO Pop,https://iptv-epg.org/logos/Colombia/HBOPop.co.png
 HBOSignature.co,CO - HBO Signature,https://iptv-epg.org/logos/Colombia/HBOSignature.co.png
-HBOXtreme.co,CO - HBO Xtreme,https://iptv-epg.org/logos/Colombia/HBOXtreme.co.png
 HBOXtreme(Oeste).co,CO - HBO Xtreme (Oeste),https://iptv-epg.org/logos/Colombia/HBOXtreme%28Oeste%29.co.png
-HBOXtreme(Panamericano).co,CO - HBO Xtreme (Panamericano),https://iptv-epg.org/logos/Colombia/HBOXtreme%28Panamericano%29.co.png
 HBOXtreme(Panregional).co,CO - HBO Xtreme (Panregional),https://iptv-epg.org/logos/Colombia/HBOXtreme%28Panregional%29.co.png
+HBOXtreme.co,CO - HBO Xtreme,https://iptv-epg.org/logos/Colombia/HBOXtreme.co.png
+HBOXtreme(Panamericano).co,CO - HBO Xtreme (Panamericano),https://iptv-epg.org/logos/Colombia/HBOXtreme%28Panamericano%29.co.png
 History.co,CO - History,https://iptv-epg.org/logos/Colombia/History.co.png
 History2.co,CO - History 2,https://iptv-epg.org/logos/Colombia/History2.co.png
 HOLATV.co,CO - HOLA TV,https://iptv-epg.org/logos/Colombia/HOLATV.co.png
@@ -121,8 +126,8 @@ RussiaToday.co,CO - Russia Today,https://iptv-epg.org/logos/Colombia/RussiaToday
 SenalColombia.co,CO - Señal Colombia,https://iptv-epg.org/logos/Colombia/SenalColombia.co.png
 Sony.co,CO - Sony,https://iptv-epg.org/logos/Colombia/Sony.co.png
 Space.co,CO - Space,https://iptv-epg.org/logos/Colombia/Space.co.png
-StarAction.co,CO - Star Action,https://iptv-epg.org/logos/Colombia/StarAction.co.png
 StarAction(Oeste).co,CO - Star Action (Oeste),https://iptv-epg.org/logos/Colombia/StarAction%28Oeste%29.co.png
+StarAction.co,CO - Star Action,https://iptv-epg.org/logos/Colombia/StarAction.co.png
 StarChannel.co,CO - Star Channel,https://iptv-epg.org/logos/Colombia/StarChannel.co.png
 StarCinema.co,CO - Star Cinema,https://iptv-epg.org/logos/Colombia/StarCinema.co.png
 StarClassics.co,CO - Star Classics,https://iptv-epg.org/logos/Colombia/StarClassics.co.png
@@ -130,13 +135,14 @@ StarComedy.co,CO - Star Comedy,https://iptv-epg.org/logos/Colombia/StarComedy.co
 StarFun.co,CO - Star Fun,https://iptv-epg.org/logos/Colombia/StarFun.co.png
 StarHits.co,CO - Star Hits,https://iptv-epg.org/logos/Colombia/StarHits.co.png
 StarLife.co,CO - Star Life,https://iptv-epg.org/logos/Colombia/StarLife.co.png
-StarSeries.co,CO - Star Series,https://iptv-epg.org/logos/Colombia/StarSeries.co.png
 StarSeries(Oeste).co,CO - Star Series (Oeste),https://iptv-epg.org/logos/Colombia/StarSeries%28Oeste%29.co.png
+StarSeries.co,CO - Star Series,https://iptv-epg.org/logos/Colombia/StarSeries.co.png
 StudioUniversal.co,CO - Studio Universal,https://iptv-epg.org/logos/Colombia/StudioUniversal.co.png
 SunChannel.co,CO - Sun Channel,https://iptv-epg.org/logos/Colombia/SunChannel.co.png
 Syfy.co,CO - Syfy,https://iptv-epg.org/logos/Colombia/Syfy.co.png
 TBS.co,CO - TBS,https://iptv-epg.org/logos/Colombia/TBS.co.png
 TCM.co,CO - TCM,https://iptv-epg.org/logos/Colombia/TCM.co.png
+TeleVid.co,CO - Tele Vid,https://iptv-epg.org/logos/Colombia/TeleVid.co.png
 TeleAmiga.co,CO - TeleAmiga,https://iptv-epg.org/logos/Colombia/TeleAmiga.co.png
 Teleantioquia.co,CO - Teleantioquia,https://iptv-epg.org/logos/Colombia/Teleantioquia.co.png
 Telecafe.co,CO - Telecafé,https://iptv-epg.org/logos/Colombia/Telecafe.co.png
@@ -146,7 +152,6 @@ Telemedellin.co,CO - Telemedellín,https://iptv-epg.org/logos/Colombia/Telemedel
 Telemundo.co,CO - Telemundo,https://iptv-epg.org/logos/Colombia/Telemundo.co.png
 Telenostalgia.co,CO - Telenostalgia,https://iptv-epg.org/logos/Colombia/Telenostalgia.co.png
 Telepacifico.co,CO - Telepacifico,https://iptv-epg.org/logos/Colombia/Telepacifico.co.png
-TeleVid.co,CO - Tele Vid,https://iptv-epg.org/logos/Colombia/TeleVid.co.png
 TigoMusic.co,CO - Tigo Music,https://iptv-epg.org/logos/Colombia/TigoMusic.co.png
 TLC.co,CO - TLC,https://iptv-epg.org/logos/Colombia/TLC.co.png
 TLNovelas.co,CO - TLNovelas,https://iptv-epg.org/logos/Colombia/TLNovelas.co.png
@@ -160,21 +165,16 @@ TruTV.co,CO - TruTV,https://iptv-epg.org/logos/Colombia/TruTV.co.png
 TvAgro.co,CO - Tv Agro,https://iptv-epg.org/logos/Colombia/TvAgro.co.png
 TVC.co,CO - TVC,https://iptv-epg.org/logos/Colombia/TVC.co.png
 TVE.co,CO - TVE,https://iptv-epg.org/logos/Colombia/TVE.co.png
+TyCSports.co,CO - TyC Sports,https://iptv-epg.org/logos/Colombia/TyCSports.co.png
 UFCNetwork.co,CO - UFC Network,https://iptv-epg.org/logos/Colombia/UFCNetwork.co.png
 UniversalTV.co,CO - Universal TV,https://iptv-epg.org/logos/Colombia/UniversalTV.co.png
 Univision.co,CO - Univision,https://iptv-epg.org/logos/Colombia/Univision.co.png
-Venus.co,CO - Venus,https://iptv-epg.org/logos/Colombia/Venus.co.png
 VePlusTV.co,CO - Ve Plus TV,https://iptv-epg.org/logos/Colombia/VePlusTV.co.png
+Venus.co,CO - Venus,https://iptv-epg.org/logos/Colombia/Venus.co.png
 VH1.co,CO - VH1,https://iptv-epg.org/logos/Colombia/VH1.co.png
 VH1ClassicUSA.co,CO - VH1 Classic USA,https://iptv-epg.org/logos/Colombia/VH1ClassicUSA.co.png
 VH1MegaHits.co,CO - VH1 Mega Hits,https://iptv-epg.org/logos/Colombia/VH1MegaHits.co.png
 VMASTV.co,CO - VMASTV,https://iptv-epg.org/logos/Colombia/VMASTV.co.png
 WarnerChannel.co,CO - Warner Channel,https://iptv-epg.org/logos/Colombia/WarnerChannel.co.png
-Zoom.co,CO - Zoom,https://iptv-epg.org/logos/Colombia/Zoom.co.png
-ESPNExtra.co,CO - ESPN Extra,https://iptv-epg.org/logos/Colombia/ESPNExtra.co.png
-ESPN.co,CO - ESPN,https://iptv-epg.org/logos/Colombia/ESPN.co.png
-ESPN2.co,CO - ESPN 2,https://iptv-epg.org/logos/Colombia/ESPN2.co.png
-ESPN3.co,CO - ESPN 3,https://iptv-epg.org/logos/Colombia/ESPN3.co.png
 WinSports.co,CO - Win Sports,https://iptv-epg.org/logos/Colombia/WinSports.co.png
-TyCSports.co,CO - TyC Sports,https://iptv-epg.org/logos/Colombia/TyCSports.co.png
-GolfChannel.co,CO - Golf Channel,https://iptv-epg.org/logos/Colombia/GolfChannel.co.png
+Zoom.co,CO - Zoom,https://iptv-epg.org/logos/Colombia/Zoom.co.png

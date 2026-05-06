@@ -1,85 +1,85 @@
 # Fuente: https://iptv-epg.org/files/epg-cr.xml
+AdrenalinaSportsNetwork.cr,CR - Adrenalina Sports Network,https://iptv-epg.org/logos/Costa_Rica/AdrenalinaSportsNetwork.cr.png
+AgrotendenciaTV.cr,CR - Agrotendencia TV,https://iptv-epg.org/logos/Costa_Rica/AgrotendenciaTV.cr.png
+Antena3.cr,CR - Antena 3,https://iptv-epg.org/logos/Costa_Rica/Antena3.cr.png
+BabyTV.cr,CR - Baby TV,https://iptv-epg.org/logos/Costa_Rica/BabyTV.cr.png
+BBCWorldNews.cr,CR - BBC World News,https://iptv-epg.org/logos/Costa_Rica/BBCWorldNews.cr.png
+BitMe.cr,CR - BitMe,https://iptv-epg.org/logos/Costa_Rica/BitMe.cr.png
+Bloomberg.cr,CR - Bloomberg,https://iptv-epg.org/logos/Costa_Rica/Bloomberg.cr.png
+Cablenoticias.cr,CR - Cablenoticias,https://iptv-epg.org/logos/Costa_Rica/Cablenoticias.cr.png
 Canal4.cr,CR - Canal 4,https://iptv-epg.org/logos/Costa_Rica/Canal4.cr.png
 Canal6.cr,CR - Canal 6,https://iptv-epg.org/logos/Costa_Rica/Canal6.cr.png
 Canal8.cr,CR - Canal 8,
 Canal11.cr,CR - Canal 11,https://iptv-epg.org/logos/Costa_Rica/Canal11.cr.png
 Canal13.cr,CR - Canal 13,https://iptv-epg.org/logos/Costa_Rica/Canal13.cr.png
-TigoSport.cr,CR - Tigo Sport,https://iptv-epg.org/logos/Costa_Rica/TigoSport.cr.png
-FUTV.cr,CR - FUTV,https://iptv-epg.org/logos/Costa_Rica/FUTV.cr.png
-LasEstrellas.cr,CR - Las Estrellas,https://iptv-epg.org/logos/Costa_Rica/LasEstrellas.cr.png
-TLNovelas.cr,CR - TLNovelas,https://iptv-epg.org/logos/Costa_Rica/TLNovelas.cr.png
-AgrotendenciaTV.cr,CR - Agrotendencia TV,https://iptv-epg.org/logos/Costa_Rica/AgrotendenciaTV.cr.png
-Enlace.cr,CR - Enlace,https://iptv-epg.org/logos/Costa_Rica/Enlace.cr.png
-EWTN.cr,CR - EWTN,https://iptv-epg.org/logos/Costa_Rica/EWTN.cr.png
-TUDN.cr,CR - TUDN,https://iptv-epg.org/logos/Costa_Rica/TUDN.cr.png
-TyCSports.cr,CR - TyC Sports,https://iptv-epg.org/logos/Costa_Rica/TyCSports.cr.png
-GolTV.cr,CR - GolTV,https://iptv-epg.org/logos/Costa_Rica/GolTV.cr.png
-GolfChannel.cr,CR - Golf Channel,https://iptv-epg.org/logos/Costa_Rica/GolfChannel.cr.png
-DiscoveryTurbo.cr,CR - Discovery Turbo,https://iptv-epg.org/logos/Costa_Rica/DiscoveryTurbo.cr.png
-NFLNetwork.cr,CR - NFL Network,https://iptv-epg.org/logos/Costa_Rica/NFLNetwork.cr.png
-DisneyJunior.cr,CR - Disney Junior,https://iptv-epg.org/logos/Costa_Rica/DisneyJunior.cr.png
-Tooncast.cr,CR - Tooncast,https://iptv-epg.org/logos/Costa_Rica/Tooncast.cr.png
-BitMe.cr,CR - BitMe,https://iptv-epg.org/logos/Costa_Rica/BitMe.cr.png
-BabyTV.cr,CR - Baby TV,https://iptv-epg.org/logos/Costa_Rica/BabyTV.cr.png
-HBO.cr,CR - HBO,https://iptv-epg.org/logos/Costa_Rica/HBO.cr.png
-TCM.cr,CR - TCM,https://iptv-epg.org/logos/Costa_Rica/TCM.cr.png
-DePelícula.cr,CR - De Película,
-GoldenEdge.cr,CR - Golden Edge,https://iptv-epg.org/logos/Costa_Rica/GoldenEdge.cr.png
-TNTNovelas.cr,CR - TNT Novelas,https://iptv-epg.org/logos/Costa_Rica/TNTNovelas.cr.png
-USANetwork.cr,CR - USA Network,https://iptv-epg.org/logos/Costa_Rica/USANetwork.cr.png
-DistritoComedia.cr,CR - Distrito Comedia,https://iptv-epg.org/logos/Costa_Rica/DistritoComedia.cr.png
-DiscoveryScience.cr,CR - Discovery Science,https://iptv-epg.org/logos/Costa_Rica/DiscoveryScience.cr.png
-CNN.cr,CR - CNN,https://iptv-epg.org/logos/Costa_Rica/CNN.cr.png
-FoxNews.cr,CR - Fox News,https://iptv-epg.org/logos/Costa_Rica/FoxNews.cr.png
-HLN.cr,CR - HLN,https://iptv-epg.org/logos/Costa_Rica/HLN.cr.png
-CNNInternacional.cr,CR - CNN Internacional,https://iptv-epg.org/logos/Costa_Rica/CNNInternacional.cr.png
-Bloomberg.cr,CR - Bloomberg,https://iptv-epg.org/logos/Costa_Rica/Bloomberg.cr.png
-BBCWorldNews.cr,CR - BBC World News,https://iptv-epg.org/logos/Costa_Rica/BBCWorldNews.cr.png
-TVEInternacional.cr,CR - TVE Internacional,https://iptv-epg.org/logos/Costa_Rica/TVEInternacional.cr.png
-Antena3.cr,CR - Antena 3,https://iptv-epg.org/logos/Costa_Rica/Antena3.cr.png
 CaracolInternacional.cr,CR - Caracol Internacional,https://iptv-epg.org/logos/Costa_Rica/CaracolInternacional.cr.png
-RCNNuestraTele(Internacional).cr,CR - RCN Nuestra Tele (Internacional),https://iptv-epg.org/logos/Costa_Rica/RCNNuestraTele%28Internacional%29.cr.png
-TVChile.cr,CR - TV Chile,https://iptv-epg.org/logos/Costa_Rica/TVChile.cr.png
-TV5MONDE.cr,CR - TV5MONDE,https://iptv-epg.org/logos/Costa_Rica/TV5MONDE.cr.png
-RAIInternational.cr,CR - RAI International,https://iptv-epg.org/logos/Costa_Rica/RAIInternational.cr.png
-DW.cr,CR - DW,https://iptv-epg.org/logos/Costa_Rica/DW.cr.png
-DeutscheWelle.cr,CR - Deutsche Welle,https://iptv-epg.org/logos/Costa_Rica/DeutscheWelle.cr.png
-NHKWorld.cr,CR - NHK World,https://iptv-epg.org/logos/Costa_Rica/NHKWorld.cr.png
-TVN-2.cr,CR - TVN-2,https://iptv-epg.org/logos/Costa_Rica/TVN-2.cr.png
-MTV00s.cr,CR - MTV 00s,https://iptv-epg.org/logos/Costa_Rica/MTV00s.cr.png
-Telehit.cr,CR - Telehit,https://iptv-epg.org/logos/Costa_Rica/Telehit.cr.png
-TelehitMúsica.cr,CR - Telehit Música,
-MTV80s.cr,CR - MTV 80s,https://iptv-epg.org/logos/Costa_Rica/MTV80s.cr.png
-HTV.cr,CR - HTV,https://iptv-epg.org/logos/Costa_Rica/HTV.cr.png
-AdrenalinaSportsNetwork.cr,CR - Adrenalina Sports Network,https://iptv-epg.org/logos/Costa_Rica/AdrenalinaSportsNetwork.cr.png
-HBO2.cr,CR - HBO 2,https://iptv-epg.org/logos/Costa_Rica/HBO2.cr.png
-HBOFamily.cr,CR - HBO Family,https://iptv-epg.org/logos/Costa_Rica/HBOFamily.cr.png
-HBOSignature.cr,CR - HBO Signature,https://iptv-epg.org/logos/Costa_Rica/HBOSignature.cr.png
-HBOPop.cr,CR - HBO Pop,https://iptv-epg.org/logos/Costa_Rica/HBOPop.cr.png
-HBOMundi.cr,CR - HBO Mundi,https://iptv-epg.org/logos/Costa_Rica/HBOMundi.cr.png
-HBOXtreme.cr,CR - HBO Xtreme,https://iptv-epg.org/logos/Costa_Rica/HBOXtreme.cr.png
-Univision.cr,CR - Univision,https://iptv-epg.org/logos/Costa_Rica/Univision.cr.png
-HOLATV.cr,CR - ¡HOLA! TV,https://iptv-epg.org/logos/Costa_Rica/HOLATV.cr.png
-VH1.cr,CR - VH1,https://iptv-epg.org/logos/Costa_Rica/VH1.cr.png
-Elgourmet.cr,CR - Elgourmet,https://iptv-epg.org/logos/Costa_Rica/Elgourmet.cr.png
-MasChic.cr,CR - Más Chic,https://iptv-epg.org/logos/Costa_Rica/MasChic.cr.png
-FilmAndArts.cr,CR - Film &amp; Arts,https://iptv-epg.org/logos/Costa_Rica/FilmAndArts.cr.png
-Cablenoticias.cr,CR - Cablenoticias,https://iptv-epg.org/logos/Costa_Rica/Cablenoticias.cr.png
-GolTVEstadosUnidos.cr,CR - Gol TV Estados Unidos,https://iptv-epg.org/logos/Costa_Rica/GolTVEstadosUnidos.cr.png
-Cinema+.cr,CR - Cinema +,https://iptv-epg.org/logos/Costa_Rica/Cinema%2B.cr.png
-DHE.cr,CR - DHE,https://iptv-epg.org/logos/Costa_Rica/DHE.cr.png
-Panico.cr,CR - Pánico,https://iptv-epg.org/logos/Costa_Rica/Panico.cr.png
-CinemaPlatino.cr,CR - Cinema Platino,https://iptv-epg.org/logos/Costa_Rica/CinemaPlatino.cr.png
 Cinema.cr,CR - Cinema,
-ESNETV.cr,CR - ESNE TV,https://iptv-epg.org/logos/Costa_Rica/ESNETV.cr.png
-ExaTV.cr,CR - Exa TV,https://iptv-epg.org/logos/Costa_Rica/ExaTV.cr.png
-Telenostalgia.cr,CR - Telenostalgia,https://iptv-epg.org/logos/Costa_Rica/Telenostalgia.cr.png
+Cinema+.cr,CR - Cinema +,https://iptv-epg.org/logos/Costa_Rica/Cinema%2B.cr.png
+CinemaPlatino.cr,CR - Cinema Platino,https://iptv-epg.org/logos/Costa_Rica/CinemaPlatino.cr.png
 Clic.cr,CR - Clic,https://iptv-epg.org/logos/Costa_Rica/Clic.cr.png
+CNN.cr,CR - CNN,https://iptv-epg.org/logos/Costa_Rica/CNN.cr.png
+CNNInternacional.cr,CR - CNN Internacional,https://iptv-epg.org/logos/Costa_Rica/CNNInternacional.cr.png
+DePelícula.cr,CR - De Película,
+DeutscheWelle.cr,CR - Deutsche Welle,https://iptv-epg.org/logos/Costa_Rica/DeutscheWelle.cr.png
+DHE.cr,CR - DHE,https://iptv-epg.org/logos/Costa_Rica/DHE.cr.png
+DiscoveryScience.cr,CR - Discovery Science,https://iptv-epg.org/logos/Costa_Rica/DiscoveryScience.cr.png
+DiscoveryTurbo.cr,CR - Discovery Turbo,https://iptv-epg.org/logos/Costa_Rica/DiscoveryTurbo.cr.png
+DisneyJunior.cr,CR - Disney Junior,https://iptv-epg.org/logos/Costa_Rica/DisneyJunior.cr.png
+DistritoComedia.cr,CR - Distrito Comedia,https://iptv-epg.org/logos/Costa_Rica/DistritoComedia.cr.png
+DW.cr,CR - DW,https://iptv-epg.org/logos/Costa_Rica/DW.cr.png
+Elgourmet.cr,CR - Elgourmet,https://iptv-epg.org/logos/Costa_Rica/Elgourmet.cr.png
+Enlace.cr,CR - Enlace,https://iptv-epg.org/logos/Costa_Rica/Enlace.cr.png
+ESNETV.cr,CR - ESNE TV,https://iptv-epg.org/logos/Costa_Rica/ESNETV.cr.png
 Euronews.cr,CR - Euronews,https://iptv-epg.org/logos/Costa_Rica/Euronews.cr.png
-TVAgroCentroamérica.cr,CR - TV Agro Centroamérica,
-WOBI.cr,CR - WOBI,https://iptv-epg.org/logos/Costa_Rica/WOBI.cr.png
+EWTN.cr,CR - EWTN,https://iptv-epg.org/logos/Costa_Rica/EWTN.cr.png
+ExaTV.cr,CR - Exa TV,https://iptv-epg.org/logos/Costa_Rica/ExaTV.cr.png
+FilmAndArts.cr,CR - Film &amp; Arts,https://iptv-epg.org/logos/Costa_Rica/FilmAndArts.cr.png
+FoxNews.cr,CR - Fox News,https://iptv-epg.org/logos/Costa_Rica/FoxNews.cr.png
+FUTV.cr,CR - FUTV,https://iptv-epg.org/logos/Costa_Rica/FUTV.cr.png
+GolTVEstadosUnidos.cr,CR - Gol TV Estados Unidos,https://iptv-epg.org/logos/Costa_Rica/GolTVEstadosUnidos.cr.png
+GoldenEdge.cr,CR - Golden Edge,https://iptv-epg.org/logos/Costa_Rica/GoldenEdge.cr.png
 GoldenPremier.cr,CR - Golden Premier,https://iptv-epg.org/logos/Costa_Rica/GoldenPremier.cr.png
 GoldenPremier2.cr,CR - Golden Premier 2,https://iptv-epg.org/logos/Costa_Rica/GoldenPremier2.cr.png
-TVGloboInternacional.cr,CR - TV Globo Internacional,https://iptv-epg.org/logos/Costa_Rica/TVGloboInternacional.cr.png
-TelefeInternacional.cr,CR - Telefe Internacional,https://iptv-epg.org/logos/Costa_Rica/TelefeInternacional.cr.png
+GolfChannel.cr,CR - Golf Channel,https://iptv-epg.org/logos/Costa_Rica/GolfChannel.cr.png
+GolTV.cr,CR - GolTV,https://iptv-epg.org/logos/Costa_Rica/GolTV.cr.png
+HBO.cr,CR - HBO,https://iptv-epg.org/logos/Costa_Rica/HBO.cr.png
+HBO2.cr,CR - HBO 2,https://iptv-epg.org/logos/Costa_Rica/HBO2.cr.png
+HBOFamily.cr,CR - HBO Family,https://iptv-epg.org/logos/Costa_Rica/HBOFamily.cr.png
+HBOMundi.cr,CR - HBO Mundi,https://iptv-epg.org/logos/Costa_Rica/HBOMundi.cr.png
+HBOPop.cr,CR - HBO Pop,https://iptv-epg.org/logos/Costa_Rica/HBOPop.cr.png
+HBOSignature.cr,CR - HBO Signature,https://iptv-epg.org/logos/Costa_Rica/HBOSignature.cr.png
+HBOXtreme.cr,CR - HBO Xtreme,https://iptv-epg.org/logos/Costa_Rica/HBOXtreme.cr.png
+HLN.cr,CR - HLN,https://iptv-epg.org/logos/Costa_Rica/HLN.cr.png
+HTV.cr,CR - HTV,https://iptv-epg.org/logos/Costa_Rica/HTV.cr.png
+LasEstrellas.cr,CR - Las Estrellas,https://iptv-epg.org/logos/Costa_Rica/LasEstrellas.cr.png
+MTV00s.cr,CR - MTV 00s,https://iptv-epg.org/logos/Costa_Rica/MTV00s.cr.png
+MTV80s.cr,CR - MTV 80s,https://iptv-epg.org/logos/Costa_Rica/MTV80s.cr.png
+MasChic.cr,CR - Más Chic,https://iptv-epg.org/logos/Costa_Rica/MasChic.cr.png
+NFLNetwork.cr,CR - NFL Network,https://iptv-epg.org/logos/Costa_Rica/NFLNetwork.cr.png
+NHKWorld.cr,CR - NHK World,https://iptv-epg.org/logos/Costa_Rica/NHKWorld.cr.png
 NickMusic.cr,CR - NickMusic,https://iptv-epg.org/logos/Costa_Rica/NickMusic.cr.png
+Panico.cr,CR - Pánico,https://iptv-epg.org/logos/Costa_Rica/Panico.cr.png
+RAIInternational.cr,CR - RAI International,https://iptv-epg.org/logos/Costa_Rica/RAIInternational.cr.png
+RCNNuestraTele(Internacional).cr,CR - RCN Nuestra Tele (Internacional),https://iptv-epg.org/logos/Costa_Rica/RCNNuestraTele%28Internacional%29.cr.png
+TCM.cr,CR - TCM,https://iptv-epg.org/logos/Costa_Rica/TCM.cr.png
+TelefeInternacional.cr,CR - Telefe Internacional,https://iptv-epg.org/logos/Costa_Rica/TelefeInternacional.cr.png
+Telehit.cr,CR - Telehit,https://iptv-epg.org/logos/Costa_Rica/Telehit.cr.png
+TelehitMúsica.cr,CR - Telehit Música,
+Telenostalgia.cr,CR - Telenostalgia,https://iptv-epg.org/logos/Costa_Rica/Telenostalgia.cr.png
+TigoSport.cr,CR - Tigo Sport,https://iptv-epg.org/logos/Costa_Rica/TigoSport.cr.png
+TLNovelas.cr,CR - TLNovelas,https://iptv-epg.org/logos/Costa_Rica/TLNovelas.cr.png
+TNTNovelas.cr,CR - TNT Novelas,https://iptv-epg.org/logos/Costa_Rica/TNTNovelas.cr.png
+Tooncast.cr,CR - Tooncast,https://iptv-epg.org/logos/Costa_Rica/Tooncast.cr.png
+TUDN.cr,CR - TUDN,https://iptv-epg.org/logos/Costa_Rica/TUDN.cr.png
+TV5MONDE.cr,CR - TV5MONDE,https://iptv-epg.org/logos/Costa_Rica/TV5MONDE.cr.png
+TVAgroCentroamérica.cr,CR - TV Agro Centroamérica,
+TVChile.cr,CR - TV Chile,https://iptv-epg.org/logos/Costa_Rica/TVChile.cr.png
+TVGloboInternacional.cr,CR - TV Globo Internacional,https://iptv-epg.org/logos/Costa_Rica/TVGloboInternacional.cr.png
+TVEInternacional.cr,CR - TVE Internacional,https://iptv-epg.org/logos/Costa_Rica/TVEInternacional.cr.png
+TVN-2.cr,CR - TVN-2,https://iptv-epg.org/logos/Costa_Rica/TVN-2.cr.png
+TyCSports.cr,CR - TyC Sports,https://iptv-epg.org/logos/Costa_Rica/TyCSports.cr.png
+Univision.cr,CR - Univision,https://iptv-epg.org/logos/Costa_Rica/Univision.cr.png
+USANetwork.cr,CR - USA Network,https://iptv-epg.org/logos/Costa_Rica/USANetwork.cr.png
+VH1.cr,CR - VH1,https://iptv-epg.org/logos/Costa_Rica/VH1.cr.png
+WOBI.cr,CR - WOBI,https://iptv-epg.org/logos/Costa_Rica/WOBI.cr.png
+HOLATV.cr,CR - ¡HOLA! TV,https://iptv-epg.org/logos/Costa_Rica/HOLATV.cr.png

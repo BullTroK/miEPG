@@ -1,106 +1,106 @@
 # Fuente: https://iptv-epg.org/files/epg-ec.xml
-RTS.ec,EC - RTS Red Telesistema,https://iptv-epg.org/logos/Ecuador/RTS.ec.png
-Teleamazonas.ec,EC - Teleamazonas,https://iptv-epg.org/logos/Ecuador/Teleamazonas.ec.png
-Gamavision.ec,EC - Gamavisión,https://iptv-epg.org/logos/Ecuador/Gamavision.ec.png
-OromarTV.ec,EC - Oromar Televisión,https://iptv-epg.org/logos/Ecuador/OromarTV.ec.png
-TCtv.ec,EC - TC Televisión,https://iptv-epg.org/logos/Ecuador/TCtv.ec.png
-Ecuavisa.ec,EC - Ecuavisa,https://iptv-epg.org/logos/Ecuador/Ecuavisa.ec.png
-EcuavisaInternacional.ec,EC - Ecuavisa Internacional,https://iptv-epg.org/logos/Ecuador/EcuavisaInternacional.ec.png
-EcuadorTV.ec,EC - Ecuador TV,https://iptv-epg.org/logos/Ecuador/EcuadorTV.ec.png
-RTU.ec,EC - RTU,https://iptv-epg.org/logos/Ecuador/RTU.ec.png
-TelevicentroEcuador.ec,EC - Televicentro Ecuador,https://iptv-epg.org/logos/Ecuador/TelevicentroEcuador.ec.png
+AandEAndes.ec,EC - A&amp;E Andes,https://iptv-epg.org/logos/Ecuador/AandEAndes.ec.png
+AMCLatinAmerica.ec,EC - AMC Latin America,https://iptv-epg.org/logos/Ecuador/AMCLatinAmerica.ec.png
+AnimalPlanetInternational.ec,EC - Animal Planet International,https://iptv-epg.org/logos/Ecuador/AnimalPlanetInternational.ec.png
+Antena3Internacional.ec,EC - Antena 3 Internacional,https://iptv-epg.org/logos/Ecuador/Antena3Internacional.ec.png
+Atreseries.ec,EC - Atreseries,https://iptv-epg.org/logos/Ecuador/Atreseries.ec.png
+AXNAndes.ec,EC - AXN Andes,https://iptv-epg.org/logos/Ecuador/AXNAndes.ec.png
+AXNLatinAmerica.ec,EC - AXN Latin America,https://iptv-epg.org/logos/Ecuador/AXNLatinAmerica.ec.png
+BabyTV.ec,EC - Baby TV,https://iptv-epg.org/logos/Ecuador/BabyTV.ec.png
+BBCWorldNewsLatinAmerica.ec,EC - BBC World News Latin America,https://iptv-epg.org/logos/Ecuador/BBCWorldNewsLatinAmerica.ec.png
+CanalDHE.ec,EC - Canal DHE,https://iptv-epg.org/logos/Ecuador/CanalDHE.ec.png
+CartoonNetworkLatinAmerica-Panregional.ec,EC - Cartoon Network Latin America - Panregional,https://iptv-epg.org/logos/Ecuador/CartoonNetworkLatinAmerica-Panregional.ec.png
+CartoonitoLatinAmerica.ec,EC - Cartoonito Latin America,https://iptv-epg.org/logos/Ecuador/CartoonitoLatinAmerica.ec.png
+CinecanalColombia.ec,EC - Cinecanal Colombia,https://iptv-epg.org/logos/Ecuador/CinecanalColombia.ec.png
+CinemaxPanamerican.ec,EC - Cinemax Panamerican,https://iptv-epg.org/logos/Ecuador/CinemaxPanamerican.ec.png
+CNNChile.ec,EC - CNN Chile,https://iptv-epg.org/logos/Ecuador/CNNChile.ec.png
+CNNenEspañolLatinAmerica.ec,EC - CNN en Español Latin America,
+CNNInternational.ec,EC - CNN International,https://iptv-epg.org/logos/Ecuador/CNNInternational.ec.png
+DeutscheWelleTVEspañol.ec,EC - Deutsche Welle TV Español,https://iptv-epg.org/logos/Ecuador/DeutscheWelleTVEspa%C3%B1ol.ec.png
+DIRECTVSports.ec,EC - DIRECTV Sports,https://iptv-epg.org/logos/Ecuador/DIRECTVSports.ec.png
+DIRECTVSports2.ec,EC - DIRECTV Sports 2,https://iptv-epg.org/logos/Ecuador/DIRECTVSports2.ec.png
+DIRECTVSports+.ec,EC - DIRECTV Sports +,https://iptv-epg.org/logos/Ecuador/DIRECTVSports%2B.ec.png
+DIRECTVSportsFight.ec,EC - DIRECTV Sports Fight,https://iptv-epg.org/logos/Ecuador/DIRECTVSportsFight.ec.png
+DiscoveryHomeandHealthLatinAmerica.ec,EC - Discovery Home &amp; Health Latin America,https://iptv-epg.org/logos/Ecuador/DiscoveryHomeandHealthLatinAmerica.ec.png
+DiscoveryKidsLatinAmerica.ec,EC - Discovery Kids Latin America,https://iptv-epg.org/logos/Ecuador/DiscoveryKidsLatinAmerica.ec.png
+DiscoveryTurboInternational.ec,EC - Discovery Turbo International,https://iptv-epg.org/logos/Ecuador/DiscoveryTurboInternational.ec.png
+DiscoveryWorldLatinAmerica.ec,EC - Discovery World Latin America,https://iptv-epg.org/logos/Ecuador/DiscoveryWorldLatinAmerica.ec.png
 DisneyChannelSur.ec,EC - Disney Channel (Sur),https://iptv-epg.org/logos/Ecuador/DisneyChannelSur.ec.png
 DisneyChannel.ec,EC - Disney Channel,https://iptv-epg.org/logos/Ecuador/DisneyChannel.ec.png
-DisneyJrSur.ec,EC - Disney Jr. Sur,https://iptv-epg.org/logos/Ecuador/DisneyJrSur.ec.png
 DisneyJr.ec,EC - Disney Jr.,https://iptv-epg.org/logos/Ecuador/DisneyJr.ec.png
-DiscoveryKidsLatinAmerica.ec,EC - Discovery Kids Latin America,https://iptv-epg.org/logos/Ecuador/DiscoveryKidsLatinAmerica.ec.png
-NickJrLatinoamerica.ec,EC - Nick Jr. Latinoamerica,https://iptv-epg.org/logos/Ecuador/NickJrLatinoamerica.ec.png
-CartoonNetworkLatinAmerica-Panregional.ec,EC - Cartoon Network Latin America - Panregional,https://iptv-epg.org/logos/Ecuador/CartoonNetworkLatinAmerica-Panregional.ec.png
-NickelodeonLatinAmerica/Central.ec,EC - Nickelodeon Latin America / Central,
-ESPNColombia.ec,EC - ESPN Colombia,https://iptv-epg.org/logos/Ecuador/ESPNColombia.ec.png
+DisneyJrSur.ec,EC - Disney Jr. Sur,https://iptv-epg.org/logos/Ecuador/DisneyJrSur.ec.png
+E!EntertainmentTelevisionAndes.ec,EC - E! Entertainment Television Andes,https://iptv-epg.org/logos/Ecuador/E%21EntertainmentTelevisionAndes.ec.png
+EcuadorTV.ec,EC - Ecuador TV,https://iptv-epg.org/logos/Ecuador/EcuadorTV.ec.png
+Ecuavisa.ec,EC - Ecuavisa,https://iptv-epg.org/logos/Ecuador/Ecuavisa.ec.png
+EcuavisaInternacional.ec,EC - Ecuavisa Internacional,https://iptv-epg.org/logos/Ecuador/EcuavisaInternacional.ec.png
+ElgourmetcomNorte.ec,EC - Elgourmet.com Norte,https://iptv-epg.org/logos/Ecuador/ElgourmetcomNorte.ec.png
 ESPN2Colombia.ec,EC - ESPN 2 Colombia,https://iptv-epg.org/logos/Ecuador/ESPN2Colombia.ec.png
 ESPN3Andina.ec,EC - ESPN 3 Andina,https://iptv-epg.org/logos/Ecuador/ESPN3Andina.ec.png
 ESPN4.ec,EC - ESPN 4,https://iptv-epg.org/logos/Ecuador/ESPN4.ec.png
 ESPN5.ec,EC - ESPN 5,https://iptv-epg.org/logos/Ecuador/ESPN5.ec.png
 ESPN6.ec,EC - ESPN 6,https://iptv-epg.org/logos/Ecuador/ESPN6.ec.png
 ESPN7.ec,EC - ESPN 7,https://iptv-epg.org/logos/Ecuador/ESPN7.ec.png
-STARChannel.ec,EC - STAR Channel,https://iptv-epg.org/logos/Ecuador/STARChannel.ec.png
-WarnerChannelAndes.ec,EC - Warner Channel Andes,https://iptv-epg.org/logos/Ecuador/WarnerChannelAndes.ec.png
-InvestigationDiscoveryLatinAmerica.ec,EC - Investigation Discovery Latin America,https://iptv-epg.org/logos/Ecuador/InvestigationDiscoveryLatinAmerica.ec.png
+ESPNColombia.ec,EC - ESPN Colombia,https://iptv-epg.org/logos/Ecuador/ESPNColombia.ec.png
 FXLatinAmericaColombia.ec,EC - FX Latin America Colombia,https://iptv-epg.org/logos/Ecuador/FXLatinAmericaColombia.ec.png
-SonyEntertainmentTelevisionAndesfeed.ec,EC - Sony Entertainment Television Andes feed,https://iptv-epg.org/logos/Ecuador/SonyEntertainmentTelevisionAndesfeed.ec.png
-AXNAndes.ec,EC - AXN Andes,https://iptv-epg.org/logos/Ecuador/AXNAndes.ec.png
-TNTLatinAmericaPan-Regional.ec,EC - TNT Latin America Pan-Regional,https://iptv-epg.org/logos/Ecuador/TNTLatinAmericaPan-Regional.ec.png
-SpacePanamericano.ec,EC - Space Panamericano,https://iptv-epg.org/logos/Ecuador/SpacePanamericano.ec.png
-UniversalChannelLatinAmerica.ec,EC - Universal Channel Latin America,https://iptv-epg.org/logos/Ecuador/UniversalChannelLatinAmerica.ec.png
-CinecanalColombia.ec,EC - Cinecanal Colombia,https://iptv-epg.org/logos/Ecuador/CinecanalColombia.ec.png
-CinemaxPanamerican.ec,EC - Cinemax Panamerican,https://iptv-epg.org/logos/Ecuador/CinemaxPanamerican.ec.png
-BabyTV.ec,EC - Baby TV,https://iptv-epg.org/logos/Ecuador/BabyTV.ec.png
+Gamavision.ec,EC - Gamavisión,https://iptv-epg.org/logos/Ecuador/Gamavision.ec.png
+Golden.ec,EC - Golden,https://iptv-epg.org/logos/Ecuador/Golden.ec.png
+GoldenEdge.ec,EC - Golden Edge,https://iptv-epg.org/logos/Ecuador/GoldenEdge.ec.png
+GolfChannel.ec,EC - Golf Channel,https://iptv-epg.org/logos/Ecuador/GolfChannel.ec.png
 HBO.ec,EC - HBO,https://iptv-epg.org/logos/Ecuador/HBO.ec.png
 HBO2.ec,EC - HBO 2,https://iptv-epg.org/logos/Ecuador/HBO2.ec.png
-HBOSignature.ec,EC - HBO Signature,https://iptv-epg.org/logos/Ecuador/HBOSignature.ec.png
 HBOFamily.ec,EC - HBO Family,https://iptv-epg.org/logos/Ecuador/HBOFamily.ec.png
 HBOMundi.ec,EC - HBO Mundi,https://iptv-epg.org/logos/Ecuador/HBOMundi.ec.png
-HBOPop.ec,EC - HBO Pop,https://iptv-epg.org/logos/Ecuador/HBOPop.ec.png
-HBOXtreme.ec,EC - HBO Xtreme,https://iptv-epg.org/logos/Ecuador/HBOXtreme.ec.png
 HBOPlus.ec,EC - HBO Plus,https://iptv-epg.org/logos/Ecuador/HBOPlus.ec.png
-TNTNovelas.ec,EC - TNT Novelas,https://iptv-epg.org/logos/Ecuador/TNTNovelas.ec.png
+HBOPop.ec,EC - HBO Pop,https://iptv-epg.org/logos/Ecuador/HBOPop.ec.png
+HBOSignature.ec,EC - HBO Signature,https://iptv-epg.org/logos/Ecuador/HBOSignature.ec.png
+HBOXtreme.ec,EC - HBO Xtreme,https://iptv-epg.org/logos/Ecuador/HBOXtreme.ec.png
+HGTVLatinAmericaPanregional.ec,EC - HGTV Latin America Panregional,https://iptv-epg.org/logos/Ecuador/HGTVLatinAmericaPanregional.ec.png
+History2LatinAmerica.ec,EC - History 2 Latin America,https://iptv-epg.org/logos/Ecuador/History2LatinAmerica.ec.png
+HolaTV.ec,EC - Hola TV,https://iptv-epg.org/logos/Ecuador/HolaTV.ec.png
+INTINetwork.ec,EC - INTI Network,https://iptv-epg.org/logos/Ecuador/INTINetwork.ec.png
+InvestigationDiscoveryLatinAmerica.ec,EC - Investigation Discovery Latin America,https://iptv-epg.org/logos/Ecuador/InvestigationDiscoveryLatinAmerica.ec.png
 LasEstrellas.ec,EC - Las Estrellas,https://iptv-epg.org/logos/Ecuador/LasEstrellas.ec.png
-DiscoveryHomeandHealthLatinAmerica.ec,EC - Discovery Home &amp; Health Latin America,https://iptv-epg.org/logos/Ecuador/DiscoveryHomeandHealthLatinAmerica.ec.png
-TLCLatinAmerica.ec,EC - TLC Latin America,https://iptv-epg.org/logos/Ecuador/TLCLatinAmerica.ec.png
-AandEAndes.ec,EC - A&amp;E Andes,https://iptv-epg.org/logos/Ecuador/AandEAndes.ec.png
-E!EntertainmentTelevisionAndes.ec,EC - E! Entertainment Television Andes,https://iptv-epg.org/logos/Ecuador/E%21EntertainmentTelevisionAndes.ec.png
-CNNenEspañolLatinAmerica.ec,EC - CNN en Español Latin America,
-CNNChile.ec,EC - CNN Chile,https://iptv-epg.org/logos/Ecuador/CNNChile.ec.png
-CNNInternational.ec,EC - CNN International,https://iptv-epg.org/logos/Ecuador/CNNInternational.ec.png
-BBCWorldNewsLatinAmerica.ec,EC - BBC World News Latin America,https://iptv-epg.org/logos/Ecuador/BBCWorldNewsLatinAmerica.ec.png
-TelemundoInternacional.ec,EC - Telemundo Internacional,https://iptv-epg.org/logos/Ecuador/TelemundoInternacional.ec.png
-VePlusTV.ec,EC - Ve Plus TV,https://iptv-epg.org/logos/Ecuador/VePlusTV.ec.png
-TelefeInternacionaldeArgentina.ec,EC - Telefe Internacional de Argentina,https://iptv-epg.org/logos/Ecuador/TelefeInternacionaldeArgentina.ec.png
-RAIInternational.ec,EC - RAI International,https://iptv-epg.org/logos/Ecuador/RAIInternational.ec.png
-TheHistoryChannelAndes.ec,EC - The History Channel Andes,https://iptv-epg.org/logos/Ecuador/TheHistoryChannelAndes.ec.png
-TheDiscoveryChannelLatinAmerica.ec,EC - The Discovery Channel Latin America,https://iptv-epg.org/logos/Ecuador/TheDiscoveryChannelLatinAmerica.ec.png
-AnimalPlanetInternational.ec,EC - Animal Planet International,https://iptv-epg.org/logos/Ecuador/AnimalPlanetInternational.ec.png
-NationalGeographic.ec,EC - National Geographic,https://iptv-epg.org/logos/Ecuador/NationalGeographic.ec.png
-DiscoveryTurboInternational.ec,EC - Discovery Turbo International,https://iptv-epg.org/logos/Ecuador/DiscoveryTurboInternational.ec.png
-MTVHits.ec,EC - MTV Hits,https://iptv-epg.org/logos/Ecuador/MTVHits.ec.png
-MTV00s.ec,EC - MTV 00's,https://iptv-epg.org/logos/Ecuador/MTV00s.ec.png
-MTVLive.ec,EC - MTV Live,https://iptv-epg.org/logos/Ecuador/MTVLive.ec.png
+LifetimeLatinAmerica.ec,EC - Lifetime Latin America,https://iptv-epg.org/logos/Ecuador/LifetimeLatinAmerica.ec.png
 MTV.ec,EC - MTV,https://iptv-epg.org/logos/Ecuador/MTV.ec.png
+MTV00s.ec,EC - MTV 00's,https://iptv-epg.org/logos/Ecuador/MTV00s.ec.png
+MTVHits.ec,EC - MTV Hits,https://iptv-epg.org/logos/Ecuador/MTVHits.ec.png
 MTVLatino.ec,EC - MTV Latino,https://iptv-epg.org/logos/Ecuador/MTVLatino.ec.png
+MTVLive.ec,EC - MTV Live,https://iptv-epg.org/logos/Ecuador/MTVLive.ec.png
+NationalGeographic.ec,EC - National Geographic,https://iptv-epg.org/logos/Ecuador/NationalGeographic.ec.png
+NickJrLatinoamerica.ec,EC - Nick Jr. Latinoamerica,https://iptv-epg.org/logos/Ecuador/NickJrLatinoamerica.ec.png
+NickelodeonLatinAmerica/Central.ec,EC - Nickelodeon Latin America / Central,
+OromarTV.ec,EC - Oromar Televisión,https://iptv-epg.org/logos/Ecuador/OromarTV.ec.png
+ParamountNetworkLatinAmerica.ec,EC - Paramount Network Latin America,https://iptv-epg.org/logos/Ecuador/ParamountNetworkLatinAmerica.ec.png
+Pasiones.ec,EC - Pasiones,https://iptv-epg.org/logos/Ecuador/Pasiones.ec.png
+RAIInternational.ec,EC - RAI International,https://iptv-epg.org/logos/Ecuador/RAIInternational.ec.png
+RTS.ec,EC - RTS Red Telesistema,https://iptv-epg.org/logos/Ecuador/RTS.ec.png
+RTU.ec,EC - RTU,https://iptv-epg.org/logos/Ecuador/RTU.ec.png
+SonyEntertainmentTelevisionAndesfeed.ec,EC - Sony Entertainment Television Andes feed,https://iptv-epg.org/logos/Ecuador/SonyEntertainmentTelevisionAndesfeed.ec.png
+SonyMovieChannel.ec,EC - Sony Movie Channel,https://iptv-epg.org/logos/Ecuador/SonyMovieChannel.ec.png
+SpacePanamericano.ec,EC - Space Panamericano,https://iptv-epg.org/logos/Ecuador/SpacePanamericano.ec.png
+STARChannel.ec,EC - STAR Channel,https://iptv-epg.org/logos/Ecuador/STARChannel.ec.png
 TBNEnlaceLatinAmerica.ec,EC - TBN Enlace Latin America,https://iptv-epg.org/logos/Ecuador/TBNEnlaceLatinAmerica.ec.png
-UniversalPremiere.ec,EC - Universal Premiere,https://iptv-epg.org/logos/Ecuador/UniversalPremiere.ec.png
-UniversalPremiereOeste.ec,EC - Universal Premiere Oeste,https://iptv-epg.org/logos/Ecuador/UniversalPremiereOeste.ec.png
-Universal Cinema,Universal Cinema,https://iptv-epg.org/logos/Ecuador/Universal+Cinema.png
+TCtv.ec,EC - TC Televisión,https://iptv-epg.org/logos/Ecuador/TCtv.ec.png
+TeenNickGlobalLatinAmerica/Pan-regional.ec,EC - Teen Nick Global Latin America/Pan-regional,
+Teleamazonas.ec,EC - Teleamazonas,https://iptv-epg.org/logos/Ecuador/Teleamazonas.ec.png
+TelefeInternacionaldeArgentina.ec,EC - Telefe Internacional de Argentina,https://iptv-epg.org/logos/Ecuador/TelefeInternacionaldeArgentina.ec.png
+TelemundoInternacional.ec,EC - Telemundo Internacional,https://iptv-epg.org/logos/Ecuador/TelemundoInternacional.ec.png
+TelevicentroEcuador.ec,EC - Televicentro Ecuador,https://iptv-epg.org/logos/Ecuador/TelevicentroEcuador.ec.png
+TheDiscoveryChannelLatinAmerica.ec,EC - The Discovery Channel Latin America,https://iptv-epg.org/logos/Ecuador/TheDiscoveryChannelLatinAmerica.ec.png
+TheHistoryChannelAndes.ec,EC - The History Channel Andes,https://iptv-epg.org/logos/Ecuador/TheHistoryChannelAndes.ec.png
+TLCLatinAmerica.ec,EC - TLC Latin America,https://iptv-epg.org/logos/Ecuador/TLCLatinAmerica.ec.png
+TNTLatinAmericaPan-Regional.ec,EC - TNT Latin America Pan-Regional,https://iptv-epg.org/logos/Ecuador/TNTLatinAmericaPan-Regional.ec.png
+TNTNovelas.ec,EC - TNT Novelas,https://iptv-epg.org/logos/Ecuador/TNTNovelas.ec.png
+TNTSeriesPAN.ec,EC - TNT Series PAN,https://iptv-epg.org/logos/Ecuador/TNTSeriesPAN.ec.png
+TyCSports.ec,EC - TyC Sports,https://iptv-epg.org/logos/Ecuador/TyCSports.ec.png
+UniversalChannelLatinAmerica.ec,EC - Universal Channel Latin America,https://iptv-epg.org/logos/Ecuador/UniversalChannelLatinAmerica.ec.png
 UNIVERSALCinemaWest.ec,EC - UNIVERSAL Cinema West,https://iptv-epg.org/logos/Ecuador/UNIVERSALCinemaWest.ec.png
 UniversalComedy.ec,EC - Universal Comedy,https://iptv-epg.org/logos/Ecuador/UniversalComedy.ec.png
 UniversalCrime.ec,EC - Universal Crime,https://iptv-epg.org/logos/Ecuador/UniversalCrime.ec.png
 UniversalCrimeOeste.ec,EC - Universal Crime Oeste,https://iptv-epg.org/logos/Ecuador/UniversalCrimeOeste.ec.png
+UniversalPremiere.ec,EC - Universal Premiere,https://iptv-epg.org/logos/Ecuador/UniversalPremiere.ec.png
+UniversalPremiereOeste.ec,EC - Universal Premiere Oeste,https://iptv-epg.org/logos/Ecuador/UniversalPremiereOeste.ec.png
 UniversalReality.ec,EC - Universal Reality,https://iptv-epg.org/logos/Ecuador/UniversalReality.ec.png
-CartoonitoLatinAmerica.ec,EC - Cartoonito Latin America,https://iptv-epg.org/logos/Ecuador/CartoonitoLatinAmerica.ec.png
-TeenNickGlobalLatinAmerica/Pan-regional.ec,EC - Teen Nick Global Latin America/Pan-regional,
-TNTSeriesPAN.ec,EC - TNT Series PAN,https://iptv-epg.org/logos/Ecuador/TNTSeriesPAN.ec.png
-AXNLatinAmerica.ec,EC - AXN Latin America,https://iptv-epg.org/logos/Ecuador/AXNLatinAmerica.ec.png
-Atreseries.ec,EC - Atreseries,https://iptv-epg.org/logos/Ecuador/Atreseries.ec.png
-ParamountNetworkLatinAmerica.ec,EC - Paramount Network Latin America,https://iptv-epg.org/logos/Ecuador/ParamountNetworkLatinAmerica.ec.png
-AMCLatinAmerica.ec,EC - AMC Latin America,https://iptv-epg.org/logos/Ecuador/AMCLatinAmerica.ec.png
-Golden.ec,EC - Golden,https://iptv-epg.org/logos/Ecuador/Golden.ec.png
-GoldenEdge.ec,EC - Golden Edge,https://iptv-epg.org/logos/Ecuador/GoldenEdge.ec.png
-Pasiones.ec,EC - Pasiones,https://iptv-epg.org/logos/Ecuador/Pasiones.ec.png
-HGTVLatinAmericaPanregional.ec,EC - HGTV Latin America Panregional,https://iptv-epg.org/logos/Ecuador/HGTVLatinAmericaPanregional.ec.png
-HolaTV.ec,EC - Hola TV,https://iptv-epg.org/logos/Ecuador/HolaTV.ec.png
-ElgourmetcomNorte.ec,EC - Elgourmet.com Norte,https://iptv-epg.org/logos/Ecuador/ElgourmetcomNorte.ec.png
-LifetimeLatinAmerica.ec,EC - Lifetime Latin America,https://iptv-epg.org/logos/Ecuador/LifetimeLatinAmerica.ec.png
-INTINetwork.ec,EC - INTI Network,https://iptv-epg.org/logos/Ecuador/INTINetwork.ec.png
-Antena3Internacional.ec,EC - Antena 3 Internacional,https://iptv-epg.org/logos/Ecuador/Antena3Internacional.ec.png
-DeutscheWelleTVEspañol.ec,EC - Deutsche Welle TV Español,https://iptv-epg.org/logos/Ecuador/DeutscheWelleTVEspa%C3%B1ol.ec.png
-History2LatinAmerica.ec,EC - History 2 Latin America,https://iptv-epg.org/logos/Ecuador/History2LatinAmerica.ec.png
-DiscoveryWorldLatinAmerica.ec,EC - Discovery World Latin America,https://iptv-epg.org/logos/Ecuador/DiscoveryWorldLatinAmerica.ec.png
-SonyMovieChannel.ec,EC - Sony Movie Channel,https://iptv-epg.org/logos/Ecuador/SonyMovieChannel.ec.png
-CanalDHE.ec,EC - Canal DHE,https://iptv-epg.org/logos/Ecuador/CanalDHE.ec.png
-GolfChannel.ec,EC - Golf Channel,https://iptv-epg.org/logos/Ecuador/GolfChannel.ec.png
-TyCSports.ec,EC - TyC Sports,https://iptv-epg.org/logos/Ecuador/TyCSports.ec.png
-DIRECTVSports.ec,EC - DIRECTV Sports,https://iptv-epg.org/logos/Ecuador/DIRECTVSports.ec.png
-DIRECTVSports2.ec,EC - DIRECTV Sports 2,https://iptv-epg.org/logos/Ecuador/DIRECTVSports2.ec.png
-DIRECTVSports+.ec,EC - DIRECTV Sports +,https://iptv-epg.org/logos/Ecuador/DIRECTVSports%2B.ec.png
-DIRECTVSportsFight.ec,EC - DIRECTV Sports Fight,https://iptv-epg.org/logos/Ecuador/DIRECTVSportsFight.ec.png
+VePlusTV.ec,EC - Ve Plus TV,https://iptv-epg.org/logos/Ecuador/VePlusTV.ec.png
+WarnerChannelAndes.ec,EC - Warner Channel Andes,https://iptv-epg.org/logos/Ecuador/WarnerChannelAndes.ec.png
+Universal Cinema,Universal Cinema,https://iptv-epg.org/logos/Ecuador/Universal+Cinema.png

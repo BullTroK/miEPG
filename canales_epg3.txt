@@ -4,175 +4,175 @@ A+.mx,MX - A+,https://iptv-epg.org/logos/Mexico/A%2B.mx.png
 adn40.mx,MX - adn40,https://iptv-epg.org/logos/Mexico/adn40.mx.png
 AMC.mx,MX - AMC,https://iptv-epg.org/logos/Mexico/AMC.mx.png
 AnimalPlanet.mx,MX - Animal Planet,https://iptv-epg.org/logos/Mexico/AnimalPlanet.mx.png
+ASN.mx,MX - ASN [Adrenalina Sports Network],https://iptv-epg.org/logos/Mexico/ASN.mx.png
 AXN.mx,MX - AXN,https://iptv-epg.org/logos/Mexico/AXN.mx.png
+AYMSports.mx,MX - AYM Sports,https://iptv-epg.org/logos/Mexico/AYMSports.mx.png
 AzCorazón.mx,MX - Az Corazón,https://iptv-epg.org/logos/Mexico/AzCoraz%C3%B3n.mx.png
 Azteca7.mx,MX - Azteca 7,https://iptv-epg.org/logos/Mexico/Azteca7.mx.png
 Azteca13.mx,MX - Azteca 13,https://iptv-epg.org/logos/Mexico/Azteca13.mx.png
+AztecaUno.mx,MX - Azteca Uno,https://iptv-epg.org/logos/Mexico/AztecaUno.mx.png
+AztecaUno-1.mx,MX - Azteca Uno -1,https://iptv-epg.org/logos/Mexico/AztecaUno-1.mx.png
+AztecaUno-2.mx,MX - Azteca Uno -2,https://iptv-epg.org/logos/Mexico/AztecaUno-2.mx.png
+BabyTV.mx,MX - Baby TV,https://iptv-epg.org/logos/Mexico/BabyTV.mx.png
 Bandamax.mx,MX - Bandamax,https://iptv-epg.org/logos/Mexico/Bandamax.mx.png
+bitMe.mx,MX - bitMe,https://iptv-epg.org/logos/Mexico/bitMe.mx.png
 Canal4.mx,MX - Canal 4,https://iptv-epg.org/logos/Mexico/Canal4.mx.png
-Canal5Galavision.mx,MX - Canal 5 Galavision,https://iptv-epg.org/logos/Mexico/Canal5Galavision.mx.png
+Canal4TelevisaMexicali.mx,MX - Canal 4 Televisa Mexicali,https://iptv-epg.org/logos/Mexico/Canal4TelevisaMexicali.mx.png
 Canal5.mx,MX - Canal 5,https://iptv-epg.org/logos/Mexico/Canal5.mx.png
+Canal5Galavision.mx,MX - Canal 5 Galavision,https://iptv-epg.org/logos/Mexico/Canal5Galavision.mx.png
+Canal6CDMX.mx,MX - Canal 6 CDMX,https://iptv-epg.org/logos/Mexico/Canal6CDMX.mx.png
+Canal6MultimediosMonterrey.mx,MX - Canal 6 Multimedios Monterrey,https://iptv-epg.org/logos/Mexico/Canal6MultimediosMonterrey.mx.png
+Canal12TelevisaTijuana.mx,MX - Canal 12 Televisa Tijuana,https://iptv-epg.org/logos/Mexico/Canal12TelevisaTijuana.mx.png
+Canal14.mx,MX - Canal 14,https://iptv-epg.org/logos/Mexico/Canal14.mx.png
 Canal22.mx,MX - Canal 22,https://iptv-epg.org/logos/Mexico/Canal22.mx.png
 Canal44-udgtv.mx,MX - Canal 44 - udgtv,https://iptv-epg.org/logos/Mexico/Canal44-udgtv.mx.png
+CanalDelCongreso.mx,MX - Canal Del Congreso,https://iptv-epg.org/logos/Mexico/CanalDelCongreso.mx.png
+CanalMexiquense.mx,MX - Canal Mexiquense,https://iptv-epg.org/logos/Mexico/CanalMexiquense.mx.png
 CanalNU.mx,MX - Canal NU,https://iptv-epg.org/logos/Mexico/CanalNU.mx.png
 CanalOnce.mx,MX - Canal Once,https://iptv-epg.org/logos/Mexico/CanalOnce.mx.png
-Cartoonito.mx,MX - Cartoonito,https://iptv-epg.org/logos/Mexico/Cartoonito.mx.png
+CanalTelehitMusica.mx,MX - Canal Telehit Música,https://iptv-epg.org/logos/Mexico/CanalTelehitMusica.mx.png
 CartoonNetwork.mx,MX - Cartoon Network,https://iptv-epg.org/logos/Mexico/CartoonNetwork.mx.png
+Cartoonito.mx,MX - Cartoonito,https://iptv-epg.org/logos/Mexico/Cartoonito.mx.png
+CineLatino.mx,MX - Cine Latino,https://iptv-epg.org/logos/Mexico/CineLatino.mx.png
+CineMexicano.mx,MX - Cine Mexicano,https://iptv-epg.org/logos/Mexico/CineMexicano.mx.png
 Cinecanal.mx,MX - Cinecanal,https://iptv-epg.org/logos/Mexico/Cinecanal.mx.png
 Cinemax.mx,MX - Cinemax,https://iptv-epg.org/logos/Mexico/Cinemax.mx.png
-CineMexicano.mx,MX - Cine Mexicano,https://iptv-epg.org/logos/Mexico/CineMexicano.mx.png
 CNN.mx,MX - CNN,https://iptv-epg.org/logos/Mexico/CNN.mx.png
 CNNenEspañol.mx,MX - CNN en Español,https://iptv-epg.org/logos/Mexico/CNNenEspa%C3%B1ol.mx.png
+CNNInternational.mx,MX - CNN Internacional,https://iptv-epg.org/logos/Mexico/CNNInternational.mx.png
 ComedyCentral.mx,MX - Comedy Central,https://iptv-epg.org/logos/Mexico/ComedyCentral.mx.png
 DePelícula.mx,MX - De Película,https://iptv-epg.org/logos/Mexico/DePel%C3%ADcula.mx.png
-DiscoveryChannel.mx,MX - Discovery Channel,https://iptv-epg.org/logos/Mexico/DiscoveryChannel.mx.png
 Discovery.mx,MX - Discovery,https://iptv-epg.org/logos/Mexico/Discovery.mx.png
+DiscoveryChannel.mx,MX - Discovery Channel,https://iptv-epg.org/logos/Mexico/DiscoveryChannel.mx.png
 DiscoveryHome&amp;Health.mx,MX - Discovery Home &amp; Health,https://iptv-epg.org/logos/Mexico/DiscoveryHome%26Health.mx.png
 DiscoveryKids.mx,MX - Discovery Kids,https://iptv-epg.org/logos/Mexico/DiscoveryKids.mx.png
+DiscoveryScience.mx,MX - Discovery Science,https://iptv-epg.org/logos/Mexico/DiscoveryScience.mx.png
 DiscoveryTheater.mx,MX - Discovery Theater,https://iptv-epg.org/logos/Mexico/DiscoveryTheater.mx.png
+DiscoveryTurbo.mx,MX - Discovery Turbo,https://iptv-epg.org/logos/Mexico/DiscoveryTurbo.mx.png
 DiscoveryWorld.mx,MX - Discovery World,https://iptv-epg.org/logos/Mexico/DiscoveryWorld.mx.png
 DisneyChannel.mx,MX - Disney Channel,https://iptv-epg.org/logos/Mexico/DisneyChannel.mx.png
 DisneyJunior.mx,MX - Disney Junior,https://iptv-epg.org/logos/Mexico/DisneyJunior.mx.png
 DisneyXD.mx,MX - Disney XD,https://iptv-epg.org/logos/Mexico/DisneyXD.mx.png
+DistritoComedia.mx,MX - Distrito Comedia,https://iptv-epg.org/logos/Mexico/DistritoComedia.mx.png
+Dreamworks.mx,MX - Dreamworks,https://iptv-epg.org/logos/Mexico/Dreamworks.mx.png
 E!.mx,MX - E!,https://iptv-epg.org/logos/Mexico/E%21.mx.png
 ElFinancieroBloomberg.mx,MX - El Financiero Bloomberg,https://iptv-epg.org/logos/Mexico/ElFinancieroBloomberg.mx.png
 ElGourmet.mx,MX - El Gourmet,https://iptv-epg.org/logos/Mexico/ElGourmet.mx.png
 ElNu9ve.mx,MX - El Nu9ve,https://iptv-epg.org/logos/Mexico/ElNu9ve.mx.png
+ESNE.mx,MX - ESNE,https://iptv-epg.org/logos/Mexico/ESNE.mx.png
 ESPN.mx,MX - ESPN,https://iptv-epg.org/logos/Mexico/ESPN.mx.png
 ESPN2.mx,MX - ESPN 2,https://iptv-epg.org/logos/Mexico/ESPN2.mx.png
 ESPN3.mx,MX - ESPN 3,https://iptv-epg.org/logos/Mexico/ESPN3.mx.png
+ESPNNorte.mx,MX - ESPN Norte,
+ESPNNorte2.mx,MX - ESPN Norte 2,
+ESPNNorte3.mx,MX - ESPN Norte 3,
 ESPN+.mx,MX - ESPN+,https://iptv-epg.org/logos/Mexico/ESPN%2B.mx.png
+Euronews.mx,MX - Euronews,https://iptv-epg.org/logos/Mexico/Euronews.mx.png
 EuropaEuropa.mx,MX - Europa Europa,https://iptv-epg.org/logos/Mexico/EuropaEuropa.mx.png
+EWTN.mx,MX - EWTN,https://iptv-epg.org/logos/Mexico/EWTN.mx.png
 ExcelsiorTV.mx,MX - Excelsior TV,https://iptv-epg.org/logos/Mexico/ExcelsiorTV.mx.png
 film&amp;arts.mx,MX - film&amp;arts,https://iptv-epg.org/logos/Mexico/film%26arts.mx.png
 FOROtv.mx,MX - FOROtv,https://iptv-epg.org/logos/Mexico/FOROtv.mx.png
 FOXSports.mx,MX - FOX Sports,https://iptv-epg.org/logos/Mexico/FOXSports.mx.png
 FOXSports2.mx,MX - FOX Sports 2,https://iptv-epg.org/logos/Mexico/FOXSports2.mx.png
 FOXSports3.mx,MX - FOX Sports 3,https://iptv-epg.org/logos/Mexico/FOXSports3.mx.png
+FOXSportsPremium.mx,MX - FOX Sports Premium,https://iptvboss.xyz/logos/Mexico/FoxSportsPremium.mx.png
 FX.mx,MX - FX,https://iptv-epg.org/logos/Mexico/FX.mx.png
 FXMovies.mx,MX - FX Movies,https://iptv-epg.org/logos/Mexico/FXMovies.mx.png
 Glitz.mx,MX - Glitz,https://iptv-epg.org/logos/Mexico/Glitz.mx.png
 Golden.mx,MX - Golden,https://iptv-epg.org/logos/Mexico/Golden.mx.png
 GoldenEdge.mx,MX - Golden Edge,https://iptv-epg.org/logos/Mexico/GoldenEdge.mx.png
+GoldenPlus.mx,MX - Golden Plus,https://iptv-epg.org/logos/Mexico/GoldenPlus.mx.png
+GoldenPremier.mx,MX - Golden Premier,https://iptv-epg.org/logos/Mexico/GoldenPremier.mx.png
+GoldenPremier2.mx,MX - Golden Premier 2,https://iptv-epg.org/logos/Mexico/GoldenPremier2.mx.png
+HBO.mx,MX - HBO,https://iptv-epg.org/logos/Mexico/HBO.mx.png
 HBO2.mx,MX - HBO 2,https://iptv-epg.org/logos/Mexico/HBO2.mx.png
 HBOFamily.mx,MX - HBO Family,https://iptv-epg.org/logos/Mexico/HBOFamily.mx.png
-HBO.mx,MX - HBO,https://iptv-epg.org/logos/Mexico/HBO.mx.png
 HBOMundi.mx,MX - HBO Mundi,https://iptv-epg.org/logos/Mexico/HBOMundi.mx.png
+HBOMUNDI.mx,MX - HBO MUNDI,https://iptv-epg.org/logos/Mexico/HBOMUNDI.mx.png
 HBOPlusMéxico.mx,MX - HBO Plus México,https://iptv-epg.org/logos/Mexico/HBOPlusM%C3%A9xico.mx.png
+HBOPOP.mx,MX - HBO POP,https://iptv-epg.org/logos/Mexico/HBOPOP.mx.png
+HBOSignature.mx,MX - HBO Signature,https://iptv-epg.org/logos/Mexico/HBOSignature.mx.png
+HBOXtreme.mx,MX - HBO Xtreme,https://iptv-epg.org/logos/Mexico/HBOXtreme.mx.png
+HiSports.mx,MX - Hi Sports,https://iptv-epg.org/logos/Mexico/HiSports.mx.png
 History.mx,MX - History,https://iptv-epg.org/logos/Mexico/History.mx.png
+History2.mx,MX - History 2,https://iptv-epg.org/logos/Mexico/History2.mx.png
+HolaTV.mx,MX - Hola TV,https://iptv-epg.org/logos/Mexico/HolaTV.mx.png
 I-SAT.mx,MX - I-SAT,https://iptv-epg.org/logos/Mexico/I-SAT.mx.png
+ImagenTV.mx,MX - Imagen TV,https://iptv-epg.org/logos/Mexico/ImagenTV.mx.png
 InvestigationDiscovery.mx,MX - Investigation Discovery,https://iptv-epg.org/logos/Mexico/InvestigationDiscovery.mx.png
+JusticiaTV.mx,MX - Justicia TV,https://iptv-epg.org/logos/Mexico/JusticiaTV.mx.png
+LasEstrellas.mx,MX - Las Estrellas,https://iptv-epg.org/logos/Mexico/LasEstrellas.mx.png
+LasEstrellas-1.mx,MX - Las Estrellas -1,https://iptv-epg.org/logos/Mexico/LasEstrellas-1.mx.png
+LasEstrellas-2.mx,MX - Las Estrellas -2,https://iptv-epg.org/logos/Mexico/LasEstrellas-2.mx.png
+Lifetime.mx,MX - Lifetime,https://iptv-epg.org/logos/Mexico/Lifetime.mx.png
 MaxPrimeMéxico.mx,MX - Max Prime México,https://iptv-epg.org/logos/Mexico/MaxPrimeM%C3%A9xico.mx.png
+MC.mx,MX - MC,https://iptv-epg.org/logos/Mexico/MC.mx.png
 MilenioTV.mx,MX - Milenio TV,https://iptv-epg.org/logos/Mexico/MilenioTV.mx.png
 MTV.mx,MX - MTV,https://iptv-epg.org/logos/Mexico/MTV.mx.png
+MTV80s.mx,MX - MTV 80s,https://iptv-epg.org/logos/Mexico/MTV80s.mx.png
+MTV00s.mx,MX - MTV '00s,https://iptv-epg.org/logos/Mexico/MTV00s.mx.png
+MTVHits.mx,MX - MTV Hits,https://iptv-epg.org/logos/Mexico/MTVHits.mx.png
+MTVLive.mx,MX - MTV Live,https://iptv-epg.org/logos/Mexico/MTVLive.mx.png
 MuchMusic.mx,MX - MuchMusic,https://iptv-epg.org/logos/Mexico/MuchMusic.mx.png
+MultimediosPlus.mx,MX - Multimedios Plus,https://iptv-epg.org/logos/Mexico/MultimediosPlus.mx.png
+Multipremier.mx,MX - Multipremier,https://iptv-epg.org/logos/Mexico/Multipremier.mx.png
+MVS.mx,MX - MVS,https://iptv-epg.org/logos/Mexico/MVS.mx.png
 MásChic.mx,MX - Más Chic,https://iptv-epg.org/logos/Mexico/M%C3%A1sChic.mx.png
 NationalGeographic.mx,MX - National Geographic,https://iptv-epg.org/logos/Mexico/NationalGeographic.mx.png
 Nick.mx,MX - Nick,https://iptv-epg.org/logos/Mexico/Nick.mx.png
 Nick2.mx,MX - Nick 2,https://iptv-epg.org/logos/Mexico/Nick2.mx.png
 NickJr.mx,MX - Nick Jr.,https://iptv-epg.org/logos/Mexico/NickJr.mx.png
+ParamountNetwork.mx,MX - Paramount Network,https://iptv-epg.org/logos/Mexico/ParamountNetwork.mx.png
 Platino.mx,MX - Platino,https://iptv-epg.org/logos/Mexico/Platino.mx.png
+PXSports.mx,MX - PX Sports,https://iptv-epg.org/logos/Mexico/PXSports.mx.png
 RMS.mx,MX - RMS,https://iptv-epg.org/logos/Mexico/RMS.mx.png
 RussiaToday.mx,MX - Russia Today,https://iptv-epg.org/logos/Mexico/RussiaToday.mx.png
+SkySports1.mx,MX - Sky Sports 1,https://iptv-epg.org/logos/Mexico/SkySports1.mx.png
+SkySports16.mx,MX - Sky Sports 16,https://iptv-epg.org/logos/Mexico/SkySports16.mx.png
+SkySports24.mx,MX - Sky Sports 24,https://iptv-epg.org/logos/Mexico/SkySports24.mx.png
 Sony.mx,MX - Sony,https://iptv-epg.org/logos/Mexico/Sony.mx.png
 Space.mx,MX - Space,https://iptv-epg.org/logos/Mexico/Space.mx.png
 StarAction.mx,MX - Star Action,https://iptv-epg.org/logos/Mexico/StarAction.mx.png
 StarChannel.mx,MX - Star Channel,https://iptv-epg.org/logos/Mexico/StarChannel.mx.png
 StarComedy.mx,MX - Star Comedy,https://iptv-epg.org/logos/Mexico/StarComedy.mx.png
-StarFunOeste.mx,MX - Star Fun (Oeste),https://iptv-epg.org/logos/Mexico/StarFunOeste.mx.png
 StarFun.mx,MX - Star Fun,https://iptv-epg.org/logos/Mexico/StarFun.mx.png
+StarFunOeste.mx,MX - Star Fun (Oeste),https://iptv-epg.org/logos/Mexico/StarFunOeste.mx.png
 StarHits.mx,MX - Star Hits,https://iptv-epg.org/logos/Mexico/StarHits.mx.png
 StarLife.mx,MX - Star Life,https://iptv-epg.org/logos/Mexico/StarLife.mx.png
-StarSeriesOeste.mx,MX - Star Series (Oeste),https://iptv-epg.org/logos/Mexico/StarSeriesOeste.mx.png
 StarSeries.mx,MX - Star Series,https://iptv-epg.org/logos/Mexico/StarSeries.mx.png
+StarSeriesOeste.mx,MX - Star Series (Oeste),https://iptv-epg.org/logos/Mexico/StarSeriesOeste.mx.png
 StudioUniversal.mx,MX - Studio Universal,https://iptv-epg.org/logos/Mexico/StudioUniversal.mx.png
 Syfy.mx,MX - Syfy,https://iptv-epg.org/logos/Mexico/Syfy.mx.png
+TBNEnlace.mx,MX - TBN Enlace,https://iptv-epg.org/logos/Mexico/TBNEnlace.mx.png
 TBS.mx,MX - TBS,https://iptv-epg.org/logos/Mexico/TBS.mx.png
 TCM.mx,MX - TCM,https://iptv-epg.org/logos/Mexico/TCM.mx.png
 TDN.mx,MX - TDN,https://iptv-epg.org/logos/Mexico/TDN.mx.png
+TeleFormula.mx,MX - TeleFormula,https://iptv-epg.org/logos/Mexico/TeleFormula.mx.png
 Telehit.mx,MX - Telehit,https://iptv-epg.org/logos/Mexico/Telehit.mx.png
 Telemundo.mx,MX - Telemundo,https://iptv-epg.org/logos/Mexico/Telemundo.mx.png
+TheNFLNetwork.mx,MX - The NFL Network,https://iptv-epg.org/logos/Mexico/TheNFLNetwork.mx.png
 TIIN.mx,MX - TIIN,https://iptv-epg.org/logos/Mexico/TIIN.mx.png
+TLC.mx,MX - TLC,https://iptv-epg.org/logos/Mexico/TLC.mx.png
 TLNovelas.mx,MX - TLNovelas,https://iptv-epg.org/logos/Mexico/TLNovelas.mx.png
 TNT.mx,MX - TNT,https://iptv-epg.org/logos/Mexico/TNT.mx.png
+TNTNovelas.mx,MX - TNT Novelas,https://iptv-epg.org/logos/Mexico/TNTNovelas.mx.png
+TNTSeries.mx,MX - TNT Series,https://iptv-epg.org/logos/Mexico/TNTSeries.mx.png
 Tooncast.mx,MX - Tooncast,https://iptv-epg.org/logos/Mexico/Tooncast.mx.png
 truTV.mx,MX - truTV,https://iptv-epg.org/logos/Mexico/truTV.mx.png
-TVE.mx,MX - TVE,https://iptv-epg.org/logos/Mexico/TVE.mx.png
+TUDNMexico.mx,MX - TUDN Mexico,
+TVCuatro.mx,MX - TV Cuatro,https://iptv-epg.org/logos/Mexico/TVCuatro.mx.png
 TVUNAM.mx,MX - TV UNAM,https://iptv-epg.org/logos/Mexico/TVUNAM.mx.png
+TVCDeportes.mx,MX - TVC Deportes,https://iptv-epg.org/logos/Mexico/TVCDeportes.mx.png
+TVE.mx,MX - TVE,https://iptv-epg.org/logos/Mexico/TVE.mx.png
+UniCable.mx,MX - UniCable,https://iptv-epg.org/logos/Mexico/UniCable.mx.png
+UniversalCinema.mx,MX - Universal Cinema,https://iptv-epg.org/logos/Mexico/UniversalCinema.mx.png
+UniversalComedy.mx,MX - Universal Comedy,https://iptv-epg.org/logos/Mexico/UniversalComedy.mx.png
+UniversalCrime.mx,MX - Universal Crime,https://iptv-epg.org/logos/Mexico/UniversalCrime.mx.png
+UniversalPremiere.mx,MX - Universal Premiere,https://iptv-epg.org/logos/Mexico/UniversalPremiere.mx.png
+UniversalReality.mx,MX - Universal Reality,https://iptv-epg.org/logos/Mexico/UniversalReality.mx.png
 UniversalTV.mx,MX - Universal TV,https://iptv-epg.org/logos/Mexico/UniversalTV.mx.png
 Univision.mx,MX - Univision,https://iptv-epg.org/logos/Mexico/Univision.mx.png
 VH1.mx,MX - VH1,https://iptv-epg.org/logos/Mexico/VH1.mx.png
 WarnerChannel.mx,MX - Warner Channel,https://iptv-epg.org/logos/Mexico/WarnerChannel.mx.png
 WOBITV.mx,MX - WOBI TV,https://iptv-epg.org/logos/Mexico/WOBITV.mx.png
-LasEstrellas.mx,MX - Las Estrellas,https://iptv-epg.org/logos/Mexico/LasEstrellas.mx.png
-LasEstrellas-1.mx,MX - Las Estrellas -1,https://iptv-epg.org/logos/Mexico/LasEstrellas-1.mx.png
-LasEstrellas-2.mx,MX - Las Estrellas -2,https://iptv-epg.org/logos/Mexico/LasEstrellas-2.mx.png
-SkySports1.mx,MX - Sky Sports 1,https://iptv-epg.org/logos/Mexico/SkySports1.mx.png
-SkySports16.mx,MX - Sky Sports 16,https://iptv-epg.org/logos/Mexico/SkySports16.mx.png
-SkySports24.mx,MX - Sky Sports 24,https://iptv-epg.org/logos/Mexico/SkySports24.mx.png
-DistritoComedia.mx,MX - Distrito Comedia,https://iptv-epg.org/logos/Mexico/DistritoComedia.mx.png
-ParamountNetwork.mx,MX - Paramount Network,https://iptv-epg.org/logos/Mexico/ParamountNetwork.mx.png
-bitMe.mx,MX - bitMe,https://iptv-epg.org/logos/Mexico/bitMe.mx.png
-History2.mx,MX - History 2,https://iptv-epg.org/logos/Mexico/History2.mx.png
-HBOSignature.mx,MX - HBO Signature,https://iptv-epg.org/logos/Mexico/HBOSignature.mx.png
-HBOXtreme.mx,MX - HBO Xtreme,https://iptv-epg.org/logos/Mexico/HBOXtreme.mx.png
-HBOPOP.mx,MX - HBO POP,https://iptv-epg.org/logos/Mexico/HBOPOP.mx.png
-HBOMUNDI.mx,MX - HBO MUNDI,https://iptv-epg.org/logos/Mexico/HBOMUNDI.mx.png
-GoldenPremier.mx,MX - Golden Premier,https://iptv-epg.org/logos/Mexico/GoldenPremier.mx.png
-GoldenPremier2.mx,MX - Golden Premier 2,https://iptv-epg.org/logos/Mexico/GoldenPremier2.mx.png
-CNNInternational.mx,MX - CNN Internacional,https://iptv-epg.org/logos/Mexico/CNNInternational.mx.png
-BabyTV.mx,MX - Baby TV,https://iptv-epg.org/logos/Mexico/BabyTV.mx.png
-MultimediosPlus.mx,MX - Multimedios Plus,https://iptv-epg.org/logos/Mexico/MultimediosPlus.mx.png
-HolaTV.mx,MX - Hola TV,https://iptv-epg.org/logos/Mexico/HolaTV.mx.png
-DiscoveryTurbo.mx,MX - Discovery Turbo,https://iptv-epg.org/logos/Mexico/DiscoveryTurbo.mx.png
-TLC.mx,MX - TLC,https://iptv-epg.org/logos/Mexico/TLC.mx.png
-TNTSeries.mx,MX - TNT Series,https://iptv-epg.org/logos/Mexico/TNTSeries.mx.png
-Lifetime.mx,MX - Lifetime,https://iptv-epg.org/logos/Mexico/Lifetime.mx.png
-CanalTelehitMusica.mx,MX - Canal Telehit Música,https://iptv-epg.org/logos/Mexico/CanalTelehitMusica.mx.png
-MTVLive.mx,MX - MTV Live,https://iptv-epg.org/logos/Mexico/MTVLive.mx.png
-MTVHits.mx,MX - MTV Hits,https://iptv-epg.org/logos/Mexico/MTVHits.mx.png
-ASN.mx,MX - ASN [Adrenalina Sports Network],https://iptv-epg.org/logos/Mexico/ASN.mx.png
-AztecaUno-1.mx,MX - Azteca Uno -1,https://iptv-epg.org/logos/Mexico/AztecaUno-1.mx.png
-AztecaUno.mx,MX - Azteca Uno,https://iptv-epg.org/logos/Mexico/AztecaUno.mx.png
-AztecaUno-2.mx,MX - Azteca Uno -2,https://iptv-epg.org/logos/Mexico/AztecaUno-2.mx.png
-CineLatino.mx,MX - Cine Latino,https://iptv-epg.org/logos/Mexico/CineLatino.mx.png
-DiscoveryScience.mx,MX - Discovery Science,https://iptv-epg.org/logos/Mexico/DiscoveryScience.mx.png
-TeleFormula.mx,MX - TeleFormula,https://iptv-epg.org/logos/Mexico/TeleFormula.mx.png
-CanalMexiquense.mx,MX - Canal Mexiquense,https://iptv-epg.org/logos/Mexico/CanalMexiquense.mx.png
-TBNEnlace.mx,MX - TBN Enlace,https://iptv-epg.org/logos/Mexico/TBNEnlace.mx.png
-ESNE.mx,MX - ESNE,https://iptv-epg.org/logos/Mexico/ESNE.mx.png
-Euronews.mx,MX - Euronews,https://iptv-epg.org/logos/Mexico/Euronews.mx.png
-EWTN.mx,MX - EWTN,https://iptv-epg.org/logos/Mexico/EWTN.mx.png
-UniCable.mx,MX - UniCable,https://iptv-epg.org/logos/Mexico/UniCable.mx.png
-MTV00s.mx,MX - MTV '00s,https://iptv-epg.org/logos/Mexico/MTV00s.mx.png
-MTV80s.mx,MX - MTV 80s,https://iptv-epg.org/logos/Mexico/MTV80s.mx.png
-TheNFLNetwork.mx,MX - The NFL Network,https://iptv-epg.org/logos/Mexico/TheNFLNetwork.mx.png
-GoldenPlus.mx,MX - Golden Plus,https://iptv-epg.org/logos/Mexico/GoldenPlus.mx.png
-Canal14.mx,MX - Canal 14,https://iptv-epg.org/logos/Mexico/Canal14.mx.png
-ESPNNorte.mx,MX - ESPN Norte,
-ESPNNorte2.mx,MX - ESPN Norte 2,
-ESPNNorte3.mx,MX - ESPN Norte 3,
-MC.mx,MX - MC,https://iptv-epg.org/logos/Mexico/MC.mx.png
-PXSports.mx,MX - PX Sports,https://iptv-epg.org/logos/Mexico/PXSports.mx.png
-Dreamworks.mx,MX - Dreamworks,https://iptv-epg.org/logos/Mexico/Dreamworks.mx.png
-HiSports.mx,MX - Hi Sports,https://iptv-epg.org/logos/Mexico/HiSports.mx.png
-FOXSportsPremium.mx,MX - FOX Sports Premium,https://iptvboss.xyz/logos/Mexico/FoxSportsPremium.mx.png
-TVCuatro.mx,MX - TV Cuatro,https://iptv-epg.org/logos/Mexico/TVCuatro.mx.png
-TNTNovelas.mx,MX - TNT Novelas,https://iptv-epg.org/logos/Mexico/TNTNovelas.mx.png
-UniversalPremiere.mx,MX - Universal Premiere,https://iptv-epg.org/logos/Mexico/UniversalPremiere.mx.png
-UniversalCinema.mx,MX - Universal Cinema,https://iptv-epg.org/logos/Mexico/UniversalCinema.mx.png
-UniversalComedy.mx,MX - Universal Comedy,https://iptv-epg.org/logos/Mexico/UniversalComedy.mx.png
-UniversalCrime.mx,MX - Universal Crime,https://iptv-epg.org/logos/Mexico/UniversalCrime.mx.png
-UniversalReality.mx,MX - Universal Reality,https://iptv-epg.org/logos/Mexico/UniversalReality.mx.png
-JusticiaTV.mx,MX - Justicia TV,https://iptv-epg.org/logos/Mexico/JusticiaTV.mx.png
-CanalDelCongreso.mx,MX - Canal Del Congreso,https://iptv-epg.org/logos/Mexico/CanalDelCongreso.mx.png
-ImagenTV.mx,MX - Imagen TV,https://iptv-epg.org/logos/Mexico/ImagenTV.mx.png
-Canal6CDMX.mx,MX - Canal 6 CDMX,https://iptv-epg.org/logos/Mexico/Canal6CDMX.mx.png
-AYMSports.mx,MX - AYM Sports,https://iptv-epg.org/logos/Mexico/AYMSports.mx.png
-Canal6MultimediosMonterrey.mx,MX - Canal 6 Multimedios Monterrey,https://iptv-epg.org/logos/Mexico/Canal6MultimediosMonterrey.mx.png
-Canal12TelevisaTijuana.mx,MX - Canal 12 Televisa Tijuana,https://iptv-epg.org/logos/Mexico/Canal12TelevisaTijuana.mx.png
-Multipremier.mx,MX - Multipremier,https://iptv-epg.org/logos/Mexico/Multipremier.mx.png
-TUDNMexico.mx,MX - TUDN Mexico,
-MVS.mx,MX - MVS,https://iptv-epg.org/logos/Mexico/MVS.mx.png
-Canal4TelevisaMexicali.mx,MX - Canal 4 Televisa Mexicali,https://iptv-epg.org/logos/Mexico/Canal4TelevisaMexicali.mx.png
-TVCDeportes.mx,MX - TVC Deportes,https://iptv-epg.org/logos/Mexico/TVCDeportes.mx.png
