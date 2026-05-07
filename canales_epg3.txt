@@ -63,9 +63,9 @@ ESNE.mx,MX - ESNE,https://iptv-epg.org/logos/Mexico/ESNE.mx.png
 ESPN.mx,MX - ESPN,https://iptv-epg.org/logos/Mexico/ESPN.mx.png
 ESPN2.mx,MX - ESPN 2,https://iptv-epg.org/logos/Mexico/ESPN2.mx.png
 ESPN3.mx,MX - ESPN 3,https://iptv-epg.org/logos/Mexico/ESPN3.mx.png
-ESPNNorte.mx,MX - ESPN Norte,
-ESPNNorte2.mx,MX - ESPN Norte 2,
-ESPNNorte3.mx,MX - ESPN Norte 3,
+ESPNNorte.mx,MX - ESPN Norte,https://iptv-epg.org/logos/Mexico/ESPNNorte.mx.png
+ESPNNorte2.mx,MX - ESPN Norte 2,https://iptv-epg.org/logos/Mexico/ESPNNorte2.mx.png
+ESPNNorte3.mx,MX - ESPN Norte 3,https://iptv-epg.org/logos/Mexico/ESPNNorte3.mx.png
 ESPN+.mx,MX - ESPN+,https://iptv-epg.org/logos/Mexico/ESPN%2B.mx.png
 Euronews.mx,MX - Euronews,https://iptv-epg.org/logos/Mexico/Euronews.mx.png
 EuropaEuropa.mx,MX - Europa Europa,https://iptv-epg.org/logos/Mexico/EuropaEuropa.mx.png
@@ -160,7 +160,7 @@ TNTNovelas.mx,MX - TNT Novelas,https://iptv-epg.org/logos/Mexico/TNTNovelas.mx.p
 TNTSeries.mx,MX - TNT Series,https://iptv-epg.org/logos/Mexico/TNTSeries.mx.png
 Tooncast.mx,MX - Tooncast,https://iptv-epg.org/logos/Mexico/Tooncast.mx.png
 truTV.mx,MX - truTV,https://iptv-epg.org/logos/Mexico/truTV.mx.png
-TUDNMexico.mx,MX - TUDN Mexico,
+TUDNMexico.mx,MX - TUDN Mexico,https://iptv-epg.org/logos/Mexico/TUDNMexico.mx.png
 TVCuatro.mx,MX - TV Cuatro,https://iptv-epg.org/logos/Mexico/TVCuatro.mx.png
 TVUNAM.mx,MX - TV UNAM,https://iptv-epg.org/logos/Mexico/TVUNAM.mx.png
 TVCDeportes.mx,MX - TVC Deportes,https://iptv-epg.org/logos/Mexico/TVCDeportes.mx.png
