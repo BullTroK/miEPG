@@ -2,7 +2,7 @@
 A&amp;E.mx,MX - A&amp;E,https://iptv-epg.org/logos/Mexico/A%26E.mx.png
 A+.mx,MX - A+,https://iptv-epg.org/logos/Mexico/A%2B.mx.png
 adn40.mx,MX - adn40,https://iptv-epg.org/logos/Mexico/adn40.mx.png
-AMC.mx,MX - AMC,https://zpmc.tmsimg.com/h3/NowShowing/18329/s18329_h3_aa.png
+AMC.mx,MX - AMC,https://iptv-epg.org/logos/Mexico/AMC.mx.png
 AnimalPlanet.mx,MX - Animal Planet,https://iptv-epg.org/logos/Mexico/AnimalPlanet.mx.png
 ASN.mx,MX - ASN [Adrenalina Sports Network],https://iptv-epg.org/logos/Mexico/ASN.mx.png
 AXN.mx,MX - AXN,https://iptv-epg.org/logos/Mexico/AXN.mx.png
@@ -140,8 +140,8 @@ StarFun.mx,MX - Star Fun,https://iptv-epg.org/logos/Mexico/StarFun.mx.png
 StarFunOeste.mx,MX - Star Fun (Oeste),https://iptv-epg.org/logos/Mexico/StarFunOeste.mx.png
 StarHits.mx,MX - Star Hits,https://iptv-epg.org/logos/Mexico/StarHits.mx.png
 StarLife.mx,MX - Star Life,https://iptv-epg.org/logos/Mexico/StarLife.mx.png
-StarSeries.mx,MX - Star Series,https://iptv-epg.org/logos/Mexico/StarSeries.mx.png
 StarSeriesOeste.mx,MX - Star Series (Oeste),https://iptv-epg.org/logos/Mexico/StarSeriesOeste.mx.png
+StarSeries.mx,MX - Star Series,https://iptv-epg.org/logos/Mexico/StarSeries.mx.png
 StudioUniversal.mx,MX - Studio Universal,https://iptv-epg.org/logos/Mexico/StudioUniversal.mx.png
 Syfy.mx,MX - Syfy,https://iptv-epg.org/logos/Mexico/Syfy.mx.png
 TBNEnlace.mx,MX - TBN Enlace,https://iptv-epg.org/logos/Mexico/TBNEnlace.mx.png

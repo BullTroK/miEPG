@@ -82,10 +82,10 @@ HBOPlusEste.ar,AR - HBO Plus Este,https://iptv-epg.org/logos/Argentina/HBOPlusEs
 HBOPlusPanregional.ar,AR - HBO Plus Panregional,https://iptv-epg.org/logos/Argentina/HBOPlusPanregional.ar.png
 HBOPop.ar,AR - HBO Pop,https://iptv-epg.org/logos/Argentina/HBOPop.ar.png
 HBOSignature.ar,AR - HBO Signature,https://iptv-epg.org/logos/Argentina/HBOSignature.ar.png
-HBOXtreme(Panregional).ar,AR - HBO Xtreme (Panregional),https://iptv-epg.org/logos/Argentina/HBOXtreme%28Panregional%29.ar.png
-HBOXtreme.ar,AR - HBO Xtreme,https://iptv-epg.org/logos/Argentina/HBOXtreme.ar.png
-HBOXtreme(Panamericano).ar,AR - HBO Xtreme (Panamericano),https://iptv-epg.org/logos/Argentina/HBOXtreme%28Panamericano%29.ar.png
 HBOXtreme(Oeste).ar,AR - HBO Xtreme (Oeste),https://iptv-epg.org/logos/Argentina/HBOXtreme%28Oeste%29.ar.png
+HBOXtreme.ar,AR - HBO Xtreme,https://iptv-epg.org/logos/Argentina/HBOXtreme.ar.png
+HBOXtreme(Panregional).ar,AR - HBO Xtreme (Panregional),https://iptv-epg.org/logos/Argentina/HBOXtreme%28Panregional%29.ar.png
+HBOXtreme(Panamericano).ar,AR - HBO Xtreme (Panamericano),https://iptv-epg.org/logos/Argentina/HBOXtreme%28Panamericano%29.ar.png
 HGTV.ar,AR - HGTV,https://iptv-epg.org/logos/Argentina/HGTV.ar.png
 HispanTV.ar,AR - HispanTV,https://iptv-epg.org/logos/Argentina/HispanTV.ar.png
 History.ar,AR - History,https://iptv-epg.org/logos/Argentina/History.ar.png
@@ -130,8 +130,8 @@ StarChannel.ar,AR - Star Channel,https://iptv-epg.org/logos/Argentina/StarChanne
 StarCinema.ar,AR - Star Cinema,https://iptv-epg.org/logos/Argentina/StarCinema.ar.png
 StarClassics.ar,AR - Star Classics,https://iptv-epg.org/logos/Argentina/StarClassics.ar.png
 StarComedy.ar,AR - Star Comedy,https://iptv-epg.org/logos/Argentina/StarComedy.ar.png
-StarFun.ar,AR - Star Fun,https://iptv-epg.org/logos/Argentina/StarFun.ar.png
 StarFun(Oeste).ar,AR - Star Fun (Oeste),https://iptv-epg.org/logos/Argentina/StarFun%28Oeste%29.ar.png
+StarFun.ar,AR - Star Fun,https://iptv-epg.org/logos/Argentina/StarFun.ar.png
 StarHits.ar,AR - Star Hits,https://iptv-epg.org/logos/Argentina/StarHits.ar.png
 StarLife.ar,AR - Star Life,https://iptv-epg.org/logos/Argentina/StarLife.ar.png
 StarSeries.ar,AR - Star Series,https://iptv-epg.org/logos/Argentina/StarSeries.ar.png

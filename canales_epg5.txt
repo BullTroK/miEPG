@@ -88,9 +88,9 @@ HBOPlusEste.co,CO - HBO Plus Este,https://iptv-epg.org/logos/Colombia/HBOPlusEst
 HBOPlusPanregional.co,CO - HBO Plus Panregional,https://iptv-epg.org/logos/Colombia/HBOPlusPanregional.co.png
 HBOPop.co,CO - HBO Pop,https://iptv-epg.org/logos/Colombia/HBOPop.co.png
 HBOSignature.co,CO - HBO Signature,https://iptv-epg.org/logos/Colombia/HBOSignature.co.png
+HBOXtreme.co,CO - HBO Xtreme,https://iptv-epg.org/logos/Colombia/HBOXtreme.co.png
 HBOXtreme(Oeste).co,CO - HBO Xtreme (Oeste),https://iptv-epg.org/logos/Colombia/HBOXtreme%28Oeste%29.co.png
 HBOXtreme(Panregional).co,CO - HBO Xtreme (Panregional),https://iptv-epg.org/logos/Colombia/HBOXtreme%28Panregional%29.co.png
-HBOXtreme.co,CO - HBO Xtreme,https://iptv-epg.org/logos/Colombia/HBOXtreme.co.png
 HBOXtreme(Panamericano).co,CO - HBO Xtreme (Panamericano),https://iptv-epg.org/logos/Colombia/HBOXtreme%28Panamericano%29.co.png
 History.co,CO - History,https://iptv-epg.org/logos/Colombia/History.co.png
 History2.co,CO - History 2,https://iptv-epg.org/logos/Colombia/History2.co.png
@@ -135,8 +135,8 @@ StarComedy.co,CO - Star Comedy,https://iptv-epg.org/logos/Colombia/StarComedy.co
 StarFun.co,CO - Star Fun,https://iptv-epg.org/logos/Colombia/StarFun.co.png
 StarHits.co,CO - Star Hits,https://iptv-epg.org/logos/Colombia/StarHits.co.png
 StarLife.co,CO - Star Life,https://iptv-epg.org/logos/Colombia/StarLife.co.png
-StarSeries(Oeste).co,CO - Star Series (Oeste),https://iptv-epg.org/logos/Colombia/StarSeries%28Oeste%29.co.png
 StarSeries.co,CO - Star Series,https://iptv-epg.org/logos/Colombia/StarSeries.co.png
+StarSeries(Oeste).co,CO - Star Series (Oeste),https://iptv-epg.org/logos/Colombia/StarSeries%28Oeste%29.co.png
 StudioUniversal.co,CO - Studio Universal,https://iptv-epg.org/logos/Colombia/StudioUniversal.co.png
 SunChannel.co,CO - Sun Channel,https://iptv-epg.org/logos/Colombia/SunChannel.co.png
 Syfy.co,CO - Syfy,https://iptv-epg.org/logos/Colombia/Syfy.co.png

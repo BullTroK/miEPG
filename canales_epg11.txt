@@ -93,8 +93,8 @@ StarChannel.hn,HN - Star Channel,https://iptv-epg.org/logos/Honduras/StarChannel
 StarClassics.hn,HN - Star Classics,https://iptv-epg.org/logos/Honduras/StarClassics.hn.png
 StarHits.hn,HN - Star Hits,https://iptv-epg.org/logos/Honduras/StarHits.hn.png
 StarLife.hn,HN - Star Life,https://iptv-epg.org/logos/Honduras/StarLife.hn.png
-StarSeries.hn,HN - Star Series,https://iptv-epg.org/logos/Honduras/StarSeries.hn.png
 StarSeries(Oeste).hn,HN - Star Series (Oeste),https://iptv-epg.org/logos/Honduras/StarSeries%28Oeste%29.hn.png
+StarSeries.hn,HN - Star Series,https://iptv-epg.org/logos/Honduras/StarSeries.hn.png
 StudioUniversal.hn,HN - Studio Universal,https://iptv-epg.org/logos/Honduras/StudioUniversal.hn.png
 SuyapaEducativaTV.hn,HN - Suyapa Educativa TV,https://iptv-epg.org/logos/Honduras/SuyapaEducativaTV.hn.png
 SuyapaTV.hn,HN - Suyapa TV,https://iptv-epg.org/logos/Honduras/SuyapaTV.hn.png

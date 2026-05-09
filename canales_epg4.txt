@@ -103,8 +103,8 @@ HBOPlusEste.cl,CL - HBO Plus Este,https://iptv-epg.org/logos/Chile/HBOPlusEste.c
 HBOPlusPanregional.cl,CL - HBO Plus Panregional,https://iptv-epg.org/logos/Chile/HBOPlusPanregional.cl.png
 HBOPop.cl,CL - HBO Pop,https://iptv-epg.org/logos/Chile/HBOPop.cl.png
 HBOSignature.cl,CL - HBO Signature,https://iptv-epg.org/logos/Chile/HBOSignature.cl.png
-HBOXtreme(Oeste).cl,CL - HBO Xtreme (Oeste),https://iptv-epg.org/logos/Chile/HBOXtreme%28Oeste%29.cl.png
 HBOXtreme.cl,CL - HBO Xtreme,https://iptv-epg.org/logos/Chile/HBOXtreme.cl.png
+HBOXtreme(Oeste).cl,CL - HBO Xtreme (Oeste),https://iptv-epg.org/logos/Chile/HBOXtreme%28Oeste%29.cl.png
 History.cl,CL - History,https://iptv-epg.org/logos/Chile/History.cl.png
 HTV.cl,CL - HTV,https://iptv-epg.org/logos/Chile/HTV.cl.png
 InvestigationDiscovery.cl,CL - Investigation Discovery,https://iptv-epg.org/logos/Chile/InvestigationDiscovery.cl.png
@@ -145,8 +145,8 @@ StarChannel.cl,CL - Star Channel,https://iptv-epg.org/logos/Chile/StarChannel.cl
 StarCinema.cl,CL - Star Cinema,https://iptv-epg.org/logos/Chile/StarCinema.cl.png
 StarClassics.cl,CL - Star Classics,https://iptv-epg.org/logos/Chile/StarClassics.cl.png
 StarComedy.cl,CL - Star Comedy,https://iptv-epg.org/logos/Chile/StarComedy.cl.png
-StarFun(Oeste).cl,CL - Star Fun (Oeste),https://iptv-epg.org/logos/Chile/StarFun%28Oeste%29.cl.png
 StarFun.cl,CL - Star Fun,https://iptv-epg.org/logos/Chile/StarFun.cl.png
+StarFun(Oeste).cl,CL - Star Fun (Oeste),https://iptv-epg.org/logos/Chile/StarFun%28Oeste%29.cl.png
 StarHits.cl,CL - Star Hits,https://iptv-epg.org/logos/Chile/StarHits.cl.png
 StarLife.cl,CL - Star Life,https://iptv-epg.org/logos/Chile/StarLife.cl.png
 StarSeries.cl,CL - Star Series,https://iptv-epg.org/logos/Chile/StarSeries.cl.png
