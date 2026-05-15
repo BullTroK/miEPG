@@ -1,106 +1,106 @@
 # Fuente: https://iptv-epg.org/files/epg-ec.xml
-AandEAndes.ec,EC - A&amp;E Andes,https://iptv-epg.org/logos/Ecuador/AandEAndes.ec.png
-AMCLatinAmerica.ec,EC - AMC Latin America,https://iptv-epg.org/logos/Ecuador/AMCLatinAmerica.ec.png
-AnimalPlanetInternational.ec,EC - Animal Planet International,https://iptv-epg.org/logos/Ecuador/AnimalPlanetInternational.ec.png
-Antena3Internacional.ec,EC - Antena 3 Internacional,https://iptv-epg.org/logos/Ecuador/Antena3Internacional.ec.png
-Atreseries.ec,EC - Atreseries,https://iptv-epg.org/logos/Ecuador/Atreseries.ec.png
-AXNAndes.ec,EC - AXN Andes,https://iptv-epg.org/logos/Ecuador/AXNAndes.ec.png
-AXNLatinAmerica.ec,EC - AXN Latin America,https://iptv-epg.org/logos/Ecuador/AXNLatinAmerica.ec.png
-BabyTV.ec,EC - Baby TV,https://iptv-epg.org/logos/Ecuador/BabyTV.ec.png
-BBCWorldNewsLatinAmerica.ec,EC - BBC World News Latin America,https://iptv-epg.org/logos/Ecuador/BBCWorldNewsLatinAmerica.ec.png
-CanalDHE.ec,EC - Canal DHE,https://iptv-epg.org/logos/Ecuador/CanalDHE.ec.png
-CartoonNetworkLatinAmerica-Panregional.ec,EC - Cartoon Network Latin America - Panregional,https://iptv-epg.org/logos/Ecuador/CartoonNetworkLatinAmerica-Panregional.ec.png
-CartoonitoLatinAmerica.ec,EC - Cartoonito Latin America,https://iptv-epg.org/logos/Ecuador/CartoonitoLatinAmerica.ec.png
-CinecanalColombia.ec,EC - Cinecanal Colombia,https://iptv-epg.org/logos/Ecuador/CinecanalColombia.ec.png
-CinemaxPanamerican.ec,EC - Cinemax Panamerican,https://iptv-epg.org/logos/Ecuador/CinemaxPanamerican.ec.png
-CNNChile.ec,EC - CNN Chile,https://iptv-epg.org/logos/Ecuador/CNNChile.ec.png
+AandEAndes.ec,EC - A&amp;E Andes,https://iptv-epg.org/images/Ax5bkBamTYzl64AAKZdyKzKFLw7L3xSjdPJHt1-cO5AuOjBK8j_UDQ2puFjzKchHsOs20O8VPM0xTA6YoTYgQBsOc4e57haA1jDNJe_xiM1juZq2
+AMCLatinAmerica.ec,EC - AMC Latin America,https://iptv-epg.org/images/rXAZ8TOnDjnGx9Kw4C-iJYSp67xcrLGSRWTukJw7EGahxy6lHa3pZes2JOMmua7exX1lA7DsBCUTl9rTMjByFmoVz442gTf5KcNUJp89byV-T722oD-lWtg
+AnimalPlanetInternational.ec,EC - Animal Planet International,https://iptv-epg.org/images/EouU373Igbe-xTIu6UWmD0wr2SNpUqj4Usb3MOx1ziPzy0SJ_OYDqxGjXuWvmw_wLdlMzB8zf-CC-rLCJ5K4VPCbC7R84Tz3f7n9aB596UZhhKyGm1p44g0mLgo3BFHKBUDE
+Antena3Internacional.ec,EC - Antena 3 Internacional,https://iptv-epg.org/images/9o9QTH9-mHFiRsBWPvWJiYVGjNF499BvBN4GfYcJApFNY4OwlTWTv42tTE_cNBkaJYDbSWjoViTH4MoijErwBpZ3cDKIqzBBGZQOuFh9GWH9dTpA5bmqquI_CmfWRQ
+Atreseries.ec,EC - Atreseries,https://iptv-epg.org/images/YRmg9ew84NC32u7vr8t1GJgqNadm0e9jyMfajcHdCNJCpctduF3XlPAsmuwsrc47Vf238zJurTwRFr93Tq1uqiAoUpAEABCOi842FvAN9DCus1JD
+AXNAndes.ec,EC - AXN Andes,https://iptv-epg.org/images/PJJp9ZJ5TvcagQc9g92SHOhqi-nau-Bg9HO7qv_dt3Q9JjwJR9_mj72XlgSxiIhkihJI-HBCivQ_uQtry8ynu1EuSwGsIUvnO42CDA92W8fP6g
+AXNLatinAmerica.ec,EC - AXN Latin America,https://iptv-epg.org/images/LYTvo8GzC7znnqHXLngTsBVPbfRulFkyDFR9v39TZqtbmRndlP9C2v8gSXSfF2tGcufWmq4PwltRL1lAA0ranQ2vbgK8L43USV9xVu2dk2NTVghollUaLto
+BabyTV.ec,EC - Baby TV,https://iptv-epg.org/images/NNrs816zrGCkKBSEVeBg8sEFHfNaadTP8dFl7IHoXlpl_yW2I69FgXSvuqwt3PYsvXRjS8kEhfgeJ5La5CB8uZfHRxgty5pcb-iCu9aIW_I
+BBCWorldNewsLatinAmerica.ec,EC - BBC World News Latin America,https://iptv-epg.org/images/5yeLA_jXLhTWWuwAlPxzfakFAEv5bdzuulQUylJtD0Yj0pivX5NTWlF7PHZyMlWzXmV-eo1_hUgn7ziCiXeO9JWNIFrDtQOzVSukROlTby1SLn5RwzCTOkBThUl_dTVgMgE
+CanalDHE.ec,EC - Canal DHE,https://iptv-epg.org/images/IOyj1XMdGYZbJrMlkenIkWhycTYUviqIIqpK-V174rPY6TN9aE0C3CsiC00Ig7kk7Vo6vTjZ1pv6-_yEAZWixYycFNKlyjHiilgqkDYDFWXeEQ
+CartoonNetworkLatinAmerica-Panregional.ec,EC - Cartoon Network Latin America - Panregional,https://iptv-epg.org/images/brUPEYCecEtFIOWKS8q4-aSqCc4qYBc4ahCIpeIBRc05Vo4VyYOmH4msiRW4VkYVA_7r1NigTPHI_2ppjPW4Kv9WFbMNRvEZ3WmaJUqssrDfxuU0JrFhrTzHtD1CpWkpNCyPAAk6fUW3L70B6a5j6w
+CartoonitoLatinAmerica.ec,EC - Cartoonito Latin America,https://iptv-epg.org/images/aBobJ8FNoJraMmQ1osKzVqAMxskcyvLSJl4uU_bxXbBsozyvfhGJGJFV2bsc7YP3Iawu9PjzEc5CL7SzmoejAnBHvBXIHracfHQ9N5EiE4Zq0X6HAaYtRIbKDEEf1q0x
+CinecanalColombia.ec,EC - Cinecanal Colombia,https://iptv-epg.org/images/KTbwGv4XovxRxNmNMwz0sZNNH0cz_9mDhktXlfF_-XTawmGNoGAXRuAIBMEQvc3mfdpYH8n7NBw-ertGlq39gfom3e8F468YqsQMzg_kN9pEzmU1BrphSlpJ0Q
+CinemaxPanamerican.ec,EC - Cinemax Panamerican,https://iptv-epg.org/images/8s8O_rVJ39FY0ZunivIXwW6DpUJiVqJLfn0-4KOA6UKlx2qjFfyjkz7gJJWoRJW6AwGgz2H3JcxMBByyHv-y5MnAlFkc6BbEDVMMvQjtdeeYKo-mizvL6TFHhVI
+CNNChile.ec,EC - CNN Chile,https://iptv-epg.org/images/ORRu34TG0FhjxtQCDqEFVaFjFX6GvJXWo8PRpS0QZN1a6Mm_P4YJZGBkcJeG7IY5ep94ZloIcgraukFN6SHbH-TXAS_Gapgb0mozpsksQoLKvQ
 CNNenEspañolLatinAmerica.ec,EC - CNN en Español Latin America,
-CNNInternational.ec,EC - CNN International,https://iptv-epg.org/logos/Ecuador/CNNInternational.ec.png
-DeutscheWelleTVEspañol.ec,EC - Deutsche Welle TV Español,https://iptv-epg.org/logos/Ecuador/DeutscheWelleTVEspa%C3%B1ol.ec.png
-DIRECTVSports.ec,EC - DIRECTV Sports,https://iptv-epg.org/logos/Ecuador/DIRECTVSports.ec.png
-DIRECTVSports2.ec,EC - DIRECTV Sports 2,https://iptv-epg.org/logos/Ecuador/DIRECTVSports2.ec.png
-DIRECTVSports+.ec,EC - DIRECTV Sports +,https://iptv-epg.org/logos/Ecuador/DIRECTVSports%2B.ec.png
-DIRECTVSportsFight.ec,EC - DIRECTV Sports Fight,https://iptv-epg.org/logos/Ecuador/DIRECTVSportsFight.ec.png
-DiscoveryHomeandHealthLatinAmerica.ec,EC - Discovery Home &amp; Health Latin America,https://iptv-epg.org/logos/Ecuador/DiscoveryHomeandHealthLatinAmerica.ec.png
-DiscoveryKidsLatinAmerica.ec,EC - Discovery Kids Latin America,https://iptv-epg.org/logos/Ecuador/DiscoveryKidsLatinAmerica.ec.png
-DiscoveryTurboInternational.ec,EC - Discovery Turbo International,https://iptv-epg.org/logos/Ecuador/DiscoveryTurboInternational.ec.png
-DiscoveryWorldLatinAmerica.ec,EC - Discovery World Latin America,https://iptv-epg.org/logos/Ecuador/DiscoveryWorldLatinAmerica.ec.png
-DisneyChannelSur.ec,EC - Disney Channel (Sur),https://iptv-epg.org/logos/Ecuador/DisneyChannelSur.ec.png
-DisneyChannel.ec,EC - Disney Channel,https://iptv-epg.org/logos/Ecuador/DisneyChannel.ec.png
-DisneyJr.ec,EC - Disney Jr.,https://iptv-epg.org/logos/Ecuador/DisneyJr.ec.png
-DisneyJrSur.ec,EC - Disney Jr. Sur,https://iptv-epg.org/logos/Ecuador/DisneyJrSur.ec.png
-E!EntertainmentTelevisionAndes.ec,EC - E! Entertainment Television Andes,https://iptv-epg.org/logos/Ecuador/E%21EntertainmentTelevisionAndes.ec.png
-EcuadorTV.ec,EC - Ecuador TV,https://iptv-epg.org/logos/Ecuador/EcuadorTV.ec.png
-Ecuavisa.ec,EC - Ecuavisa,https://iptv-epg.org/logos/Ecuador/Ecuavisa.ec.png
-EcuavisaInternacional.ec,EC - Ecuavisa Internacional,https://iptv-epg.org/logos/Ecuador/EcuavisaInternacional.ec.png
-ElgourmetcomNorte.ec,EC - Elgourmet.com Norte,https://iptv-epg.org/logos/Ecuador/ElgourmetcomNorte.ec.png
-ESPN2Colombia.ec,EC - ESPN 2 Colombia,https://iptv-epg.org/logos/Ecuador/ESPN2Colombia.ec.png
-ESPN3Andina.ec,EC - ESPN 3 Andina,https://iptv-epg.org/logos/Ecuador/ESPN3Andina.ec.png
-ESPN4.ec,EC - ESPN 4,https://iptv-epg.org/logos/Ecuador/ESPN4.ec.png
-ESPN5.ec,EC - ESPN 5,https://iptv-epg.org/logos/Ecuador/ESPN5.ec.png
-ESPN6.ec,EC - ESPN 6,https://iptv-epg.org/logos/Ecuador/ESPN6.ec.png
-ESPN7.ec,EC - ESPN 7,https://iptv-epg.org/logos/Ecuador/ESPN7.ec.png
-ESPNColombia.ec,EC - ESPN Colombia,https://iptv-epg.org/logos/Ecuador/ESPNColombia.ec.png
-FXLatinAmericaColombia.ec,EC - FX Latin America Colombia,https://iptv-epg.org/logos/Ecuador/FXLatinAmericaColombia.ec.png
-Gamavision.ec,EC - Gamavisión,https://iptv-epg.org/logos/Ecuador/Gamavision.ec.png
-Golden.ec,EC - Golden,https://iptv-epg.org/logos/Ecuador/Golden.ec.png
-GoldenEdge.ec,EC - Golden Edge,https://iptv-epg.org/logos/Ecuador/GoldenEdge.ec.png
-GolfChannel.ec,EC - Golf Channel,https://iptv-epg.org/logos/Ecuador/GolfChannel.ec.png
-HBO.ec,EC - HBO,https://iptv-epg.org/logos/Ecuador/HBO.ec.png
-HBO2.ec,EC - HBO 2,https://iptv-epg.org/logos/Ecuador/HBO2.ec.png
-HBOFamily.ec,EC - HBO Family,https://iptv-epg.org/logos/Ecuador/HBOFamily.ec.png
-HBOMundi.ec,EC - HBO Mundi,https://iptv-epg.org/logos/Ecuador/HBOMundi.ec.png
-HBOPlus.ec,EC - HBO Plus,https://iptv-epg.org/logos/Ecuador/HBOPlus.ec.png
-HBOPop.ec,EC - HBO Pop,https://iptv-epg.org/logos/Ecuador/HBOPop.ec.png
-HBOSignature.ec,EC - HBO Signature,https://iptv-epg.org/logos/Ecuador/HBOSignature.ec.png
-HBOXtreme.ec,EC - HBO Xtreme,https://iptv-epg.org/logos/Ecuador/HBOXtreme.ec.png
-HGTVLatinAmericaPanregional.ec,EC - HGTV Latin America Panregional,https://iptv-epg.org/logos/Ecuador/HGTVLatinAmericaPanregional.ec.png
-History2LatinAmerica.ec,EC - History 2 Latin America,https://iptv-epg.org/logos/Ecuador/History2LatinAmerica.ec.png
-HolaTV.ec,EC - Hola TV,https://iptv-epg.org/logos/Ecuador/HolaTV.ec.png
-INTINetwork.ec,EC - INTI Network,https://iptv-epg.org/logos/Ecuador/INTINetwork.ec.png
-InvestigationDiscoveryLatinAmerica.ec,EC - Investigation Discovery Latin America,https://iptv-epg.org/logos/Ecuador/InvestigationDiscoveryLatinAmerica.ec.png
-LasEstrellas.ec,EC - Las Estrellas,https://iptv-epg.org/logos/Ecuador/LasEstrellas.ec.png
-LifetimeLatinAmerica.ec,EC - Lifetime Latin America,https://iptv-epg.org/logos/Ecuador/LifetimeLatinAmerica.ec.png
-MTV.ec,EC - MTV,https://iptv-epg.org/logos/Ecuador/MTV.ec.png
-MTV00s.ec,EC - MTV 00's,https://iptv-epg.org/logos/Ecuador/MTV00s.ec.png
-MTVHits.ec,EC - MTV Hits,https://iptv-epg.org/logos/Ecuador/MTVHits.ec.png
-MTVLatino.ec,EC - MTV Latino,https://iptv-epg.org/logos/Ecuador/MTVLatino.ec.png
-MTVLive.ec,EC - MTV Live,https://iptv-epg.org/logos/Ecuador/MTVLive.ec.png
-NationalGeographic.ec,EC - National Geographic,https://iptv-epg.org/logos/Ecuador/NationalGeographic.ec.png
-NickJrLatinoamerica.ec,EC - Nick Jr. Latinoamerica,https://iptv-epg.org/logos/Ecuador/NickJrLatinoamerica.ec.png
+CNNInternational.ec,EC - CNN International,https://iptv-epg.org/images/X7fTkfrkCxPdbda0hdcdoYQCfbW55F7qIfu3cGUIUH84RXCUILgwPaf9nVC9tks3487Vr3wGnu0lAyfTx60xymYN97V9fBVx8PqgcYi9jwL_7ovmqzdz-u0t
+DeutscheWelleTVEspañol.ec,EC - Deutsche Welle TV Español,https://iptv-epg.org/images/aLkfNCYgEtsTDU0f0GKruuEzllQihZ9XMcUgMdXJE5t8rXHpUV9hnydKlnWfEDai5DDbwSSAW6iNV4ZMOtAkusxi6ZHeD44wk-99WRkK60xKNnPbIWUHwlaPKsRvI84K07JXoKs
+DIRECTVSports.ec,EC - DIRECTV Sports,https://iptv-epg.org/images/IinAw4fglOu-ZrsteIAuWBaxHs-6yWJKjEZfPxROEzbkGcw2Yq18r-Ytqrk3YtQTbwlrBObuPD-6B1d3HaQj6TYYLxi42c-a0fx5HLiTWVXWtLVqS21E
+DIRECTVSports2.ec,EC - DIRECTV Sports 2,https://iptv-epg.org/images/wBvCl6hLCD0x4BIBS_xtxj7qkTe0olihBay9iCxKJkPjtzuUqmMELMEPhURXhTk4Rl-r1_oeL5oBWaqQ3BzNf9DxUZCMRbqcgnJ4l7ZwF9qclsMHAhkWCQ
+DIRECTVSports+.ec,EC - DIRECTV Sports +,https://iptv-epg.org/images/F7akg2CKKzPJvB4gJjPbRLHfivC8cgwfdc7cI9atKA6pMt0oyyZ0RDpB20RZRx0KVGGWre7oVbmjYjmuNZNbr2OKRPfkFOLczl-UbqekMOW1ozf0be_zN8fb
+DIRECTVSportsFight.ec,EC - DIRECTV Sports Fight,https://iptv-epg.org/images/wnlnkoorEzEnJKXCsbnHprZHwMoFmTo9DpHHgWAhrERV25mzGCv_p5UVNj_f7mfGtNTlii2XVjPN68NTaEodXD4dJ5mMYUiz4VpXj7xSdIAhKL7Ork_20St-JQc
+DiscoveryHomeandHealthLatinAmerica.ec,EC - Discovery Home &amp; Health Latin America,https://iptv-epg.org/images/vJdzUXhpGyJ44alwEXE-QFNQJPiDUcUb9vmBhd9KnGnReba-YBkOpGUND1lI4YNVftM8k1FprfL6lVjPNvDoeDpWz9OdMMQaO4rSYU369Hm_YcLKY8zpKGQOIvK4x2vTSjfF1cHhLPcYSwX9
+DiscoveryKidsLatinAmerica.ec,EC - Discovery Kids Latin America,https://iptv-epg.org/images/5DG7w_9OoBKFP7RTc6w6K4mW3DAIDMu9gDeXX97KIQq0Ti__1qQqvA5V84wHkQIQyjXPEksDcT0QFvTuGA9wYy13PPZ72CrzQeEHSl6-S7It4X2pQgcq9XOcICQr_nq2gMLX
+DiscoveryTurboInternational.ec,EC - Discovery Turbo International,https://iptv-epg.org/images/ENO6WqfNqguUyqSqEIQHHeAVsEhJ5KzxwAUvfhg8TFLMtytL95Zxfd8sfVj_0qKCZtwBgpUKLxU1vduM5OQSasVfVSnRFOjUbXizyGUSnnNIVFzFbQdwYzhcqMrDzhnUk5u4fK4
+DiscoveryWorldLatinAmerica.ec,EC - Discovery World Latin America,https://iptv-epg.org/images/AhCpo3h0bGJAQdvspJbR-yWnPxR8bQDx3O5eFLvIar8zgqRRzT0aLpIBhr3gU2J6D926RBBRfwe2yiqhkktGqGwl13owcZS1qtJnE3MvCLHjkmZnVvW81xuDDtxCQz7n9mmUQw
+DisneyChannelSur.ec,EC - Disney Channel (Sur),https://iptv-epg.org/images/LcTaG-dHJbwBKQUumUuQbXuJqwtAjPK-VDEUft0liDN7o-GGfZ6GXyXwuMrSRSMpRlJVezj5Ed6RFnXbuDdRLL55Qc2xMjiCpb_BYc0T86l5jtj8LvLw1gZP
+DisneyChannel.ec,EC - Disney Channel,https://iptv-epg.org/images/HiWGnIx0Po0VZb0kE_5H-DVeP48kSVjS6xdbB-NQE_HinDfSCu2-aMyys7dZf17G_WKVkjR6FNN0yC7Bz65wkFrrAZAuYu71o8Tk7SjlKPudNV-vFou8
+DisneyJr.ec,EC - Disney Jr.,https://iptv-epg.org/images/kPXmxMu3U632f_X9x6FEFvqTeGMSoGyedNTghq2peIA41fVaPaTs29S5lxwSZ6ww6v05rPm-ljnlwtFLDsnHDrfH1O3HqRm02LtRyRlhg1-dsQ
+DisneyJrSur.ec,EC - Disney Jr. Sur,https://iptv-epg.org/images/3RlKHA9IUTyZpZCB8DdcrXjIUBA-8O3srfofMnmmeG4ke_CTxNeoS6qNq8Ct5W_oPfbHoGhgZSumSqzI776yI6BAOOyUSkMSfGIlJwwwwkqwIgIKzA
+E!EntertainmentTelevisionAndes.ec,EC - E! Entertainment Television Andes,https://iptv-epg.org/images/-Kq2cQCa8ghl17Edm16b__5ibgM_X6bJVP-atzTzxUT5-wPNHScIjnV0rwe32vSIL-YDPnHMZvnGukshJzp_qavGb_J525_Pp2y9-GB0liWzmRLtt2JdKIzywCHtc1pN2zNM9HAorntSwQ
+EcuadorTV.ec,EC - Ecuador TV,https://iptv-epg.org/images/6Eb5OYncImveIY7i2fBuhsEyw6obGezcABDk9qYTOlqHXZ1C0c5fx2yIPVbfeWc7v0Kp-qkBhTwK5z8HaGQBE6mzf5-S7bQbgKA2D9q8KLYtufk
+Ecuavisa.ec,EC - Ecuavisa,https://iptv-epg.org/images/MJhnNl3uoZx7j1dZvXz0hCJm5ClXGXfMSzcSy1pD29DrC-InEvOivdOviS32fHnJPUZL6dG-rn7fRhbUHJCsjDKgKoABSMnscGPf6Ba5t553kw
+EcuavisaInternacional.ec,EC - Ecuavisa Internacional,https://iptv-epg.org/images/uU8MGQqE_-Y6hl3SOFe0S8UcucBSJdGH3UpxslfajlGeg9xdReJ55kF1sht1xx2OHnaaBjas-PyWSX-E9dKwJnt8UGENtf3MQVybYqcjqWNtZqOVwyfupAxT8bVhQac
+ElgourmetcomNorte.ec,EC - Elgourmet.com Norte,https://iptv-epg.org/images/aP5FU32wnPbNhMQSrF4RUr21Q27kWzZxOZouAfkdb1QI0WkqKIEMQ1Dw0jGj6Y8yxs-2bsXxjB4zADuGvRHTgPGlqqsPOdkJFpQ4BO_BTB2TGZBhOMLn438Qvw
+ESPN2Colombia.ec,EC - ESPN 2 Colombia,https://iptv-epg.org/images/fdUDQnuUXqa_mCj7UdjJJu-CvtInJrd3eEa3QiJwZtr-5p3RJMsuoGkgNeId4JPZp0kDVS7456lywsiPoO_xlCAL5Me1XzM4WlF7D_5yblXsmlhsqeT7
+ESPN3Andina.ec,EC - ESPN 3 Andina,https://iptv-epg.org/images/Nl-PhTfkSuZvemk9Qsf6yclByfJA7rccyxhuOqpj1fLn3bmdGeiK3BZrC5xOW96fNc2HLyfu7PB-tN0aOMQrpqyKOZboetBMIkHpSIbA-UNErZjltg
+ESPN4.ec,EC - ESPN 4,https://iptv-epg.org/images/W3zee9k_gm2gYNnTOpteAGjG0GIyyUoPmwaIVXW03AOhWJyLq4tL2IT5BK7_yycEf1P_vSvBRNlidYVZhnGgCxr5CDIMzJQd5Y2yfm4Lug
+ESPN5.ec,EC - ESPN 5,https://iptv-epg.org/images/N7PsdQtR-Qq214CIccP3jk3PT6PgW9ym6U1XEHbYiQgV9wkk6_gx1o-mIBDmpZHJJbMaaU290q-7l8r3jksPrlk2E4-5v3zA8q0HWlAxDw
+ESPN6.ec,EC - ESPN 6,https://iptv-epg.org/images/8Q_gY-xcEkIJPtTu5aDO1WqELUlSR8xxQB4vNwWNxc-5-QbDBW0--Nx1S8IfDYelWF5eA4s0KvX8Srw0BvMCJZa9-6yf-112bMhIbglJ6w
+ESPN7.ec,EC - ESPN 7,https://iptv-epg.org/images/Dxhlsn-9Sg9ENvWz35QQXXmamMz5UvFUGJenMc08iskFHuYrLpdBYaUFZAhG8QTXYjBQkaouzw3n0A78vlSw9rF-k1Wu-eXNe4y5D7rDDw
+ESPNColombia.ec,EC - ESPN Colombia,https://iptv-epg.org/images/WXy5FNLqO_XI2niKRGYLN1JfcwxqNVnR-dOdgZQFltsFHA3fV2cUSBM4Rh8Tf6PVebMNImENkgAlxly45lc69FuQch8D_1RFdPjFXPoNaJDoOyL0yDI
+FXLatinAmericaColombia.ec,EC - FX Latin America Colombia,https://iptv-epg.org/images/GaaAvnZVX128szAWjTUD_5d4MRzUsYaEbP9WQVLHkFEcA_SBTE8Crk_zTM9QG5uZIGbMZQBTuAHLsxdOQoYHqHxmZXRSxNTthR1FF0jxMCh6WBYl4CnOvILvR2sCLyEv
+Gamavision.ec,EC - Gamavisión,https://iptv-epg.org/images/sBjaoYglvvkqIP_ShB19tnC_ghAUMXTeiFmvRnz0qzK9R5kqUw-UDpbSNwq6itYqDd8bEntVfaq4Z6mel1HsxUYyrUDFXKVJkzOJSpNZB8PBm3oX
+Golden.ec,EC - Golden,https://iptv-epg.org/images/jEWwQNMOBvnNUUItSk63Pmo5oCcpZT-5JERegM1sPp2Y4fo0wJ8qTbBvp8ZU-SP6iJb5bJZxd_DaV1PIyECJh4pTIfILfeHiUsrHvH2Lj6U
+GoldenEdge.ec,EC - Golden Edge,https://iptv-epg.org/images/6p34c8uIiUCPGxQgZnB6oaAJAkWDmRJYXdu_g8_6d6TT-IUZ_nxE-wN_6gBYGWK55hhgy9KQ3tMFNt3Gg0ZK6XNdFXlEIsrjOB-_5KBzsuYEU084
+GolfChannel.ec,EC - Golf Channel,https://iptv-epg.org/images/EV8CxiJuZ_OKmVeHH0Ko4tsI8dbUshppxdNvj9ZgPf9zgWta-a6_L_4ghIz_YlKFRRMc2AyzZhIvAE9-K06TCY3lMrowKMszNisOXWOR1leI8-_EBQ
+HBO.ec,EC - HBO,https://iptv-epg.org/images/RO_jCJ1fPubkJw1W3pNN3ldi1gJFwM3lTF-RO6Dr9qcB8EmlEgDWb1gtWjyoSQ_4P_uCbADL40mdGRzFdKeKaf1pIb7OrY0_drd9hUc
+HBO2.ec,EC - HBO 2,https://iptv-epg.org/images/h3MDO_Cpm93GAamkMdBQ4CLr_rUiGOXB4YQUaLZFcfUiyZ-sqF-UXURmG1AGDhi6EHg8ueXpqAi5sDe5iGupD625Zt0oFS7S7Hs0joz0
+HBOFamily.ec,EC - HBO Family,https://iptv-epg.org/images/aUU7DjD0qR8X1IWGhpEu71k3ooSvTg9rUBjdmg-GT0dbFSfY61j90i5lFutrjXQS4fUT7jEk7CRuzBL0QxFSzGr91A1_AM7S3fwj5EOU9gvkgCs
+HBOMundi.ec,EC - HBO Mundi,https://iptv-epg.org/images/fWt-fZ3C0-vdXyLuSMDOH2z0WyWDrnOD2uCUhm9w7XYWxr9F00ps5AWtOMXZF0ZsiMkPzkSSP0n82VeuiQxRfxByAmv28a3ZSJdn7I7BIWgXog
+HBOPlus.ec,EC - HBO Plus,https://iptv-epg.org/images/RRg4f2_c74HLUf7-JnPQUgCxtrn5927JuE0FHIECCCqRyDSByDfX0g75H78Y8ccsjAmuFvgPo_SmapkiH13uUN74YoEGoqR8oZOgU7b1Chdu
+HBOPop.ec,EC - HBO Pop,https://iptv-epg.org/images/DcYZFCzZnA2hMGhzlaSXIukihvzxdwushXbUd792J1l_qCJmXawG4hVxw-babDTxt4LueecY9FOuDPZTTI7EDG2mpObjHhXwjNDXSH2YQVg
+HBOSignature.ec,EC - HBO Signature,https://iptv-epg.org/images/qEc0J6ntXlGkBSRhIMVC0m7xhtsoogHiBhpfrA78fmgVr5ZehIYmioy2adpGHZpMLQjV_PuC2GxAhO2GTvWCde4vOHZkEnrLnqLkLPYkkgrmNucZTOI
+HBOXtreme.ec,EC - HBO Xtreme,https://iptv-epg.org/images/-2u2FETzxubLdZWu03HmgTnrQWeVkWCgWfmqYw4c55vZeMS9U0IrAVVxwPfYQj1qmDdN_1xizsR2U3Z-HSJQksvHYCq5elZTJ86pO9KzY21Bx2A
+HGTVLatinAmericaPanregional.ec,EC - HGTV Latin America Panregional,https://iptv-epg.org/images/2aTNkpGs4L7ISBziwQsTWrXIvab1wsFvOOuRFPiWG-I9EgJ9-XLyk66Sgvfeo0aqb_8AAuLHlKEtLdd2K4SkE7uQ8pt6tcLP059dTup423Yg4-K8Uyuw6jkWIvui_vzifdFxq-E
+History2LatinAmerica.ec,EC - History 2 Latin America,https://iptv-epg.org/images/S8Zl9zdj2clnFVbJDoIHLEG0mn8ZMIuP1Zq5lBDJ9_mQ52i4Ny-Uw8194us2F2-LOSSgvmlIUxwaCWJEB_05r3puNysEP1JDVTZSmnQ4bDdo4qY6kXO3zsnmhWM6FQ
+HolaTV.ec,EC - Hola TV,https://iptv-epg.org/images/LKSB8WCbk-HGfGis5eD_bvHeqh3HtsfyJNYrddwT_cfQJdENyd8bJ45tU92FOGachfAC0Mkr0kmw7gXuCryuL9r63oBF6GpBZeaKObsz_QI
+INTINetwork.ec,EC - INTI Network,https://iptv-epg.org/images/qE-LdOxufH6OFlooIMchCHbXw1EZHeXYGD5UXvgW3CfPcSNEou7Vz9WhREkvOCKJcmTzU3BtZ0QiOrTxrMECFGvvW02HeH73CHMXc7__Zx2wCd8E6Q
+InvestigationDiscoveryLatinAmerica.ec,EC - Investigation Discovery Latin America,https://iptv-epg.org/images/ZXs85fiTFfB1-o8G6fhLrrVEvowKVvSUdE4izfS2XnehIT-0ywGgyFbxUC08oRqDwrKLX3G8fvcRvhuvDMUXeDIZrpDVHNr3H3Tb9B5O8Deav6m-HPIzBO-p7ItuRuIL4zXcggZjgDmG_RpM
+LasEstrellas.ec,EC - Las Estrellas,https://iptv-epg.org/images/z8OfqOdXCjSnupqWI2lDW0TQrScclVZaH59sR8CCzdnX_UvYfGLoUiaGcRgX0SPRylAqLLJLIt9tyyVqah9bwYVaa5AVGyyLNByY4WIxQxB5dMNz2lg
+LifetimeLatinAmerica.ec,EC - Lifetime Latin America,https://iptv-epg.org/images/yj5Ibty55v0WMfi5PpOvS7S2ECKJSoHgUlE_tnIzpEbG_R5uC2W2qNkU_gQvZvWevnqV-1K3PX_iglbdYsQSAoAD6wjXhc0SB_636cvhHVZvuMvWxACIIdihcXU03w
+MTV.ec,EC - MTV,https://iptv-epg.org/images/1g6Hv2cT0BE_3O4d4Ac8Ds4wxmPXCYP_8-uc4e7gbdw7Mp2weRzq8YBw1dW3jCu9SMHoOYWjp6qy9bRa-JNf0IKFxMscM2vryXXDknI
+MTV00s.ec,EC - MTV 00's,https://iptv-epg.org/images/CffZXGSRUy0nNyYb055o2ANEUzCPczFEzWyrbU_hNgf6SBtI3Vk2beMCu3x5ZIU4D3I5dHCVH-mhzY6W1n-UZ0nSf-bpEJBmvlFXZLHhiMU
+MTVHits.ec,EC - MTV Hits,https://iptv-epg.org/images/IiDeqtkhoh-Ri4L_foUn2qCOC_beILLKktkrrufGRdG3pCgOr9xLImyLdKQwjBnryn7mkNFIoBw6EY229oup_l0PPysZKCkkwI1oxzo2PY2I
+MTVLatino.ec,EC - MTV Latino,https://iptv-epg.org/images/CqUwKeSHcCF27GV2_KofxTJWFazsn64ZaUHQWXQA6p99Zb4dqjxlVhsmql08dtj9j_C5m8VzgpUnVCwt3nBVwNH1-XrI0MuvwAs5GZBl6jgnkVA
+MTVLive.ec,EC - MTV Live,https://iptv-epg.org/images/obkcDC5EtUGiv96oAPbPFL-TLCfo3mGTZZiWdtQ-2Ohba-oLHsQzG9Z1wJFd5gUwrNP1c8Sw2Rl6-HjTFiIPuE1KhaRkiikUb7d3LhcohpHG
+NationalGeographic.ec,EC - National Geographic,https://iptv-epg.org/images/SEeu1BnZh8RPYPbn20KSp3EtmtLYUSGd6nCvkkdH8Y-Zf7bPxLPhCMUtbAz9cxZVzGYqF0-E3eyl2viHIzBgSqq8hp3_zsubzctNIBWqeGJ-OSHRKRTlhPfDbP4
+NickJrLatinoamerica.ec,EC - Nick Jr. Latinoamerica,https://iptv-epg.org/images/jBRp9xCSV_yYI2x8a_bR85wWCTHcXBspr3-2Y-kQeEgzD1XC1XpEYLTn41_QTTIKdPX8OMb3qhtewACHPNCthV5S_6JqJ7AOHbgF-ofcYcdn4khN3gaH0V3KvnM2
 NickelodeonLatinAmerica/Central.ec,EC - Nickelodeon Latin America / Central,
-OromarTV.ec,EC - Oromar Televisión,https://iptv-epg.org/logos/Ecuador/OromarTV.ec.png
-ParamountNetworkLatinAmerica.ec,EC - Paramount Network Latin America,https://iptv-epg.org/logos/Ecuador/ParamountNetworkLatinAmerica.ec.png
-Pasiones.ec,EC - Pasiones,https://iptv-epg.org/logos/Ecuador/Pasiones.ec.png
-RAIInternational.ec,EC - RAI International,https://iptv-epg.org/logos/Ecuador/RAIInternational.ec.png
-RTS.ec,EC - RTS Red Telesistema,https://iptv-epg.org/logos/Ecuador/RTS.ec.png
-RTU.ec,EC - RTU,https://iptv-epg.org/logos/Ecuador/RTU.ec.png
-SonyEntertainmentTelevisionAndesfeed.ec,EC - Sony Entertainment Television Andes feed,https://iptv-epg.org/logos/Ecuador/SonyEntertainmentTelevisionAndesfeed.ec.png
-SonyMovieChannel.ec,EC - Sony Movie Channel,https://iptv-epg.org/logos/Ecuador/SonyMovieChannel.ec.png
-SpacePanamericano.ec,EC - Space Panamericano,https://iptv-epg.org/logos/Ecuador/SpacePanamericano.ec.png
-STARChannel.ec,EC - STAR Channel,https://iptv-epg.org/logos/Ecuador/STARChannel.ec.png
-TBNEnlaceLatinAmerica.ec,EC - TBN Enlace Latin America,https://iptv-epg.org/logos/Ecuador/TBNEnlaceLatinAmerica.ec.png
-TCtv.ec,EC - TC Televisión,https://iptv-epg.org/logos/Ecuador/TCtv.ec.png
+OromarTV.ec,EC - Oromar Televisión,https://iptv-epg.org/images/1fjVkPdWULQ8bg_XO1_4DmfkAhCXq_477EyyeAr4rx33fOFnIpEa-sBwj1OUXa1qhD1nU1RW6jKC6b4dUYbsCzqRItnAsuE7U3QNqiK2-aUhBA
+ParamountNetworkLatinAmerica.ec,EC - Paramount Network Latin America,https://iptv-epg.org/images/oxoy3LUFO9wr_B7HiZqPyZLSo4Rgveb4QrGmIshkpmPfcUn4sCj7L06VN5xU9oDJLZW2TwkSal1zsVOP-8pfgJy31cLCHx94_69KKmrz2OOdw1Ildq3p7m-EKnlhN7Zg6rtE1Up5
+Pasiones.ec,EC - Pasiones,https://iptv-epg.org/images/0QqsCtLabm0Gn6lrQnjOrqeK4lpfoHe74_5nbLQP1Jst08fQwha-QTIL1g8x4goIJTwoCx_i55Pj_d7OR9ibA-WCSKRAYPhQQ3MGpX4X5d-qmQ
+RAIInternational.ec,EC - RAI International,https://iptv-epg.org/images/s47e3c3LF8lEWzIBw518NxRjFqbdEEoaZlKOhpwuji5GGkdQqjK8EJ5xP14KB0UPqaA11f818S1bBpKYZvvAlXIpOH8IG1daIr5jo06LLIw8eTbIVpaXz5HK
+RTS.ec,EC - RTS Red Telesistema,https://iptv-epg.org/images/746CR1BLmBkbov1bb824l-iuZ-PnXYlIpFPb9rKj-uO8YSvLnBFLgoIutY2ruOUMDM-68bViXdxtmkmaP1nuDBoCoJDEJp44ZksZ8Kg
+RTU.ec,EC - RTU,https://iptv-epg.org/images/Hc_mThZrJj_aM6haIJybcsDIgFz0-P73mBDukgSOuBTpwkrnFdok2RaZ5TjwWVr9oPza5sXD69TsKAOLMM-XTkSAqvsmNmiXHe7tlW4
+SonyEntertainmentTelevisionAndesfeed.ec,EC - Sony Entertainment Television Andes feed,https://iptv-epg.org/images/MG9JRrsBmNznmrIwpOuhlGD-QLOdaQ3tlYZ4ya06kP4PvzmohDhmijBm4yKlpVpgVC2QZHVOX7Wyazxrl-EMgrjfpX00kRmG7Srd-K0ITBU1hkEgh98bLHM_zAfSwYuzNI8zotkTJpIE-MeKpGE
+SonyMovieChannel.ec,EC - Sony Movie Channel,https://iptv-epg.org/images/Hqyj_2xRgVqZBtcciaot6S8Wjg099RTPMPLDRMS2ConcicCIRUfU80VIV284dMcb-vtRf-cQxUBK2c5DAQiOnodWg5P7ISZ_UEnZ_CDj1rIk1DCB8Av_5_Oa
+SpacePanamericano.ec,EC - Space Panamericano,https://iptv-epg.org/images/9aRueBWyoq7Ii2Atro39rVYyKVSirqEv8Ok_EdES8nUowHXnrVXDAG4I1J20ydqZdAzJJ-31tAhQwTyhOi9hyPdTYMY0gNzZbGeMNNGM2A96GU4QmY4-TZ_W-g
+STARChannel.ec,EC - STAR Channel,https://iptv-epg.org/images/8Spgzo8AQnnEVr-dYx8fgoq4D1ik346DduEXG4nlKuaH_9Nb72i-MzP9DCFuRDUnqaAfHjpRtALIA3O0Sq5ZQYS8Kzu3JFuV4rswmLtbs84y0gsJFA
+TBNEnlaceLatinAmerica.ec,EC - TBN Enlace Latin America,https://iptv-epg.org/images/82txSILKZuMaEtpj0RVEUACFmAtNSU0h44MS9MKt7fo6lP7NcvSP_Ds4mhp302V-J7FWFrmrdG0_sKbVfx_XYW-gcebtdxyaTD15uMwsClZaU-0_qtsKw5RsiyBuyP8
+TCtv.ec,EC - TC Televisión,https://iptv-epg.org/images/TuULmH0fQLmVyRzOrq1evp33Nh53aimxABGDZiWRmvsMZ57ftrJym47Ox7jYMsUnk4or0bBb3lXDNkFVQuSRhuFWhzeYWEbZRcmZ6f3h
 TeenNickGlobalLatinAmerica/Pan-regional.ec,EC - Teen Nick Global Latin America/Pan-regional,
-Teleamazonas.ec,EC - Teleamazonas,https://iptv-epg.org/logos/Ecuador/Teleamazonas.ec.png
-TelefeInternacionaldeArgentina.ec,EC - Telefe Internacional de Argentina,https://iptv-epg.org/logos/Ecuador/TelefeInternacionaldeArgentina.ec.png
-TelemundoInternacional.ec,EC - Telemundo Internacional,https://iptv-epg.org/logos/Ecuador/TelemundoInternacional.ec.png
-TelevicentroEcuador.ec,EC - Televicentro Ecuador,https://iptv-epg.org/logos/Ecuador/TelevicentroEcuador.ec.png
-TheDiscoveryChannelLatinAmerica.ec,EC - The Discovery Channel Latin America,https://iptv-epg.org/logos/Ecuador/TheDiscoveryChannelLatinAmerica.ec.png
-TheHistoryChannelAndes.ec,EC - The History Channel Andes,https://iptv-epg.org/logos/Ecuador/TheHistoryChannelAndes.ec.png
-TLCLatinAmerica.ec,EC - TLC Latin America,https://iptv-epg.org/logos/Ecuador/TLCLatinAmerica.ec.png
-TNTLatinAmericaPan-Regional.ec,EC - TNT Latin America Pan-Regional,https://iptv-epg.org/logos/Ecuador/TNTLatinAmericaPan-Regional.ec.png
-TNTNovelas.ec,EC - TNT Novelas,https://iptv-epg.org/logos/Ecuador/TNTNovelas.ec.png
-TNTSeriesPAN.ec,EC - TNT Series PAN,https://iptv-epg.org/logos/Ecuador/TNTSeriesPAN.ec.png
-TyCSports.ec,EC - TyC Sports,https://iptv-epg.org/logos/Ecuador/TyCSports.ec.png
-UniversalChannelLatinAmerica.ec,EC - Universal Channel Latin America,https://iptv-epg.org/logos/Ecuador/UniversalChannelLatinAmerica.ec.png
-UNIVERSALCinemaWest.ec,EC - UNIVERSAL Cinema West,https://iptv-epg.org/logos/Ecuador/UNIVERSALCinemaWest.ec.png
-UniversalComedy.ec,EC - Universal Comedy,https://iptv-epg.org/logos/Ecuador/UniversalComedy.ec.png
-UniversalCrime.ec,EC - Universal Crime,https://iptv-epg.org/logos/Ecuador/UniversalCrime.ec.png
-UniversalCrimeOeste.ec,EC - Universal Crime Oeste,https://iptv-epg.org/logos/Ecuador/UniversalCrimeOeste.ec.png
-UniversalPremiere.ec,EC - Universal Premiere,https://iptv-epg.org/logos/Ecuador/UniversalPremiere.ec.png
-UniversalPremiereOeste.ec,EC - Universal Premiere Oeste,https://iptv-epg.org/logos/Ecuador/UniversalPremiereOeste.ec.png
-UniversalReality.ec,EC - Universal Reality,https://iptv-epg.org/logos/Ecuador/UniversalReality.ec.png
-VePlusTV.ec,EC - Ve Plus TV,https://iptv-epg.org/logos/Ecuador/VePlusTV.ec.png
-WarnerChannelAndes.ec,EC - Warner Channel Andes,https://iptv-epg.org/logos/Ecuador/WarnerChannelAndes.ec.png
-Universal Cinema,Universal Cinema,https://iptv-epg.org/logos/Ecuador/Universal+Cinema.png
+Teleamazonas.ec,EC - Teleamazonas,https://iptv-epg.org/images/2NRiRGF63ZCx5buMnazSh_2Hec_HOgaMtL6RYbAIeQz4IGVHhlah-DNiG2lszOAzkuNEdCbpvNdJM8BTWFE5KNf0_0WBmGKF11J1ysr6DumDglAaKL0
+TelefeInternacionaldeArgentina.ec,EC - Telefe Internacional de Argentina,https://iptv-epg.org/images/gBVi-2XhdFERMLn_CyNNxyApE8dUsP64A1PmSzeZHNLYaltcviPwt6cr14dnyHQKlYs1ZZbmI5LqzzRKrq5Ku3OSGUV8u3yr-rIeBkUJlyo_IsiF7T2cQbIBE2YpiiLDKPy0xvXE1T0
+TelemundoInternacional.ec,EC - Telemundo Internacional,https://iptv-epg.org/images/KN1aqHuv_T3PdkwTnwTi5TNA-CaQF1Nx2BuQ6-wzpunTPEj7S5nvF6_0FPKQ1iuVfLj1HGEUkslcE-cjlh4IgYI24-6TN6iKMDA6KG_0CjeV077-9RDMjR5PxhV0Ow1d
+TelevicentroEcuador.ec,EC - Televicentro Ecuador,https://iptv-epg.org/images/xBpYFK3B8kX4lSMkdu1htSh2lu5Q__q1U858CMyqJvq_xJKUq98QgRxfJtg_9AHAfjyviYESnh9iF_g2HOFCdMUAZCiqrA90ZCgNr1YZey5c-TCFkwwSVYgDL7OK
+TheDiscoveryChannelLatinAmerica.ec,EC - The Discovery Channel Latin America,https://iptv-epg.org/images/RtrYBgSFXO6eQ1FAVKNWAUVbdDGebuBsJ-M0fUBLoJCAQObIVLR9Plyb8HsqfpbFCJLF7eCm4AoIy3UcLx7hV_EYZSewTJKGjtBEjEyrUYxCi7FTJyX5qyMvwNM697EzsC0ZYUzLnncb
+TheHistoryChannelAndes.ec,EC - The History Channel Andes,https://iptv-epg.org/images/JrfXzUwDEGp8h7u5Ot_cgUOPGkON6fFvyB1tF2zRmmLxK127IOxw4ql4_8Nsr44q-GkpZY6NqPNomoK7g_U-gC5BuRLeeZahCeot6hrOfG6p3HRzW300ze_3A3To0-W4
+TLCLatinAmerica.ec,EC - TLC Latin America,https://iptv-epg.org/images/o6TkP-qY34p2_-exR3IcC-7AikFiitKOuMtQ3ihhkgb1T9Dymq4maFLaZYHGtaaueZYmrcCgj1OJqhtnpcKg0nIbP5jdRaEl2hCrRld3070ruvMWWIo91f0
+TNTLatinAmericaPan-Regional.ec,EC - TNT Latin America Pan-Regional,https://iptv-epg.org/images/gGYwC6em04sVhimG92OuKRD4WoQHlK1cM7h0DRcWanQEINj2EUA67bahKg0LL1Dhncw7eLlI7Ao8dMtjKna5jYOY9EMJc8xGm0IMaebAcH4Acbs9LoY783LROIKNFghbVpI88nk
+TNTNovelas.ec,EC - TNT Novelas,https://iptv-epg.org/images/j-NhunNk6IZRy8BckGA-O3i2uBcrr_fRozDq9WbPgpMJ7CbNX63xyflNHALL64XXoeerfpth58AsRhSL6sIj6_5-pdeoAVmzKfUsENnhdW0Urk2W
+TNTSeriesPAN.ec,EC - TNT Series PAN,https://iptv-epg.org/images/b3C_md1eQFifoGHZiLKJ1JQA4MZYwRYVFPqPCu1izFhM_KFgvLycsyKbHrJotBqTqQfIePlwbBGxDSrYKoyIw8fBE5n3Eep7CdAIR_Kq_Iab_gZ13Zg
+TyCSports.ec,EC - TyC Sports,https://iptv-epg.org/images/bBu7xQdaJICjBZKccnbgo3FbHwmFUF8jDRm-aUMV1Zg4EGNhOVsCiO0QrFnGbn7SuHe442tOmFE6UY9D-L1vdldvR0kg-PN-ZZmjEpcwrxUroCo
+UniversalChannelLatinAmerica.ec,EC - Universal Channel Latin America,https://iptv-epg.org/images/4XwADMliSzWMZjDCeQdas6uatmby6zSGKCo6rEYrDCzX5X9CIwz9YDE-mIvlU_LMY1lo7DiUai69dxZErshqvmAwV7aTFPkTGtR9cbLYPGR8XQBiqvBIlWKyWtwuVchnBfX_oEku
+UNIVERSALCinemaWest.ec,EC - UNIVERSAL Cinema West,https://iptv-epg.org/images/y6AFshRWSeRZk7YZ1tDkQB8Mh6-WA4rc4bNJ9qUhLecsJEWEO9_jRIpfk2cb1oiRq_0vbAyIpPsM909zuu4vaaHAzlPNBIsWyEzFlfaTQdgmGh7Fdp40rb355Xzn
+UniversalComedy.ec,EC - Universal Comedy,https://iptv-epg.org/images/QnrSA4cpvb03a7ZlH2_Kn6uTetgp4q3-at7AsV6xXb7syJ02RSn6bRv-u9vSIqt0eFaOfLN5nRTwqzgIRYI1jZbIiHJvziB328pYlaL5jWpwVWWatguc2dA
+UniversalCrime.ec,EC - Universal Crime,https://iptv-epg.org/images/susTq3Nd6PxQkP4xIy2tlItB7xobrKpi8ziBWhxkwMlPf_6TPCfIHMaEmaJa4nHzFDG3uFhB4K3_-Ye1Scrnf0NmAWQlYRyUO_tieHbHpmg0ip615Ti6pQ
+UniversalCrimeOeste.ec,EC - Universal Crime Oeste,https://iptv-epg.org/images/GAELcA9DOr5gZfk_YDO9-Qj79cC5KQAH8KWVls25O_5_IM5orszOTyXp0R78hgVfEPo8_9tkNFhJLZQFrsMzGcy9UDejLEwwS_ChidQWXHGDyvcC-KQyS1uEi92r
+UniversalPremiere.ec,EC - Universal Premiere,https://iptv-epg.org/images/Q9PTizgnXWS3EZ7stpafraEPb3syGhnGljOkjRMjIt6IDNWRysFA87KtYyNo4wjJZhEZqykVItqTUMrJlOOKdflUw7zU8OoMfkUS1uyEM8ezfGX8b6SPluPv0g
+UniversalPremiereOeste.ec,EC - Universal Premiere Oeste,https://iptv-epg.org/images/5uSnIoV7ZXJkQNuFvutWt75Vkhk9TA9dMlxIEanzWRpReanYxYf_4TUlbnyDxn-AlsYhmJNVe59pd5PEbWImFlxHQvcWV9e7yTisEPBlPnDUARTiivpx3UWFHfzfSTZY
+UniversalReality.ec,EC - Universal Reality,https://iptv-epg.org/images/Zztg6bn6mrydTWP5XDW0tvAGjqsalMHHdst_aP-KHw9by_AtpIOsdH5gPx9vuSIMPr1PNE6EsNPr38R8RlVsDUZnGZ1RTkstJy1IsFrkI3PoAhSLWxj-q9NS
+VePlusTV.ec,EC - Ve Plus TV,https://iptv-epg.org/images/0OZml1vUTSrHEPM07x1T2bYh9HIqkQbudmoRnWVpuMCypCwTUtBGRfgNzF-peLRCFHlIP9G10UAY79kSzvMGClTjcFX1UGpZBde4I0o7Sz5SoQ
+WarnerChannelAndes.ec,EC - Warner Channel Andes,https://iptv-epg.org/images/j064TcED-jSdYxUpJYLUF489X8L6iLP5nVOPXSFbt4ZEvJvXsbuw_AJk10Mk25pKlOdgywIXtcBhUdwiwE_txu1heTPf01JGOqsBEZmJhW9V_iuZk8c9L7SORW8
+Universal Cinema,Universal Cinema,https://iptv-epg.org/images/Fq0FEvqjoBX1l0lh38_9b202DmqCi6qUbc0GoegG6pLYpktfktLB8Rh85Zl7HNhvWojC2cGpScw_NGHkwvpuCTz94ncx62b0ulY-jiTHNaAcUbcAuRrF

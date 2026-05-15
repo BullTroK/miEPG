@@ -1,85 +1,85 @@
 # Fuente: https://iptv-epg.org/files/epg-cr.xml
-AdrenalinaSportsNetwork.cr,CR - Adrenalina Sports Network,https://iptv-epg.org/logos/Costa_Rica/AdrenalinaSportsNetwork.cr.png
-AgrotendenciaTV.cr,CR - Agrotendencia TV,https://iptv-epg.org/logos/Costa_Rica/AgrotendenciaTV.cr.png
-Antena3.cr,CR - Antena 3,https://iptv-epg.org/logos/Costa_Rica/Antena3.cr.png
-BabyTV.cr,CR - Baby TV,https://iptv-epg.org/logos/Costa_Rica/BabyTV.cr.png
-BBCWorldNews.cr,CR - BBC World News,https://iptv-epg.org/logos/Costa_Rica/BBCWorldNews.cr.png
-BitMe.cr,CR - BitMe,https://iptv-epg.org/logos/Costa_Rica/BitMe.cr.png
-Bloomberg.cr,CR - Bloomberg,https://iptv-epg.org/logos/Costa_Rica/Bloomberg.cr.png
-Cablenoticias.cr,CR - Cablenoticias,https://iptv-epg.org/logos/Costa_Rica/Cablenoticias.cr.png
-Canal4.cr,CR - Canal 4,https://iptv-epg.org/logos/Costa_Rica/Canal4.cr.png
-Canal6.cr,CR - Canal 6,https://iptv-epg.org/logos/Costa_Rica/Canal6.cr.png
+AdrenalinaSportsNetwork.cr,CR - Adrenalina Sports Network,https://iptv-epg.org/images/l0sKp-QsKHeMCBjZcDJ0Prn89QF7vsQ0UM4Ji1EyEIQAesQq-VXb8LemsMOHnsh7IwzBMHRm0YVsh3hJ8rLeuaCThMGaFp3d6UBZvS9Sf8tW4MKiYpqcPab9xNTI5JcY3yHGMQ
+AgrotendenciaTV.cr,CR - Agrotendencia TV,https://iptv-epg.org/images/klXxnENJ00V5ASbN5RAdc5toOngLc0V9bWKM0yb0_gH0azHccNtws8uLJDzRDAvzg1P0m66kQk_-9vJdyDVh0XEK1aoMl9P_Uz0fxk1CarN2vp8pBPUvGCALEr4
+Antena3.cr,CR - Antena 3,https://iptv-epg.org/images/w_PQkBXajyb2goOkHM3mnUBmpIog8q5PYo4W8GXZVAv3nuFRYXcU_h4IoniRHjZPIT5fe6pT6h_csXlropQ9lM6Vb1k4MkqXf0YazhX998f6_WtB
+BabyTV.cr,CR - Baby TV,https://iptv-epg.org/images/geRyRitO9Q0CmC4cnPKaU4nv5QmHNxNCv0oNmASeuHtzNaRPaYT_PsilfBwPJom8t2pu-DbG9UlBRe_fC2G45Xw2CyOJlJMVQHjofMK_iY5K5KU
+BBCWorldNews.cr,CR - BBC World News,https://iptv-epg.org/images/I_e5XE-AuLTp1WUJMI863_zcmupDfg0ebPF96TUBFdkHheKDcOPdKfs8l5GMmQfXBh1WgRbPodWg5-52SqNp2rU9FYsuuTQpJ-INBjKAEwZWyZkV7xLMXhY
+BitMe.cr,CR - BitMe,https://iptv-epg.org/images/iSdEogF-RuMUCsIpYqsZaYrt1-9ycuf-6m2MQJL64rpmhBxx9OtEP3AQR1jIOWDduwcwdyKNf-z1nZqLkkbJhgKbg7FMrifoBxPVtnfXrluiww
+Bloomberg.cr,CR - Bloomberg,https://iptv-epg.org/images/9KxHGDFNbS9ySlJpwTFI06iQP5KE35_UGhz9o5GgUOe8QLT43QKBL-cquFUSGoFqYVEXVcTnhsFThykP7l1sDW4VpJ3I3H4qvH83W1gmZsrfKEC2Xas
+Cablenoticias.cr,CR - Cablenoticias,https://iptv-epg.org/images/PhD2ioIuFLdGJufMFhTscmNOxsHhefR4KruGDMi2APBiK1iU7_Uh2VJCuAEvYWFffBxD3ZDoP-tdH6uqpK6rYEUhr6lA1tWDkdG9jX7U-UMgPr9F2Ejo9Rvv
+Canal4.cr,CR - Canal 4,https://iptv-epg.org/images/UmLCPXCx0N-VGB6VkJMi1N08HVwk_5a8KcZhmd43435UuxiLbUHRetQeG75-42fmSQqV9lbhZ9PSZ60SwC0KdCrycslL5ahjEeUAd77Z9C7Xbi4
+Canal6.cr,CR - Canal 6,https://iptv-epg.org/images/XUEgeSCrN8WaNHHBHN3mqyVJu5Rx85LoZRBJ6HhayxbfcQIicBIFsVsBNn56yUi6dXZbErpRqKDNM7NnRO8t-umCIFLpwLoSJT-yung5RiKzpAY
 Canal8.cr,CR - Canal 8,
-Canal11.cr,CR - Canal 11,https://iptv-epg.org/logos/Costa_Rica/Canal11.cr.png
-Canal13.cr,CR - Canal 13,https://iptv-epg.org/logos/Costa_Rica/Canal13.cr.png
-CaracolInternacional.cr,CR - Caracol Internacional,https://iptv-epg.org/logos/Costa_Rica/CaracolInternacional.cr.png
+Canal11.cr,CR - Canal 11,https://iptv-epg.org/images/lPZgiI0ZYwXcsJ78SbB_yzjUpEK5aOf-ZT7pOAHEn0nSBwrSaOgMXRjcHlL-aYql2jGvv9wfLGQZhmHcoRvFqVzus11FZjaKG-6nU3JhB7lV45Xc
+Canal13.cr,CR - Canal 13,https://iptv-epg.org/images/EqJG4jdmnljf53tUX0NntBB7e7Ov5PSdeO1E01B0YxBz3dFeXkxgcxlbBDYaJ6TY3-jXWpyApDzYwBFBmgJCf6UZKf3HemqhN1f8eJKF5QwMsFld
+CaracolInternacional.cr,CR - Caracol Internacional,https://iptv-epg.org/images/ySQEPEw_6oAWjummwi7UUy3ERgOgU3Z_f824kwf6KO-VpHst-lm2gA43QOw35Ox5xM0g-uU4kFy9RSf6QWbASlOk5NjN9m5trmAejpMt6miuOwX46wenrBYXwzqz6gYXig
 Cinema.cr,CR - Cinema,
-Cinema+.cr,CR - Cinema +,https://iptv-epg.org/logos/Costa_Rica/Cinema%2B.cr.png
-CinemaPlatino.cr,CR - Cinema Platino,https://iptv-epg.org/logos/Costa_Rica/CinemaPlatino.cr.png
-Clic.cr,CR - Clic,https://iptv-epg.org/logos/Costa_Rica/Clic.cr.png
-CNN.cr,CR - CNN,https://iptv-epg.org/logos/Costa_Rica/CNN.cr.png
-CNNInternacional.cr,CR - CNN Internacional,https://iptv-epg.org/logos/Costa_Rica/CNNInternacional.cr.png
+Cinema+.cr,CR - Cinema +,https://iptv-epg.org/images/-y0qwa7PZCB81uNHM2IgOYtartCSJno701AD-PsCVsX9Li9AlwPPuz_OWk_aRPO94M273VRGmd9sDW6OZTWnEV4Njsf280Ye5E1hy3-4mNLsJEg0FuQ
+CinemaPlatino.cr,CR - Cinema Platino,https://iptv-epg.org/images/uYtgldrHeLiA0OmeTXBnlLbj6e_3PQ0vNz68FdoSDtcFgqQPOBj-uuO2HDdrWUYQXAwVsKRKXu_Xb_NMD4oySa6M9QITmQyBpHEMsk8LeFau7whVCEV8gADf
+Clic.cr,CR - Clic,https://iptv-epg.org/images/96XyF6hnUDkla0TbeMM_m_kNtZQyaiDHsnXJVtBct6nWiahEAn13H1pyKiEpeAP-e8Mp3yUCsNfKJEtngTFnLncsX3qRS6dfRHzHL5oFr8Wt
+CNN.cr,CR - CNN,https://iptv-epg.org/images/0U4X56gaFTjIhHr9nJd0493Isqe3YA0wPc2bCGg2NiLf7GbhOghVlcxn2X4Df-2Pg9_7myRgSSSPzhPI_o7jQDrj-wU6AFbhZDCPsm3t7pw
+CNNInternacional.cr,CR - CNN Internacional,https://iptv-epg.org/images/7LTdq4r1fGc1uw3FJacdVZNwTQaZC_aD6I-PN8fNrd63mWw7-CKk86PsDgLKdgTPwTeDdjMcbXbhFnKYfr5gclGtZ-QULDpsH_j24frVadaldTxaHpaP0UDZKNxL
 DePelícula.cr,CR - De Película,
-DeutscheWelle.cr,CR - Deutsche Welle,https://iptv-epg.org/logos/Costa_Rica/DeutscheWelle.cr.png
-DHE.cr,CR - DHE,https://iptv-epg.org/logos/Costa_Rica/DHE.cr.png
-DiscoveryScience.cr,CR - Discovery Science,https://iptv-epg.org/logos/Costa_Rica/DiscoveryScience.cr.png
-DiscoveryTurbo.cr,CR - Discovery Turbo,https://iptv-epg.org/logos/Costa_Rica/DiscoveryTurbo.cr.png
-DisneyJunior.cr,CR - Disney Junior,https://iptv-epg.org/logos/Costa_Rica/DisneyJunior.cr.png
-DistritoComedia.cr,CR - Distrito Comedia,https://iptv-epg.org/logos/Costa_Rica/DistritoComedia.cr.png
-DW.cr,CR - DW,https://iptv-epg.org/logos/Costa_Rica/DW.cr.png
-Elgourmet.cr,CR - Elgourmet,https://iptv-epg.org/logos/Costa_Rica/Elgourmet.cr.png
-Enlace.cr,CR - Enlace,https://iptv-epg.org/logos/Costa_Rica/Enlace.cr.png
-ESNETV.cr,CR - ESNE TV,https://iptv-epg.org/logos/Costa_Rica/ESNETV.cr.png
-Euronews.cr,CR - Euronews,https://iptv-epg.org/logos/Costa_Rica/Euronews.cr.png
-EWTN.cr,CR - EWTN,https://iptv-epg.org/logos/Costa_Rica/EWTN.cr.png
-ExaTV.cr,CR - Exa TV,https://iptv-epg.org/logos/Costa_Rica/ExaTV.cr.png
-FilmAndArts.cr,CR - Film &amp; Arts,https://iptv-epg.org/logos/Costa_Rica/FilmAndArts.cr.png
-FoxNews.cr,CR - Fox News,https://iptv-epg.org/logos/Costa_Rica/FoxNews.cr.png
-FUTV.cr,CR - FUTV,https://iptv-epg.org/logos/Costa_Rica/FUTV.cr.png
-GolTVEstadosUnidos.cr,CR - Gol TV Estados Unidos,https://iptv-epg.org/logos/Costa_Rica/GolTVEstadosUnidos.cr.png
-GoldenEdge.cr,CR - Golden Edge,https://iptv-epg.org/logos/Costa_Rica/GoldenEdge.cr.png
-GoldenPremier.cr,CR - Golden Premier,https://iptv-epg.org/logos/Costa_Rica/GoldenPremier.cr.png
-GoldenPremier2.cr,CR - Golden Premier 2,https://iptv-epg.org/logos/Costa_Rica/GoldenPremier2.cr.png
-GolfChannel.cr,CR - Golf Channel,https://iptv-epg.org/logos/Costa_Rica/GolfChannel.cr.png
-GolTV.cr,CR - GolTV,https://iptv-epg.org/logos/Costa_Rica/GolTV.cr.png
-HBO.cr,CR - HBO,https://iptv-epg.org/logos/Costa_Rica/HBO.cr.png
-HBO2.cr,CR - HBO 2,https://iptv-epg.org/logos/Costa_Rica/HBO2.cr.png
-HBOFamily.cr,CR - HBO Family,https://iptv-epg.org/logos/Costa_Rica/HBOFamily.cr.png
-HBOMundi.cr,CR - HBO Mundi,https://iptv-epg.org/logos/Costa_Rica/HBOMundi.cr.png
-HBOPop.cr,CR - HBO Pop,https://iptv-epg.org/logos/Costa_Rica/HBOPop.cr.png
-HBOSignature.cr,CR - HBO Signature,https://iptv-epg.org/logos/Costa_Rica/HBOSignature.cr.png
-HBOXtreme.cr,CR - HBO Xtreme,https://iptv-epg.org/logos/Costa_Rica/HBOXtreme.cr.png
-HLN.cr,CR - HLN,https://iptv-epg.org/logos/Costa_Rica/HLN.cr.png
-HTV.cr,CR - HTV,https://iptv-epg.org/logos/Costa_Rica/HTV.cr.png
-LasEstrellas.cr,CR - Las Estrellas,https://iptv-epg.org/logos/Costa_Rica/LasEstrellas.cr.png
-MTV00s.cr,CR - MTV 00s,https://iptv-epg.org/logos/Costa_Rica/MTV00s.cr.png
-MTV80s.cr,CR - MTV 80s,https://iptv-epg.org/logos/Costa_Rica/MTV80s.cr.png
-MasChic.cr,CR - Más Chic,https://iptv-epg.org/logos/Costa_Rica/MasChic.cr.png
-NFLNetwork.cr,CR - NFL Network,https://iptv-epg.org/logos/Costa_Rica/NFLNetwork.cr.png
-NHKWorld.cr,CR - NHK World,https://iptv-epg.org/logos/Costa_Rica/NHKWorld.cr.png
-NickMusic.cr,CR - NickMusic,https://iptv-epg.org/logos/Costa_Rica/NickMusic.cr.png
-Panico.cr,CR - Pánico,https://iptv-epg.org/logos/Costa_Rica/Panico.cr.png
-RAIInternational.cr,CR - RAI International,https://iptv-epg.org/logos/Costa_Rica/RAIInternational.cr.png
-RCNNuestraTele(Internacional).cr,CR - RCN Nuestra Tele (Internacional),https://iptv-epg.org/logos/Costa_Rica/RCNNuestraTele%28Internacional%29.cr.png
-TCM.cr,CR - TCM,https://iptv-epg.org/logos/Costa_Rica/TCM.cr.png
-TelefeInternacional.cr,CR - Telefe Internacional,https://iptv-epg.org/logos/Costa_Rica/TelefeInternacional.cr.png
-Telehit.cr,CR - Telehit,https://iptv-epg.org/logos/Costa_Rica/Telehit.cr.png
+DeutscheWelle.cr,CR - Deutsche Welle,https://iptv-epg.org/images/OnDFAWtUS_C-q0BCCtnaUUJ7sLP1Ny7-QzkLYZrq5b1g_hV9rCAO3XYsG0ZOYfoPOksyYzahOEmMHcfad9ubqNjjRsB-1yL3hxl1odWPBjiErP-UncqrMYbx
+DHE.cr,CR - DHE,https://iptv-epg.org/images/c1sXB2YFF_Bu_Z3hqjhXTwCbtQOGVasSXc52rNCp24_V34Rh7D53tMEMSZldVJ0n3Fe71HSLybCeSn9DLfSipzfdFbMA6SqXIfrADNSMsCI
+DiscoveryScience.cr,CR - Discovery Science,https://iptv-epg.org/images/N-2HpMFAe-7TXDRJXtpyukawlOeDLdyqEyuLIifXuf6jc0_JNXUvJlUBRPh67b__AFcLPexxOy2iM7O6VgOZFjuGpFHaGGW9RaJcCIc7kCPpTb2oJAwThv6_Pxpo
+DiscoveryTurbo.cr,CR - Discovery Turbo,https://iptv-epg.org/images/ajkEilgRNmpg6MJSD020nZTuFE8d8RaQ7MjqyrAcUm_U6_VHmCnG2347jdwUiN8v7TtYK-E5j7NBdV8LGXNqBYWneIAwU5o0lTuq1IoHTEc9Q8jDT5K7cR_kUA
+DisneyJunior.cr,CR - Disney Junior,https://iptv-epg.org/images/S-L4R0jmsNbI_p2gx2Dith0DD5x1A_BNJuFWJX8sxF28dkltS4bbt1Vp1aAU4A1kJWbkB2L3f5u2cKe_B-FJcycDgDTYHAuxFf7Q-PvUaMyCHGiBAgC2BrI
+DistritoComedia.cr,CR - Distrito Comedia,https://iptv-epg.org/images/lsNB-kmJ8RcMQn1niBT40RMR7diWaDEbOpvcMp-w7TLs_4ft-kvZGLBsUTjUYOBb5ghtGU6fAiGwbctv_YmrxQCObbdBMQHdUyHNxpbcRgrJo0-Knjs60XXLQ6M
+DW.cr,CR - DW,https://iptv-epg.org/images/OZgwr3iWPJNOqkKQ4RyySywwFqDyZ3nRqREFiW30567HHrcaIf8hliS5605ApUcdn7JE6KoqDHtYK3LHA33u6FIwOuX9k_aHWf7paNxmxg
+Elgourmet.cr,CR - Elgourmet,https://iptv-epg.org/images/jZ6ntX-gGQDDYcYjW3QgibMqBjiOikdB7y6Uyja8jucHhA-RMZxXkqLPvRLHSlbgfZ8MQf_AHI5WuS9l8ybaLqRhKLctBnluEPCwZXv4_BhKvk2jPsk
+Enlace.cr,CR - Enlace,https://iptv-epg.org/images/i06CeHoXeHe8rGNctsif4eaE6U923dzWytjj1unn8i0lETyAP0K2SNvH1pJYteeOoiJDvW_61J5-rLM8UloF0-Icjoi10gXf6DshNTt99tQaiQg
+ESNETV.cr,CR - ESNE TV,https://iptv-epg.org/images/ByYr4iuF3n7QqroP-9ZiWiIuH4sqnUzL3MEIjeq3bfTV17qFX8zSnFglKYwFrEOfyoleZtb9z6XUdbzJMg5jCCwGPcm-t97jHnpOKDZaB2eewcc
+Euronews.cr,CR - Euronews,https://iptv-epg.org/images/oANaveoFdtR_aYIZhoeAltSef6Igcp6tS8r05nm6KeIZJMr8YAg6SpMuxybTWTNUrfpqo15nsxVQxUqnKJ5Vjs0EkyCuaDPVZIH--pntgb1LA-lp5Q
+EWTN.cr,CR - EWTN,https://iptv-epg.org/images/d5AjT67xGAWmKShGB3_wdoPd8SUVOAgn2CPx3vqfW6MXtAZe4hKzf6JkvB2nEaicbDYfIMj5kGM_9MsN0PzGZRPUSCYrx3W-yYzaQx7wBL5H
+ExaTV.cr,CR - Exa TV,https://iptv-epg.org/images/MEytPKe0nOGBg-bqGgP34KRB_SA35WQ82QMoXlkSB8r_RNYpZpjRpuXk-gohlU7sQ4ixSTRFnpEspccs9MUqnnkXUcvVHQZeNQQSzDKTbchOlg
+FilmAndArts.cr,CR - Film &amp; Arts,https://iptv-epg.org/images/GSxGelgSndDtHbvDE3udVRSsAdCYLgo64xdI0vlsz5UPTUGGBn9PaqFxlBIO6sKFCOcAL8pvEP9GKBuz0zm5IVpGYEQ6fSeIQYoiEYEdqxCUOXs1EzPNYw
+FoxNews.cr,CR - Fox News,https://iptv-epg.org/images/cm68RtsW_E2S_boSE6nWci5FfuRb29892i7Lq8FAa_XLwDVCUZaEd3aDLYgazqDGh2jnkeoUUBqMcu3AWopP63Oxl3QPxiglRSXVG-Ay5Zjdxn0_
+FUTV.cr,CR - FUTV,https://iptv-epg.org/images/NrijLFpFt8PJJNcXGgIhpRdxx5LGHcp4hQk-I3Zd3oUFnPSwYmpRmjOHDnQEFEQiB4ZlzcbsoJ4SWlt0a9xeuxpthAqkxgvdns33BRjTrLfz
+GolTVEstadosUnidos.cr,CR - Gol TV Estados Unidos,https://iptv-epg.org/images/AxoCuME4L5yfqbDzoZwUmJWTT1VKj8r6btU84gt2z5iIipde0EgX60uL9dN2XcraxxiW7WGtKmjY6OK66afbY4HwaESnFT1rZl9cH9osfoHpv_t_ED-la8sQXx_3Dus
+GoldenEdge.cr,CR - Golden Edge,https://iptv-epg.org/images/8pT8goqFTwyi_uLaBOLy71wi5CY4_ST_DRtAEhulxThAmg9tTdofkkgonHLr5YCdyKO0Z8isZX46a3rJBfn7un8Z-PjJDSVRJlrvofcEhoBWiwxwYqgm
+GoldenPremier.cr,CR - Golden Premier,https://iptv-epg.org/images/OIUQL4aE4r9TMR66pG_YZvzgG1J32P7PYgPnfMUSKATEeF7z8IJUZCqpL67lGQ2XCOIVwm_Gxn4KxRAe6kx40d_iAA5G52zwgvAiLGmDlWnV4ooLcAUm-fXp
+GoldenPremier2.cr,CR - Golden Premier 2,https://iptv-epg.org/images/MNENyb2ZxS3e2FgpfgPW950DfxRJifZoX0qY00bJLOLoJwk5PzjnBfbFxwan3bnOKAjOhI4RmzZzJ75zvglwvboPsl4pwi6eOsDsCeGJonCHkxhG_sxkz8VguA
+GolfChannel.cr,CR - Golf Channel,https://iptv-epg.org/images/3WFIfxHdfR73gZK6avOktvLeP2aZT3Fww8kfJMkBEcxr0XbhontoDgDdKOSdcqzLS-P83pXp30_IdwlNMcHjlK81jocTegyD-WCTCYQfsemoQitE1Rp-sQ
+GolTV.cr,CR - GolTV,https://iptv-epg.org/images/y8IVvQxF77oA_bOUo6_LIylmh2V-PfLf4K7-L0y0A69AWtxg0HteSxU_2v6Ed3EuMQ69Dv6Cx9gz5ZqZKzTmpRLuP7A39YFh8q7EQxRmqmQcEw
+HBO.cr,CR - HBO,https://iptv-epg.org/images/ocrIuB89H8lt_fHNRfmk5_q5JBU1GpvvEDTXZuGRCKLQlOSMnQZp7upANRCHzOBldMgnnQ7GKJd0P_fciKb4E0dH67SU3JBDRDH4k31QmPI
+HBO2.cr,CR - HBO 2,https://iptv-epg.org/images/S6Dpwwx5yS1yHbznTUOW17xA17O64v2eIVJifNSn1hzcd7A51HYpHBloI3J9ePR7zGfuuzuQwQYLdP9Ave6WnTMy5TdiCdLGefE0ft6HG4bK
+HBOFamily.cr,CR - HBO Family,https://iptv-epg.org/images/JyNvEuBxSYrtZSMiQhNz-5_g7Ku_aQE3rVud0a_XrO0wTKTADIwk3wr5RwGO9qWPd_r-Dmz_Jl3fGl6UWVICITwbBcUnyiCF7pfVxKTRU5GApbw3AF0
+HBOMundi.cr,CR - HBO Mundi,https://iptv-epg.org/images/IFqpVl_IZuVQFesEOwOsbDQmlKqRtnUEs2ik7ODFa66RsTS77EUYGPAgepa0sM3yBxQBBjR4GG-ZtqRCSHAkKPZx-5ChUC_BzqScj-BJbe7K23Q6yQ
+HBOPop.cr,CR - HBO Pop,https://iptv-epg.org/images/daxIqy3Ncr1O5yHHHMzJ5YXBTrOxWlSnOw4BgknFdOoFFjgmMbZ8WyR_a-Uf2PVa_sE1snNq4jiZdwnzUpG5rGjPmfgS_CJwGThWt4ashWL7PEA
+HBOSignature.cr,CR - HBO Signature,https://iptv-epg.org/images/45ghyiNeP0_WohLJpnJd_v-VI5GJ8PxTL-5QkZ3u4NkWbBLHEWKfVJV1owidjAY3goaxDvaLF4xotE6rW8GNVHjvzOWGoEhal8z4MWq5jIb3tNlB5R5Hg0g
+HBOXtreme.cr,CR - HBO Xtreme,https://iptv-epg.org/images/rNzjoYluxsdKjDan05P80e_q5-tssm1IonS8pjKnyAe2qu1XirRRg-WzxtzNDue_lsO0LsroLbKzfdnA_ksXK0BBorBGcmib4lssP5HHqqVD0cO4AR8
+HLN.cr,CR - HLN,https://iptv-epg.org/images/zJ5Fu0yfmBpaI2Lf4iD2sWTH7TPUscO4113wBqMZaXuE9mIBoSPQgcxJ9qhPJQlEtGEHCw0DhYST5_k9IZ799X_H9nchhw69bgRZonblUYI
+HTV.cr,CR - HTV,https://iptv-epg.org/images/5Xk-Jxc3_ja2LNn6aj9Vb9fyuyEbnY6zJ5sCRvc-2Lh14T-U-K0GR2HfU67jmdvgBP-Qsrd0tiVLttNpKdGPCt0W8EK-sLNNVze9kOvPfxA
+LasEstrellas.cr,CR - Las Estrellas,https://iptv-epg.org/images/-Zh-wVQn6IVRWb-ClkUTfOMswqLMpc2r-hAChfP0hw8qcwcZrJxIsWWUW5FREk8s5A6fng2gSCcIxzSQlIroIJiXTR0F4T6pIQsIuYe9-h2vYBREhkZDW84
+MTV00s.cr,CR - MTV 00s,https://iptv-epg.org/images/H0bmocKxdcZPWMgJsJmFLN9wESqgrxSrrZxE_mPwghgxeDB1CddkiVBzA1hocsf8cvpe-2YSc82fbX_fMSn8VktXrMxSL_AxEhu8XUT7uupFuo4
+MTV80s.cr,CR - MTV 80s,https://iptv-epg.org/images/mKUicwJ8XqTxVYP8idk3zs24oAh1MIPk3zhHTH8fJomY46kSJEqpAUvdlUhB1Vs_si8MpopS4q4VH-Mj9kPPCJzxFFQb7uQrKg8xYK9FWNnFAGw
+MasChic.cr,CR - Más Chic,https://iptv-epg.org/images/OjPKlko_sFt06jXbKePeYdo7ZKZBiSqNGfqA5TGQPMMrpRHZelmGEK4BoiQ9IPtgPrVxrUTXt82xvrDzGBM6lXDuTtvm6f9kHXqYRbVd6IvVFihO
+NFLNetwork.cr,CR - NFL Network,https://iptv-epg.org/images/Fn4ODcTQ27wZulp_pL1ck5YrRjam1MgnKKB4mnlsjcyqfPzSTwfHn8PtT7UaP0EYu4OXRYNR3wk9emWfcJPQkM1mtf1r31HIfpJ5cO0m7cG4fbr1ZghY
+NHKWorld.cr,CR - NHK World,https://iptv-epg.org/images/kqGJwfkejSaYbskcUOY9sTGOxEYTd5ItDXrOVjjek3CwcdP6bwj6vzGJ3DyH3lSJ6TWzlj6lQ1AYw-hwwl3azrhV3qS0hYVicZ-8iVQvqpXx2bgjTg
+NickMusic.cr,CR - NickMusic,https://iptv-epg.org/images/rZVoJj1S1SV7qjo9Q21w_l9z4V-L_T8T9ukkPrBABWiD9UaIjPtJewTscoiOCIihfu6wHNp9fY_jbXdp7XhclCedidXX-YXg9zhAhONQhrvNLU7ztjI
+Panico.cr,CR - Pánico,https://iptv-epg.org/images/UoJv__m0hNJ7EoDL0jwGXSMLfuTlQ2iuUyph7AGD1eWKwtSjND4YjXRFE0o15KsUeeyN4CfmFIPMIExj86hWyS8XQbqOzJdZGOjwrSzxJlHk1mQ
+RAIInternational.cr,CR - RAI International,https://iptv-epg.org/images/2GDejnytBx-WMpEW_u7K5-WZxzAQd7EpUdey3CJO4x_bN76GDwvE3qBeX6dVJrxms7QOdgOjRTt1oCv431hElcAdfZl1L8TyC1JcPuPhwoj0MlkjQO4hGIoe9IMy
+RCNNuestraTele(Internacional).cr,CR - RCN Nuestra Tele (Internacional),https://iptv-epg.org/images/LdvbRj36Hm_rQ8uajShfQJGU44GjbEA47EzoFalWfWTAHPVtLj_P1PUqIcIcCck_05vUBxp_W5rPxXQy0bqlKLZpOfCeFNEjmw2v3RrchHQGCibaOaWlFdEySsdfTIMalB63z5q1VAy0my-dbSM
+TCM.cr,CR - TCM,https://iptv-epg.org/images/Ryy2vgujcA4QkVL7xn943jM8g-poaZ_SgIIqRtV82b9cuu74bC3tiVOMDuBnGrPvFBN8CPYPPPZ_7VcaNlmFSA7BFxXxXtpYDz3R5msGQhU
+TelefeInternacional.cr,CR - Telefe Internacional,https://iptv-epg.org/images/9-gEAbj3tsloGMsGKy_U0Q0Arj5sPyAMUx8vG9UaTcnBTZXsTSzAFWHi8Rd_-wN5U92g8aHqCoS0JgXpcqJazsFtX6hjCr1bhxig6pVFK7h12uJ5cgTgc5yimcquF9Em
+Telehit.cr,CR - Telehit,https://iptv-epg.org/images/FUNk0kvTHYp56oiAn-7PdfXkpWsBYICR6Kt1xpdupRcF2YmOHXxYXJ46H_ifz3Y7CmSg4nv45NjCGQsa1YaNC8ffyY78IqCmNpA89k5WJfRe9HLm
 TelehitMúsica.cr,CR - Telehit Música,
-Telenostalgia.cr,CR - Telenostalgia,https://iptv-epg.org/logos/Costa_Rica/Telenostalgia.cr.png
-TigoSport.cr,CR - Tigo Sport,https://iptv-epg.org/logos/Costa_Rica/TigoSport.cr.png
-TLNovelas.cr,CR - TLNovelas,https://iptv-epg.org/logos/Costa_Rica/TLNovelas.cr.png
-TNTNovelas.cr,CR - TNT Novelas,https://iptv-epg.org/logos/Costa_Rica/TNTNovelas.cr.png
-Tooncast.cr,CR - Tooncast,https://iptv-epg.org/logos/Costa_Rica/Tooncast.cr.png
-TUDN.cr,CR - TUDN,https://iptv-epg.org/logos/Costa_Rica/TUDN.cr.png
-TV5MONDE.cr,CR - TV5MONDE,https://iptv-epg.org/logos/Costa_Rica/TV5MONDE.cr.png
+Telenostalgia.cr,CR - Telenostalgia,https://iptv-epg.org/images/oqct8aK3clGj1TeEUMFy8ADDaKmwJm2LFTp6qUTSYQksCqxvIMkjkJUz9mpdamPXKSDW1LP-HeM5vJExZxU-RLB1gpNmusUeM7g3MssgO4LCK9imZOMavoHA
+TigoSport.cr,CR - Tigo Sport,https://iptv-epg.org/images/n0e8532Q36z_S6J0qRuTQgu_HqgUp4164CgYTl12t283OjPJTmBK0Ytc5HIgcVvcO9foExXXvJt3uMRsetRS-ANjZJn97yayPy6rRWmB-6Q3urRsb64
+TLNovelas.cr,CR - TLNovelas,https://iptv-epg.org/images/MJxLTqw5uV_qMLpyj2PQ4wx--Fg9F6PAqwJh04MWjCediJIRLHhFk9g1hieonvMe6jx7Omlpm0jQrlaEOycYag1MtIBORCuhWxK6-Ffcx2dDxqhBa9Y
+TNTNovelas.cr,CR - TNT Novelas,https://iptv-epg.org/images/phyCij_QOuU4q2cS6bFZPWAPQoyoiu0umrOLpvKiVtJCYjdUvOuzqy7lt9SBxGAp2cHsCVx87thqC9d7BU5Lr0bv0DTxEJLzM_yPchE-Lb5VSIwAtrpv
+Tooncast.cr,CR - Tooncast,https://iptv-epg.org/images/-enWJP7sxr3nTvcdMBj0SGhgK9wkGve4BupEouuaxoErdvOnNy9bwswn5kRHBDFpkXaiSaaVD4WDP9Ec1hV4gC837KRKx1zGbistZ4PurAMVGURX-A
+TUDN.cr,CR - TUDN,https://iptv-epg.org/images/G4l196Ok7bdafl_pr7l47kszAA3q62kcaNF8WBC_XqSU7AisAmOUTcDMzlRSeSK6T73aSBMG3NUqV5E9TKMctW_vM1A1sYZHZJYz0R6rfE4u
+TV5MONDE.cr,CR - TV5MONDE,https://iptv-epg.org/images/7aMHVl5smnRTRJeSEjepRrgJPwN7x0lmlTrNevz9u5YZJ_Gya4gHOAZB4j_oG_SiJjAjKu9IBq2rHGvV90dFduW6z3qZeQJepm0e8e7m0d7qXOrBaA
 TVAgroCentroamérica.cr,CR - TV Agro Centroamérica,
-TVChile.cr,CR - TV Chile,https://iptv-epg.org/logos/Costa_Rica/TVChile.cr.png
-TVGloboInternacional.cr,CR - TV Globo Internacional,https://iptv-epg.org/logos/Costa_Rica/TVGloboInternacional.cr.png
-TVEInternacional.cr,CR - TVE Internacional,https://iptv-epg.org/logos/Costa_Rica/TVEInternacional.cr.png
-TVN-2.cr,CR - TVN-2,https://iptv-epg.org/logos/Costa_Rica/TVN-2.cr.png
-TyCSports.cr,CR - TyC Sports,https://iptv-epg.org/logos/Costa_Rica/TyCSports.cr.png
-Univision.cr,CR - Univision,https://iptv-epg.org/logos/Costa_Rica/Univision.cr.png
-USANetwork.cr,CR - USA Network,https://iptv-epg.org/logos/Costa_Rica/USANetwork.cr.png
-VH1.cr,CR - VH1,https://iptv-epg.org/logos/Costa_Rica/VH1.cr.png
-WOBI.cr,CR - WOBI,https://iptv-epg.org/logos/Costa_Rica/WOBI.cr.png
-HOLATV.cr,CR - ¡HOLA! TV,https://iptv-epg.org/logos/Costa_Rica/HOLATV.cr.png
+TVChile.cr,CR - TV Chile,https://iptv-epg.org/images/Hlpk-dOBmjSCC5j1n_U2_vOWsIgcAef5cokp7jd8qCrcIapmN6259Flnkn7N-1elda3SJxSrr_uaukWXVqrlIwOentnQhA-mgiy2Hq6ty4X7gfLp
+TVGloboInternacional.cr,CR - TV Globo Internacional,https://iptv-epg.org/images/777XJgHcqCJ6SYqAiLmpMPuZ_GcVgcwbX3xAfcQaMIuJKgTmUvFWJaEU1GP-zarHUWKAJzP4hBEQBlTg_i8wa81HAIGY0tnRqmceXrBnt7_JBx_Uiu5b9FJja4XHj4IldA
+TVEInternacional.cr,CR - TVE Internacional,https://iptv-epg.org/images/QjuDT-dtcRGoJKU9m2OsALqhWIdVuJTl2_PqPZnDpTeePl8Zaa2fMNIJWrxVKnzYtBxC_TmcLryC7wcBJUnlS_4PetdYVe1i0KOe-EFngIN9jUQRsP2ez1zb87n_
+TVN-2.cr,CR - TVN-2,https://iptv-epg.org/images/whcP2y1iSD3MaQn4L3kZoFq0mvmXyRVSvHSYEiidMVIEwZDxI8ohr7UBv8g7rgpT3c-G6jquKgZ72ZEdflL3LC38BvJ0gBgQc1YfvCdD4WFDNg
+TyCSports.cr,CR - TyC Sports,https://iptv-epg.org/images/HbS_F3k8ObkEjHtXeLqFmmJqcklq1e-rFRf4c3hpOoWiKBCPBjLemUytVnpSyA_8sfrhA9NNprr9shZQs-DMUvrS0J3VVeVrhhVv7d-5q4wm0eXh1Qo
+Univision.cr,CR - Univision,https://iptv-epg.org/images/nlGlfRbUas5_ONdQAviHYGBTmiPH4gW3S2a59QzaxkNQZawv0v_KopkEAP1YoM-ZtLnFundTtO-eDFIyHRvJSiD5LDIOe3KaNXzyKA9vVQwDoQd-BDE
+USANetwork.cr,CR - USA Network,https://iptv-epg.org/images/8HnlPKcN1abdmYinuBFHF78nhow9YJBPQRpWxEvYahXxO5Trdh3C6WI7Za-5D-liXyiJSgotWT3Ax4cZ9Scl14OAA83-xZyzVb27bqOeoDWBBa0E2kHa
+VH1.cr,CR - VH1,https://iptv-epg.org/images/mKV1IPQsJY8VgI7ZHkl4RJeo59-3sTPGk5Yy2pMX9mz6vJGL1RGkKbbb8ycbostzbe0blrlQ5QpfPaZCgna5Om1jqsSrJyAFUjpGNFlJJCI
+WOBI.cr,CR - WOBI,https://iptv-epg.org/images/LerXIzDnhR6ZVnzPO_9WAzxkFp0Sfy2KCt4FnRpCMxBT6UOgDQ2ZNUxhy9wcQOddc_ITP8fmzOCzrBJjbGiDohwIx2HEf8aZue3Hgu4rciem
+HOLATV.cr,CR - ¡HOLA! TV,https://iptv-epg.org/images/G8d54UcKT2DY-g3go2ll0IBDdfWLSl_mJEc-4W_GSXX9arMJ43d8E_QGy3DmUPHFVki6CSOQR_q_GqfYTOAiVQGfZBRMp9DFdH8hrkDn9tjn3O4

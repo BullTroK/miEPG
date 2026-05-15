@@ -1,98 +1,98 @@
 # Fuente: https://iptv-epg.org/files/epg-do.xml
-AAndE.dr,DR - A&amp;E,https://iptv-epg.org/logos/Dominican_Republic/AAndE.dr.png
-AMC.dr,DR - AMC,https://iptv-epg.org/logos/Dominican_Republic/AMC.dr.png
-AnimalPlanet.dr,DR - Animal Planet,https://iptv-epg.org/logos/Dominican_Republic/AnimalPlanet.dr.png
-Antena3.dr,DR - Antena 3,https://iptv-epg.org/logos/Dominican_Republic/Antena3.dr.png
-AXN.dr,DR - AXN,https://iptv-epg.org/logos/Dominican_Republic/AXN.dr.png
-BabyTV.dr,DR - Baby TV,https://iptv-epg.org/logos/Dominican_Republic/BabyTV.dr.png
-BBCWorldNews.dr,DR - BBC World News,https://iptv-epg.org/logos/Dominican_Republic/BBCWorldNews.dr.png
-BitMe.dr,DR - BitMe,https://iptv-epg.org/logos/Dominican_Republic/BitMe.dr.png
-Canal7.dr,DR - Canal 7,https://iptv-epg.org/logos/Dominican_Republic/Canal7.dr.png
-CaracolInternacional.dr,DR - Caracol Internacional,https://iptv-epg.org/logos/Dominican_Republic/CaracolInternacional.dr.png
-CartoonNetwork.dr,DR - Cartoon Network,https://iptv-epg.org/logos/Dominican_Republic/CartoonNetwork.dr.png
-Cartoonito.dr,DR - Cartoonito,https://iptv-epg.org/logos/Dominican_Republic/Cartoonito.dr.png
-CDN.dr,DR - CDN,https://iptv-epg.org/logos/Dominican_Republic/CDN.dr.png
-CDNDeportes.dr,DR - CDN Deportes,https://iptv-epg.org/logos/Dominican_Republic/CDNDeportes.dr.png
-Cinecanal.dr,DR - Cinecanal,https://iptv-epg.org/logos/Dominican_Republic/Cinecanal.dr.png
-Cinelatino.dr,DR - Cinelatino,https://iptv-epg.org/logos/Dominican_Republic/Cinelatino.dr.png
-Cinemax.dr,DR - Cinemax,https://iptv-epg.org/logos/Dominican_Republic/Cinemax.dr.png
-ClaroTV.dr,DR - Claro TV,https://iptv-epg.org/logos/Dominican_Republic/ClaroTV.dr.png
-CNN.dr,DR - CNN,https://iptv-epg.org/logos/Dominican_Republic/CNN.dr.png
-CNNInternacional.dr,DR - CNN Internacional,https://iptv-epg.org/logos/Dominican_Republic/CNNInternacional.dr.png
-ColorVision.dr,DR - Color Visión,https://iptv-epg.org/logos/Dominican_Republic/ColorVision.dr.png
-ComedyCentral.dr,DR - Comedy Central,https://iptv-epg.org/logos/Dominican_Republic/ComedyCentral.dr.png
-ConcertChannel.dr,DR - Concert Channel,https://iptv-epg.org/logos/Dominican_Republic/ConcertChannel.dr.png
-DePelicula.dr,DR - De Película,https://iptv-epg.org/logos/Dominican_Republic/DePelicula.dr.png
-DHE.dr,DR - DHE,https://iptv-epg.org/logos/Dominican_Republic/DHE.dr.png
-DiscoveryChannel.dr,DR - Discovery Channel,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryChannel.dr.png
-DiscoveryHomeAndHealth.dr,DR - Discovery Home &amp; Health,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryHomeAndHealth.dr.png
-DiscoveryKids.dr,DR - Discovery Kids,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryKids.dr.png
-DiscoveryScience.dr,DR - Discovery Science,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryScience.dr.png
-DiscoveryTheater.dr,DR - Discovery Theater,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryTheater.dr.png
-DiscoveryTurbo.dr,DR - Discovery Turbo,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryTurbo.dr.png
-DiscoveryWorld.dr,DR - Discovery World,https://iptv-epg.org/logos/Dominican_Republic/DiscoveryWorld.dr.png
-DisneyChannel.dr,DR - Disney Channel,https://iptv-epg.org/logos/Dominican_Republic/DisneyChannel.dr.png
-DisneyJunior.dr,DR - Disney Junior,https://iptv-epg.org/logos/Dominican_Republic/DisneyJunior.dr.png
-DistritoComedia.dr,DR - Distrito Comedia,https://iptv-epg.org/logos/Dominican_Republic/DistritoComedia.dr.png
-DW.dr,DR - DW,https://iptv-epg.org/logos/Dominican_Republic/DW.dr.png
-E_EntertainmentTelevision.dr,DR - E! Entertainment Television,https://iptv-epg.org/logos/Dominican_Republic/E_EntertainmentTelevision.dr.png
-Elgourmet.dr,DR - Elgourmet,https://iptv-epg.org/logos/Dominican_Republic/Elgourmet.dr.png
-Enlace.dr,DR - Enlace,https://iptv-epg.org/logos/Dominican_Republic/Enlace.dr.png
-ESPN.dr,DR - ESPN,https://iptv-epg.org/logos/Dominican_Republic/ESPN.dr.png
-ESPN2.dr,DR - ESPN 2,https://iptv-epg.org/logos/Dominican_Republic/ESPN2.dr.png
-ESPN3.dr,DR - ESPN 3,https://iptv-epg.org/logos/Dominican_Republic/ESPN3.dr.png
-ESPN4.dr,DR - ESPN 4,https://iptv-epg.org/logos/Dominican_Republic/ESPN4.dr.png
-EWTN.dr,DR - EWTN,https://iptv-epg.org/logos/Dominican_Republic/EWTN.dr.png
-ExaTV.dr,DR - Exa TV,https://iptv-epg.org/logos/Dominican_Republic/ExaTV.dr.png
-FilmAndArts.dr,DR - Film &amp; Arts,https://iptv-epg.org/logos/Dominican_Republic/FilmAndArts.dr.png
-FoxNews.dr,DR - Fox News,https://iptv-epg.org/logos/Dominican_Republic/FoxNews.dr.png
-FX.dr,DR - FX,https://iptv-epg.org/logos/Dominican_Republic/FX.dr.png
-Golden.dr,DR - Golden,https://iptv-epg.org/logos/Dominican_Republic/Golden.dr.png
-GolfChannel.dr,DR - Golf Channel,https://iptv-epg.org/logos/Dominican_Republic/GolfChannel.dr.png
-History.dr,DR - History,https://iptv-epg.org/logos/Dominican_Republic/History.dr.png
-History2.dr,DR - History 2,https://iptv-epg.org/logos/Dominican_Republic/History2.dr.png
-HLN.dr,DR - HLN,https://iptv-epg.org/logos/Dominican_Republic/HLN.dr.png
-HTV.dr,DR - HTV,https://iptv-epg.org/logos/Dominican_Republic/HTV.dr.png
-InvestigationDiscovery.dr,DR - Investigation Discovery,https://iptv-epg.org/logos/Dominican_Republic/InvestigationDiscovery.dr.png
-LasEstrellas.dr,DR - Las Estrellas,https://iptv-epg.org/logos/Dominican_Republic/LasEstrellas.dr.png
-Lifetime.dr,DR - Lifetime,https://iptv-epg.org/logos/Dominican_Republic/Lifetime.dr.png
-MasChic.dr,DR - Mas Chic,https://iptv-epg.org/logos/Dominican_Republic/MasChic.dr.png
-MTV.dr,DR - MTV,https://iptv-epg.org/logos/Dominican_Republic/MTV.dr.png
-MTV00s.dr,DR - MTV 00s,https://iptv-epg.org/logos/Dominican_Republic/MTV00s.dr.png
-MTVLive.dr,DR - MTV Live,https://iptv-epg.org/logos/Dominican_Republic/MTVLive.dr.png
-Multipremier.dr,DR - Multipremier,https://iptv-epg.org/logos/Dominican_Republic/Multipremier.dr.png
-NationalGeographic.dr,DR - National Geographic,https://iptv-epg.org/logos/Dominican_Republic/NationalGeographic.dr.png
-NickJr.dr,DR - Nick Jr.,https://iptv-epg.org/logos/Dominican_Republic/NickJr.dr.png
-Nickelodeon.dr,DR - Nickelodeon,https://iptv-epg.org/logos/Dominican_Republic/Nickelodeon.dr.png
-ParamountChannel.dr,DR - Paramount Channel,https://iptv-epg.org/logos/Dominican_Republic/ParamountChannel.dr.png
-RAIInternational.dr,DR - RAI International,https://iptv-epg.org/logos/Dominican_Republic/RAIInternational.dr.png
-RCNNovelas.dr,DR - RCN Novelas,https://iptv-epg.org/logos/Dominican_Republic/RCNNovelas.dr.png
-RCNNuestraTele_Internacional.dr,DR - RCN Nuestra Tele (Internacional),https://iptv-epg.org/logos/Dominican_Republic/RCNNuestraTele_Internacional.dr.png
-Sony.dr,DR - Sony,https://iptv-epg.org/logos/Dominican_Republic/Sony.dr.png
-Space.dr,DR - Space,https://iptv-epg.org/logos/Dominican_Republic/Space.dr.png
-StarChannel.dr,DR - Star Channel,https://iptv-epg.org/logos/Dominican_Republic/StarChannel.dr.png
-StudioUniversal.dr,DR - Studio Universal,https://iptv-epg.org/logos/Dominican_Republic/StudioUniversal.dr.png
-TCM.dr,DR - TCM,https://iptv-epg.org/logos/Dominican_Republic/TCM.dr.png
-TeleAntillas.dr,DR - Tele Antillas,https://iptv-epg.org/logos/Dominican_Republic/TeleAntillas.dr.png
-Telecentro.dr,DR - Telecentro,https://iptv-epg.org/logos/Dominican_Republic/Telecentro.dr.png
-Telehit.dr,DR - Telehit,https://iptv-epg.org/logos/Dominican_Republic/Telehit.dr.png
-TelehitMusica.dr,DR - Telehit Música,https://iptv-epg.org/logos/Dominican_Republic/TelehitMusica.dr.png
-Telemicro.dr,DR - Telemicro,https://iptv-epg.org/logos/Dominican_Republic/Telemicro.dr.png
-TelemicroInternacional.dr,DR - Telemicro Internacional,https://iptv-epg.org/logos/Dominican_Republic/TelemicroInternacional.dr.png
-Telemundo.dr,DR - Telemundo,https://iptv-epg.org/logos/Dominican_Republic/Telemundo.dr.png
-Telesistema11.dr,DR - Telesistema 11,https://iptv-epg.org/logos/Dominican_Republic/Telesistema11.dr.png
-TeleUniverso.dr,DR - TeleUniverso,https://iptv-epg.org/logos/Dominican_Republic/TeleUniverso.dr.png
-Teleunion.dr,DR - Teleunión,https://iptv-epg.org/logos/Dominican_Republic/Teleunion.dr.png
-TLC.dr,DR - TLC,https://iptv-epg.org/logos/Dominican_Republic/TLC.dr.png
-TLNovelas.dr,DR - TLNovelas,https://iptv-epg.org/logos/Dominican_Republic/TLNovelas.dr.png
-TNT.dr,DR - TNT,https://iptv-epg.org/logos/Dominican_Republic/TNT.dr.png
-TNTNovelas.dr,DR - TNT Novelas,https://iptv-epg.org/logos/Dominican_Republic/TNTNovelas.dr.png
-TNTSeries.dr,DR - TNT Series,https://iptv-epg.org/logos/Dominican_Republic/TNTSeries.dr.png
-Tooncast.dr,DR - Tooncast,https://iptv-epg.org/logos/Dominican_Republic/Tooncast.dr.png
-TV5MONDE.dr,DR - TV5MONDE,https://iptv-epg.org/logos/Dominican_Republic/TV5MONDE.dr.png
-TVAztecaMundo.dr,DR - TV Azteca Mundo,https://iptv-epg.org/logos/Dominican_Republic/TVAztecaMundo.dr.png
-TVEInternacional.dr,DR - TVE Internacional,https://iptv-epg.org/logos/Dominican_Republic/TVEInternacional.dr.png
-UniversalTV.dr,DR - Universal TV,https://iptv-epg.org/logos/Dominican_Republic/UniversalTV.dr.png
-USANetwork.dr,DR - USA Network,https://iptv-epg.org/logos/Dominican_Republic/USANetwork.dr.png
-VH1.dr,DR - VH1,https://iptv-epg.org/logos/Dominican_Republic/VH1.dr.png
-WarnerTV.dr,DR - Warner TV,https://iptv-epg.org/logos/Dominican_Republic/WarnerTV.dr.png
+AAndE.dr,DR - A&amp;E,https://iptv-epg.org/images/AlfGod042YQYMuLe6AiIpsiVrV9WtTXVQWkpl6UYOFqpYsvtV7onCTawvoz2ET1pQb53UTIh8CLEdQZFSfeAabks8goShFGtYf4of-CiZ5hwqN3J18nCh9yW
+AMC.dr,DR - AMC,https://iptv-epg.org/images/XLxfYrh-eNqDZf-WUQTcrKfU-PWCGqiprhmGbrnYcqwSe-QWIu0ViLayzazkHFwd39WLA8PryMjXt_ZAHoWz4InwdGYoSYcTLHvOQVtyAbyOQgIH-9Kjfw
+AnimalPlanet.dr,DR - Animal Planet,https://iptv-epg.org/images/bD6ly_OrdhSRF0QERXwMYcF0u-c67n8jcm415fE5BwIoWIUGd8BLntdASyX690yyVx0d89FQ54EUVl6h6Lo2BewQPrsg64f7nRA-AvwFmrSmuMtqCxKoxa2ttv5xzCrbHg
+Antena3.dr,DR - Antena 3,https://iptv-epg.org/images/uBJa8r9VFxZH0-BmzcWmFv6bZW-fJkUXzBjTdodxODjCpBWKXhYf8s_KX8VQTUHsyLIk-3rYQVu8Udk8iP5HEzrPecxqGiMn2mOnLPs9zBS9QhenX80setjs_E0
+AXN.dr,DR - AXN,https://iptv-epg.org/images/kcvanP8OUtdcNN1C3fVWxlj-uSR9J51VttEMaFy0c3qGhtuqvA-w1K5JJmDv5FKNyfH3m44qPBVIabP1A4t2uovAcD_XKuvQrIsHWi3D0JNyI-Lvk5dw5A
+BabyTV.dr,DR - Baby TV,https://iptv-epg.org/images/BiX-HaBDMDvzrbXGXiwT_vUiIMH4HMj1aBKyXg8Q7eExft-KzUNr0v14M5ds9N4WlR4lNuVPnb7bhbafY1Ef60_iegJF_2hXn2TH4PdWNIfs-5GdoXqYeQlWGA
+BBCWorldNews.dr,DR - BBC World News,https://iptv-epg.org/images/UtJRE4rE87wGME8pjBzBCqTMzbIJ5zpxe7H_PwScjNWlwQCh0SVjMrmq70YfvR06XNXp55RARRsYyh9BfTULkeVC2J_Ui-Q_zrsWTyWItHpG3XmxsVTlZdXIJNUQtHfutA
+BitMe.dr,DR - BitMe,https://iptv-epg.org/images/jwVxpWF_vqa-qo-r0EqBaZm1BFzLnpwFyx70l_QRMzSA2cgarhANT7A3jLecOGX_nhkwKi8jq4eYMqUJ-jt9edrGvXX8bscsm45reX_HbIdlYqOjuTSxmq2k
+Canal7.dr,DR - Canal 7,https://iptv-epg.org/images/2_N9GHsIO4esp_UDuizrjT8tZ2lFLk1PjkWOGNOe50tQ7-_rSc1YqkAuDpKP3oisrRssULY76pefk_FspcU8fZXo84gkZz5u4pghUKlfccKyPlFWvTkkp8Uw0w
+CaracolInternacional.dr,DR - Caracol Internacional,https://iptv-epg.org/images/m7U2_bxhzGyrS6rqz5ddgPetgaLItQyKTXWuXfKLrZmZK9VNRKNBdf9LRS0GYyLwGzQBdH_z9eeJGIdFc6VElyPbwcRGb6FztXO59KbBPgFhBC8KBM019us5E1WZJzXnquTvakZvUpqV
+CartoonNetwork.dr,DR - Cartoon Network,https://iptv-epg.org/images/DrDWtn1U7-_QN4apziOGdvmcP7ZsFL2dHRJ-XoYCxtyZU8sqJPJXT4deEiIm-660nRW6jeEZNP3y5yD66eTtoMoQ_0nkVrfi-HQO2xmxzZJs-xUYMb0Hxl9HO9lj601PtP8O
+Cartoonito.dr,DR - Cartoonito,https://iptv-epg.org/images/_28cTDwbYmWkE8x8PGlsnqtncAn-dnoUFdBWB94fg71BoRC5GMRV-USsui6wDB6chsnn8mpP3zXPCTv8DYsTqEFFS46SFwIgfnfarXQ-7829ZwM26MdbeppLr1-RIxU
+CDN.dr,DR - CDN,https://iptv-epg.org/images/eLcl202uHnvjgPle2un24T2te9EndZwhOI03FhKYd46YShaGJhxX8-EPGnUnu0O8grTZZVqCX9HBAnTb79dp4C5PGRUC9RP8UOcMYtJiLF06CC6OrPqnKg
+CDNDeportes.dr,DR - CDN Deportes,https://iptv-epg.org/images/vjTwgKu3c0tozqRqyYoySbo8cbxL2NHD8rdOHUacOV3TDfWRPgeX7CMWGCFJpkhFS6d1UNUVivpKv1QBRjs4tx07QW2k6J4RbGgHR2MyYwj6vq9kJn8sB5gkxbFnS80_
+Cinecanal.dr,DR - Cinecanal,https://iptv-epg.org/images/nMMEeX7h4aUvZKGTbVGTeVxyjFY4JPe3i3ucZ9DsrR6-BTG8guay8C1OTZzRxcdL0SZGxF3GqzS8ZULn9NetI58ZIEL851CnSop4cDmTfJNP1G6iAo7GgzYYcpeX-Q
+Cinelatino.dr,DR - Cinelatino,https://iptv-epg.org/images/2gu_Y0BXClYqaklqj5xcaXDOBqWqQhhjfTUZsWL-ZBYGhzLC2eaVgTVbZOcJd-L8-wnufguzVLVZRsGiufP15HWQpIMb-yUGGxX2CfmsrYpJe4qPYVqWAyFL_jI7U5I
+Cinemax.dr,DR - Cinemax,https://iptv-epg.org/images/ttNtgwLIX3C8M4SmNEZz-P0ukR8DwFl69876WGSMkMxbNe294kY8gtlmtVDctC1JV4fkujsxUch3nuan4X6zL1rtqKmXrA4HxHw5Mn4I-7v4p1QP4efZ6OM3pJE
+ClaroTV.dr,DR - Claro TV,https://iptv-epg.org/images/2ZAxikU0A8BKp1xm96ZXK6aI3Htk8Am1XNvilGy_8rCOZx5l8ryOk-1a7GgINJ_yFX3NNHvjDSVGsNWR09gTooG6ZB-V5cgG6p0T8IQoAIR8ubv3LFBdPw4r9gU
+CNN.dr,DR - CNN,https://iptv-epg.org/images/ohpZCPgQtNBmEjtAiDKreUxX71avRIdRHmFZGpCMIDZBbRSTWk-Sm5XlPE5BoXdzTSrspsatsT_c8X9JMznNxvMo5H5h56qnF6GOu27LKoibyOCHWyoZOg
+CNNInternacional.dr,DR - CNN Internacional,https://iptv-epg.org/images/UpxUM3pYkwEVxFebGBAP32UwMn6Y77EiQjMmgkEoGlbqgrT-UeU8nhh9pnyqFegjNap5LmECZykpVGG9_3fBoyQ0PMsJWxDOkLE3G7afeKbfESqiBUNFgu1p1sn5lxQDr4miw3I
+ColorVision.dr,DR - Color Visión,https://iptv-epg.org/images/dM9JCZgF-uCPPQPXhsjM_BxgmC7IMsH7U9VCCA9QGKWug09SZ5gv0FABrfXYnLyT7FjR2aMe5p_xLnukodh8KVbuIz-6v5qQdgUKJYotfm3-EhE2So_EebwAsj3LjUSg
+ComedyCentral.dr,DR - Comedy Central,https://iptv-epg.org/images/UoO1KaxlC61RCMmeACW35mT9dP6RwhyhBgSpnxco8Z3Tp3zfRznROOhh8p-D64VR-ctmIjLp11in_WHEczJUeI4XSh4oM5ipHY5cRjR7_T6ksUjtOuXm48sl_GZBaqJilmE
+ConcertChannel.dr,DR - Concert Channel,https://iptv-epg.org/images/6CoZoQOSaa0o5mK2ynhppCNjLdFG3RuK82S65pdjmOg9kZtoUI2Gr2rJl7KwNh5ErggOYIHPsxvsT-lbfL7cnlT4ZUuQsxQrX4Xu0m0q0v0PwjZgVkN-Skx1f9iRrhqps3jj
+DePelicula.dr,DR - De Película,https://iptv-epg.org/images/dmxtuRrsqp_Aa1RV8V6RVYGBBnpyRLJDhYWpBj5JQPZBBaKBdTnW1p6INI0Pfde9gxljyQsqzej6VdpZXahQwaZ-s4B6WjkicP0DrwKoTPv18-ye441HfMAPJPNZsos
+DHE.dr,DR - DHE,https://iptv-epg.org/images/uUc0G3JcOLanfr6id1uZ5vZsUuwFA3OnAVyxvqGEbiPNCEnfiFYl636YBN0XTIVbbK_5jd-skbL6hdbllw0LSsCoupfh4Y8aaDxEAZ1HYKKWXKE8khZqTA
+DiscoveryChannel.dr,DR - Discovery Channel,https://iptv-epg.org/images/b_wwUMJ48X45yyj2uuPyPx-kM0-u3fLaSwrTbz1B9bL6LybUXYTerUi86iq7fKLku0wGnOS528FScOYYQseUARDygx1fS7yt-GZPJuvKYqSY5Ee5-vsoQJdk_fvSr9P2fAqn9WM
+DiscoveryHomeAndHealth.dr,DR - Discovery Home &amp; Health,https://iptv-epg.org/images/YbCRIZuByqlOTXysl8cVRZQ2ANN3l4hlCucR7rRIdoybrS_sXEaJ5imzZ81joXHYMN1B_pvNBx0aCVIZZdzXcpOgtW9SW0rxzIeeY0FQm3ibcjVKKaslZgxA-J8teS2B5eGtcf0FEOHypqM
+DiscoveryKids.dr,DR - Discovery Kids,https://iptv-epg.org/images/Ege5OXqYjf82pek_IVPufkI2dMA5_R3k549xLeFxI9oHp-f4PEgdiF2-DRfCAHK6doG6-jqbITgLoVZk0me2jMrvdxmQYPl8l_ZzQDR0zRfRl439CiIRs0yY2x5ypbzxrgE
+DiscoveryScience.dr,DR - Discovery Science,https://iptv-epg.org/images/3wr1-6KZX8OBC1-wOHSLTMJzsNpANXA4D8QS_kqqGsSxu6XrldRtbLFqKjJZij98IQe1jUFhubmhxQtgqXcmCnBOOm6mUH1LByHzRCv5DvHjiw0OQ1Ej_MpM1YKurpchaprD-A0
+DiscoveryTheater.dr,DR - Discovery Theater,https://iptv-epg.org/images/zXj9wb7poVIw8-ixEEH23h1NQ0REc2hhOwQZ95e24d2Utzr-Llg9hS0xPEFh0dmmXKQuSgLV7CCj0GUErkkDWORB08oul03c6Im0r1_DKn6WUYxvkAogn861LVO2y1_KsSiyAuc
+DiscoveryTurbo.dr,DR - Discovery Turbo,https://iptv-epg.org/images/FGVcLtOvYDvycH-X8KfoNw507Cskqr-cxqvDUX3lUEZh1HxVFh36Zpo_g4qTL8aAV-axztwG1To5FmY0T5sTHwk9q01ulkmQ27uN4Tow00LcCOL_LxLxEBAFYH0Z2Yeh6Ns8
+DiscoveryWorld.dr,DR - Discovery World,https://iptv-epg.org/images/2z5mvA6Nw1xsZXdlPIdjMROs90JV_LRFwe0wmq_tKXcNl88etfMJmqI7syZKnMyhnMQsmGIo3tSEFqZuxe5BEaKm_6vzS5Ri9XSi7TMT6iRVi69WGCDoXtmsiBKdeYpfBc4Q
+DisneyChannel.dr,DR - Disney Channel,https://iptv-epg.org/images/1JQ8KRkYvTq-aIHjeRYxowrd71eUDvy64i-Y3exmS-efHhTfm6MB0ruBDblVSfzKEG-b2cAdJPcykk1VNPJiQ3hkYc15GPVd_EFwm_v_6Q963Vy4a4panH5-PTkGxgh493E
+DisneyJunior.dr,DR - Disney Junior,https://iptv-epg.org/images/MFOJJdg2jLk6slyNSGw7sA3B_MlguGPwDX_9ZhtYzTsrfmkIr4GWIbDmflclgpZVFQ-bcKhFToW2Ilye9VjD7OflDsmfHFOMdG585EXOCjNo76e-uokDIib6M0PJeAcRrw
+DistritoComedia.dr,DR - Distrito Comedia,https://iptv-epg.org/images/hNYd9dKEGICxeE6m-gYItzc2kAlGhmAgTowvCj8Roahx2KglrDvg3hiwIoo2U2Dnak-yUqh_KGBwNQF2zP-FPcn8X0sIxsn5TUuYdedC_iz3PQQzs6TiXIUAL5mMXD9SPZ4_kA
+DW.dr,DR - DW,https://iptv-epg.org/images/nGpTsA48B-Lh-MBsaUGBG76NqyFes60VH3f5D_Elap00JPVizT2goP4FPfkBo42J9DemB7ouXOyfiAbUea4ypKJQMtZNO6y3WDZINCxM5dFEjJX456LW
+E_EntertainmentTelevision.dr,DR - E! Entertainment Television,https://iptv-epg.org/images/IFgnZLV5enmMofTQ7znXtObyILgmAxVT5ethGPx-svm_cCJivj8HicKSj7H4EUGdNMU2z7zT18UfUg7IaLNQkwSDKZhbO_ar6pyV8eHKuDnoD5otxcMqk13Paw8NOXVDYz5SmYkIBlWqpnoZm50
+Elgourmet.dr,DR - Elgourmet,https://iptv-epg.org/images/vLvadQutLteuOqTCK_cXQHBv_DnbTNeRLFVFAk8OtFUstZqWdzJuO9zNQIH3GguQWLYck3Z8e9frQOnRwJ4fvr-UPnnZBvdle8Lb6Rt_HR3Sui4ar6p2QV-Ej6_pZQ
+Enlace.dr,DR - Enlace,https://iptv-epg.org/images/flr0GDSTsasZwXTESbdEYto_zJXN3tx7tr4F1CJ9kKSfoaoOc0v_XL3wUA7-TNMKfbqjPfvAU_gPxW5O-BTs4kaGmlvqcoTtCymNCPZZhpCDv2fJzO3uK0Yttg
+ESPN.dr,DR - ESPN,https://iptv-epg.org/images/f9niwBYOPNJWeS41Cw4-BjudTHlKgbjzp-dtEITyas8__ynNH18asHSyFYUF2UkSB9O63irDM8sxKnGKu3oOkhYhQr4-K1o_z0UF4KQVZ63085hHipiJ2ck
+ESPN2.dr,DR - ESPN 2,https://iptv-epg.org/images/BTf-oAJ0PnjoGEtBcwNaC_4p_hytkvVF2QT_bzjM70H5fFdueLUeHFr5HfwSsGODxWqay6Vt2dnUg7s4DnX2PUb6vJZ8bmWcAsz17S0S-rCa5-w07I9xKHEF
+ESPN3.dr,DR - ESPN 3,https://iptv-epg.org/images/XJOHs_YnLko6w2Z6kpRDkUCg5Cli7ptl_uPWZcDIy2QzXtuOQCxK6muZvPd9daUA207MP8EkZ9nmUwzNEjBOxxKWq3h8RAsXw2gQx-yXHm6c8FDGoHOJoAWm
+ESPN4.dr,DR - ESPN 4,https://iptv-epg.org/images/-E_J_V6BMgCtdQzKamZjF1ixa5dLKbvFWZDwmJJ-exquhlbkHSm1iPhHtaWC4eV5bW1LYPbP2NIbidQ6rbTJrS2oS-Y58iwG6R8nqLeLXFJooQ-zJBh1TRxp
+EWTN.dr,DR - EWTN,https://iptv-epg.org/images/lVR5AcsWoiYtb_5DiGg9lLzj_FcD99jw4c3fh65bL6AEC5SWYv7jixm8AG6y4_P6n28iw6cKBBqpeCaPflFnCXLjRfY8bqNeJdiHD0ZbViqjxmY_PUfc0YQ
+ExaTV.dr,DR - Exa TV,https://iptv-epg.org/images/EQy9OAsbWKDfVW3C9euqQfAcUJN9kVfc4UIjuPvC_qrTwTeMllXqiCsDSThK5J3MYI24UH6ZCu2tXLXkH5Xbdh8RmFVsUB2IwMJWuqGgaGbW_W92J8UjVzCY
+FilmAndArts.dr,DR - Film &amp; Arts,https://iptv-epg.org/images/KynC6ntPwXTI1DixJcipATX6apUb3dYGMDLTsBRelRHoE2TINRmConvJZKNoOJ0V73ejd85l7UqOdYJuPNFbQutZkuoCU7LOzIpHJgjffCwKuCANosmxyEnQXmy4Yq4m
+FoxNews.dr,DR - Fox News,https://iptv-epg.org/images/bYAj9y1YZuSGshTCj-EYymifIX0yl45-B64luPSFmFkX7IQUz-Vk4WJMidWb1K9WrDVUp9Of4nROc0dbd3o5O-MoH4U2Bt7BBpr0_sTlgCkrlyfUYYGrRckOdzg
+FX.dr,DR - FX,https://iptv-epg.org/images/y0_i-6la1nxhe41fSGet1TH-TI3GQrVb2RuAw7r1yqKJZ3HhJshZlsHcHe4AXXJ8tUdoAw-tO6H6wffQ2hP6O9q6UB1_XS_W7I7UMWHeBHc0sRgkda27
+Golden.dr,DR - Golden,https://iptv-epg.org/images/yGy2MCIDp9bGN0DPnqHuV397nGmRtQ3z3lnCRMwkPVKI55nhYaoiyLAsp9wdlvHAO4yoBbfesSnKSYyh04SPhJAeT1YOd8U6obuKYLNPxgy7R_U6fSX4_ZyzzA
+GolfChannel.dr,DR - Golf Channel,https://iptv-epg.org/images/HWSpPTbMjMw5Fw_EH4KMr2UnmZD1XqK4BJ7HpGb0oYLQ8CLPsbt_-79-Irajm-OMZ_f6EW3eokZhtAqx335Dm-6Q0FAcAQJ_Wx0UIZrNXrdPu0QTL_a4Nc82p9d-FL1H
+History.dr,DR - History,https://iptv-epg.org/images/DcOhTI_IUzA0TRlGNvFQiqin1VzJDqV3SWKo6BBBhabmH1UDnpgpwth_HHP1A4VBWwymxO7-Xj_KZuUqsmzTayOrNxgdxnRW96KIWIRdOqAx3m6yesqSuMfHeCc
+History2.dr,DR - History 2,https://iptv-epg.org/images/udA2sL16ombLCy_WZicQJkVBAr3IAMfPrvyhP6oAgnEsQq78BuPsUcv-D-h2vJGapRikllfNpMl2Kx8z2D-zp6ngFb_V9oFvlzAHa_l2c8j3Tr4ux5KABRiiBH5X
+HLN.dr,DR - HLN,https://iptv-epg.org/images/OPUafcmnNvgn9mEA6s7Uw34rVETTjua7gv1NKCc9MvV9v1rg1UlTDMsQ4RGiDDVAQYikV9xMgNDC0PMcgg2kZ2Sp3IqneqW1L5J1Zm9JoLOvNGv28kWzLA
+HTV.dr,DR - HTV,https://iptv-epg.org/images/ZCumeO2r30gaiCOpkH7KY_yxvqC7fyGNU-P0zOil7-oTI69JPkgNgB7kl1x6SLET-3767xYkAXE_l8Yu3rGJqf-ypQewoBwbG3v6PPkA-eFpNSYthitwZw
+InvestigationDiscovery.dr,DR - Investigation Discovery,https://iptv-epg.org/images/twesd-RNZ_LGeINSxkS-x-xqOlEPaqlrr8CgXXsbXz3pBEgPudSfKA93GmEQtAvlx0_Nt75Jqzr0DBm-4TWD3pJjCjI31sYBcLX_CSsxtfseWexKUeNOr4Ugyr4vPsg4ohq8llpD5fEArWc
+LasEstrellas.dr,DR - Las Estrellas,https://iptv-epg.org/images/VVzFcqY-CNN_EG2rso0ApO1fgIQrNnICgwFjURDbbAAXFBNp69Xu_eOjJFD0C2VnNnRRMHRGFQV72PwXr0nKrKiWixjpLyyZ812bZWUaH7BSKxOoWvUO7oh3Lb61Ss-MPA
+Lifetime.dr,DR - Lifetime,https://iptv-epg.org/images/bGP2I3vYqJzUvtC3Y6RkzU8j-mhJFSWx2V8wlQN-7Ls76xOMuQKKXOE_ojbavjHM9LNnTa18GOMQS2x9AdWrKhWf_MT8Alj4F-XeuJrv5eXi7UuOuIglOks4F26b
+MasChic.dr,DR - Mas Chic,https://iptv-epg.org/images/eV_XfbavGdkdCYFq2UDPZBr6s58VkylMsJthuSO8R8ObB0VURkK86tLVp9S9ULYqCRvCx9DqW307g2PKSXds-_ZNEHlu_QG-nJiFlrtNVEhirQyQ2wifuuWpmlc
+MTV.dr,DR - MTV,https://iptv-epg.org/images/9HUhPaJ6TzQdHRIqNs_4TbXxdRM9WQAjORk6mUbED2uRg1jSBTKIKIFXjFiJpJrN66nobqwpG-18zy3po8hLzc1V8rrwkTHTYbCfqTF7qUdIYp3s0clb9w
+MTV00s.dr,DR - MTV 00s,https://iptv-epg.org/images/naoDCcjDx2SDnvGNZWB5-9NeGhZxkt004MwJV3xtmnPOO1fxdPsM69j2GhyiwkjaYW_ed0W-cURfPtmxV2lWUoGtaWjF3G215RVUQXR6lO6pWevV0gL5DIE31A
+MTVLive.dr,DR - MTV Live,https://iptv-epg.org/images/T876z6g36tZOgY96Nzn1LVbzVSG14A5XzWCogEPX7XxCpncyRz3dNxMwLEU8uZ3ggYfhAD-5N6rObuHcOfQDXPouE-Qri653YRqZ7Nm7Y1epEidGBxNd7DosHGo
+Multipremier.dr,DR - Multipremier,https://iptv-epg.org/images/XxiXy91QAaUaSmdu3wOWLqOexP0qawW1HCqE_434IA5JpoFdM-9s9c4EmoZWnMi3p0vjysj0svWofLVZytCi9EvJv8kK-h7fSOYFMVZAxrf2O8jitaADw6fOwP-N_BMiKQ
+NationalGeographic.dr,DR - National Geographic,https://iptv-epg.org/images/hCD088QXMHkYB3cWNhJsKghjv7we4od5zbUpxiaF7a6VWRTLvsDoaqB9jIV480naEHdwBdrLSxG2V13tU0XvGDIuLD6yvU6fzC1TkqvB08EErTetVlzxT9ZnzufIh9egn9xUT3ZiZA
+NickJr.dr,DR - Nick Jr.,https://iptv-epg.org/images/nfl34d5pOVKzq1SMevXDqtqaifOcBUXrRSL89di6h_-nB0LUJh2RjQH9S3812rtP_nyApBvU6-X7vqQyJ7UdY-fytkZuCO-2StFV5FTV1SHzK5989ZVljVeskA
+Nickelodeon.dr,DR - Nickelodeon,https://iptv-epg.org/images/G-e49p6PCaKG45WOEApFSHNj-WGJBklP4t8APlGgJ_T3dDzTW08odA8TtL3ovRCOgrkj-P7G-l17bn8wV2FU2cQk2_Sqoy71ncGjwy-157YYOXgDuRLZwvT8gnglBre3
+ParamountChannel.dr,DR - Paramount Channel,https://iptv-epg.org/images/TiCbTGzoaOdUpJoomjilJ8_o6OCcwDOroyyiyxRMABzleK9DHiEj5NGHeA_qxwBzgLENboCnRP85kBdL9TG9Gh7AVt2tHHEyIFnNlA0780nb_YoFggzCXXwUDwsv7p6qn8EnItE
+RAIInternational.dr,DR - RAI International,https://iptv-epg.org/images/iM0VZ8OiMWusL4oohw1Lbt-nE7klUGdDqyms_zJDdn97AF-wVxYfWwUoawKMwynwe8wXE9jAdsNsQTtCwCFW5iSh9vf__09iEeonO21HoPxFT9xPha3LqIDHxRf_AsHJ77wv2Lo
+RCNNovelas.dr,DR - RCN Novelas,https://iptv-epg.org/images/5r-4Ii2yB3nGGBBpEO390iRiocTYdtgCRQfmurj_IblarxJ_Gy2_YC4bGO_JZMCKo4Yb0bLQzt8X02K7rOsHipk0C6UB0D7xImXzr_yXfWYELojI9k1lY5ESRJOw9vg
+RCNNuestraTele_Internacional.dr,DR - RCN Nuestra Tele (Internacional),https://iptv-epg.org/images/NKvhm_7gs7KM8WTCiS0OhIaa08fV8_Mt824YLOsETOvxdprrcr5SAFDhk4x99MmXGU0PhIiRWUcUz0B-mx1M3ckmYBe0Wyhd_tTb1NvkQqI0OmGcfeTRChOTHg3BOLZwjz5qdFTWmxTApRvxQXW8YVM
+Sony.dr,DR - Sony,https://iptv-epg.org/images/ypgERPoXBO1zqaTTqFjvEasPfec6oQHnDMmeSGspf3-fEVGEMl_c69n19dx_VHG85rxmgWwRV0rCbYV9HyAwi53_OhmlQ_mZFZz4VpC6YYxaaxu8cUra8lU
+Space.dr,DR - Space,https://iptv-epg.org/images/3jAqqCGdE9TbEJ5d-gVONsNwKxKpZkItBIVG9AiY9sA4O9tgKrTET3Zfgeln57IAsthZyiakR1kPTaWVX-J_8AmIpXgU5u8ZzNsiUX7WychVtrHiEKe4Hkds
+StarChannel.dr,DR - Star Channel,https://iptv-epg.org/images/qC4Fxh5LQXwm8M9Wi_DZ3_8RxU2Lgwde9BYulI3i7W4ak10mBiKDYEU5EGFxOXNzqPq670wB_sgTKP_2FviBOR8cpPaxZvePNf207YUh6Vv6yINQ7M8epFcV4_NgM3xQ
+StudioUniversal.dr,DR - Studio Universal,https://iptv-epg.org/images/Sdr5nzUlG_mFsC0dgZbeNWjp5MCTWBgH3ucKvcC8Xy8GnzNsYO5QeK0Qvy-Bv0a6rmizdhlxOeVKkUWBtj2PyvOc0VhxjaG-2Ab3dzHaopBUhlTKVOym2yL6KMyxXNVR0u-ZEw
+TCM.dr,DR - TCM,https://iptv-epg.org/images/0tTwIqYih9VUbdxWn2ZOMs1fMUhVqENe0Qn9YVc96MsTEkDJEoPCizbJ0i_U5J5I-EpVjtgyJZD6Mm7pNh_ZRYFJzUsTH_CulVusoyy64LWnSAjOY1YJvw
+TeleAntillas.dr,DR - Tele Antillas,https://iptv-epg.org/images/KghcojKAd1nfZ1r-48_Vh-dGXpBJhHpRrUDLsw0WzeLSHQ60UYcOyPRyCVV-qtluCkU-tGIx8LOMdrcF9HcRo0kQrHP_9M8ymQAXzR7UsM2lrID_PzVPmzEqPCZMO0IUSw
+Telecentro.dr,DR - Telecentro,https://iptv-epg.org/images/zeePm7UZgVfBUbw_lQsb5kFAcFfz5GtLAIyOXHJTSQA3s7oXrOS0-ks8JLoxjscC9JEFFrKlQVOwNnxwc0_S2lKh4GDZB_WdlRj7lBT5EI4Wbd7Y-AbRjJ6bSQKsyRE
+Telehit.dr,DR - Telehit,https://iptv-epg.org/images/w761FUx42TMklN2EAFA8jON4nciaRH14C3v8gy9F71zbw80OY-nT3K8ReZFrWeib1h-6-VMyJSzWncO7M4rvTFvYiZlhERN28IGMcQRPZ-KQwKhUXUTlSRfufgI
+TelehitMusica.dr,DR - Telehit Música,https://iptv-epg.org/images/Hq0kkxhINqecBaBM1HckGr5R45SE5elKqm7CCfeDZ0sEvvDmJhzuqdQdeDP3llVGjUgm5V7pN_haS446vIH3UNdtqQ7KDadbuGEvUG8uE_P1EKoO-2a9x7aAZT1kO2jkvcc
+Telemicro.dr,DR - Telemicro,https://iptv-epg.org/images/sHm8Jxa9E9IbpxgjaD3o-cCMI9cP9R121bQUpcvZv8NOb9fAi8ZEJ7UPIm5z3R4teLzdxOKJ4G514ljeG26U85r53cyxXDTQNv_qCqKnXY0Rcwl8dX7eT8yKagrPMg
+TelemicroInternacional.dr,DR - Telemicro Internacional,https://iptv-epg.org/images/KT8xGTtTEcbZkGHgCycjAlD-101AyK1O13h1bbylnvvtQOIBE5O_OyfEfUV-jq-Bd4PjQFZtpyjMmBtqC-p7XO8p58ONZ6plXbj1DguxGXXTcf1sLiMB6_spsL2lKDmnB80GoETyNOTkO9I
+Telemundo.dr,DR - Telemundo,https://iptv-epg.org/images/gfuCuGDbdrIQkTIu1k3ykr-z-D4AA03RP4S3nJBCXIks8UAfpiGEwK7qwia8UKEqP3Mtxdq-X00h0xlDhPLibdHG9ezZP0Q-YgJinnjWwDsPCmBeMM-tUwkEkPKYHQ
+Telesistema11.dr,DR - Telesistema 11,https://iptv-epg.org/images/E1WJLwil4ygLIPl2nR2Pui54Bv-dTuzFy9qPnHXPZ8Ny51IIBsEBJ4P5RjPGwdrbV33nDWiySpiirPsi362nfVGbuPwb9cgeW7Mu74JgcJfeCo8NYEmQWi32EYGEHE2IM_g
+TeleUniverso.dr,DR - TeleUniverso,https://iptv-epg.org/images/s7n35gxDUNkbCAyVPAL8VaENhYhj-9LIWzYBVrQk0pQ5aGFjOevtvyz09pakv8IFos--c1OAy8OHPQIeYWlflyJKmGqgbLqbdL3ETieMqQQ-siZM0ckQC1ZwTMlDeSlouw
+Teleunion.dr,DR - Teleunión,https://iptv-epg.org/images/0HchMcT5vvEBlGAXraf9Gfyv0Emirk3YjWnGTr6j7QxoUk577UsOaCycLUyh03JjgmNOQvtYU4ch0TcKLEqCD0UQGteUczlMQcn-35ToJ1wNjFleAWBizFG6l1X1Og
+TLC.dr,DR - TLC,https://iptv-epg.org/images/EClkna21mU7PON3uCcTaMpCjZrvOn_OEYXAZjgRy1xJbNuF2cYpzxB6AnJatS_KuG1Bnla7fjTiHfhyv_52nxXtCybhJClBa_sH60qt3KwM53cDI7aPV7A
+TLNovelas.dr,DR - TLNovelas,https://iptv-epg.org/images/GxUACAqJjk7aahgIF2vmILnN6ILUd6IOaGoJGPJxXXJ-rfj0_ePYolUdmEtcxvfYo1UNdmHAiftkFdaZ7q0xB6l2f6sCQITWK_N1gb-hQljc2wBhdl_BcMgSqb9Nqg
+TNT.dr,DR - TNT,https://iptv-epg.org/images/UQ46hASjCZnEn69k1nAImYvqagk56kSPLlcGjvCZISmNR8aFND4m3slXVTkCfBlZAorzJ7a_sAS9knYKvDy7q5XDGQvHftZItO0OWPE-T6iNPavNs2u-jg
+TNTNovelas.dr,DR - TNT Novelas,https://iptv-epg.org/images/gDq418rnXqtQzpwOS0A46dC1TTU3jtAyMXYON8X6eI0f4W2Dc6rrSjcomtPfCqqRijjOwnfvFmlTkz_M2Ho9RxYv9dLcCBts8wn0juhCaXgL4whCeOQgARYn1gFYb-4
+TNTSeries.dr,DR - TNT Series,https://iptv-epg.org/images/8LkcivtEPEFrinzzyrTRs214UEEuQ_gMg115EJJNDINM2n-g8tDv6J9JJQ3cHHu2tBE8UOK9A46GUL0_ur0bY5VqkSmTkWVy1olwY3x8tGprDluszFEBn23-DxEe4w
+Tooncast.dr,DR - Tooncast,https://iptv-epg.org/images/HVj3m6WbubS_l2TunASznRF4YUrJypmER-HkaK4OTEF1NzD8InMcPAEoHio-xMgLVVWaIfkNu662A-h5QY7a9fp0G0kn8C9uxxuApNQvQ4CDb12AWm0YroGjsEQ4
+TV5MONDE.dr,DR - TV5MONDE,https://iptv-epg.org/images/AxsvmFQh4umfAfSB3Bwsdr6z0zD0FgvwZvAV5sKuUAtmj1qy3NXwc5RZ_8B3_JW2nd_2Kn-I93VXro70LCsjGi2rzIAoQY_-vm6hgUQBcyC64AVE7r3V8rB9cF4l
+TVAztecaMundo.dr,DR - TV Azteca Mundo,https://iptv-epg.org/images/SpzKXT5S8bOGyjC061Rwy0FfVfAgtiFpM-ywxps_q6QZavWYoWwNI0lxDqbs_9_7eGkYd84PE1_GP7waZ586Qs5BYMYEDrzBCbnWZhRP-MGr0EA2Rv_2ergPOi9IheSVI0Y
+TVEInternacional.dr,DR - TVE Internacional,https://iptv-epg.org/images/y_gvsAxxvx9cMVLXV1Ed_w-7dmMJDKxEP0i8VCzHrdssIan_I_K0sAAjw0yZi91YiKpnnfz44FyXEg-66B-zG31raO3Ji6F8iUTQ8gO62L_H8x8srZ-6VUWIRi6SEOkqBwcbCHk
+UniversalTV.dr,DR - Universal TV,https://iptv-epg.org/images/rLJe8GGTOXo02VPqFp1UeDVp28QGHI7uyrnLK78YTIjcPFCpgSaw4P17y2qgwV1shOwBmYZcpA8Fi6ihwPvuEJZ3W8WpuTC6N0CCyjGGqdng8RIpmX4UdIH1NWqlnQhA
+USANetwork.dr,DR - USA Network,https://iptv-epg.org/images/UyecsNN3f_vKPOxbKREL6QDm8YEA6DQvkpQ8tja2CuyvbbgMx2f4gPXTYy2FkbAkpaskjjITK2m9XQij34nzfzxwEI6OZAQkUROjUW2E7QzcrjDI4LYYHM_dSUaRiAs
+VH1.dr,DR - VH1,https://iptv-epg.org/images/dGk1dWkfqo79VA7YIX4ndRLkM0gA32C2SiUK4V6rCA2b7GcpkQJP-brMXh9twk5MASMxMbDP_nVJcj80uhOwyy7cvoxwN7Dxc-VcuCjCrGLvhSZPFnlpWw
+WarnerTV.dr,DR - Warner TV,https://iptv-epg.org/images/yJeu-8sphuN1SNRXKHY_R5dMyOimPkPAn_CO1NvOJvlzYac631Rk5yX4kfb4qpsvB7hEAn0RPPco7RoYZ7TgZ9AcxO7LbtfUSk_M1xfgFKXzoNFl_O21lso6qYAe

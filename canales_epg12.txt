@@ -1,80 +1,80 @@
 # Fuente: https://iptv-epg.org/files/epg-py.xml
-A&amp;E.py,PY - A&amp;E,https://iptv-epg.org/logos/Paraguay/A%26E.py.png
-ABCTV.py,PY - ABC TV,https://iptv-epg.org/logos/Paraguay/ABCTV.py.png
-America24.py,PY - America 24,https://iptv-epg.org/logos/Paraguay/America24.py.png
-AMERICATELEVISION.py,PY - AMÉRICA TELEVISION,https://iptv-epg.org/logos/Paraguay/AMERICATELEVISION.py.png
-AnimalPlanet.py,PY - Animal Planet,https://iptv-epg.org/logos/Paraguay/AnimalPlanet.py.png
-AXN.py,PY - AXN,https://iptv-epg.org/logos/Paraguay/AXN.py.png
-AzCorazon.py,PY - Az Corazón,https://iptv-epg.org/logos/Paraguay/AzCorazon.py.png
-C9N.py,PY - C9N,https://iptv-epg.org/logos/Paraguay/C9N.py.png
-CaracolInternacional.py,PY - Caracol Internacional,https://iptv-epg.org/logos/Paraguay/CaracolInternacional.py.png
-CartoonNetwork.py,PY - Cartoon Network,https://iptv-epg.org/logos/Paraguay/CartoonNetwork.py.png
-Cartoonito.py,PY - Cartoonito,https://iptv-epg.org/logos/Paraguay/Cartoonito.py.png
-Cinecanal.py,PY - Cinecanal,https://iptv-epg.org/logos/Paraguay/Cinecanal.py.png
-Cinelatino.py,PY - Cinelatino,https://iptv-epg.org/logos/Paraguay/Cinelatino.py.png
-CNNenEspanol.py,PY - CNN en Español,https://iptv-epg.org/logos/Paraguay/CNNenEspanol.py.png
-ComedyCentral.py,PY - Comedy Central,https://iptv-epg.org/logos/Paraguay/ComedyCentral.py.png
-DHE.py,PY - DHE,https://iptv-epg.org/logos/Paraguay/DHE.py.png
-DiscoveryChannel.py,PY - Discovery Channel,https://iptv-epg.org/logos/Paraguay/DiscoveryChannel.py.png
-DiscoveryKids.py,PY - Discovery Kids,https://iptv-epg.org/logos/Paraguay/DiscoveryKids.py.png
-DiscoveryTurbo.py,PY - Discovery Turbo,https://iptv-epg.org/logos/Paraguay/DiscoveryTurbo.py.png
-DiscoveryWorld.py,PY - Discovery World,https://iptv-epg.org/logos/Paraguay/DiscoveryWorld.py.png
-DisneyChannel.py,PY - Disney Channel,https://iptv-epg.org/logos/Paraguay/DisneyChannel.py.png
-DisneyXD.py,PY - Disney XD,https://iptv-epg.org/logos/Paraguay/DisneyXD.py.png
-ElTrece.py,PY - El Trece,https://iptv-epg.org/logos/Paraguay/ElTrece.py.png
-Enlace.py,PY - Enlace,https://iptv-epg.org/logos/Paraguay/Enlace.py.png
-ESPN.py,PY - ESPN,https://iptv-epg.org/logos/Paraguay/ESPN.py.png
-ESPN2.py,PY - ESPN 2 ,https://iptv-epg.org/logos/Paraguay/ESPN2.py.png
-ESPN3.py,PY - ESPN 3,https://iptv-epg.org/logos/Paraguay/ESPN3.py.png
-FOXSports.py,PY - FOX Sports,https://iptv-epg.org/logos/Paraguay/FOXSports.py.png
-FOXSports3.py,PY - FOX Sports 3,https://iptv-epg.org/logos/Paraguay/FOXSports3.py.png
-FX.py,PY - FX,https://iptv-epg.org/logos/Paraguay/FX.py.png
-GolTV.py,PY - Gol TV,https://iptv-epg.org/logos/Paraguay/GolTV.py.png
-Golden.py,PY - Golden,https://iptv-epg.org/logos/Paraguay/Golden.py.png
-HBO.py,PY - HBO,https://iptv-epg.org/logos/Paraguay/HBO.py.png
-HBOMundi.py,PY - HBO Mundi,https://iptv-epg.org/logos/Paraguay/HBOMundi.py.png
-HBOPlusEste.py,PY - HBO Plus Este,https://iptv-epg.org/logos/Paraguay/HBOPlusEste.py.png
-HBOPop.py,PY - HBO Pop,https://iptv-epg.org/logos/Paraguay/HBOPop.py.png
-HBOSignature.py,PY - HBO Signature,https://iptv-epg.org/logos/Paraguay/HBOSignature.py.png
-HEiNetwork.py,PY - HEi Network,https://iptv-epg.org/logos/Paraguay/HEiNetwork.py.png
-History.py,PY - History,https://iptv-epg.org/logos/Paraguay/History.py.png
-HTV.py,PY - HTV,https://iptv-epg.org/logos/Paraguay/HTV.py.png
-LasEstrellas.py,PY - Las Estrellas,https://iptv-epg.org/logos/Paraguay/LasEstrellas.py.png
-latele.py,PY - latele,https://iptv-epg.org/logos/Paraguay/latele.py.png
-MTV.py,PY - MTV,https://iptv-epg.org/logos/Paraguay/MTV.py.png
-Multipremier.py,PY - Multipremier,https://iptv-epg.org/logos/Paraguay/Multipremier.py.png
-NationalGeographic.py,PY - National Geographic,https://iptv-epg.org/logos/Paraguay/NationalGeographic.py.png
-ParaguayTV.py,PY - Paraguay TV,https://iptv-epg.org/logos/Paraguay/ParaguayTV.py.png
-Paravision.py,PY - Paravisión,https://iptv-epg.org/logos/Paraguay/Paravision.py.png
-Playboy.py,PY - Playboy,https://iptv-epg.org/logos/Paraguay/Playboy.py.png
-RedGuarani.py,PY - Red Guaraní,https://iptv-epg.org/logos/Paraguay/RedGuarani.py.png
-RPC.py,PY - RPC,https://iptv-epg.org/logos/Paraguay/RPC.py.png
-RussiaToday.py,PY - Russia Today,https://iptv-epg.org/logos/Paraguay/RussiaToday.py.png
-SNT.py,PY - SNT,https://iptv-epg.org/logos/Paraguay/SNT.py.png
-Sony.py,PY - Sony,https://iptv-epg.org/logos/Paraguay/Sony.py.png
-Space.py,PY - Space,https://iptv-epg.org/logos/Paraguay/Space.py.png
-StarAction.py,PY - Star Action,https://iptv-epg.org/logos/Paraguay/StarAction.py.png
-StarChannel.py,PY - Star Channel,https://iptv-epg.org/logos/Paraguay/StarChannel.py.png
-StarComedy.py,PY - Star Comedy,https://iptv-epg.org/logos/Paraguay/StarComedy.py.png
-StarFun.py,PY - Star Fun,https://iptv-epg.org/logos/Paraguay/StarFun.py.png
-StarHits.py,PY - Star Hits,https://iptv-epg.org/logos/Paraguay/StarHits.py.png
-StarSeries.py,PY - Star Series,https://iptv-epg.org/logos/Paraguay/StarSeries.py.png
-StudioUniversal.py,PY - Studio Universal,https://iptv-epg.org/logos/Paraguay/StudioUniversal.py.png
-SurTV.py,PY - Sur TV,https://iptv-epg.org/logos/Paraguay/SurTV.py.png
-TeleAmiga.py,PY - TeleAmiga,https://iptv-epg.org/logos/Paraguay/TeleAmiga.py.png
-Telecafe.py,PY - Telecafé,https://iptv-epg.org/logos/Paraguay/Telecafe.py.png
-TelefeInternacional.py,PY - Telefe Internacional,https://iptv-epg.org/logos/Paraguay/TelefeInternacional.py.png
-Telefuturo.py,PY - Telefuturo,https://iptv-epg.org/logos/Paraguay/Telefuturo.py.png
-Telemundo.py,PY - Telemundo,https://iptv-epg.org/logos/Paraguay/Telemundo.py.png
-TigoSports.py,PY - Tigo Sports,https://iptv-epg.org/logos/Paraguay/TigoSports.py.png
-TLNovelas.py,PY - TLNovelas,https://iptv-epg.org/logos/Paraguay/TLNovelas.py.png
-TNT.py,PY - TNT,https://iptv-epg.org/logos/Paraguay/TNT.py.png
-TNTSeries.py,PY - TNT Series,https://iptv-epg.org/logos/Paraguay/TNTSeries.py.png
-Tooncast.py,PY - Tooncast,https://iptv-epg.org/logos/Paraguay/Tooncast.py.png
-TVS.py,PY - TVS,https://iptv-epg.org/logos/Paraguay/TVS.py.png
-TyCSports.py,PY - TyC Sports,https://iptv-epg.org/logos/Paraguay/TyCSports.py.png
-Unicanal.py,PY - Unicanal,https://iptv-epg.org/logos/Paraguay/Unicanal.py.png
-UniversalChannel.py,PY - Universal Channel,https://iptv-epg.org/logos/Paraguay/UniversalChannel.py.png
-Univision.py,PY - Univision,https://iptv-epg.org/logos/Paraguay/Univision.py.png
-Venus.py,PY - Venus,https://iptv-epg.org/logos/Paraguay/Venus.py.png
-WarnerChannel.py,PY - Warner Channel,https://iptv-epg.org/logos/Paraguay/WarnerChannel.py.png
+A&amp;E.py,PY - A&amp;E,https://iptv-epg.org/images/emnXjf8PbWGGFsLE5PSXN0W4qG0zN306QC9Q40tBX5fe_UZHU8YBiNtJBQBr1EG3WuKWWD1QvtWiW4N3heNUMf_j7_nQMDYzBZE1HDv8jFQ
+ABCTV.py,PY - ABC TV,https://iptv-epg.org/images/hkW7RpZMZ4qHCMACaN7C53msc5uYTaXGmoKt2wg15YJQk3XTvaCR1OvuA8O999Ih9AMcOgNn0r9crnsoaxkjC5c6HhmiEWwOilX4CbUEpFM
+America24.py,PY - America 24,https://iptv-epg.org/images/69GIZAad-ZkZcr4qrD0NCRHs_kgvo-SaQ4W8Jen_cTcyVlgL0o_mlabrQX43zVBAOf5XSulToSFH-t82O3mLOsSVV2ll54llNf_cwgaeRM-X5_jl
+AMERICATELEVISION.py,PY - AMÉRICA TELEVISION,https://iptv-epg.org/images/e-lJXR-7KXJ5P-HcgBiMAJU5Wuf2280QDLluWDEqJeMpz2Vf7k2-423yKyxqmtAx9sBiTVtbLOipMS0WlyvHcIFEsnGag8DV7b50gphruqDRdHkBNaWeRPtMoLw
+AnimalPlanet.py,PY - Animal Planet,https://iptv-epg.org/images/T0eO637uf6KT58L36fYQETWtQfY4AHQu7KCIS2WwoYvjFD6cBb4Z_BqCZincphs0PpjdUBU3oxTWiEvF67cwDxAS1WpqwvYgtuPJ1cexpLOKoRxFsTpT
+AXN.py,PY - AXN,https://iptv-epg.org/images/925t8EdpEslOFTrut4De9ne91kD-5Rxn_dr53pRGYgGfiB4QkmUwAXCNJrmdaj-j85PGhlBQp0x-i2QMlHOVSOIT-0LFGZXhFTb18XS1
+AzCorazon.py,PY - Az Corazón,https://iptv-epg.org/images/p1XW2MmJEqqY1x9_JafU2BtyGZ3xQjjlr0888_H1jm2Yj0LMsfrNFDcRMRJmXAEWsnFCwb7_p6d0ijA5ABTxaDOo-cEEG3Oi7qsYVuaWL8O5RTXJ
+C9N.py,PY - C9N,https://iptv-epg.org/images/71h8JCmO3Q7t5hZJj1if34ArhjQbNEX8I4ssSvcvTfkLGCJLaie3VMS_PslndGqE1kTbWi9kXoXIwOhpl14wBgoFCvyIrgLFkOzuJJoZ
+CaracolInternacional.py,PY - Caracol Internacional,https://iptv-epg.org/images/KCI5Ylf8OmWq9PlOQhyFMfONYC9xLLwChOMkj687eCGyQTipMu08n0swELUtGtJvSLAETaCVNsA7gD3aJHQrc4Bll1j8FbOYdZMyrRaoLhXB5r9SphcBiz8gmfqYAbE
+CartoonNetwork.py,PY - Cartoon Network,https://iptv-epg.org/images/sjP-EyrcUzuRarBWpd71kk6I1HG4hDYCjI08oDWkSoNN6FfaJyHBCPm22Fb1tOPgz4HpFSul3PyWrc7HpaEo1KI3b5QlcG0eIgJ6wAMV85zumaihxLrihPs
+Cartoonito.py,PY - Cartoonito,https://iptv-epg.org/images/KbBAuWNnUqbBA7X0zZ8TlflTgNpNXa33MoPmAcPyMiWDqtiPwynQu6oPF-1J2lu1trQO_psleDcl-ePxj_OYxL-bfI7sNm9_kD7H0hTyYQydB3UksA
+Cinecanal.py,PY - Cinecanal,https://iptv-epg.org/images/hi2Kio4OdijuQ74S-hlAlB1M36qcYdCevBFoTxzBb90uZIcFFu8IUktC7vnMeQoQ8u_YtIJMSq6v8wl8KGQjHWO-Iuq93pPCnnl8hTCpE8cIoH0T
+Cinelatino.py,PY - Cinelatino,https://iptv-epg.org/images/QZyC5tNUX5jaoRLcqBufMed045GwV-pyEeHc5IW3Az2Vb-LnisPR0po1LjMLonIvXNSL8Jb6ADrOaC0Q2GTRiy7CdDolXjmmmKiOjllx8PepaOB-PA
+CNNenEspanol.py,PY - CNN en Español,https://iptv-epg.org/images/4sCwaCEPcGH45sivQ90knhXRRVdwpV_Wcg4h_1kzN4MuZTyF03jg1oQe1CjUCEX_wPf71EgN4TD7VxHiW6ADM5r5niFKx_cVkc88o41LzOyw5v8LHNbh
+ComedyCentral.py,PY - Comedy Central,https://iptv-epg.org/images/3ou8GFw1KhemuNX0i-DEub4h9OVIziBZQYMYYsRxMJ4FTvggcbuMSjG1pvdepkk-u-lL8bXXWwDXc74AD2f_clElOjg-IPQRl_CUc3dc8QqHwtQTb9AkBQ
+DHE.py,PY - DHE,https://iptv-epg.org/images/yqh0MHsFuz_WRagrMWB9RuBR3TbTLhUQfWKOUcvgc7ltDLbCQunaSSkb7VlaNAiM7hqeT-u8fX9z5iatCMcKSxJdbBHC93mJuUuNsVsT
+DiscoveryChannel.py,PY - Discovery Channel,https://iptv-epg.org/images/41h_1htIUY0dhk_SL6vVjbDbPUJFJ39wBXbhTrCjnzLXwNVPxzdGiAylMZG8Am6bQE0vCZcE4llhixZ1U97D4hkI3ETzO96mkjIiVc1degTSLf8z7QRSzodXCQ
+DiscoveryKids.py,PY - Discovery Kids,https://iptv-epg.org/images/MrpI71T0v-lden0YKoQgikRatPXqqRibbtIp9Hrt_KMbkEW5VLVCYCUiqg1RVeonRt_t0VoVEeP2y3mOL7FO3Z4Txnt4Ig3b7SyayO-HCbzusHzMFF5uvQ
+DiscoveryTurbo.py,PY - Discovery Turbo,https://iptv-epg.org/images/ztKtprQ4LHOmezF335N2krQQfvDfseT5PflpA6PCoq2xTjrSaJCdRF5bevTLOsXJCoaNoBCjkHkwCeAU3FQtq4LPJ9qyUtayU6A5yzq4DT-CMc3R-mCKLFc
+DiscoveryWorld.py,PY - Discovery World,https://iptv-epg.org/images/HomIfjr3yai1-rOIZrAUdyh3tE3jGmjkrvTohMoLoYfarZT92hFiLouXbggFu35ewjuMT6TDoCau-VTIrsiv_U911lDKtTq7CSuY_xcGgyTv4v6a9F5oLdk
+DisneyChannel.py,PY - Disney Channel,https://iptv-epg.org/images/3Gd7akXbb6jZRvE8Z4x1pJuE73Wgq0mTjS-x1zo5x6rw5Xiwh6m_0ixfKbErRQ4-X1IggcyI9TtBR1T76l8lpeOpCDKL4Y2XdHZ9iBFl8FA_-0i-rPgRgw
+DisneyXD.py,PY - Disney XD,https://iptv-epg.org/images/XsDAl0Kk8h8a3kM0AFA9MV5iTOnMnLLa-39NLPQEXlZ4JAmVXdaTr1Gh6b62FKmqUk6GuLsLwTT65Xn0zg03c2Dgm3AkYIzS-7o2tahIbxREYLA
+ElTrece.py,PY - El Trece,https://iptv-epg.org/images/Oxyxy8Sen5wYQQaWLxNYfovQzCYufHU0OQQUWUGDeo6HthOOS8e0rixJcAH78UU5rQNQhmw2c1Qm0cRckFcSFE7LikGG09L9HHZxHW09M2OF2Q
+Enlace.py,PY - Enlace,https://iptv-epg.org/images/02NvCNZBJyRzTq4yN90pV7lSYZh-xb27cZm1Ead33Mjnd-dWFot2CKJxM8JuglR0-i0AYB7wnNdhfIaGkhMLyh-D1amY4pAMTtyzo-H95xRN
+ESPN.py,PY - ESPN,https://iptv-epg.org/images/VGf0DMzcrVFS733pOUjMU2HEcK-WpkVVoKIuBkOHng2mEoVKOISUtDbmRrfkRAwvRhMjNFuZXA-_BNMXr3MX0YoFlRJtyNORSauQdPYd3w
+ESPN2.py,PY - ESPN 2 ,https://iptv-epg.org/images/r-aru2gcJIfEKt-9DPGWNDzg-N69I3uH5xSQ9bWlPciWjqQOZHg_h9DLdJlqRcoM5RAA4z3u4uwE-Hz8EEHNdrZgsurVCVm9yW12eWw24k8
+ESPN3.py,PY - ESPN 3,https://iptv-epg.org/images/rLYzxoQBv3egw7VS5y_kI8JC8OygpShKoWBmQOM8GUzjX4YyWmfiS8TfFkxqT7zUOcp5QyA50ocXmoxi-zMAl1ImhGwND7_n3fHFfV4d6n8
+FOXSports.py,PY - FOX Sports,https://iptv-epg.org/images/pVnIOGCnL-zfPMC_mv7RbJxEuRzVwb1kEv8MtmY8YhCTwYx8li1VzTX5Fe5qF-FPpu7mUOVi7sxc3EmXmBDKjtKJkLMtEE-HzRujjuICcQUpekNi
+FOXSports3.py,PY - FOX Sports 3,https://iptv-epg.org/images/tO4sw9gA6DSAll5BzhPm11agDNLToTnfwBRMTw_M3_zWCYP9xzoSxSv9PDJi1kpOaMzcouMP9YTiEH1NKtupdtyR2o2M8AOCgOaAbiyQS5DEhM2AwQ
+FX.py,PY - FX,https://iptv-epg.org/images/DjzLYgqVdwXIbgXeCqihUvp-EE0-sv3pTamBigT_olTXh2OsEefrsGmntFTWIxFkfYijAG5Gdqf9pwz-CiXYKDeqY5V45_YZIYvE4X0
+GolTV.py,PY - Gol TV,https://iptv-epg.org/images/OA4oKi34Jl163z0ew7lekLtykF_3qnuZAKpGUpYE2v2N3ss6TfTH0tw-cKVEZL98JgAN9MzmAPycyFesYCurGFvhUh0wqxpSb2LscnOPdzI
+Golden.py,PY - Golden,https://iptv-epg.org/images/tit7gdHZfYDzrl8mex4JX0w0aSY0-t82c-iB4_vSdVxn2GFi7_xZKMM04wM6sHZocPeVRRFoAhr8j7tCpMnYIjkYBx7IejfpbX0GupnZlTtF
+HBO.py,PY - HBO,https://iptv-epg.org/images/usA5IwMIqqqsEo6LwguI9wi0flLH44pHbbaIYUCxhzxMifwNcDP5AM8CIuDVQl1TMI6lZ0YDSU1JjOT5sFhuDbnXq4A8QHiF2Mf4oyB3
+HBOMundi.py,PY - HBO Mundi,https://iptv-epg.org/images/IZnjmks75jqyoNqeU_Xkz1CBW02sSAo4HzXVk-PZ6S7rI81k0LHzezz1USC8irfV9nrcnRQ6A-b4d7AeDUdW6ZXuCEHk7AYL67xYnVMgCneTdVE
+HBOPlusEste.py,PY - HBO Plus Este,https://iptv-epg.org/images/AvGMGEyO6v3EwR3SVS7riR1lLV6WHoF5w5Q6B8ExkAnmGOcwZR8IKMqy7vgiO3FzA3FDuoxttBETGb68fM7w41VLG2Bx3P9_5ufko3epcRrgw4gf0j4
+HBOPop.py,PY - HBO Pop,https://iptv-epg.org/images/8li8_HZigpQFASVE8ciNjJKZkdo8PkQfP7JRvqGCJeVcdwyuQmzSMohzis2nxztb6yi_CrZXmRxZdGhJ3ZT-dZXYiSKZ2QefGo046-UVCsC7
+HBOSignature.py,PY - HBO Signature,https://iptv-epg.org/images/pv-mvvROgSKb0-3lD7ok1TNcQ7r17Y7vfH93_E9EOkF_rw3YLOluRbo6uRikHPkVPN-S6XA-yDX63jNxFwsvWRmtmVV85xGE1-5gNu6faCFpd2zCHWR5
+HEiNetwork.py,PY - HEi Network,https://iptv-epg.org/images/ZRSTJoIua3hCB4U8522kaOESF8XwadUAuXo1Nc2o9qtJWaO3gnjgRwvRAY4fvTMlJCLdlMLP8x7uzF_vmNBlCq2GNMU6rCOGW6Q2Pj7SZ-DOMGPY1g
+History.py,PY - History,https://iptv-epg.org/images/lgkK_L0tzmcQmsVOWlemVHPbhHM2-_Qa3wp_CzCUicEpGohqsn8s427oTXMJyzp-WzYaxZ4pVAgY9a8-2XsVS6XRSmhzx69hti87WWhhdE4j6w
+HTV.py,PY - HTV,https://iptv-epg.org/images/Vh9uEZuV0VdCg38s40i2zkosDXXB17rd8hY1D4iK-Q5rP4ZZ2_8d6AKR-PsUot9_1VKEYtAA65JwU34mO5DMU7LMSLBO8k4HUlKjZZXA
+LasEstrellas.py,PY - Las Estrellas,https://iptv-epg.org/images/HBrx7-NXNcHdqBo2CAwbuepVu-1G-D9GVqpJhj7MKBCE_pRiTjOQ2zREAc78dM4qVwWapi5w4QzR1_VAWnKV8ygPgbzFnEJcV8TdPNgE7Y_FxGfi9MIF
+latele.py,PY - latele,https://iptv-epg.org/images/oXd-uD0wYY7tnhv5N4WWSeoX_cd603bg7GZ1hyxwKiubEVJtARbw-Iu-XJDlDCpGud-d4CNGJbl46Qm5e6bxt_CG2S3nafsTFsO7Pkr8M4aq
+MTV.py,PY - MTV,https://iptv-epg.org/images/JVeTxRW0KYTYNG55L_L4pzhTJ4b-aWCRAx61YiaeVVTViNwufFy88RpunAJxou9BsFnvp4p6-PGUp064BRzE_aKspI4_cj17RUfVzYuy
+Multipremier.py,PY - Multipremier,https://iptv-epg.org/images/fqsztPZQzWHtd5TckGZyCkACDg9v7WmwOF3cdpFAxw67W6bSMLsQprkHLujVMluUr4A_9U3wXI7hY_5Rmky2dPL3zTuphJm-00H_MDEh_3uS5yzSvryv
+NationalGeographic.py,PY - National Geographic,https://iptv-epg.org/images/hBSwrWC4ojIAoab82bgImY7RKvACzj8olPRsic1eoRC_DcVnq9EgrZaA0RO4PSSddjcQIXT7HurATsfEEPf0etYPMW8sD5tCNd0pEaNJmVkmeLSz2NchTJxAYi80
+ParaguayTV.py,PY - Paraguay TV,https://iptv-epg.org/images/dpUB5aDzaakVXcZ0Kuob7W5WwhZ3A6wwTkzzoxKAwtLKLlbI3DO5qx-6oNhxKTriMH8Pk8FpCzzMcWrD5ULBEZucaZ0queZWJrZoZorMFulwshASRg
+Paravision.py,PY - Paravisión,https://iptv-epg.org/images/EQx82iwBuVQyj5JGqH5CImwXhVVqFOLAPt_o9d2G1yqjyzuBLGn5zdVkyTn4hXZA64iNDeKZvLhgP5cKczVZz4RLX7kkU16rQNBmOUsoN7dHsZBsrQ
+Playboy.py,PY - Playboy,https://iptv-epg.org/images/QvbLhkDL0guZOi8a0BGo76lGb3yh9GHcxLjSu3Y_8VnjNELye_gb-FfF92ZfTtm3vVvrk8JcaukG2dzAusi7g5BNH2GCXGDAOp74lGBMrYNZQg
+RedGuarani.py,PY - Red Guaraní,https://iptv-epg.org/images/x0LJrAUdfRaUl_Esxx8cqEKtYAE1rPj106SewTf9ZUJP2Dq-wXw3IrqPCyfHS4w7QqpzlOIfpBi0dh-KhxH2bzjSl2aD3uTAh-VRCTqG61lQWivl4Q
+RPC.py,PY - RPC,https://iptv-epg.org/images/EtW4QMddGVWlfgi1ILcmwHtDr2fNLPkyUIu2HYzLUAPuWjdkX6lC-oBITVAoNCaVINIvsWYbyF_r5wflOKc4D3yOpMyyvXUcjI8dIL74
+RussiaToday.py,PY - Russia Today,https://iptv-epg.org/images/zv3ArfCZ0Yn9UZrI16rc2miyqsoExOyvFsgvnyFUbJq23TJaZ3A2N8fsnRskpotjZ7CCO8YVkSmWVFxHpVI7429KhD-7IFH8VPZtVdG2ijfz4ZBIbmM
+SNT.py,PY - SNT,https://iptv-epg.org/images/266OmtM9Ac0nMlmku0bzB3zax6HkhrtL0qWEoajr55SE97DqIv9iOfWQsbtt0pJH5yg2gPKjy3gI2EExx_e6Jm2YO8wJmB7vle2Ok-VJ
+Sony.py,PY - Sony,https://iptv-epg.org/images/u5xdvOPpoh6zrAo17e98bBcXJkfnxvv0gfYJ5O_rryOVNr3ohNPGEbUVWm2rj5xOkkrQS2zfnXwTy11imTdc3Oa-Ng2zoReukddGRcyUmg
+Space.py,PY - Space,https://iptv-epg.org/images/UYvA1QuqWl6L0uHiir6-ry40o2-1AvFQTdVGoWz7iChzogXOAOyVwLpdMBWw8TmLw4Kb_9U2eR2t3UevhjZ5JeNak1M8NEgRpq8zG5kV8Sw
+StarAction.py,PY - Star Action,https://iptv-epg.org/images/MbUANWe68IRz4i1Cbg_UhB-xmQrue7XFwtWQ6QeX8yHDuWBF7y3bI6RxPZliWU1EEw2LpLHT6K-1Z-OWR10pmZhzIZWIuaSzAIrFyKOHUMRqTNYtsg
+StarChannel.py,PY - Star Channel,https://iptv-epg.org/images/tcKVFuVhXTB9pf_twOrMyzS0n5x4BCS9Fvg6saJgGoK6pd1umb-hjnwBpyNvoFE8qCmH76yLOrGCxvnbKtgdVGbPtg8zOUlx6Ehj0OOGBBSdPXvW1Lw
+StarComedy.py,PY - Star Comedy,https://iptv-epg.org/images/-AuqM7HdGt6pDkKH6jyUgwTiuDcXVqSp7xIjmq1t9FhNWcUog5QdAhI_Pg5pyuGGLc8r6dyRWFVgaXbmdS89ebxK9i5L4x3CU0_xOPnORXGQ5SQ9fA
+StarFun.py,PY - Star Fun,https://iptv-epg.org/images/9eBoX7pYQdiysSAETi2njFcgpJGINEk_3QTAAhRQUvnEWg3neqdd9LDGwnPqBQkPZINgxA5eHrC9hvoMVPl6r7Z4YFWGO8hfdyNCTjJJakvC6w
+StarHits.py,PY - Star Hits,https://iptv-epg.org/images/tP6ZS-59BKiueJU6H3bIJHND5siw6a7HaSfB8gezoAqindk1jflGFa2aVZKpf2Jnkmpiah92B-qFJwbeeDKF6TZXHnt1EeJTMVURUArOL068kyk
+StarSeries.py,PY - Star Series,https://iptv-epg.org/images/yatXP9UVRqyUeNmGrVpUIRZS03_3xoxsvX7MH2015UHd4TT_EyJDedXu_qqXBZHFna8WUH1V-OGhH_akLkVjvbe8c9Go1trJjQagiFpRotYmk6XO5A
+StudioUniversal.py,PY - Studio Universal,https://iptv-epg.org/images/JjecG1Gi6OSpCYeMIX2HkmDbSuCru3k8oeymaXSzByV7iUCqsZC5tQJDFMFkH3hhXWiX8oKySBz_UewvKrCFGxdum0PzjetKeVTyOoSwLYYw7DAfElyWLxVn
+SurTV.py,PY - Sur TV,https://iptv-epg.org/images/l80oPVbdLNGTJnnNZNplUrVyy3bGUtLRDpUqElk28wAB5FeEAJ3_hRFnHYqQllSrZPDDj4xPCb_iKdvdN_xwBdwq0iCdoi3GEBzlFNYkNxI
+TeleAmiga.py,PY - TeleAmiga,https://iptv-epg.org/images/YLYRX5k93MwOouGi4tFFtxq7MQcXcLp43wIUaJ7iaLJ0NlEc0MEqBoLMiPeiROWhdNE4gFZlA3S8Yy9wxYASW0uZwsoF9wL5jddrT8dCTtU6ODmR
+Telecafe.py,PY - Telecafé,https://iptv-epg.org/images/GBgEjMhfC2fn40yZISyTejzgIJ3_PKEB4f2n4P5atbk3DzlbXcxF1IfIjKY12Un9XdlmmUmowDjV6Twkh3EXX09YPfZoElH1seKo5HH2HiywORU
+TelefeInternacional.py,PY - Telefe Internacional,https://iptv-epg.org/images/Flsh3MJDmpIIOTWedlDgIV3l3BKDXcC7kE0HUQoWL6Rt-HxIpFeBPNGSXdxW5Wdo0vNvHdNVAgEbwSn2TdkJD2DWkk_qDnG6Di6r5e221GnZGioVkRW_s1dvsFxhEg
+Telefuturo.py,PY - Telefuturo,https://iptv-epg.org/images/-JGX6VN82fu6JBXQ_u5j7R3Xw3mlhO11TsRCsg_J_snCj0Nyum2JECWZ0CgQxEN685gbmRe1iT9l8KwL35Sr6Rl2UI8D8fl7A3faLsvmZCWWYGhA0w
+Telemundo.py,PY - Telemundo,https://iptv-epg.org/images/sHXXbxaofFw70TD2yJL6TJqKwhNiCwtGWxrn1HOAtiNCIYtTaqCBQLSXK09iRQpI2Oar9B7-PeyFPKbicfNG2rnCXFlFdp7uXm8pV4PLPhU7fJI3
+TigoSports.py,PY - Tigo Sports,https://iptv-epg.org/images/OkslyNO9A0BQ_v_FxvYhz0tA5g0WTI66IxvIg0FjzxSVfMd1dx0TBVGslvmpkgCZoUVpxH-iboMzMXG3JxVsDTiLrQW3kxYyYC9uSoBXKS2LimZ42g
+TLNovelas.py,PY - TLNovelas,https://iptv-epg.org/images/qz_zPD-3gIU_YDLPsAwEGT2lZpTW867l3LSY3pbFo1avuy_YI4SacOpsXhoSSI8q2PIf3SUZDt6_JrRnbTxiMga0hx7oD-IVw9YKk9IuyuO5QyGt
+TNT.py,PY - TNT,https://iptv-epg.org/images/Hkyot2V2Co_4HWxGKQSgy6wXgATdq4B8uFri4UQlZVqBRlBslpC7dEvf9JYrAplAp68rRU66qoJkLMh3hfK67ulFrZqLZKEeNlhJJDjc
+TNTSeries.py,PY - TNT Series,https://iptv-epg.org/images/aikTdhv94TmDfuQPwNbrK89lCw56DaBxzwr31Sx62tKwZ2iCZiCWoUGghuTalzHd-HDnoeXHUdF3_UbH3fRYwubOI2ZUaxJAkCo3SmTXQq5g9FLm
+Tooncast.py,PY - Tooncast,https://iptv-epg.org/images/6R00Iiua_AbpvU0f-aRyjCzT2HH984jBxNYdSufx3kJEOMOGWiVFkhoV75hUrtac7yQOjdr_tD96hRQi4ro_l_9VsmgPAjW6ucyBE-a5OJ0iaUc
+TVS.py,PY - TVS,https://iptv-epg.org/images/7VtRM2_TRo0hPHr4Hcp4WfnB8-NAn8bkoNajaeeeYd7-TDy6pFmn3GRnoZ9pwtAAOdFMyL8qD0yyiktqxiNZRBm24os7IaRT_5qqNQWt
+TyCSports.py,PY - TyC Sports,https://iptv-epg.org/images/XFzqZJwc3OvM8hONVEJe8UT9CoqHJqNuwP2KJUCSqwse8mqPXDQFDP6_BJfmDpe5-iK2F7sUtvELMCFZFDj7E2gF0S03SW1h6f8qzY2HGM5sg4hX
+Unicanal.py,PY - Unicanal,https://iptv-epg.org/images/JKov92u_3jAlIf5yxcv0Sto2Nimk5WseW_iYpq-08e_63yDxPXMrsvkOtEA_GDJtDe4MMzWsXCrzw-TzZ6VSQieJiSYqgJYY2KL5eoODGrD-BQA
+UniversalChannel.py,PY - Universal Channel,https://iptv-epg.org/images/GHvm8WtMxNN5Ry_BApyOozsCuERAA2QV-jBl-mhD5cR7bRyralO3nmdeaibt_ZHIElE1sb3Hj9AO_y3Ue2d9Bsq5cmi7NvjYItGczMsqU49C0TZiLwlAsu4Qxg
+Univision.py,PY - Univision,https://iptv-epg.org/images/DQvqKuKnc-dT66GFB2eSuy71iigoyizbnNfs27tkDl6F8eX0iMU36ifxhHewB1pmytGjxlDzhU6ABUqeDGagBbFvBhntSKvFHX2W-L2_T4S8BDTu
+Venus.py,PY - Venus,https://iptv-epg.org/images/XErt4YJ7dZPcVnEqJDcDbjZv2w3BBWOTUA3Ikk8fWPuDNKhyhCvbvWh6bXQALd90oHk903jY6prCIl6WCTDYU7SdOoOa4J1IAduCr7Je-d0
+WarnerChannel.py,PY - Warner Channel,https://iptv-epg.org/images/QH2XjW5bbaYUboO0y04nZQDYxCZqBWQBcwiEToaGdow2IlxEKJZ7MG3jau6UjRuG7vSblFPcKkZA-l8qopr9iv5ol4JK_dE387m-Nsb1k6Vvk_9rviI8jQ

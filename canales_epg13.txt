@@ -1,126 +1,126 @@
 # Fuente: https://iptv-epg.org/files/epg-pe.xml
-A&amp;E.pe,PE - A&amp;E,https://iptv-epg.org/logos/Peru/A%26E.pe.png
-AMC.pe,PE - AMC,https://iptv-epg.org/logos/Peru/AMC.pe.png
-AmericaSports.pe,PE - América Sports,https://iptv-epg.org/logos/Peru/AmericaSports.pe.png
-AmericaTelevision.pe,PE - América Televisión,https://iptv-epg.org/logos/Peru/AmericaTelevision.pe.png
-AnimalPlanet.pe,PE - Animal Planet,https://iptv-epg.org/logos/Peru/AnimalPlanet.pe.png
-ATV.pe,PE - ATV,https://iptv-epg.org/logos/Peru/ATV.pe.png
-ATV+.pe,PE - ATV +,https://iptv-epg.org/logos/Peru/ATV%2B.pe.png
-ATVSur.pe,PE - ATV Sur,https://iptv-epg.org/logos/Peru/ATVSur.pe.png
-AXN.pe,PE - AXN,https://iptv-epg.org/logos/Peru/AXN.pe.png
-AzCorazon.pe,PE - Az Corazón,https://iptv-epg.org/logos/Peru/AzCorazon.pe.png
-Azteca13.pe,PE - Azteca 13,https://iptv-epg.org/logos/Peru/Azteca13.pe.png
-BBCWorld.pe,PE - BBC World,https://iptv-epg.org/logos/Peru/BBCWorld.pe.png
-Bethel.pe,PE - Bethel,https://iptv-epg.org/logos/Peru/Bethel.pe.png
-BYUtv.pe,PE - BYUtv,https://iptv-epg.org/logos/Peru/BYUtv.pe.png
-Cablenoticias.pe,PE - Cablenoticias,https://iptv-epg.org/logos/Peru/Cablenoticias.pe.png
-Canal7.pe,PE - Canal 7,https://iptv-epg.org/logos/Peru/Canal7.pe.png
-CartoonNetwork.pe,PE - Cartoon Network,https://iptv-epg.org/logos/Peru/CartoonNetwork.pe.png
-Cartoonito.pe,PE - Cartoonito,https://iptv-epg.org/logos/Peru/Cartoonito.pe.png
-CCTV4.pe,PE - CCTV 4,https://iptv-epg.org/logos/Peru/CCTV4.pe.png
-Chilevision.pe,PE - Chilevisión,https://iptv-epg.org/logos/Peru/Chilevision.pe.png
-Cinecanal.pe,PE - Cinecanal,https://iptv-epg.org/logos/Peru/Cinecanal.pe.png
-Cinelatino.pe,PE - Cinelatino,https://iptv-epg.org/logos/Peru/Cinelatino.pe.png
-Cinema+.pe,PE - Cinema+,https://iptv-epg.org/logos/Peru/Cinema%2B.pe.png
-Cinemax.pe,PE - Cinemax,https://iptv-epg.org/logos/Peru/Cinemax.pe.png
-Citytv.pe,PE - Citytv,https://iptv-epg.org/logos/Peru/Citytv.pe.png
-CNN.pe,PE - CNN,https://iptv-epg.org/logos/Peru/CNN.pe.png
-CNNEEUU.pe,PE - CNN (EE.UU.),https://iptv-epg.org/logos/Peru/CNNEEUU.pe.png
-CNNenEspanol.pe,PE - CNN en Español,https://iptv-epg.org/logos/Peru/CNNenEspanol.pe.png
-DePelicula.pe,PE - De Película,https://iptv-epg.org/logos/Peru/DePelicula.pe.png
-DestinosTV.pe,PE - Destinos TV,https://iptv-epg.org/logos/Peru/DestinosTV.pe.png
-DIRECTVSports.pe,PE - DIRECTV Sports,https://iptv-epg.org/logos/Peru/DIRECTVSports.pe.png
-DIRECTVSports2.pe,PE - DIRECTV Sports 2,https://iptv-epg.org/logos/Peru/DIRECTVSports2.pe.png
-DIRECTVSports+.pe,PE - DIRECTV Sports +,https://iptv-epg.org/logos/Peru/DIRECTVSports%2B.pe.png
-DIRECTVSportsFight.pe,PE - DIRECTV Sports Fight,https://iptv-epg.org/logos/Peru/DIRECTVSportsFight.pe.png
-DiscoveryChannel.pe,PE - Discovery Channel,https://iptv-epg.org/logos/Peru/DiscoveryChannel.pe.png
-DiscoveryHome&amp;Health.pe,PE - Discovery Home &amp; Health,https://iptv-epg.org/logos/Peru/DiscoveryHome%26Health.pe.png
-DiscoveryKids.pe,PE - Discovery Kids,https://iptv-epg.org/logos/Peru/DiscoveryKids.pe.png
-DisneyChannel.pe,PE - Disney Channel,https://iptv-epg.org/logos/Peru/DisneyChannel.pe.png
-DisneyJunior.pe,PE - Disney Junior,https://iptv-epg.org/logos/Peru/DisneyJunior.pe.png
-DisneyXD.pe,PE - Disney XD,https://iptv-epg.org/logos/Peru/DisneyXD.pe.png
-DistritoComedia.pe,PE - Distrito Comedia,https://iptv-epg.org/logos/Peru/DistritoComedia.pe.png
-DWEspanol.pe,PE - DW (Español),https://iptv-epg.org/logos/Peru/DWEspanol.pe.png
-E!.pe,PE - E!,https://iptv-epg.org/logos/Peru/E%21.pe.png
-ElGourmet.pe,PE - El Gourmet,https://iptv-epg.org/logos/Peru/ElGourmet.pe.png
-EnlaceTBN.pe,PE - Enlace TBN,https://iptv-epg.org/logos/Peru/EnlaceTBN.pe.png
-ESPN.pe,PE - ESPN,https://iptv-epg.org/logos/Peru/ESPN.pe.png
-ESPN2.pe,PE - ESPN 2,https://iptv-epg.org/logos/Peru/ESPN2.pe.png
-ESPN3.pe,PE - ESPN 3,https://iptv-epg.org/logos/Peru/ESPN3.pe.png
-ESPN4.pe,PE - ESPN 4,https://iptv-epg.org/logos/Peru/ESPN4.pe.png
-ESPN5.pe,PE - ESPN 5,https://iptv-epg.org/logos/Peru/ESPN5.pe.png
-ESPN6.pe,PE - ESPN 6,https://iptv-epg.org/logos/Peru/ESPN6.pe.png
-ESPN7.pe,PE - ESPN 7,https://iptv-epg.org/logos/Peru/ESPN7.pe.png
-Eurochannel.pe,PE - Eurochannel,https://iptv-epg.org/logos/Peru/Eurochannel.pe.png
-Euronews.pe,PE - Euronews,https://iptv-epg.org/logos/Peru/Euronews.pe.png
-EuropaEuropa.pe,PE - Europa Europa,https://iptv-epg.org/logos/Peru/EuropaEuropa.pe.png
-EWTN.pe,PE - EWTN,https://iptv-epg.org/logos/Peru/EWTN.pe.png
-FilmZone.pe,PE - Film Zone,https://iptv-epg.org/logos/Peru/FilmZone.pe.png
-film&amp;arts.pe,PE - film&amp;arts,https://iptv-epg.org/logos/Peru/film%26arts.pe.png
-FOXSports.pe,PE - FOX Sports,https://iptv-epg.org/logos/Peru/FOXSports.pe.png
-FOXSports2.pe,PE - FOX Sports 2,https://iptv-epg.org/logos/Peru/FOXSports2.pe.png
-FOXSports3.pe,PE - FOX Sports 3,https://iptv-epg.org/logos/Peru/FOXSports3.pe.png
-FX.pe,PE - FX,https://iptv-epg.org/logos/Peru/FX.pe.png
-Glitz.pe,PE - Glitz,https://iptv-epg.org/logos/Peru/Glitz.pe.png
-GOLTV.pe,PE - GOL TV,https://iptv-epg.org/logos/Peru/GOLTV.pe.png
-Golden.pe,PE - Golden,https://iptv-epg.org/logos/Peru/Golden.pe.png
-GoldenEdge.pe,PE - Golden Edge,https://iptv-epg.org/logos/Peru/GoldenEdge.pe.png
-GolfChannel.pe,PE - Golf Channel,https://iptv-epg.org/logos/Peru/GolfChannel.pe.png
-HBO.pe,PE - HBO,https://iptv-epg.org/logos/Peru/HBO.pe.png
-History.pe,PE - History,https://iptv-epg.org/logos/Peru/History.pe.png
-History2.pe,PE - History 2,https://iptv-epg.org/logos/Peru/History2.pe.png
-HTV.pe,PE - HTV,https://iptv-epg.org/logos/Peru/HTV.pe.png
-InvestigationDiscovery.pe,PE - Investigation Discovery,https://iptv-epg.org/logos/Peru/InvestigationDiscovery.pe.png
-LaTele.pe,PE - La Tele,https://iptv-epg.org/logos/Peru/LaTele.pe.png
-LasEstrellas.pe,PE - Las Estrellas,https://iptv-epg.org/logos/Peru/LasEstrellas.pe.png
-Latina.pe,PE - Latina,https://iptv-epg.org/logos/Peru/Latina.pe.png
-Lifetime.pe,PE - Lifetime,https://iptv-epg.org/logos/Peru/Lifetime.pe.png
-Mariavision.pe,PE - Mariavisión,https://iptv-epg.org/logos/Peru/Mariavision.pe.png
-MiGenteTV.pe,PE - Mi Gente TV,https://iptv-epg.org/logos/Peru/MiGenteTV.pe.png
-MTVHits.pe,PE - MTV Hits,https://iptv-epg.org/logos/Peru/MTVHits.pe.png
-Multipremier.pe,PE - Multipremier,https://iptv-epg.org/logos/Peru/Multipremier.pe.png
-MasChic.pe,PE - Más Chic,https://iptv-epg.org/logos/Peru/MasChic.pe.png
-NatGeoKids.pe,PE - Nat Geo Kids,https://iptv-epg.org/logos/Peru/NatGeoKids.pe.png
-NationalGeographic.pe,PE - National Geographic,https://iptv-epg.org/logos/Peru/NationalGeographic.pe.png
-NationalGeographicWild.pe,PE - National Geographic Wild,https://iptv-epg.org/logos/Peru/NationalGeographicWild.pe.png
-NexTV.pe,PE - NexTV,https://iptv-epg.org/logos/Peru/NexTV.pe.png
-Nick.pe,PE - Nick,https://iptv-epg.org/logos/Peru/Nick.pe.png
-NickJr.pe,PE - Nick Jr.,https://iptv-epg.org/logos/Peru/NickJr.pe.png
-PanamericanaTV.pe,PE - Panamericana TV,https://iptv-epg.org/logos/Peru/PanamericanaTV.pe.png
-ParamountNetwork.pe,PE - Paramount Network,https://iptv-epg.org/logos/Peru/ParamountNetwork.pe.png
-PAT.pe,PE - PAT,https://iptv-epg.org/logos/Peru/PAT.pe.png
-PFC.pe,PE - PFC,https://iptv-epg.org/logos/Peru/PFC.pe.png
-PXSports.pe,PE - PX Sports,https://iptv-epg.org/logos/Peru/PXSports.pe.png
-RBC.pe,PE - RBC,https://iptv-epg.org/logos/Peru/RBC.pe.png
-RMS.pe,PE - RMS,https://iptv-epg.org/logos/Peru/RMS.pe.png
-RumbaTV.pe,PE - Rumba TV,https://iptv-epg.org/logos/Peru/RumbaTV.pe.png
-RussiaToday.pe,PE - Russia Today,https://iptv-epg.org/logos/Peru/RussiaToday.pe.png
-Sony.pe,PE - Sony,https://iptv-epg.org/logos/Peru/Sony.pe.png
-Space.pe,PE - Space,https://iptv-epg.org/logos/Peru/Space.pe.png
-StarChannel.pe,PE - Star Channel,https://iptv-epg.org/logos/Peru/StarChannel.pe.png
-StarLife.pe,PE - Star Life,https://iptv-epg.org/logos/Peru/StarLife.pe.png
-Syfy.pe,PE - Syfy,https://iptv-epg.org/logos/Peru/Syfy.pe.png
-TBS.pe,PE - TBS,https://iptv-epg.org/logos/Peru/TBS.pe.png
-TCM.pe,PE - TCM,https://iptv-epg.org/logos/Peru/TCM.pe.png
-Telefuturo.pe,PE - Telefuturo,https://iptv-epg.org/logos/Peru/Telefuturo.pe.png
-Telehit.pe,PE - Telehit,https://iptv-epg.org/logos/Peru/Telehit.pe.png
-Telemundo.pe,PE - Telemundo,https://iptv-epg.org/logos/Peru/Telemundo.pe.png
-Telenostalgia.pe,PE - Telenostalgia,https://iptv-epg.org/logos/Peru/Telenostalgia.pe.png
-Telesur.pe,PE - Telesur,https://iptv-epg.org/logos/Peru/Telesur.pe.png
-Televen.pe,PE - Televen,https://iptv-epg.org/logos/Peru/Televen.pe.png
-TLC.pe,PE - TLC,https://iptv-epg.org/logos/Peru/TLC.pe.png
-TLNovelas.pe,PE - TLNovelas,https://iptv-epg.org/logos/Peru/TLNovelas.pe.png
-TNT.pe,PE - TNT,https://iptv-epg.org/logos/Peru/TNT.pe.png
-TNTSeries.pe,PE - TNT Series,https://iptv-epg.org/logos/Peru/TNTSeries.pe.png
-TruTV.pe,PE - TruTV,https://iptv-epg.org/logos/Peru/TruTV.pe.png
-TvAgro.pe,PE - Tv Agro,https://iptv-epg.org/logos/Peru/TvAgro.pe.png
-TVPeru.pe,PE - TV Perú,https://iptv-epg.org/logos/Peru/TVPeru.pe.png
-TVE.pe,PE - TVE,https://iptv-epg.org/logos/Peru/TVE.pe.png
-TVNChile.pe,PE - TVN Chile,https://iptv-epg.org/logos/Peru/TVNChile.pe.png
-TyCSports.pe,PE - TyC Sports,https://iptv-epg.org/logos/Peru/TyCSports.pe.png
-Unitel.pe,PE - Unitel,https://iptv-epg.org/logos/Peru/Unitel.pe.png
-UniversalTV.pe,PE - Universal TV,https://iptv-epg.org/logos/Peru/UniversalTV.pe.png
-VePlusTV.pe,PE - Ve Plus TV,https://iptv-epg.org/logos/Peru/VePlusTV.pe.png
-WarnerChannel.pe,PE - Warner Channel,https://iptv-epg.org/logos/Peru/WarnerChannel.pe.png
-Willax.pe,PE - Willax,https://iptv-epg.org/logos/Peru/Willax.pe.png
-I.Sat.pe,SAT - I.Sat,https://iptv-epg.org/logos/Peru/I.Sat.pe.png
+A&amp;E.pe,PE - A&amp;E,https://iptv-epg.org/images/qmYlA9YeogPqeVJE1OD_I8DgLZ_XgLBsfNA2_vfEwfgr7esQSd7QLjSnUJyG6KjzSoEmZnF5o3VhAm6d0G05hDtt7gc7ebtYapT49A
+AMC.pe,PE - AMC,https://iptv-epg.org/images/CHS6a1L_-PWJjwL-qW04HQTy4lqpLpsLtnFaqKRJBL0iZLef2uAiRTbd-xmF_fp6BxY6lFI4mHeiLLDjn-1KFu_EMRdZotFmbMg
+AmericaSports.pe,PE - América Sports,https://iptv-epg.org/images/PfhM4q8xF6bpmZ8hcDr_xKt6EDIvpYAEJbDxluhjpYg2WiTAglnbFXC_97cfpNDkp_rYGdcIeYa3GEYRcRXn_NKnp3EYHaRl1Tc37x-Ka8tKr23z
+AmericaTelevision.pe,PE - América Televisión,https://iptv-epg.org/images/wuoyo2cuTZIscKm4eI5h1rdFb_k3_3rTat3wRXvBv_C0JEYKUAMr6D92iaowdsVIp3A-4u0illGJIG9lBitufGySGjnSgJT_VIBkttHtwRcFkLZpDMISEA
+AnimalPlanet.pe,PE - Animal Planet,https://iptv-epg.org/images/GDJMsjssKPYKJinsMOEZIZLCf5LVa5N3gDiUuuyZo1gYxNxRrpmKPdrUKwdQzgKxnQE5bnXhdNhxEaCPG-rPirjDZ6lQfbLfqd01c9MijZTLWOo
+ATV.pe,PE - ATV,https://iptv-epg.org/images/mkiVWHEL5DDZUS1jUDgdfQVPbSA2KTxcsGirw5Bb1KIzIJfrqenRmIah2evxk4z22L8x73sbFafQybt9FKTwxJgN_R_g5Vd7TkY
+ATV+.pe,PE - ATV +,https://iptv-epg.org/images/OFI9ED7loLjs8_Qp8bZgr5s8Y-MJHDZameDe1n99qvkVuD_VZKiQ3mbS7QqhSN90Ig0Rqbbm9esMY-fz0jj8S1FjeqHzIxF3hNg0Jfg
+ATVSur.pe,PE - ATV Sur,https://iptv-epg.org/images/mIb2H0THu3npDF3wW4Ah2wyFUnO5kvXkSEzzLMkEUcBKs-B_y8uOJwuXAi9e4Zbq1XyFedrBU3ktkSyKv0VEEkiXP5IRtGbI5EZcsyk
+AXN.pe,PE - AXN,https://iptv-epg.org/images/7WFe1LK_TYaUoz9BQM3wFGWv0Lm__MJly8PDVzcsUdOng44rziVCE2UYnznmjNQygos2BRF0hfIQFz_A2fDa1D0llCC2N47VlJc
+AzCorazon.pe,PE - Az Corazón,https://iptv-epg.org/images/jMusXdptf59zas-WGe8LWlxVoOS9rpan_w8hTcRrlVCbJl3ZLvseEXOHFHxvFNOFBqd5zMadjtVomsI7_0Eip07k0yLCCzAyy2_oUKorMeo
+Azteca13.pe,PE - Azteca 13,https://iptv-epg.org/images/VXQHLVNTolC_fpzcUckeOI3c3_XAi4PK5a8JYM1ZzGLylpon5ZNR8ZiKDfSB0xmC_nW4OzLpnbrxZ3ZZA3xXNiYv3dJ-AkkuE3rhDll7Hg
+BBCWorld.pe,PE - BBC World,https://iptv-epg.org/images/uTOoikP9v61Uk3aAU_hZT0DBdSpG9QueS7cSpP0gy1ryZc-Ur1IHgECf-rPmLlUEd3evA1TvHL_RwZ2OceJbgrkk2BsLvSKzZrOm4UUOgw
+Bethel.pe,PE - Bethel,https://iptv-epg.org/images/wRvrMOMJgp5z_s3MaR2o0Po9Hjxi7BURuLj7qdbE1HQX24dS5LUMBqqmCQZy5A96Cw4Lj5AG_rV1aaupQSXWSVnv1OzKJHYBx5S1KJs
+BYUtv.pe,PE - BYUtv,https://iptv-epg.org/images/CTcpfMRCa15QTJqvh64m-6CEAtbq240Ue6MSKFPX4bnVeQOQjFQEyVThPhfKOMhO0N2weMlMQZONUHVKw8vgQe8yZk-zhAiMw0aszA
+Cablenoticias.pe,PE - Cablenoticias,https://iptv-epg.org/images/RItMpZOYyncrTKjARGAj0OOwdlUxpmJLAoXxAMVMpZplx7nd1oRqhFLLDpdl8EfnTjOyCYNNvSQKAbBYSjNOF3r59Fjpo2w2CoY2rvF__GEg3CbA
+Canal7.pe,PE - Canal 7,https://iptv-epg.org/images/9miu26hDt7JoCUHFwNVtdvUwrKnsHvwGszo3JH7KLof_XLfl-8jLNVcjKCI4SCTPKVrqSZ568q4zGAOJ_W7JVI8uxVD474PnlgPzRVc
+CartoonNetwork.pe,PE - Cartoon Network,https://iptv-epg.org/images/UKbySaPPW7B3l-N0H8NKPfN5x-Dlnxwz6O9LuNtMQKA00qSwzDSxoyzVqPikdPTvkdGqDjbIYk8e9WIw4orLq-lY-ksa-cjwR5D6nvFiZXW9ejH4Aw
+Cartoonito.pe,PE - Cartoonito,https://iptv-epg.org/images/7um8nXAPZbYY-RG4IUtBmjVfUxWXqLdTMsVDTztr3X8MYXO70S-zbMkxxlFnw_ZUaq_M2juhblBygscE0TxY4eifRYb2wP0loLdXxfyyqKlM
+CCTV4.pe,PE - CCTV 4,https://iptv-epg.org/images/7ZoC0q3YtrqFd1JQYavz-I3AFxoSPsXWauV47Xg97tDGuScWALo6FCZBd7idAIvWBR9GJ2cFNERt3gVvtivdmdrX1Xvjf9W-k5ApNg
+Chilevision.pe,PE - Chilevisión,https://iptv-epg.org/images/SSr7PooO8GQSdyI4jOlXCam0oec7I5cO3nfO0OXdMpJBfRgGAjWJ1-IIYG-B02LXa7gql1ZlFQNIJNfWzHc65gNS2GYdFE8mQp-2cRXvm9XhcA
+Cinecanal.pe,PE - Cinecanal,https://iptv-epg.org/images/xjSamGgKZ7Z1OCrEEFav54z1TlLL3QF5EU95K88GR3yHSePHLNwL5jL5dcLH21NHQNug5c9Oi9FEKy1wV6rYKDl8kIRGivmNVf0V25npm7k
+Cinelatino.pe,PE - Cinelatino,https://iptv-epg.org/images/0TADV4TeE-_koZZSnDV_gPN6SMghJKFc9qh0PTnGvpv1AkT7205pb2XfJ4spXL6tDasnb6KnIFSDOrY_gB0fHB0uDHwcsf7TUXXz7YlN0f-7
+Cinema+.pe,PE - Cinema+,https://iptv-epg.org/images/jwnPxCWW-kZTAKFBLlmFLbtGPXPKdJ9iWMUTOSAhtrq3xkojMpk6iyfjpgeK3xPdCTOTf8tqCkeuxYenaJz7fLc8_kjGq_4RW4cK_g8FMzY
+Cinemax.pe,PE - Cinemax,https://iptv-epg.org/images/yqSHduyIyG0YI7wlwo38rMhdizYfD6tFIuVWSD5-tybzD_MW_Ez6Zb6Gyz8fFMWGyBWUmSaYLYkiCXl8ieWMRzs_ltDXsuiupP1mArcq
+Citytv.pe,PE - Citytv,https://iptv-epg.org/images/IBdYF4Dj-hHafPjxU4uQ_L5vvV3FmqK6gb-tnUV1gVrGgpZt1nAm1GJzp98EJu73TS7ouEp7p0cVaK0Db3DrY77xjG8e5ioWH7i5MRk
+CNN.pe,PE - CNN,https://iptv-epg.org/images/QeQ22FOAiFyWDf7q2TGUl9mkyQC12_7Bo677QzkGvV9yDh0pdyx0v9IJefZqqnvl4spZzLXW61kxRQb2mgZERbHfkKgr-3TZIN4
+CNNEEUU.pe,PE - CNN (EE.UU.),https://iptv-epg.org/images/uQCVJFgzowusdSiVpNuOm_Y23YErVIHtG4i6ZLa-RRTJebkjJHYZTvKvpfDHEP_v6hKrXsOAtLOiXKr8269eo5_4eJI9fwuWpn9x_D6a
+CNNenEspanol.pe,PE - CNN en Español,https://iptv-epg.org/images/FRzC2QOqZhRK0OZBJdCr2dm1DWD82h05PGOkeAKXsyUvDPIG0I1BlXiBbJ8YydLnx5KGqG7uT_MwyVfAHGAinVuTZiDdJmj3dKypnPj46GMzDp0
+DePelicula.pe,PE - De Película,https://iptv-epg.org/images/3WCAraEl6169HIDInI71lTCflMtT8cgLMlkNg1nSqXUxQayBGv2dU8msAnnltLxPQ_jvgg1iS0jf_KvjCZ4qgD8wi1ZesoIQfE6kvaSm-zfl
+DestinosTV.pe,PE - Destinos TV,https://iptv-epg.org/images/VWxfN9ce7btAr6v9TJKa7YWUDmLhgrAvQLN9PdhmczCPTNSbblBvVgLW_Ysfey8C7jlvOxYxkpqf2hXnUt6hetkdq2bGBnrbPcaEQ1-pWvWx
+DIRECTVSports.pe,PE - DIRECTV Sports,https://iptv-epg.org/images/rVQEBcYq7zOF7nAPmLrVKGSnzHYAtJGShfBaTFb5GpLx4zgGx80oeuxCNwYTEbc8pve2njZgFr2nkGpDmeM8BGYIdsw413u5POqSUFcpEwpHfX78
+DIRECTVSports2.pe,PE - DIRECTV Sports 2,https://iptv-epg.org/images/iFUk5XxcsLzXyQQFTpTjLdrlk11fbiCFNErp0BSu-gqouP1NLwZXI7RykyFKBlMcy-Rj7_zYbGVMIUt6iYg3fieTBIsHr3oqDCLcU0WNDA82ifJuwQ
+DIRECTVSports+.pe,PE - DIRECTV Sports +,https://iptv-epg.org/images/i_2a4ZvYJmAqLY8agvoi6ui3AyUXv9EPYw4OSymxsredBKdL6F-K3by4jEvGNwOc_fNTnLTLRShJiGPwc36K0-i62-O38fsao32BQWbxnExx0f_xE2dv
+DIRECTVSportsFight.pe,PE - DIRECTV Sports Fight,https://iptv-epg.org/images/dsz0Gri5SoBS--lqyeuSPlMCEFPp4tfuCSTWD3MU6FLorHfIW4A1QYfVHhuRKkrjG_wb0t7e20zx1XFopkpH1eas_KJmlCKzk3tKWnqGRR51q9owGqPYT2Y
+DiscoveryChannel.pe,PE - Discovery Channel,https://iptv-epg.org/images/bdDgWJROIySWonZ5kumvG6-YSJar1GKIgaDXO0lGX5lkQmJ1LuTb0Pq0zcuE66nD-0TUn0Xu-3K2g7avHeLmmXhikjE2foUEw3mf0l6MZj-FiZNZGEHB
+DiscoveryHome&amp;Health.pe,PE - Discovery Home &amp; Health,https://iptv-epg.org/images/8yWxBLw0Jg_l-wJJy_psw6ACjgZgeF6ONYE9QoSI3hZwhJuh25bIRvmuGUj1PccE1OK81iqJV_FUWrJ9V5cpd4Ex8bFl5Ic3715j_3vc_o033BVRk9y7l8jVMFGe
+DiscoveryKids.pe,PE - Discovery Kids,https://iptv-epg.org/images/AyCOy2KJq3d6HVGYJpbi5PyLnVC8py-PaO7SKiQ7ynBLKJmAKlWKSd4rPUA36K33qwZ0geb8UWPBfjJ2Rqk1xBawPiDkh2GnXqfqOo-X6mL3DfC4
+DisneyChannel.pe,PE - Disney Channel,https://iptv-epg.org/images/As5XVvEi2zooGovmAqtciWGXhZx-YxzJA7ROI8WLD9kNfm3DQdCyeKRwyRAhwnXfoh3Yn7tHEyKfwD7VTE_AFXsNVCMED3TUA3_1nCl1TVoyYjEK
+DisneyJunior.pe,PE - Disney Junior,https://iptv-epg.org/images/aMyv0EgqC78IIU5iKNba8HOoytnUDDLl0Fp5t2ddyFKZvXwgSI5iPSxEuhqLnTAwwlPCnQDxIbjegbGb5FBulZuHYnDX_yG_jILep2eeV0xVrMo
+DisneyXD.pe,PE - Disney XD,https://iptv-epg.org/images/2g9WIMcX-3nHTWVQFKinME06E1fzTzzP6JqUTGptGkNW2av_dKkC8WIzzqpwjWcs-XnX7Cic5l2cwFIdGnauVHkdU18WHyC4CHuDirKCIQ
+DistritoComedia.pe,PE - Distrito Comedia,https://iptv-epg.org/images/CkwksbqRqd7W6C-mtK-O4GmJoBjrtBLF8DmQ0GcllRlPG7SuI34FWlepOjhfFH2r31CrHQmnEcsFnWymE5Sz5jcylCbG_UNKw2y_gbKmV6c2BKX5_JE
+DWEspanol.pe,PE - DW (Español),https://iptv-epg.org/images/Okx2WO1GGrNWueSf_xjg9ESDFlEAcxU5buZ8JwbuYkMea3fy6AeceuLpKfcxYTJ8cqMJ7uJ4ja4lSrComlTaarCAjytXcQCnvVcvsQTS01g
+E!.pe,PE - E!,https://iptv-epg.org/images/r_HasD7mDvMu0M1MazVNjQB8lUw9jVRQwozutdwtrNaNb4fSlMjuOImotKPsOT1QvpRqzfvS-yUTWtISSpBL--CKhe3Sv00lUjN2
+ElGourmet.pe,PE - El Gourmet,https://iptv-epg.org/images/073p0_mP-kHPbRsFlPpPaLPxQUgBHOqfxGUg4VztTs23NIAXp8yIdDPDea1Brv3J0C9-huAm1mO3SkgYApT9snWVB-fkkX1Ja7LY2JMYjyk
+EnlaceTBN.pe,PE - Enlace TBN,https://iptv-epg.org/images/hqn3GEEC4O7K-mwd90f03soJU5lMLfvT3vEUKgc4ThUmkk3xCwiA_14MZyNJNXQAcUb9yTK9FtoohnLpssyWycNa9b_TPq-jFuQJXz7HD_M
+ESPN.pe,PE - ESPN,https://iptv-epg.org/images/KglYyJSnoQqW4rZ6eWCQ_h1khGo-bm-TlTmP-N2yt2mMuczOEq77kua4m7v9kFXV0_L6qaiBBkw9ZZ8xpEUCosU9F2ExonJrcW4m
+ESPN2.pe,PE - ESPN 2,https://iptv-epg.org/images/ybF5CUPj6xffU3C-jDsMsMUyYpmN4OwN1TcVFtOh5Lp0LyUMpxqAJuRm2dKWG2wZz5Y8mtGLU6fRMSwMZleMmmBQTN93A7gdQ5KLHA
+ESPN3.pe,PE - ESPN 3,https://iptv-epg.org/images/wRi5f13_yQuXN1Byrkiqz7uhjWKmQldI4yUv-ykwnb8UgCkHnR7lWMS90IqW-pT2yywh3j_q2Z9PbQrrMLx-0TsokdKbh3py2jGDDQ
+ESPN4.pe,PE - ESPN 4,https://iptv-epg.org/images/EuERxCmcSV4hsyWsvvfn7Sxki8ycZrwhhY1Oc-OwFIdU2rCURy2iPhwNPzd5h4LPnqN8v4yiKpywbAe-dOC6Taz-xQxWshrnepqspw
+ESPN5.pe,PE - ESPN 5,https://iptv-epg.org/images/L4ZT_TJwIwVukXe23oymXfF7XGPZKxbp6LEP5f8QJDS_hcLle1OKpqmO_tGqLeJT2a8AhqXpUJfc23jTVrGjaaRnI5xH_Xp4dFo3ig
+ESPN6.pe,PE - ESPN 6,https://iptv-epg.org/images/TBocEPowLYUJgkR_lLU3xNDHYvODaCAhJzLmbIRXzjkWgDMDgPRNMQBZPOSGdNJEhuritSrVSuENJgqnV01PhsufIw-GduUmVpFSBA
+ESPN7.pe,PE - ESPN 7,https://iptv-epg.org/images/cCxYLrBMdeF69ADy0V78qCuWGTINTMT7tQMaQutegqp7FMMxBJC1gmnN1I_3f5s9kAIwJP-xVsMzV0JwRSmKx-61HdPyy2EVRAQ4XQ
+Eurochannel.pe,PE - Eurochannel,https://iptv-epg.org/images/DVxtubI3lvXARD0q8zQULKKjAcgXPVaWRnWmWXuhCCg1MPnq4fY_6pC-HmOLUpIYD5xt6ub9To4FQr1PyRMGZb-wPfBpI81ljpnetmC0CvfbBA
+Euronews.pe,PE - Euronews,https://iptv-epg.org/images/xXt2qN_IIOt61BymHtN_btyF7uE5gASrNVN0GgmO-p5P0QeaZg-YGoO7p5ZVTMmv2_b8sjbdkJT2noII2NyLubx2Vp1BtawCJPl_qzjDsg
+EuropaEuropa.pe,PE - Europa Europa,https://iptv-epg.org/images/X_KaMmhjCJdPtGQWcTvA658P1BX84xcgWAoEeqY_OYknnR7ru79-qZgmZ-UDAdL9PS4NqkOhAe6QxNROYY06ANRHmA9PhIRsRQre-Ja63he6Tmw
+EWTN.pe,PE - EWTN,https://iptv-epg.org/images/6z2wPi8suNMMI4zfrhvBd9GepllwwAqLKGjHfzvU_YRnpEXmKzKmL84652BW_TFHfNibxwxAGk1pw1k6sWdoji6egRD4f5dM_st5
+FilmZone.pe,PE - Film Zone,https://iptv-epg.org/images/WTqokI4awv5KbJ8CjPyAI8VFi7sHIOVwfXaVyiqfaIJYmiyeOfn3IbP2Bwj1fGpKxvgU0nCHsST_eMneVUV-e-YfzwcQrrciIO4UoSxpJQ
+film&amp;arts.pe,PE - film&amp;arts,https://iptv-epg.org/images/zXIoS0Q8N9iOGMduIeaz2O9QIqpxdA1gbX_qgIP9tUAqa7aqIKOVEWqXqtKztTe0l8q0__gszBu4Dr6bAosMTa81ABJZlcxDRS_2JTKbKXmtQw
+FOXSports.pe,PE - FOX Sports,https://iptv-epg.org/images/WOdP0GuA43tWyGuNHnWfdhzX68m5DTvWYqxduq5dV6Its-Ef15hqCyqGt46FGaZ09maetLSw9E6e3MNiJFnGtvmRtd3bHrHkZx8r5MxIpsI
+FOXSports2.pe,PE - FOX Sports 2,https://iptv-epg.org/images/1ZcIVfeZ5DauClQ3yfb3e1i0p3WCkIMJY7ndD0vGEOA-IoB9NGYKVFOcRonx73rz0iREHyGx3pHJD88F5LKRZt4S0obt7IEl5LVg2i7hO0Yc
+FOXSports3.pe,PE - FOX Sports 3,https://iptv-epg.org/images/a3MoGSwNN2CJeEpT3sjSuuZwNiFhiffE3wgNvCjaa4lJJIjAGKqSj3FwmQDaeS-omqEfGVreXi2VvE-yynWW_K60r2eI4_8ct4EqTbhc0Cxz
+FX.pe,PE - FX,https://iptv-epg.org/images/rEDZjGQeu4O3zv_ejl-iIMzaTTpw3XQ_hzWnU0nJKCOYepFdlOlFMSvfVd3KNlVRfpnsTb-J71rjm5VZeo31vLLtSzJzvQTq_A
+Glitz.pe,PE - Glitz,https://iptv-epg.org/images/k7zHroApJb_W1U_dLu1SjFdWENj_R31kxgA7QAbc3UFKznCaQvKRHLCjrBZGelMDKLaPxpqvR9t2utnpcFSiV7OQlips6yHxyrAJBg
+GOLTV.pe,PE - GOL TV,https://iptv-epg.org/images/cBCHgXAG2X6wyQxyU7VpnQFea7LRWq6RQPqgZZYqLmsTVWxSUkMEyB-iSs2jyycK5mrUMM80-kzadbZi1ErEAfRDDmTeuegIK-q3fw
+Golden.pe,PE - Golden,https://iptv-epg.org/images/m56wq0kifTcoI0M5wjY5VFamOH61DOxAU3rb_Ai0NOXA1j4Jsp2-0C-DEW-xEWrmcDeauU4fv21E6z9kza1XHcEWOoCDRSRbK6Zjjqo
+GoldenEdge.pe,PE - Golden Edge,https://iptv-epg.org/images/kphsA3suBvzLCLZyFLETm9CPvvXpZ78GYmehBLZayespC7cTJxxR_BBUNV4UmPHOjKCazHlDaus6lTENVQGIyrvMvRxcR_v8NebW4m6R01Nt
+GolfChannel.pe,PE - Golf Channel,https://iptv-epg.org/images/cFmno0KYVYv3xiXfRWom7EdKfxnOy2qfhNnKGmrdz28SWZR16SGYtbUxwfhH8vm1ZyF4GAZY1MI9IXhAAFXwpg903XIVyC58m2XSLA-w9d78xg
+HBO.pe,PE - HBO,https://iptv-epg.org/images/-MLlxrTyr1TLgYwNWHo8Pm9R7ntp_Y79kNHt8sKEz1qROu7Wa3I7hQ7Sv2T1kkFUrfemhR5M9w6tuKfgHhdY3TALSItJlxJJHYo
+History.pe,PE - History,https://iptv-epg.org/images/R9qLSupzT2K-imjC_M3wVKH-EFrWXVmb0ZHDQ_26Kk9_kbjviyoMWmbejmjhxCO-008nNyppye53AhJh84AJOwL3p7W7hd1RzxpVNSyI
+History2.pe,PE - History 2,https://iptv-epg.org/images/mjrvvqfv0nrpNZr_9PaCQCpd8R5LZZD-1NAiuUzBZkiZv8KHAOGflfh1xs8CnzhSyUKR-9Kzk9x8uOkETmpsz5aEIToPBxz1R0nKYB37JA
+HTV.pe,PE - HTV,https://iptv-epg.org/images/KyVXCMhCJH-ofBxef2JfpH0pBSEOZHg_BEeBaD31FYe0J1XuaBS6Toh6yOQ0fml9Rp01_cJrP5sX08IE-UGoeMSGROpfLqWVAOg
+InvestigationDiscovery.pe,PE - Investigation Discovery,https://iptv-epg.org/images/mEn5SX0bTPSGejisJFg1xrhqPeq6S6yNkPD5k6DRSUJdVDKsZP4lw6VH58WTstn9fEyDL7rWlEU69WBfOM8xhTUWOjYvgfmekRfyo7CxldmRSS07BdfyR7vdf_5t
+LaTele.pe,PE - La Tele,https://iptv-epg.org/images/aAdngOn4Mz1oGOWSB8jeZ-4NLw1u2KknEZLcM9CLypHMTP_3sIxc0ae0KYkuTa9NhSg7r5D_5sku2VQhz_QL2sPENBahac4H-x5KQJ4
+LasEstrellas.pe,PE - Las Estrellas,https://iptv-epg.org/images/IO0gTm2BTjMmEedJ0EiLUxEjn7V1zWlXJQBc9qwAOiilAX7IOt8klcAU7a88zTVd8_LnZqExpQjeGuZLcE3e69l4OB2Ati26xkXF-9eKos4mYIE
+Latina.pe,PE - Latina,https://iptv-epg.org/images/6We4vqZogD01aiN5FYsYvlIBJ4EfHwO3ycFwnlycoMiOs5ScqBCTuDeyrOSPclUU0AAF1hhW61AVGsgN6vujLo6LzpLORNRuliXG6BI
+Lifetime.pe,PE - Lifetime,https://iptv-epg.org/images/pSkn8v7OGOCw3OZySM7eddpdDrcZ0eaosKun66OQiwPwx7_xz_CyG1-kE-vdwsD2c6T2rS81g2sLAaRa2G-Lb5SpZINFwLgnAMUcX7dBYw
+Mariavision.pe,PE - Mariavisión,https://iptv-epg.org/images/7AzEsL7Yj7fwVCwFl_2XV3jlnlBxTG4pn0KA279J_NZIECcpeHL1XJU-PAq0M79m20DaRioaJAOWnoL2oDNrW8Jo7r97S2bPqUSYdY3a0qFOwA
+MiGenteTV.pe,PE - Mi Gente TV,https://iptv-epg.org/images/Yr1Vn8Q1MiGbXM31jWlKqMbVWPkZZSvleq04E-SVcebZY0xf0qOTlU0OvLG1lsqyBxED2Ka0b5jWJfCs1U6x1hVRYDjZUiWb65T2RGyrXKI
+MTVHits.pe,PE - MTV Hits,https://iptv-epg.org/images/VmdsPvJBsyFG0aszD4MgzObQV1uAOCrWNiYZ7DEP-vO15YTKOQ4BQKzBoLaY7zNQ8OiPjraxmEDqmtAhgTIjY7U_l4qbFCdg-jHmNZQ6
+Multipremier.pe,PE - Multipremier,https://iptv-epg.org/images/-qkPyryqbu1xXEaOqp7QUJgpV1NwbokqLpubQtY8OXiE9E5O0yvnqlqQB4hZc6waqP0GZrXdAH0J95tOlzs_n3jQvtshqzOfaSAlbHCdeFwn8e0
+MasChic.pe,PE - Más Chic,https://iptv-epg.org/images/f7L6_jhN7wdrQM5JqBkJGHbrdT_UTFi2_xJL99EGjsQe7i761QOU6mQvyX4OhU4a2EYI1WeSdYVxVVZpBCvCPhtQ3-4qWi13wJp1jqiC
+NatGeoKids.pe,PE - Nat Geo Kids,https://iptv-epg.org/images/we5lvUtSZTU8DIuPHAeN6pAycvkIhOhRBeXffs47rdjqobFBhfWH5Qv4VfpzbBECjSBpK-Cyj62tNh-ku8ZJcSKnoUOVKVSLrQJsGAxDk6XB
+NationalGeographic.pe,PE - National Geographic,https://iptv-epg.org/images/Wb1llSyDDVQkU-TzQmJ9tiE3_VFJqtJ0jOwiET6gKhHTrEKDpTQBEquEOGSmMdDKBFrgyXVppGNENG1JePiOCXeWeKUpxuFezXZQ-FCVHcCufSU5tO6yQCo
+NationalGeographicWild.pe,PE - National Geographic Wild,https://iptv-epg.org/images/CzsY4bHZH-qAO1Sk2g_q6RdhRLoNfiYOD8txYr8ln-6UO8DYDX4ZMupfISTXIVV6cMCg0Pl89TCF5AkR7Y3vwR_4HPHSAr6MKVFOCXR3yPY_V0jeh32mtYW747eD
+NexTV.pe,PE - NexTV,https://iptv-epg.org/images/5BjxyR54Fpo4wWKAz03Sw3jiZFRulZ5JOUmo-pPmQvLBn17S6b_gMRVksQyn4MPorpht7i-4pr7SjzVPYfXmHXquI3sxB2caIsVRdQ
+Nick.pe,PE - Nick,https://iptv-epg.org/images/d4vPDA4l3tkRjoIsjQdH6APz3EjeVTkI_336oP5DsiePepyQrPAQS-CRNVtq6fE8vQpu8vsdgmI8lKpb88dmdyRdux1YPZ9Vm20x
+NickJr.pe,PE - Nick Jr.,https://iptv-epg.org/images/YghiHsAAjGn2-M3qEuoQFNfFQ5OTbWiY5Qe4fFgNprxuD7rv7pkfvz8PUuYYVUayka0sRHZg0VzWT5tkfZmhgO5AOSN-HhR-MCO5s10
+PanamericanaTV.pe,PE - Panamericana TV,https://iptv-epg.org/images/fq2F8TfWJVuTSSw6UtAxq3tTcIg7DN8kjNYifzqJdZlKDHoYQCtzygHeNTIhQ5LrXydBi3zoLQEjwIhY2mPxzXv7AGHH__m_QwCFc5CqyqHLdnOnkA
+ParamountNetwork.pe,PE - Paramount Network,https://iptv-epg.org/images/TKk_YaulgG9MtqCfzSwLtRPwiogVv3yJUUiNi-0gYOJYy2DxIxuXDl49G9-XO2kuPe1wXw2y9Yni-exEi5TlRaS2a2XhhxuV2H6bCb1UOgNit-uOEd8D
+PAT.pe,PE - PAT,https://iptv-epg.org/images/9sHzGnZZR35y3g12zJlSfPvUsD8nGuHVx3v2BrV0z0C_hYlkFmuI2yk4saIk4UuFhBhrUaP8GBiPn2tKtd_c2EAgJ3nrHMj_Z7w
+PFC.pe,PE - PFC,https://iptv-epg.org/images/jzsaie-l7_ZuZbmP62EONAzC37y4GQGIaLp0Rqu8wXiRYr4ptOCcnxJdFT9FwaJVOnigZl2eykRNdOKNY_DIP4acleLJGV8VLMM
+PXSports.pe,PE - PX Sports,https://iptv-epg.org/images/-xqeZBcPOwfn1dh6mgY7jbCHtxT92FX3_zhlHQR4s8Ju9bRbCo_jR4bYlaGjqBLFWJ9Z6nQrGN8tgUyAmxbBg_igngqqXenl6Lp9fBWMCA
+RBC.pe,PE - RBC,https://iptv-epg.org/images/hU9Yj-erEHqhQh8DHm-VqCBk8ybKxvmyNYXJwEOiUyg0Bi24u5kw_SXlFl3c7Te0uMlB0bSQCyiMySbGPfxFyJd_-7OJo1qJ0xo
+RMS.pe,PE - RMS,https://iptv-epg.org/images/0DSRC3y8Ry3Sk7-knouQfmYLCNZN88X-t4zVlEiSEDlCW-90Sa2HgDE0P0AH8lrux2-om7gzLq07mijhFQeVF7i4x0WZqYuv2yg
+RumbaTV.pe,PE - Rumba TV,https://iptv-epg.org/images/7hEZmvQamUYLuu3zsuTuyo-OBjKIy0KEZXB9kk-sqFcxQkfKVuZkSz3VeUXCjipsMkoWwfTh1kL9ci0mG47WjaOG0uqff1PEiXHhxYwd
+RussiaToday.pe,PE - Russia Today,https://iptv-epg.org/images/aYzf7fiU1i6X8ZIJyJjUZ8J_m2Lyci5NgEHqoIYty8_sTV_9bvqLf_PK1CdgYvQuFI130g6fz8QuYmap6qJg5Q08eLMYvM-IBb1G_1PENv3wnw
+Sony.pe,PE - Sony,https://iptv-epg.org/images/E8xH4wr0yt-7j3vE8BYLPmXayFryBx8G5lj0nWrVpvX9rWua6I7ld2iPOpdVmqs9tXxEkji7C_VAwZymR2-SYr1YIPPmmnThCuZC
+Space.pe,PE - Space,https://iptv-epg.org/images/b-nVw5a3IcHo_HgAU9NRNJfVoADCPlEeruqqXQ6S9Ca8KgBo6LBAbqiOyorijo1ChoEwVbgD21R8nu6oXwpxBRwNNa-AVXjwT8-LoA
+StarChannel.pe,PE - Star Channel,https://iptv-epg.org/images/Ul6_VphX3ollK8Ac3SBXQ9FsrWihuS7THQtDxKB5VQb2HfJLsfzPzTX4tH4Velk0iaQN2wput_4RHX_v6NIV8fxTa-zqqQvecKu4r9UOIgKtSA
+StarLife.pe,PE - Star Life,https://iptv-epg.org/images/34mFZ2_64tdHiwzNbEWm8oUWNpvSrccDkPj35TdjAwDvl_uDsRvIMRQz43DggiByGsCLeHoJCQkiHKB-T0F6YUCcCoSnCxdxJxG7UY49oA
+Syfy.pe,PE - Syfy,https://iptv-epg.org/images/26eYte30_KMmf1FQySJqimgdtpgbKqP2KcRmKrvPaeKG2yqxFmd-6e5XxS-f4vyGnzYytrPN6fjUj6NbTEyUQo-TYyCOj3wDadtb
+TBS.pe,PE - TBS,https://iptv-epg.org/images/AGHgYsSfM3iPRLdO2P3YY5wOeCqjN0PiSG4jLYNm2QYff81mCJsrLm9YNaOLhgmioiElKyqr6UGMgzqMop9LLnft5lPUiJoqwXM
+TCM.pe,PE - TCM,https://iptv-epg.org/images/I1wxl3t-DNlgF3QBymnL_P5Nw_DAlDXlRw0G9tf3WlLV_62iRpHgbZV2jCQVP82yvSG_3uNZCXYtq1XtZW1JUY5EeOHezsH-VvI
+Telefuturo.pe,PE - Telefuturo,https://iptv-epg.org/images/yXZAW_V5HJeAQVaefLXyFBgJMGD6q-eQgTD7SSz30wgL4Jyb9jVc2G9-ZeQsG3cd-93ndVfqCXExVelpDnY50C1NijYqHjQjdkMPjTV-mmQs
+Telehit.pe,PE - Telehit,https://iptv-epg.org/images/Hjc_56bu75BiYOEnbN4sxchBruA54oZse2X-3LrIEPOm4amW-vhezN5DsDajn48wbUQy1K97wG0xmc_KHyHmuFpoS94t-tldlol2psmB
+Telemundo.pe,PE - Telemundo,https://iptv-epg.org/images/h8yxCpZJQIQjvB0A4KJPAiGFVYUOENUmq2UgpfJ0TU72xVquQZ-jPFJux4MMf216giimxKEnESvyfbO1JH0epdtJV5fZS2P3h2gnZEbmbZ4
+Telenostalgia.pe,PE - Telenostalgia,https://iptv-epg.org/images/91VbcWrJfaHboroch9jikRjvAt9KVS1NrRRUWaw85L_V2bzjIcYDcOZocBgHSqri8_Qi1Dld5t75oO67YkYBd9nGH3Ay0Hrs-jVW5VLgC4N0x7Uj
+Telesur.pe,PE - Telesur,https://iptv-epg.org/images/lgDpqLYY6Vo444eU0I9uIT5IaGHTuJfbdvF_x7MCLg_5n05hl80PxGJJkIBxY1VoaVmfYLVspxNCXNhb_QJvFXoqGjFoWDyE2BT-L2_k
+Televen.pe,PE - Televen,https://iptv-epg.org/images/IxYq5K3Xf1-s8r07w9UzuIZIWaDe_RBZvzqdE0kSpLZLNCn8N3NSAM2etOyR7fDEDUqNo_8Un8SaOcD5_XE4vh-wjgL--f3_W-_2rsKS
+TLC.pe,PE - TLC,https://iptv-epg.org/images/t4JSUI5XOidCGCeDihF0dPSDo3jzkSegHm8i1Do4Num2z_kR7cHS92CLuE3gUPQi2axc2yDeq90HMibRztwEaug_dhQxfp4WWtY
+TLNovelas.pe,PE - TLNovelas,https://iptv-epg.org/images/I-TKS2psmoW2S31M4LQkJ3-1koAsa16PZ3lDNazKWxqDTSl4IZQB_2HDeJblI9ClUNjX2LVJM_GgoKKCiMmTLPxc8FriAA82LsIVtVYmMjw
+TNT.pe,PE - TNT,https://iptv-epg.org/images/jNMBgoUdF10CxkWs0SJm6NJVlIZPX3Rxdn3aqm5ax2QNzomUiSAOOhaZeLVTt4Nn-R8fac98jJAKihdV9V9N_YPuKN58EazaGlk
+TNTSeries.pe,PE - TNT Series,https://iptv-epg.org/images/ljZ79bCuyz220W7DnG90MeAJGfoG8nwuUvUw4MFRmkZLmFUvTygENIUBeheYU3bFo-mDnBvHDCvn7I5SsnAlqyVSRg0t5-6WArhVodAxkDQ
+TruTV.pe,PE - TruTV,https://iptv-epg.org/images/OlhTWEVMhQVyQQ2n_eWQF4wxhPmgnDIy_RtDpuvb1TRY-vVzHGPLgYcSmNBuwYb7-7GP5BdXOPooqzG3W8Fxue5IAE_sc_3Ry35kew
+TvAgro.pe,PE - Tv Agro,https://iptv-epg.org/images/E-ZMqLqevc0i64nQko7J7nWdm38SArbkRPesAdMOg6OilTauaDwGBJiWI9Hwa5ZzSmrbOq1dbLotKhUoCgXQbtFYvEuRodNEGw41V40
+TVPeru.pe,PE - TV Perú,https://iptv-epg.org/images/l4vu57Ugpox6SysO5G1Xy6oN3U7pF3zCf7mDFx8C2yqRmzFjESfcPz78T6xuQnIIHGH_O4-JsG_fiWaBmpW6fPWI0pcfuDd6GbeC428
+TVE.pe,PE - TVE,https://iptv-epg.org/images/h0Y2V2tWfmvPSxw8S53_vAP6QfpUOibEEJYgQXLuUH4JXyeHiMg7Ay8mFXI_hIq0CONyH8qHd2s7LBBT-io32K271CtfEf1fDk8
+TVNChile.pe,PE - TVN Chile,https://iptv-epg.org/images/iiK54BCGEi7mS1DZvDsbyRi_n5yTcyHRpS8V6ciR2vcor1w-vmJy2KOYWW7rRnfT2_5AiUtLq5tA_zeiChqYWA0VSGsejOPlEYb5ik565w
+TyCSports.pe,PE - TyC Sports,https://iptv-epg.org/images/ctHth5aUE4VpOVcoM6X9CDtTwtp40Poep6c7snqW9Y2mxiy9kLtF0jzG26H_4p5dx6ev1LAIN9F5dNO2H8kSeB63yZHGgiExzVEqLOohxZ0
+Unitel.pe,PE - Unitel,https://iptv-epg.org/images/G5wdPeaD0I2OGSmeZNV19strcQCmkJkAxuh5s3aCOOuGc5DyFdhQXkuqHh8j1XwdMo249-0iiq4-g1d7_f4v1gKtEye6xLyWsF4QMbw
+UniversalTV.pe,PE - Universal TV,https://iptv-epg.org/images/gabULInr_U7dlijIRpYWQSd6QliRWGq0L69_BjzVGLqTFW1qfknzWlxy2N8ulcDIwlL5Hu8Pa06h9lCDE7Vl-Tc8qMmxksWPwrL2q7fq_kSf2w
+VePlusTV.pe,PE - Ve Plus TV,https://iptv-epg.org/images/lES-YuQPN7nvk7ukiD9hQ5t7GC02QDuecMpbLGY3ZYhWVUBNcKzvu5a5dI411J2Xz8qbx-nOw5onkPzMXIYCKKJLfHO-O80AYCxTuwnNkg
+WarnerChannel.pe,PE - Warner Channel,https://iptv-epg.org/images/wA1bJYM1WirDW-xUm4dVfHeCQckp-LJ1l-Qn7H-qHkKn96UYK1dsvd6HNtE-N6r2Jw-z9TV3zDV4A3FTBwMCoKM5LFEiiUPCU4qpPOfspBDpAE3S
+Willax.pe,PE - Willax,https://iptv-epg.org/images/TXFktTpLssD3_JpJa9N7m3pu9MuzhA5zFSqwKtjcEY3eiwsjtFvx-WuC5GApddnNOH-g60Eeywl5QX-qB-bbZvye0VgKT6zb6D21XiE
+I.Sat.pe,SAT - I.Sat,https://iptv-epg.org/images/y7Y9v72HulIfL83Djj_kMtmvykVPt6Fs-lem_m45Qx4s_wav9vMplzkN_lg1o3ROCryKioa8Brk-ELfSUGQcC0tGGI0QmxMVEWsFiA
