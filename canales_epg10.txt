@@ -1,0 +1,96 @@
+# Fuente: https://iptv-epg.org/files/epg-gt.xml
+3ABN.gt,GT - 3ABN,https://iptv-epg.org/images/ervvbQA_McQBYAwv-J2gu9dPG-BFDPH4bx0LsDY13fMrPbiDUovtSVHPXOdi3BmG-q_CvkGCo3bjw4__dCxEf_VjddUciOjb-J8bTXHl4tM
+A&amp;E.gt,GT - A&amp;E,https://iptv-epg.org/images/iRGO6zYJxnwbW5wpm8vwPxYMgTICh3KD6YBxIHPYUNMWWGGcSHJdWI1WF5Rre4agBYQ757I2ga1eHH08XIW-GS6GpmdUug4FDQDH8aUrqZ0z
+AMC.gt,GT - AMC,https://iptv-epg.org/images/Xv5zQmpWWOR8r_iDSoRe-2wzdOhJ1EJ27PjwQfqZc69kedPCMo3xi4AX9yGBPlId1qF09749yEHBj2JtahX-CHwqVNJMZgPp6a9DpHxJuQ
+AnimalPlanet.gt,GT - Animal Planet,https://iptv-epg.org/images/GJWB-AEgaFbu7JUnIRQUaemwPIsUGV0bxV9Lbry_s78V5U_sPdBAnmxkajyDJsHmh9-R9pMzqoG_1lfhlhK7PcysBIs1E_FoRCJUaazF-PFEMUhJAvj3zw
+AXN.gt,GT - AXN,https://iptv-epg.org/images/O0jypulK-2QhZPkdK1R92o5IxnnfdbeJbNGNebp_HU7lSjIEvsddlMX8uhTWoDkjTjKsRe-Tj4i-5RS_tDPkJWPEmfZuCIqgHncZ2IvIoA
+AzCorazon.gt,GT - Az Corazón,https://iptv-epg.org/images/corQymGS92yFu3WSC3btgTs6vNNxSVO8Xm9UXTMnPX74s93EWL1WA-IxqGbsQfcSJd9N45MQ_6kCtawdivxjcaImmxY68AHRB7UvUvFSza6O5ffMzg
+AzMundo.gt,GT - Az Mundo,https://iptv-epg.org/images/ml_R5znGYol2JvaRMkkK1fkhX6oKXTYpwR_b0MWNZ6QuPoW5N3IcwJrHku3eKiTpMV8Bs9gl2IhPNLJjCMqbKOrt7NfZOwR-K1NfOWUmFOjHBqM
+Azteca13.gt,GT - Azteca 13,https://iptv-epg.org/images/PRj8BAYkTPxOPI961w9S214cnBCxoeCHt7h5o2esyAJPaN_J6oXwVwgvudru1E-Ge01CM0w11ppgTZhBYNpkTtRXd4UyvkDM0Cdif__j9qYk_E0C
+AztecaGuatemala.gt,GT - Azteca Guatemala,https://iptv-epg.org/images/CkHHg7Ov0J0j4qWu-QpExE_skmjLFXg8vx-OScNOxPvdXnF97CP26L88_qISVkuuetnZDZiQ0wHT-w1BnpX_naQ_yPHm3d001oSIbjUdxfKPy_8QfufaLR-gOw
+Cablenoticias.gt,GT - Cablenoticias,https://iptv-epg.org/images/18aFMPTb_eseUN8sEMyYQf9uUw7M4tRjQ8dtrcmzamdQeEv-mK_wGzwdCbFu1RPf1gOuAtyXWCZrn4LpFEIixO6K5wzwyjkEYvKMuvZPopNw6bqKeBdtptA
+Canal27.gt,GT - Canal27,https://iptv-epg.org/images/JfNJXqkyDEH8EIQ1XCQPqmdO9krZf8LovvdsLQ5C-aNo-j3mFFwWZ3-cWq0KQD_WZ5xw5m845TeouEw4iD8ThaEwY8LFJSj1pifswkEedDHlTgA
+Canal3.gt,GT - Canal 3,https://iptv-epg.org/images/DLOnskJ4T1cVvqHnI9aesVaW-6wBMLVhplHeZql2hjt5gh7BtR5vQu33TzggLF61FnsGJ5tV66dkl7nRMHgwLItT15OwNbHeMkUPJvynUlegXQ
+Canal7-Televisiete.gt,GT - Canal 7 - Televisiete,https://iptv-epg.org/images/R-00gXggi-tzqWRw_haRpbR-cUFiz106azagahCp38mdqJw3BObXln0nW8r1h3a1-oK9ygZGD-QSacryFTYm0_i3HgXz-dXX5Gw_1GlyQeNCwBTiZk4QdNv7XKeXUg
+Canal11-Teleonce.gt,GT - Canal 11 - Teleonce,https://iptv-epg.org/images/_DEuFVMuNkgCG5-OBgPw4HvT_rmh9vEQ4Ds0OoAWJzoa-ywleF6MWFr64DRisr9jVFa90Fg5Pa20kyzqf2Kki9Yh2YNkVMI-1dEJc__EO9zVgHz9_QXoNZdHXOM
+Canal13-Trecevision.gt,GT - Canal 13 - Trecevisión,https://iptv-epg.org/images/13L3uyQQHNa61ac7roH4DADcjcZTH6zqNs_GDwByhL5W-35ipLRjpwtC9UHHN6DgJeAyA_JTI01odnWxfR8Saby5KjTdOfgPt2TUMzMyHh11bFIs5DvU3y8m6zXQNNs
+CanalAntigua.gt,GT - Canal Antigua,https://iptv-epg.org/images/91LrJ1Di8Vfag6wDhnjjLnLQncpQiRiNTsO4OSVvJuVUOHPsci8pjWh8KfmFGqtYqg6IunZzmafTm-6w8X765mydc9m2KnK2WZm7NssANWl964D_Q5UurA
+CanalAntiguaDeportes.gt,GT - Canal Antigua Deportes,https://iptv-epg.org/images/jAjd3a-2WnkmNTaha_EO5vbvioA_a73ysxOz3CDuyPBFsQkCWE67BYLBGwT0MDtJM_rzI69V52tbLbaGKjCbD2GY6K8wtS6Mmq8SzIIPgOYBfelhw359ssfsURZPE4Sp
+CanalNU.gt,GT - Canal NU,https://iptv-epg.org/images/d5n4HeyYbHza-wR3m-6UBuUE99Iep57eACNUWNQnQn46nQdDitj2Inn3iFlHGEg5jIePVx7X3OyEyEIeIBQ8Vw1Yj561zMzM6K8kPotRxU2E23Q
+CaracolInternacional.gt,GT - Caracol Internacional,https://iptv-epg.org/images/AM45LWsaZ4NzKbXsBWtCHojsRRMvXRX6Jmb2mHHBO9pSefYHu2578OUK_qElU_qNqE6OknAYpZ3wyTG_wYiPr-Nnf2i32EIDLK_aVGBGLW7h28ohNAFpHMejZ9wmub48
+CartoonNetwork.gt,GT - Cartoon Network,https://iptv-epg.org/images/CcbF_WkZ7h4asl5O-bIanCMOrXo0HlNZR9BXhdI7E85BSWZOqVmDgJHFo9WYZyOjFuEc6AgM8yJCkErRblbzcnjowo2USEKY0qmXM_ct8XZibq7KMquY4uKA
+Cartoonito.gt,GT - Cartoonito Latin America,https://iptv-epg.org/images/YrZZS6JzOzGwdwN24unuXUDPzEaZbjpoWAkXYC2w7ujHI2_XmitVty0x9q-Jxdr4i8EPFW0N5d9g6NM-MP0c0mZuxt9oPzqI-GwdMY14xiInF37FIAE
+CineMexicano.gt,GT - Cine Mexicano,https://iptv-epg.org/images/IbYwPLdhYnscuhQBn8CEXELEdvEaQGLP2pWWj1uR4dC3YPR2f-qgJW_tZ70inktLhlYM0kIB2mw08imowaN3Px8j6F8czG5RruGuZio_MobB_3f3dqopcA
+Cinecanal.gt,GT - Cinecanal,https://iptv-epg.org/images/BKqcFK0-nDnlyLYGE-z0zoQd0Jwx2dgfLoXeSfgyLSN2-vMwhgU1YtwNlIkUlmyBWgH2HDlqC-OZlKDj2wftQUhVY1y5xf_OpL0JHYlhDaltRYmJLw
+Cinema+.gt,GT - Cinema+,https://iptv-epg.org/images/NSP0eM7T-OCEmemjb0mxLvMMlTSCcMHz-8rCGjoF2gdSzRSbix8NgSSnWewc7GpYQFJAHeWBOC3lJAxfzc_cnmulURtzwhq5dsydq6iWROEGyW-9Bg
+Cinemax.gt,GT - Cinemax,https://iptv-epg.org/images/AQ_4Zmz1uv54XjSroqtXWtOuTkL5_8oXe9Fm0GeMmAf-ae6YXimPoNVG1mvZ_GtLhqO_awG2ilitPSEu47xMyOOg0NgedJdP27mzTZb4H1xPKcw
+Citytv.gt,GT - Citytv,https://iptv-epg.org/images/EKVoD966PXzgI8H1AtquqEw_f4gooc454JB6P0SNE-Q3wcVeK8hE5mgqJDWoqqg4ZRjAWmsW2BUMzE7Wf5zSn_8_JvTA1ih2MXsCnGT1Y8Chdg
+CNNenEspanol.gt,GT - CNN en Español,https://iptv-epg.org/images/0n30V-oWwItgIdCWVrQ6RUm8-0xDN4faigJRE9lZlcv9p5Hst-qwKAbfrUfxhJx223haLygQTgCL1-7xEemnuSxEyR812ujU3w4OyVATLhTPMtXGPVuDyA
+DHE.gt,GT - DHE,https://iptv-epg.org/images/09MndNJvywU92mMn_EMMGOtGiFVBqU_iyy0LJ8OuYGMUaDcuMsUrdt619iIdyoHo69dsVewMqmTVjYHiDAel3diZxVaYWzZ9-VyjgT0m3g
+DiscoveryChannel.gt,GT - Discovery Channel,https://iptv-epg.org/images/EfcRTgfG_-aSgES9IeJbtshYgeQq7ijXuyV2-LcCyF3CIaheV_aMNv-bpFM-rZ-KpJ1eILp57PnZDnO90z25w-uBL17Hgwt0YnqOClWHSAezCmOzZ2ELUpHssu0
+DiscoveryHome&amp;Health.gt,GT - Discovery Home &amp; Health,https://iptv-epg.org/images/pYOmV_ktsIYS2mzF3BAqI_BTCw-KjpT8N1tGQdRMLDs_nN3ThuLBDawIUCuqN6pPIEHyCXXaA3uSywGkKWXh6nMrgEGTfY-LwlOZ0RTY62EeMT_mWsgS1lcKJhIRhp-84MY
+DiscoveryKids.gt,GT - Discovery Kids,https://iptv-epg.org/images/xtoAhkEG2JmcSvtI9v-CrSghpnUesdaJzx1dCsBAjDWr3Q_n6-X0cNfGnResJLvz70WKBPNVMkgLim0IUyjvD8rZK7Rly8IzFcH5zEwSj-Bqvu96dKbghsc
+DiscoveryWorld.gt,GT - Discovery World,https://iptv-epg.org/images/SOOKpNXxScB55BS6OGIjQfHYNFUVGZqKLtdUsxRPJVC66cnhb3Gp9HtgXZqpnz1QqLI93qjZmsCZKzEgFK6WxOGUW_HB3fmhKpP1UtohUlSylFalHAEd9U53
+DisneyChannel.gt,GT - Disney Channel,https://iptv-epg.org/images/ny30sZf4fmptBHygS13thX5hpmvBxOcN6M81il6PVNs5YRQo09WnpOhqz-SzRmAL-36oYZuqn0SMoIM2ndf419E8V89THI9291lBGj7_cnDPjGr_IxiQZS4
+DisneyJunior.gt,GT - Disney Junior,https://iptv-epg.org/images/Wd90SBbdi7EhFA3uw7QusyJo1z46RinakZWCCSexmEnlamAMaNDJf7EY0gW8clm9XrSgEDzBajB1jSOQxGR4HJe-iK4mIiyz2z3vmXmgHXuXIFYlhbS9qg
+DistritoComedia.gt,GT - Distrito Comedia,https://iptv-epg.org/images/AV1e8xkRpUlprzaaqJ0J5wJudHmV7dkHTGGd4m8iWTgqagkTWPp-ENmM5MiPCITvvGEeWu-ZZtzM4dnHLOIw8Rsb15-aqDEyKST2-CDWBQgFeWAV7Fm5GRYtBA
+E!.gt,GT - E!,https://iptv-epg.org/images/qzepQ2lFKW3W38Rv8vw6jncp_fsbZGfFXvtxvImw8Igtpqa7LvIH8532-QvlogvE4RrxyMm4ONTJ3F6ochDE0Uud2aOBCrkMcHMzeyR2R5c
+EnlaceJuvenil.gt,GT - Enlace Juvenil,https://iptv-epg.org/images/IyGXy1LY-9BuyA5R3ZS91qn6FdmwjED8MFM4VsAidWHqIR7Lg0vmbYw0neTcUUWd-4LtP3uMu8Ns2K8m96O__qgaF-8gG1CSCrdJiu1x8uity0OxKcefxgE
+ESPN.gt,GT - ESPN,https://iptv-epg.org/images/cK76QmmtCOqMyiwsJiPdtmhQSfSV57YCkxQqA7jY7ONTYZgr11JYMx7W2fmsILFd3aarIMHUiUvi7eQf-ayTcyPEtaKqdPT551w8dXXuoUQ
+ESPN3.gt,GT - ESPN 3,https://iptv-epg.org/images/7qE71mPbuGK8PwE8X-lGIV2rId5R1-uVsTCSgranHBYRnud5aZpFNzSG0EKFaNDuSMky5LFikdxprwEJtR8P2cetXBa31J6DbsRZ2mOfjz2-
+ESPNExtra.gt,GT - ESPN Extra,https://iptv-epg.org/images/PiRvQ0WY-mSQLsP8AtRfTyw-YH-pBtkktP1SpwEoCGhnx1is4NhqBDxmCeHvVJrnZ40dDwCOgWnkJI7K1n9yiNzxC8p2GGQwNKTeVqHO_JK7leyM6w
+ESPN+.gt,GT - ESPN+,https://iptv-epg.org/images/N9B4UavfJIDo2y2oBfKFHFTvoQkfbB5TMNt0CuET3LZFssKbxMgMj104ZX2OEZbXXMn-aOk1BoI-vY1hham72ShTV25jug3NXlIw0Q5ttUFzknc
+FOXSports2.gt,GT - FOX Sports 2,https://iptv-epg.org/images/42HYGQS_KHFjtECSIdPMU4dPoNgQwH_7sKNnkSIbUkHulz48hgGncFzzxPX615uj2gpap8Am3-PAarrPLIcnB-2PlMxwnRTOkvXNOerTxX3WRDVHosI
+FXMovies.gt,GT - FX Movies,https://iptv-epg.org/images/hfpOFyYWNKvegvgKwadFxHlS9APdLiXoVdPF03X0tuaapoT7TGPfXs5GX9o3E5nfMJS2CqydMpCv0jnrozJBlK3GuwP_17e2Poo_hbHf2dYKurMq
+Globo.gt,GT - Globo,https://iptv-epg.org/images/qzwHAHhXT02Eo4SDqyoCQIRfOUD3GebWNVcw8XD2aSUHP5em4Rhty-G3eJGnt10W9O3d9zvhGOkvMJRyMXzd2nBmtMVJuR-VeqMY9jrUDaXj
+Guatevision.gt,GT - Guatevisión,https://iptv-epg.org/images/ec0ta_L_zawhFa5mPEbgaiZJASp_e1uxhhiQFKtTYwVyBifLYDInLbNRsWhIZ4VMWji_3vgFiuCpco1HxRNyFsVvuWS17vsy6ZPRt6IKWjS5T-TI9jF0
+HBO2.gt,GT - HBO 2,https://iptv-epg.org/images/1F4YUI-UfYlATUtSC_jegCff6LArv5QUwFUWjiDgaN_FML8HYLfn-oEUyjwAfEMuNO0oIOPZ2cxB1yEaDBOb8CQSEdurqxSqWLES9ltvw1s
+HBOFamily.gt,GT - HBO Family,https://iptv-epg.org/images/njcdp-57Gv2DKqalO1NAM7RGmSPzHzaG3HMFuqXi3UdBDr6J3X0VBimRLdACuPR_xcS-kQAgv1uIu8aJI2tyjeJaPZYil3zKJIMBimWxWdpHPh4jgw
+HBOMundi.gt,GT - HBO Mundi,https://iptv-epg.org/images/NWx651Kmscbql3iRAmA9qVzS_N_c-TNchCh_HyE2zPjTG0T1jroHvJ5Eqd9tRPo0uO3LfSCEQ0h9P7R-NHi50BQKY5i35Mg5VENjP83OT1YizWA2
+HBOOeste.gt,GT - HBO Oeste,https://iptv-epg.org/images/sLp7g5nKh3C4uhE9DJ6GkILzBfNxzUT0SahPgY5DC-e5jdjfiR2CdF4PoS3LfJz-Qu6PzIyYegoRm-smH5zPVO2ynTraQTBc_K7rvipDMKthy0nL
+HBOPlusMexico.gt,GT - HBO Plus México,https://iptv-epg.org/images/xTns8mVofNHSkxnK_bX_GX9BPDSNYM-n4vCjpbPW06pl3vtIZXyRdxHvS66AyrkAoNiqJcO0eugC1px7U1hkLGYKX_xYgVZcxxw0Uln8DtUU5Rpc54ctRF8
+HBOPlusPanregional.gt,GT - HBO Plus Panregional,https://iptv-epg.org/images/_NY6JepZR2LvUCJ20DahuaOu7-WfwvcFm2y57fttiGJtzN6ZUW4_Uyjpqt3B5tYJlN-tvH1WxvFfUEvUYOUAbCVV9S0Ju9udNBBsgCQ5Mf2JJdrCCNd61JZbTBTbng
+HBOSignature.gt,GT - HBO Signature,https://iptv-epg.org/images/VmbBQwTh2wmAKrC9E3z39UhlhkvDi4PJ07DutDLzwNuVpv0y4LWi-tS502lBky4S7eseGCue-gNm3ahFl_u8te-fr1LALhsIx5Je8p4GfGBhChTgST1HTA
+HBOXtreme.gt,GT - HBO Xtreme,https://iptv-epg.org/images/JAiz4dieX6iZHDi4Xkd-HiDJA4I8jW1eJO2dLPkiY7C8BrqwwGh_kuKWNKhhz4bMsyJnEnkP2qE27Ey79aDJMK4IVWomcwgi8O0hvBLfxQ_CYpZ-Qw
+History.gt,GT - History,https://iptv-epg.org/images/yE7l0GKssswQkUcP5XbViU-tfHDJA4n5KE555hpBtGcwSTBivT8MYoqT30HoPauPcx-aqgQjIwe-lHHwEJT8EgqLRkykQbcmmHb5Z8ZLgrik0s4
+History2.gt,GT - History 2,https://iptv-epg.org/images/9k8BxkaxDfTb_JZUOX2pb1TqfDcbewV7V5mwPGf2FCFuPFNASWdZ928gcYS7TqrJKs-GKzkGeY0ZB10tZlbf1lBfg-46pH1l2kScIS_Xh6NPAP_h
+LasEstrellas.gt,GT - Las Estrellas,https://iptv-epg.org/images/rPi-UTq7QYSaySZYhNKFNisR3xRaP8bKB87afkPRqYOW-3-auV2tnwMDVcQLMfgUirfID-cFxp4HOtEIRqEPohz-MSALnLEkLN5VmE65n11Xs98P_Atc8g
+Lifetime.gt,GT - Lifetime,https://iptv-epg.org/images/LEIX278_z8Jy-VHKQqeWwvrjLv3fu6fIb0QTidK12I5P5fxF8VtIMrLNttOYwtrU0Hb0uQjhCJ6_fe0eAMQ-tjSPM3-yzXqn2jCnZ2nW-RqJhELM
+MaxPrimeMexico.gt,GT - Max Prime México,https://iptv-epg.org/images/q-Ddeh3J4yPUVyyLl-M2WCZQ1fM8Di_vV9AGlzs5GDbLnDZ9LKxj1_yDqXAuPWXgGnjnbEQg2tDEBlLNZu1OzwG_EMUMfbwWmefgHPunbuYsl5MNegxZ-pnZ
+MTV.gt,GT - MTV,https://iptv-epg.org/images/Ih6OYOmku_aoQWT4WmIiNGK697tgiFfthgt7AOdr0F95_n-laUiCSC95sUov3B--XO-umLAqQnEaRojHqEiMj6EyH-K-iPwkIrC65b32jQ
+Multipremier.gt,GT - Multipremier,https://iptv-epg.org/images/XXfwF2wyjgpKtKgC_j1y3bO7PTk6GJdYyZUXZB7RV8cS7fJx8LpbXzXZ0TM-4A5j_88Ns7aOaAuym14kuDnu3hTuttG9TWZL4Q3bVQVqIYAiZn6iYc8mnQ
+NationalGeographic.gt,GT - National Geographic,https://iptv-epg.org/images/a0YY-mCJLVcujWwD3G_5LL8gkMleSNCMlYR8YTpajyrJPtNvGBL-YmEzjZ5TRJXN-70OeRSZgasPjMrJEZemfHgHeaCBtR8H-k2XQzO2kYhEENoFn_XlIlE7oyPNiQ
+NBC.gt,GT - NBC,https://iptv-epg.org/images/P-m1je43mMyHW98yFzi50UbCiT9CauRPsjOx-eFzIAZIVUlZ6tmrf-yTTGBg3KLguo4Tn6gNqC3hQlTK9fZGSKktWAd9X56Fr_zq0PWxLQ
+NickJr.gt,GT - Nick Jr.,https://iptv-epg.org/images/oE_rYPBM8PxBnfcdxbf7dVR2-daNw1KdvLMlsqDVxWdl8t0Bgpi8014Pce8nO9ITk1gPNr1rJxBbBOUkvyxNwS69ENAdfiPU7WhMfdSSiWOAZw
+NTV.gt,GT - NTV,https://iptv-epg.org/images/9yPSd30WHXSlf6JvJYsvj1br0fZ1gBeusTtrwnJPiGgWzo1V_wIPHPKypLiYPN5UP3Zzls-eAdaKMbcloFgiuxuXy5Ua8bR_iLGB_2hXPA
+Pasiones.gt,GT - Pasiones,https://iptv-epg.org/images/IFGx7cSg6H3U13QQpJk7rM0h00TFonecOG45V6rjm3Lb8qRfi1tp_QXgE60xVtNnWZ8yQSstaoKnY8H3_Kzwo36HH_mGz19Rjvg_29L1GgZUkWU8
+Platino.gt,GT - Platino,https://iptv-epg.org/images/ACh66LV43GXyPj6QSqSAlIU_26i_dpJvbm4e3n9mAZxQJFvpqGiASqtEi7GOdTResRKAgqavQaXXr5GM7FPoqqM02nUIptJnbnVSQvBWbhWD-zU
+RaiItalia.gt,GT - Rai Italia,https://iptv-epg.org/images/Y_maKrcDLIUsGw6CroTLJAruwRRZpRTVHme9wE1q6ZkbZ9zAAyqkUiQ75-JLwVW6e1X9gzakseRzVoPs4MdJNp-Be1cBPEs0Mzo_eu1lNUYvCkCQpg
+Region+.gt,GT - Region +,https://iptv-epg.org/images/G9nuVoSKjWO7oDvtj5PEEcsZr_fLf_cib83xIpRqNzuTb-hmZ-gL2CIuQytfPgTwNrsiUJ7IrsgrSVdx4DxBG5FcKQxbjN2VrrritF8gpJfItQPn2A
+RMS.gt,GT - RMS,https://iptv-epg.org/images/jOZV3ZuBmF5uxvqBu1d13G186p8v_p13FWZVGtKkK8pLSRJgO23Jxj7n3HoUxIwTfB4MQH_reEaVSGwmZ8DClIo2QqS-CZL6P0625YVcpA
+RussiaToday.gt,GT - Russia Today,https://iptv-epg.org/images/Nc4oHvW7PWtQ49Ydx6kGnL6i8EBdpjS7OBcFYPYAtOsKWrr3DANS3ReiggyXVU48q9mLbDu7osYvuidNsryr0aCNT1Psc-XUtrb1o1h2ZkcU9tw0apSu
+Sony.gt,GT - Sony,https://iptv-epg.org/images/IriR6ovLgdlZqWfctrAeLEnO1sQ6MwzUrDyMN5eFT3PQ0pegbtUaxUGwswd5RXjkllVtjOVCbkYyAzYZoSfl9cyA7oQsakrh42RF8PDDCss
+Space.gt,GT - Space,https://iptv-epg.org/images/z5YhpwVXcoZnLPi-cLNgTU4AdN-FRWZjVagrapMxMFFT3Hq6uzL9A9TDtxT6D1e7gdOFDJZUA6Tuw4U7VeIycqgvg5CPUdn8r9bHRZvz065l
+StarChannel.gt,GT - Star Channel,https://iptv-epg.org/images/cl99zfYBTW7V6MzaUiDuyjmoBOtUWbXU0T94B7aVX8y8HmOKU-yv4_pEIUtyDErrmHe4XQia57WRpvPJ1KdjI0SHkgvqJLueeBmJc_CqgPrJWfVVK1Mg
+StarLife.gt,GT - Star Life,https://iptv-epg.org/images/9B3YxjCYZoL8oIVbk3YUSfDAT-rAHANmwo4X6Nt0hgrK8pyenHdp__EV9x1whZ9wmLvjTtHFSDsecQxA2oGf8sWPzkxIsS9LjSbh8jdpPkyBqTGo
+Syfy.gt,GT - Syfy,https://iptv-epg.org/images/fP3VR14Y7dlN4RpICkVZGPg6Jy0gkNpKn2IxuIyE5AGWIv5lpwDksDGCII5aUnxLClTU12Fbuvrw0f5_bAXDXwptP6burete-sxdXSJvKFU
+TBS.gt,GT - TBS,https://iptv-epg.org/images/0eoGlw2C-2VngKSWh0jLVVfKx8ixcBSDIQe6OAsgnlGieoQukvrw1p5m5surl27was8Pzy8ksyyVj6tPqYmxmnFdiKWT5xF1dO8tCruBVQ
+TCM.gt,GT - TCM,https://iptv-epg.org/images/eq8Y3Q0vHRPwTPhVR-YXXDRFJy4kffIh5J53rep49dNXjzoDHoFv7uMG-J5y1M4ZPHYeTnjND_76YZC_Jgo_66pmtRhAav_Y7ekhOqNYbA
+TDN.gt,GT - TDN,https://iptv-epg.org/images/5CyNIsNHe_SciPUxlaCm1TByujqcwLF2Zy9E-XYHTKNhZPqKpIt522fESB8hzBTPXke1ZwPH0O0bKb1NuyuYSYO-_o2gFQYs3ZsFkO7vrQ
+Telehit.gt,GT - Telehit,https://iptv-epg.org/images/Gm--pyZOyrASJcf8HF_F8mI9hjm13YsisxObVroEemrR-DgQBDc-9DRQ8S9H1PMmCkWMLe-UBqxJDnm1unyu94GzntjQuuVFWVJrZGHe7wc978E
+Telemedellin.gt,GT - Telemedellín,https://iptv-epg.org/images/TVCVqZy2Nv0Tit7FO46b7sf6RBI5ki90m5NKd8m0T8eYTTmxzZGtnEjiKajOfB9AOzd7SpaX9hCkJyz9duP0FafkUWI2lR6tidpuYj-s83EVf5-0yksheA
+Telemicro.gt,GT - Telemicro,https://iptv-epg.org/images/AzsZyxAdWGqoPX4wTZ2NI0w1tcidAIqRniTAutNokS5ZJA47jfMX7OnBhTZ1LwjrvxKeAqQZ6ea0Cukd1ZMrz_WjLl21vKXyhYbeUKckme8JizTvtg
+Telemundo.gt,GT - Telemundo,https://iptv-epg.org/images/PahFiZR8il-Ko6TXBsG7os5_zeLCHqkqw-fTSKqGvYawa3BJtRpYr0FtIpncBMmx9hFk175ZjdKdXJ-NcetlxQ1s3GmnJ35677JJB8ewS-zLl84qRw
+Telenostalgia.gt,GT - Telenostalgia,https://iptv-epg.org/images/7vg5uDJv3-8C8qdOzFozpSUsiDnnZOIsUwLOF6bs9wQTLF14WBOdAmtuGT6A49QKcaLVgE7a7Gz37Hf-gFykcWWHBIOA8-41VT7MR-J-lhSqg73HQQclm78
+Televen.gt,GT - Televen,https://iptv-epg.org/images/0l1whSiaJ74mqyo1Tv1hjQ5xS8BGAII4NOibwimun_wI_0zPI_OO3o2xAJyCuSp2nRPeF2GnsriwhDce9LujUM7pjcdKET0IiPn5tIwpOCzVTBw
+TLC.gt,GT - TLC,https://iptv-epg.org/images/kiCLfjtlipHA0fIqm6zabviSytbHESaZK9ae-YytHjM2x7xGxqgWjohkBnfLCgm14kmRtR-Jo2lzJ2S5jhshdHnGfdW5TfTXhKTC8HB1TQ
+TNT.gt,GT - TNT,https://iptv-epg.org/images/R1RHqP_2CvW-IcQ6xSAqc9ltGbpOJhcK7YoRuaoGafE0mkyGZyaI_4eI_KQQBJucLVRl1ILsp8akK3GUH3J1GaUSTegpVJ64IH9BEzo9Og
+TNTSeries.gt,GT - TNT Series,https://iptv-epg.org/images/dPZgTXXiAMj-KcsJOKCMzl2B1Nb2Yr6eRxGDAd5q6QKPPTWz7JIDk-PIiRzVPWQugtATUedWvDaJH2kyUTHigQlb7Nn86sn4kIMizNiZygErYLiqcg
+Tooncast.gt,GT - Tooncast,https://iptv-epg.org/images/KA1h-xy4gDYzqFe77m8ZmurotcnWMSwT_QbegZaxKa8C_R6WmYRiSBb3ZE097MK6i4DuHxtGL1-HBcSkLawum1czMCVy_LATgBzQy7XWvShAPKZg
+TUDNMexico.gt,GT - Tu Deportes Network (TUDN) México,https://iptv-epg.org/images/43Ue7OxaOnRVCJJrdS67ffxy7i0VwGIexIt0Xn4LG5bSMKtFnSjkMl2m7jCALvkUxaky_U_u40U49E_Bvf2NS7-_O--bS6ZLzc8bBEisC4YHyNlNOdc
+TvAgro.gt,GT - Tv Agro,https://iptv-epg.org/images/ezbXl4o8iJsDWWMyvHZTEoeUM1YygdqIbopGTr7xYRpeYiGK-Zp2OnK3eBOrZFg1GRzUqrAyktWzdZK1P0OWsuiccu4BYqDNuaDD5gJyxBs2Lg
+TyCSports.gt,GT - TyC Sports,https://iptv-epg.org/images/oaYbk5mcLnpckJDN81TGFy8Ht0YsQ_FArY6yrhiH4FxqsoE1jQfpgGNcBHNbeIIOlvhEa-ilYCwPLx1lzRjtuPf7OKNJYkC8aXlA4Fx-OI_Gpwqw6g
+VH1ClassicUSA.gt,GT - VH1 Classic USA,https://iptv-epg.org/images/sw8wE9ujCO8r2g9eItGcTdvIPjFgKohy_DXLbnJh7dHCn_egIJLJbU4dy00IYNCLfXseF4YaKPF-I8E2zOn1sEgAD9hakpgCLMn6WpdYdUK7yr-azXE3RmI
+VoaTV.gt,GT - Voa TV,https://iptv-epg.org/images/yRvW8LhyUkKt3nMemCq8s4UUWI2GNctoObAOU_mix5au0Uoyq0RZ-FxlGTwRzGg54TAKTUsF2YByVEUwu6ceB51zoRbQg5QtFjUQ_s7S25f1
+WarnerChannel.gt,GT - Warner Channel,https://iptv-epg.org/images/r387DdtzMxVJIrRE8Gyjpw1WrIyLksZmMrjpyAvXhoH8MeBMofZGTfdsxr1dQi5Hn8DwpcBCVe8H4-yL177w1e_qGDC48ccNvYPko81o8bgAxdFBtoq5WYo
+X-Time.gt,GT - X-Time,https://iptv-epg.org/images/5d7ZGswtvUuXWQP4sbQ3oLT_WybCQ-sPLSPsecBIt04EuCwNkHenh0iFF0EfSh2IFu1PkuV1my4dyzomRD9-hyCEPbR7ekWuoPU6rd3kehjoiQ
