@@ -3,7 +3,6 @@ A&amp;E.sv,SV - A&amp;E,https://iptv-epg.org/images/eoSTtuLA4EocHOuI4VoiD4LwzRu9
 AMC.sv,SV - AMC,https://iptv-epg.org/images/NBfCUhyMQL0fLiy9O9LJeHTC7a0m_DHjRNnBUronE1ehzVuM2nGImAhL8B9_HEfmQ5-Pm-3zCqvHIis5A-iZoSltgHRGhgLl2i2eRoKYbiBa
 AnimalPlanet.sv,SV - Animal Planet,https://iptv-epg.org/images/WcnCG2hDEu0A4MOOFd3AQmkZ4NmEY6L398i3osi1f--TuJA0haobxNrPBS5uPGVn0S1-kn4bSLZi1lE9T9pX26M5mUXHnQZ57lEfIo2vSpvBHUmdL2ATv1XG
 AXN.sv,SV - AXN,https://iptv-epg.org/images/5VOsOBievZ8deSgCs8BkffusGUDwNacIotCoiOMG7Zym2yn2XdVlm-IUVjTNJwbK92MXOu7R2dm1m1ipyNkmERyLuGYg1OVl-MYDerQUXc-m
-AzCorazon.sv,SV - Az Corazón,https://iptv-epg.org/images/htrqOPQ42oITidsdIlDNepImrchFEHBDshc49Dy5qbv1O77DQ77ZG25rYH_OW1lDU9w-YxPr8YaZ7fsVa2XnTLiQD5nAEBaUNjN3pB1daNhMEW932lEB
 Azteca13.sv,SV - Azteca 13,https://iptv-epg.org/images/4uc6IR06vGtpfj2Zqw13fymrHloPBo3gVDsDbrrOQmHGDzuYOpud8Xz96cVDDbqJd8fAhWm1QcItfa3ek4RlykksQHcDYXmkeD_ugGGFZbUdRpsx4d0
 Bandamax.sv,SV - Bandamax,https://iptv-epg.org/images/6xTiJLHgz7geDgDufsS8gxp34QFQcut5Ypz9uw4SdnFmTP2cFD1Fp61BN8jeaOheCYDPdPe8X43cltGKSwou58cNmaXS152y6byE7Ed045qENVN94F4
 BBCWorld.sv,SV - BBC World,https://iptv-epg.org/images/520R4HciNdvQJB6NdZMIG0oYjCSu0QWkiuOOgxBWoCOIojZKvHkJ9jGvQ5Q8NYThHbWWc9qwjxC8EkgSHikOcK195BfnB607p299B34nE94h5wuehwQ
@@ -21,9 +20,7 @@ Cinecanal.sv,SV - Cinecanal,https://iptv-epg.org/images/ZdCzrVrl3QXyVIfkUuW2W5tD
 Cinelatino.sv,SV - Cinelatino,https://iptv-epg.org/images/R6rwyCpV4mq52xzk6LU_3W8WWSiRQ7gwbEbxhiuRlzZF1kXXnID1w_NL5GKeofbtmQFdLVp-T53ClqIY03CBEVFHe1pI_kH8sUO-83ODLQNTMY_WiS_fKw
 Cinemax.sv,SV - Cinemax,https://iptv-epg.org/images/VCNLmPBCfbpjLu6y2qU8Qi915iUOdFXyWqtsCnLzRhPCBNnEC71Ngw6QxzG1aJNM82vfMJ-vPMZUzjVm5Kopcpm9m-TgbGn8Eg12pLKDs8IWdMMMAw
 CNN.sv,SV - CNN,https://iptv-epg.org/images/-nR-MVcgDS4IQAVCcK33A7shkVg14x7rxElmulqDZa9waak4bP9LWVEvCks0WfIai0ssYD0-yVKADHdHVRS0JcHTuqcG-rsUSK-qL3F4pG79
-CNNenEspanol.sv,SV - CNN en Español,https://iptv-epg.org/images/HBDFx1m0yNhwQW6QMB_j9Xjo-VIF_2wbBCpASiInPp-oZVv9v9aRHnQz7LdQHONxeCTL7TqGZEIdjGMg9VwmA4lGWnXjnqyVBLL1br21WNo5Qx5HFcX0FK8D
 ConcertChannel.sv,SV - Concert Channel,https://iptv-epg.org/images/U9uE4y8uC23UNQz49WpWpQjbvKHUSu3jW2sMIfc0yrmdQPp98Ht6TvHRGkiIIIUXZm-ZoIeVWflG_2-B6v_5WjJ-8770Um5AYRUVWYO0OGZxroPmsD778IZrICI
-DePelicula.sv,SV - De Película,https://iptv-epg.org/images/x5RUy3ZjXF5P728yXHnQ4YUsweuFQOW3_8rmrF_vMh6h4-BI1SOnQQ7Lz9yr4QdEbHI8Xp4qhnhWaNz35j0ypbwhZuwHKg40R7qryAyNdmqVxvw-xAG4yA
 DiscoveryChannel.sv,SV - Discovery Channel,https://iptv-epg.org/images/nxbQbPIFh500SMR_WdcObAe85H71SMPqKMN817qdB1NQEWLQgu2EAUub0t92AD1grbXyJmKk8HUC2_kN7gFpIX8ivz5idfz57hsuvdh6zGBsM4AwpiEKEgs
 DISCOVERYCHANNEL.sv,SV - DISCOVERY CHANNEL,https://iptv-epg.org/images/VkEcuOoHdn-YMpSm78_wsQhQ5hgJnW89HG14ybBNDC6lQUBM0MWMqAdRwyZv2jB_d8f14FxfAWRKcQqlf1IvC6A8ADVBDGNsCKxbHIVysxtxLSmKIPeBsRY1rN2zBQ
 DiscoveryHome&amp;Health.sv,SV - Discovery Home &amp; Health,https://iptv-epg.org/images/5WAetmbSIxdHi0rU7ngg1OK230MQXsMLgwQUf6Xe645dHXHhYF88ET_C-6sjtbOypBzrKwiNG7Y_qOLYTt234xi3ALNRHo_Mo_yooxpoAZ9q3uvGhKNteP63aw4a2uo7Ct7QTA
@@ -44,7 +41,6 @@ FOXSports2.sv,SV - FOX Sports 2,https://iptv-epg.org/images/fb4GpD3U_uMYetiUrtls
 FOXSports3.sv,SV - FOX Sports 3,https://iptv-epg.org/images/7Oe2vB8kD4FkkJK-I6Vx1nqCNiySJWNTSSKYvXzWTz0ZMpE-sPY3TAsQporxOCnhBeVb12F1NQXvXcSmOukLz-lKynlLWS_KWA1BdUg4nxwE6E8lUH3Ovg
 FX.sv,SV - FX,https://iptv-epg.org/images/nI9KhuupstB6FTA5iISj3tBth9mMBHHCh_pf10iuhOSRS-DJOFJeZaao30Q_3hu2_uNkMhDtr9hAnMjfMmAcMbBHeaEjZq7WxluGWq3Uonc
 FXMovies.sv,SV - FX Movies,https://iptv-epg.org/images/csaEgtSf8x6XlGX1G1LXXEapZtxiNIVEU7rHj-S8TiQ2Mdo4VW1pbxPJkcjuuI15CHn7ItL9EBaCQIyRAvWSX293-DxFal3NU7GWBH7D6vErKkzVIAQ
-Genteve.sv,SV - Gentevé,https://iptv-epg.org/images/PftZJ1VPB3_GoFZSTSFVHUWuVvWefsIPX-my0MMp4dXS030x7NSysQZLpGni4nLWQ9GGPA-IEHQpUczNh71r5bxOas1-gxbjdArxiK75unVSxE4bIQ
 Golden.sv,SV - Golden,https://iptv-epg.org/images/Dwfamp9mnYYNhiBy9s1IC2V4OpGqrLYG4YAK4PVS9gHc6oiRKg3PD3eXpK4KjjgEkrthM6QzCwaTWMRadg50EjZp0lBz1_g8rNj_plQTJPWEJDt3
 HBO.sv,SV - HBO,https://iptv-epg.org/images/B1eXwiQAiXbavRo_7wxv3Sas_RQdYHaqAljiNn3RpkI-6Z4Mgv1yj9rVWSEXvlfwC_mQBPG9DqK_z3-aSWY9mZcb9elMabOwgCB2LIo8Qm4y
 HBO2.sv,SV - HBO 2,https://iptv-epg.org/images/S1_Vbyu6tYjDbu5L8m0jCLV1qllbuGoEfy6T-8JDbufusJ25aalRxGx6SL8iKRhU4hX6DDHDktHIMsNLCEPs9f1BfBo4cezHHYAiP6q9hgdjaQ
@@ -57,7 +53,6 @@ LasEstrellas.sv,SV - Las Estrellas,https://iptv-epg.org/images/xRv5ZegiWqozN8CZK
 Lifetime.sv,SV - Lifetime,https://iptv-epg.org/images/8l4NmYXD2M35d6Obhpxfu1Hl-XfTgNR49aFKx17NeojFBPcyGwt74YPPjtQ5aaQrOnt5FMsCfBaei80AkTYB4_wyFB5ZcxQizlWCWLKG2eEMpw3yG3w
 MTV.sv,SV - MTV,https://iptv-epg.org/images/GPIq2dDlPLp-aJitE7-vOhKL1xLBjY45kY6z1Jp2KS82mfTKj-1ETZtLFbg0DUszTCV2-jgj8V8s2r2m0lEWkG-P-FjYH8E_ZcaAmbwZMQJp
 Multipremier.sv,SV - Multipremier,https://iptv-epg.org/images/Q2EagZGkb6K_UDdGFZ8qRZQ58qXfhgmZF50dTEttXjtA7Thb2suAauraCxkme2m_azdClSo9HoH_9PPjaQEDE7QSoQQH4KUXPnBM7kkgM8s4J1ycZ8EUwZVy
-MasChic.sv,SV - Más Chic,https://iptv-epg.org/images/ElrSH5l206ir3yIxSm3U2spzTarslR0qrAhTAv7i_YFPP9Pn0Pu-bp4dpIGbrdFDKyNGfiUawQrCJGwAiLpmdOqqmlvQNb8H9Y4eMN66gU4nJiknTg
 NationalGeographic.sv,SV - National Geographic,https://iptv-epg.org/images/sW69lHHYiUtfEs8QkRgaqRWvCQ58ckfY28igmjOkSNM8yHa_SBiOAjBLU6i8UfWzE9TR-pRvyuumD2r4jWWwexmFYwOyR5ffPf0cg_LblgRjbn4eiSVierTxFuNVb-KI
 Nick.sv,SV - Nick,https://iptv-epg.org/images/-RPf0fiwiCeLAOeouKVYCf-MNxM1mfjdbSwlNzhCDo7Bkh5Ue-ayTmVjWT0DC4emKP052w9Lb34Xy1xkitgOrKF2tqCBesHMHkjVh1v8RDI7DA
 RaiItalia.sv,SV - Rai Italia,https://iptv-epg.org/images/LGz1IIQTFpoIHIv9Re-ov52quGsEbBhV8WuCTUX7XsWO-_UzrwDvwnsRU6nmJCdpZ82ut6JhWvm8ZVS2FBKHq_IkemAwZCug4LVIjRy6-UNYxK7vZOSg

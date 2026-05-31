@@ -19,7 +19,6 @@ CinemaPlatino.cr,CR - Cinema Platino,https://iptv-epg.org/images/uYtgldrHeLiA0Om
 Clic.cr,CR - Clic,https://iptv-epg.org/images/96XyF6hnUDkla0Tb_4p9ohPCFiXn1z9yLnvczBDYTlbQ2lcIB9vwUWmFL5jPdCyuBS2NS_8q9m2vR4XkO0aGRgEv4tFn4H5T_4DbyRUye-uw
 CNN.cr,CR - CNN,https://iptv-epg.org/images/0U4X56gaFTjIhHr9R6O8dGdM2tcbbgwAUriWkfkXQmfGLPVCGcMGsa8nlDH-TskvVWU5GDoD3SWOSzTqKRv3RwprJ4xlokRYhg1k4nBXPBQ
 CNNInternacional.cr,CR - CNN Internacional,https://iptv-epg.org/images/7LTdq4r1fGc1uw3F8uSSG4sv2NhIHjludECWVzPWdDKbejmSvgugrp0VHn1dea8ZqGexNxxNogwcZswMQAm8HUpvgR9DQX2jz2qH5GTyIfl1frZnyQNl2bxTpwOx
-DePelícula.cr,CR - De Película,
 DeutscheWelle.cr,CR - Deutsche Welle,https://iptv-epg.org/images/OnDFAWtUS_C-q0BC7wnQpOfJLKfNoGkjRhOc8YO0edF7PrQDxY5hY-vV7tHys-XA9-klP7BHiTInAVqncvGWl86mNwxCguiPjDfs_Q-BU0PnEsFH8-QPggR1
 DHE.cr,CR - DHE,https://iptv-epg.org/images/c1sXB2YFF_Bu_Z3h0fsOHUKQTddONqovfVvFT8dfgZtqMgrfUNjH0LElzkw0EgGwM7w-6SJEoWMkWhxSe-RwjxqNz-8ZIxgVB4CJZ15zvE0
 DiscoveryScience.cr,CR - Discovery Science,https://iptv-epg.org/images/N-2HpMFAe-7TXDRJ0kPUK4Pd3NkchKst0KtUQLYQhLastp7O59HVbO9HrPvZUboP2_OR6DkXSrWoIJjF6a1-JbxwIBvqki93CPEMCj4gEFS9gMfkrztz2Ber29w4
@@ -54,17 +53,14 @@ HTV.cr,CR - HTV,https://iptv-epg.org/images/5Xk-Jxc3_ja2LNn6NqgjLGDaQKHwul34Npgl
 LasEstrellas.cr,CR - Las Estrellas,https://iptv-epg.org/images/-Zh-wVQn6IVRWb-CksfMYLm3Tdhoq7mMXzwhyYFeJVSq2GZfsA1XLlFAP9jL9-YuoxuNFwFFcVFTi8atYMevWv5myB9gPJzh2y0fmMfS-MR5Fy200v_DrsQ
 MTV00s.cr,CR - MTV 00s,https://iptv-epg.org/images/H0bmocKxdcZPWMgJasHmfHTKHNjA6Wbb0YJWyRO0YuY9PzjC2ghED4C5B7Zs2WVz-vO8AuyDTevafB4tBEs-Y36p4A00dB1ZNcE_IJ1uxXFY5ag
 MTV80s.cr,CR - MTV 80s,https://iptv-epg.org/images/mKUicwJ8XqTxVYP8kav5puERGtf87O3Foc4QRQG17KBb1h58ACXV3eVt2tMvtqRlLsEEJrkG_X5klZwBZEBmoBL6zUkvmAWP6KJINdKfqNkaRPI
-MasChic.cr,CR - Más Chic,https://iptv-epg.org/images/OjPKlko_sFt06jXbmdScpWpsA8rYd9rDBF3QDtjdLNM9knEZFYa2I098P_N3GNs5K6732bHmQdrKedMJ5ztLf9b0vGoNyWyfxoLgntzS2wRlk7MB
 NFLNetwork.cr,CR - NFL Network,https://iptv-epg.org/images/Fn4ODcTQ27wZulp_t-Ac62PxuJr8DEyr45DjrIBCC_85Gii2F0WM2XIeVo7CQE5nlXmqoVF5ij9UlxTB7oNrggYT_NfZz2Z5ODA8k793MLkBrXUpT2-t
 NHKWorld.cr,CR - NHK World,https://iptv-epg.org/images/kqGJwfkejSaYbskcKdCbe1JbERE3zDGH6o9p2-swRqfhSd7FRK2bo5lfqKJzcvXuwtn5_Q-ZrAxlzwGxDwyso6JOO2p3sl353eLpVvPbQjjlfqxE8A
 NickMusic.cr,CR - NickMusic,https://iptv-epg.org/images/rZVoJj1S1SV7qjo9xfXmPFHSlV1iZh1d4GrerbjBiqeb4Ag3fbGGe20VhKfPfId-Mc9kOkyhf0OwZnQELYzqCxKqsa_QC-1SPHh3DCPP3mgzsFGHS28
-Panico.cr,CR - Pánico,https://iptv-epg.org/images/UoJv__m0hNJ7EoDLhl0Wq1IV4q_53yoYacMVTGo9JpfS8SDR5lSIP1UZ4pfdtupqkgSVsD-ZnY9BTrHkr7YmAyoA6ET2vGM75lI7T_U7wzE6zNg
 RAIInternational.cr,CR - RAI International,https://iptv-epg.org/images/2GDejnytBx-WMpEWwt09YnVe_Itv0IJVyOoWDo2qDx5xIYy3rtA9awCWMebD5uiLKEx7Ly9ui-q0bjKTHjBTg1N3Qm98R3uWE7ph4QVssVMAH4sB-Nqe_XBm1HPZ
 RCNNuestraTele(Internacional).cr,CR - RCN Nuestra Tele (Internacional),https://iptv-epg.org/images/LdvbRj36Hm_rQ8uaf_pqQP4WLrliTHV7swfx10pu1p56mSk4bbneLRmiWUr_Y1IFCrUCk7tOl6myUj24iir-dmb7MUxlnduXt6SU8PqdrdTy8SDyqrFuphjy-ee2t_LAi9wzVMBrSHr1EpcLK40
 TCM.cr,CR - TCM,https://iptv-epg.org/images/Ryy2vgujcA4QkVL7n6eug4oOsKeb5H7-0UQ4UBEqUsuJzX2VRqkHbCpB0bh_Z6laOgcwqayyN-2OsN3CsRTazRGuQZBN4PKMxM9mN8RKSis
 TelefeInternacional.cr,CR - Telefe Internacional,https://iptv-epg.org/images/9-gEAbj3tsloGMsGqpjc6ztbk4net4esgKOX2DGwSMKgMnIN3f5SdGYxiMkCTrrOVNwSLGYuy32V_7G2qhddTu0nuQtW8Tp-B0ruv00Kan7_4nINgew7oBIibodhuFPl
 Telehit.cr,CR - Telehit,https://iptv-epg.org/images/FUNk0kvTHYp56oiA5RpnZqVzeK6gcRmDUprN5ZEO5ZF18GCxLh3xwV2hARoEyFBsSQgXTSoI3Ha_KX_Jzw_EUZhxapMCB7OFNWnuFB3oQIojOMQl
-TelehitMúsica.cr,CR - Telehit Música,
 Telenostalgia.cr,CR - Telenostalgia,https://iptv-epg.org/images/oqct8aK3clGj1TeEuctApQKuuQgxsx3Ihw8q4m1DZ4Euvk_6eJ3hTB_SOrw_Za15H7aCf6jeNzdTK4FpGsm7_IcTXFev8olo-JOa66D7QhX3rOhfCrjNLdPQ
 TigoSport.cr,CR - Tigo Sport,https://iptv-epg.org/images/n0e8532Q36z_S6J0bu30Aci5Cxym_TWzqIUFSc1AjBn5E6Y7Npmop7bjFoXcNJ-2jNEXf4NZHhP_G5g-tPapCZvdtnqKBUZQ-jMmszM5sqDYY0FWviw
 TLNovelas.cr,CR - TLNovelas,https://iptv-epg.org/images/MJxLTqw5uV_qMLpy5Ov-HdZZ-1XLwhi0ZTDM2Z7EYnc6FNEALdv_P54TKdVWyOohJQHG_v2JVZjWvlujTO598dRfuMhfU636wTuUX-ih_wnFkoNcOgw
@@ -72,7 +68,6 @@ TNTNovelas.cr,CR - TNT Novelas,https://iptv-epg.org/images/phyCij_QOuU4q2cS87up0
 Tooncast.cr,CR - Tooncast,https://iptv-epg.org/images/-enWJP7sxr3nTvcd-1pwByVJTJOHtlbL6WDrMsLNLGvI58VYTD4Dyk_KuqnlnMqLRmbByRpZP1ZA9a04mXYFMI5fUORV7ypRhSwf_uAzjiHq5tuFvQ
 TUDN.cr,CR - TUDN,https://iptv-epg.org/images/G4l196Ok7bdafl_pZHBkGTCIhupKP3xyeJJA3G2GGG_MkG-TmIQTDHorQKFT8geQMSRQsQHP-anp98lxIGmkg-IHl4uWpENq7vf-IxViYyEB
 TV5MONDE.cr,CR - TV5MONDE,https://iptv-epg.org/images/7aMHVl5smnRTRJeSJ82v4p-P43wsx94lKKjA96mRRnUiOwp9Iu1I3dS9JV-H6ZU0Z7WHQ3ujzbPHNyrfrsv0wx094YpR4E2w8lj1FKB9SvAR6iIx8w
-TVAgroCentroamérica.cr,CR - TV Agro Centroamérica,
 TVChile.cr,CR - TV Chile,https://iptv-epg.org/images/Hlpk-dOBmjSCC5j1b9cpQM3ep-3DohkgZZgVDF2Ybib0mCAWkkO7edsFhSkE_SmfP371AfVBCcQe773SKKOkUncd8WQfMjheIfi91w2rv2FF8PSc
 TVGloboInternacional.cr,CR - TV Globo Internacional,https://iptv-epg.org/images/777XJgHcqCJ6SYqAw_c-rZrwPX6aoX76pJsHvAh3AAIaCig6-55NQPVsmL-mcPsPNTfjRVRqfdEmDl4yFMrliQ-YM3AsIdrKM8oCIw3xUYTJ2d9eUThMskVDjh-qqcA1kA
 TVEInternacional.cr,CR - TVE Internacional,https://iptv-epg.org/images/QjuDT-dtcRGoJKU9UCqsbMMDDrsZHc5PQ6n8dtoBJNtqzhTPmAL_dJCI19PwU0pHo9ABJ8Mfx1jwt-pR-UHawOcUqAFK5MRr7g1X92ObXJy4zbFKeH6FTS2EodNZ
@@ -82,4 +77,3 @@ Univision.cr,CR - Univision,https://iptv-epg.org/images/nlGlfRbUas5_ONdQl_ntQmr9
 USANetwork.cr,CR - USA Network,https://iptv-epg.org/images/8HnlPKcN1abdmYinKTelYxysq2uJF2RxW-UeOG5vZpcAg3ufP78GkACam5KNAXm03YTN0hhJk5jVQbzglS1Bgs_JRb4PvQGdMD-MZezEgL_A7wMT_Ool
 VH1.cr,CR - VH1,https://iptv-epg.org/images/mKV1IPQsJY8VgI7ZLTLYd1StIg1SD8uCaXpzro7kDdiGfyv_uN67BdJ2MsBgbu0zuKYXoXP-mXLVbXg7HKX_tegH6lrX5d28AaTbhNKKrN0
 WOBI.cr,CR - WOBI,https://iptv-epg.org/images/LerXIzDnhR6ZVnzPQ-wjOUtDgh7dSbnyxpxpr4TC2J-3jtozoFmK_IlH2eHAnWGWnQoK7pzJM4OeHhGbjY6HQ3kvHB0iL7RfVdCQ0Dq6w8cJ
-HOLATV.cr,CR - ¡HOLA! TV,https://iptv-epg.org/images/G8d54UcKT2DY-g3gpPfhYFwgWXMLrpy99QST1qdhZ8I5jh7ZZVBxRMRS_DG16ZwkBQ5c4GgznfFcWIbxSiz5baFDtu-Vc0vxXLK2mdjofwYonnc

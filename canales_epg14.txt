@@ -28,16 +28,13 @@ CANAL26.uy,UY - CANAL 26,https://iptv-epg.org/images/xCVKXMBkhgm1eKgHyEEufZNDSpk
 CANALA.uy,UY - CANAL A,
 CARTOONNETWORK.uy,UY - CARTOON NETWORK,https://iptv-epg.org/images/sP2jJk4_OnOVcWQoJ1tWgTsE6FGWWJCeLTjVDDyfBHzdWKb7iqoA_qPsfYkcVNAJ_FOFcL5HlORb4B-pknmyWHQ7rGGGrt-hyNH15bvGG9OzAdwCKEy-HA
 CARTOONITO.uy,UY - CARTOONITO,https://iptv-epg.org/images/oQE4l88dcNhW431XmzGEW__tkvqRKg9ysS84bifpDkvDc3a7j5FAk9-gJvWT_1AW7EiyfXY30OQRzPV2PER7vVZrGHHkpoyccWFEqqB5_PlPKP3n
-CGTNESPAÑOL.uy,UY - CGTN ESPAÑOL,
 CINECANAL.uy,UY - CINECANAL,https://iptv-epg.org/images/5h3xVgKBJonXwmdSwRKZs2Z9v9sgfmZtLnsBKqZ1tCzsBzBIcP8XYjjq9m6i2zkX3M7aWghd5b-wuzODOhkvLuI_AAlInR1QeNdKD1i4jdQwmHs
 CINEMAX.uy,UY - CINEMAX,https://iptv-epg.org/images/PDlFjDwa2P8j7JhnSHW0PmdNNVxvqAz0PQWV9o0-0-TEBhhPbClmCdKvQl8uE5O0_ZHSStirheErsi4SomZkrJnSep-fjTxo_wPa-igMKjsz
 CLAROSPORTS.uy,UY - CLAROSPORTS,https://iptv-epg.org/images/wMXnmNkdAR7qG8PmCLbwgqBRYM4QrzKaDyqYQ1LgMJKzm9ki2hBCBXBjJEqja3LMoT1lLDUffPilMJZgY2G79wghKcxc_awDOpstRAvCMhIcih66Og
 CLUBMTV.uy,UY - CLUB MTV,https://iptv-epg.org/images/58XEids8IxWFygQj-lyuWR2eczxim5aHiYkGNHPhD2fehaD_YZ2Wl5nR8ejv1eXa8lIRI1kH--zVQFoGDTZVYykS4_y9rHtRYeuN5wMlPYkd
-CNNESPAÑOL.uy,UY - CNN ESPAÑOL,
 CNNINTERNACIONAL.uy,UY - CNN INTERNACIONAL,https://iptv-epg.org/images/4nFRWKyu4apDbBPvpIGn-5EVRSAmD3o9sah8als1rgBPlrvD03eRnqgxz1UlofL-zYMEVmLrBs6Zi3VX9ZZYzT8cVj3n0n8oxRnf55GLigqL2e8ZGIxeRRGb
 CRONICATV.uy,UY - CRONICA TV,https://iptv-epg.org/images/Hgn0FDSZLYoQ1Ye0NS5vPD8gm5os9ISc32_pqYDqyChoWScVFyH8Yvm1Y_Y5ZxMN1q7tr81oflTnWUkNUoq-uiVixsuC6rO7ShyZi9aqH1cc01g
 DEUSTCHEWELLE.uy,UY - DEUSTCHE WELLE,https://iptv-epg.org/images/wu5P7xUHBmguRHTslt_8qcqcAaDTkcLRdfpLlPbHSD9yGepq2CzEba2KnPnAtdhkls5VVhrFFg8h4AZqcsRn5RByYDZfWBghd6MO5F57yfnVkY5x7S6W
-DEUTSCHEWELLEESPAÑOL.uy,UY - DEUTSCHE WELLE ESPAÑOL,
 DIRECTVSports.uy,UY - DIRECTV Sports,https://iptv-epg.org/images/2x_WR0hhGAyM_4FkI-z9BZAqIvm_h5Qydi7q0u0a4ldMFn_QFy9ukvFmWwawn2uyja1phCc6TDySK9WIydFZnNIPZL1NdZ5YjCx6FyuWznEtg9CN0Wwi
 DIRECTVSports2.uy,UY - DIRECTV Sports 2,https://iptv-epg.org/images/uERs_fyYJyNnkR79g3Omp_qh6zZDyHjS442vcKo4XUxsGXC1wfg_zH17_wO5cRoWE7BL10n18El_QSo2CSyww2MSU_6DEdXMn6i5We4d9LbwVKO5Ce6Kyw
 DIRECTVSports+.uy,UY - DIRECTV Sports +,https://iptv-epg.org/images/LF_HDYqbf6VbJlDEWMjkdq1MqB9aqjlMeOxFKvIKIHtxrj3EF56s9Ut4l55dhXoHxZxzbrsVBCehY_cfNz3ML8CnhgTawM3dHCVxVJTt8mKlYQpxBS3JbWZZ
@@ -120,7 +117,7 @@ TCC1.uy,UY - TCC 1,https://iptv-epg.org/images/YeNBE6NLmBG_RuU-5Z7jpXXLwpR1B32gj
 TCC2.uy,UY - TCC 2,https://iptv-epg.org/images/f4zLw0NcJUUrlsDS6_vSAQ-w-eJBktJS5fZxfRWLZc0JYfH4e-uPR43go8Nw-hN0F4aTIPOgw_wf_1khUaGM6UyENBotpPfUEXmDtk1w
 TCC3.uy,UY - TCC 3,https://iptv-epg.org/images/kIQ72KrFG4YkPhSjOlBkk4cCi8Ag-hjM8KAVCppsMWsAJBeSPqd8xjTAgPPz0i2-x_fz8MbjOr9-Y4-XPrhoX--g833AspsBDh1yNbBC
 TCCVIVO.uy,UY - TCC VIVO,https://iptv-epg.org/images/zBMW5V0OveALxPFJz8MPRIOZ6JyyEqJK96QU8G3aZ7wc6vuGo-ps-QBHcOrDiteFPYcWFV22mgF4DFggVKvp0erCY5i1kWEyxxZzfMtq0H0_
-TCM.uy,UY - TCM ,https://iptv-epg.org/images/1slmm-GM1bEq3HPA8e0PAxCMEvNQU8gagZI400Ju2IppqShByRISjKzQaC2tNRsyaArqYw0P63F0XAaxKirsqKfc3p9gAIO_HwX8OFU
+TCM.uy,UY - TCM,https://iptv-epg.org/images/1slmm-GM1bEq3HPA8e0PAxCMEvNQU8gagZI400Ju2IppqShByRISjKzQaC2tNRsyaArqYw0P63F0XAaxKirsqKfc3p9gAIO_HwX8OFU
 TELEFE.uy,UY - TELEFE,https://iptv-epg.org/images/JSiMeUlXPlHMdcQTqi_346xr7xApUA8qhM4djPOM5ABiviglgVAP4okrRNl6e9MJEpQErhKCCTzVpR34vU43m-IY4GmtlZfOxPOOzjHqes8
 TELEMUNDO.uy,UY - TELEMUNDO,https://iptv-epg.org/images/P1XtrU98wDCsGn5wyzoTnZcrpA1-yATW_tUfxRTVH1_P5jrGOTrAGfwHTLVErSp9L0NdjAwRzcQJkAA9TOJXQogHXagL9tIfzpEqKQsmQh8p1JI
 TLC.uy,UY - TLC,https://iptv-epg.org/images/erYQOYZkJR__dOAJEj8tN4dYP_zkZcQffPLxUaDr1gcJT31_olfxJN3-5WviTfgBQipNlEhOjA90lSw7nx7g8oIKrm9mKtOl_JC75r8

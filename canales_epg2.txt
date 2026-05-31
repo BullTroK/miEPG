@@ -3,10 +3,7 @@
 A24.ar,AR - A24,https://iptv-epg.org/images/MnvOGO0ZIDiKsBkW0LCAhU-tFwkfbntaV6NzSopg9pb0ESeJnXTjQdQOjrsZv16GCUlhSe0eLjG40s3dnJQEG_YzO3jHl92mqrgG87IKVQ
 AandE.ar,AR - A&amp;E,https://iptv-epg.org/images/YAa01iB7EFMeM2rpjErj2U0RdNTTWipn8nj-pSTFs83wDmsBa61LcMkjqGUTdjx1jRzb1AikJR-xn_pm0Osell0MhDQsigERijTZ1W1zs2yG
 AMC.ar,AR - AMC,https://iptv-epg.org/images/QBLsvpGHQf_t6anNq3PcpdIr_owBj_tZz2BlzpbcavxZB4Qj7BdnNkjX8qDspOeHIR2t-ddzwXl-fPsSlE7vw4zHA-Bo7v2dNdiolnSTpA
-AmericaSports.ar,AR - América Sports,https://iptv-epg.org/images/Wljo3YDptkq2L_WtD5ITjLQONlP4Z5Zt3ZtnMcDPNUQjpiqtkwHyAr945Uy7Q4qgZ0teGDQtfc3ZZ0JafMoCZsH4tpiVkR6o5NEb0OCsCCoRlO4pRXqEdYU
-AmericaTV.ar,AR - América TV,https://iptv-epg.org/images/1_YTyvEJwpfmeJywO_L3QzbPWvWcvTYsv9WCaLpM5k9vVH4JKGafGVII2GJu_BEaT-IRvyfet6AC34KxCLe0EATAZG68tDet4zq8ekjf1FWF1xAAqA
 AnimalPlanet.ar,AR - Animal Planet,https://iptv-epg.org/images/_fJd5cN0kMEtbDA-IluEn94ZS5pjyz2XZo88y5XB8Nyg_Wmg9F5OiD6BRjQyrcuJIXMpcU3rse3ROCDzS0uRki1tB1BuRlUwIxzxz_ZQmOwBoAfpZssUdg
-ArgentinisimaSatelital.ar,AR - Argentinísima Satelital,https://iptv-epg.org/images/CX06kRiqdjUcq7u4Q2DEzng3F47pl49Xfc9EHuweTlDzCunI6T1D0Na6BTweTBI1-sT6M7wmS-wawNce_HWL5zgsvd5nRyJuB6qLVA_xx9XLCnAsZT6R0002oSsvY02xI80
 Atreseries.ar,AR - Atreseries,https://iptv-epg.org/images/t96JcB1MBG_EjxSyl9F0pc5erhoyvgXFhBTUWVAYzSbLVBgrCFJ8pHrDJ7Zb5sJAEubIy6YOOoiu8QTivo3cAjcPHtEJVaWHNIbNcr0GOj-oWDQ-0D0
 AXN.ar,AR - AXN,https://iptv-epg.org/images/x4SNzHeOs0dEfjslUkUcuD-Z1G7KpaJy5IbEr21YWN03T6AcX0DLUBg5Y-RyCUk6MX2_-kHMvM178GIaL79JhjfqFntY1ErbqsbMv-fm-Q
 BabyTV.ar,AR - BabyTV,https://iptv-epg.org/images/dntdV-xcRMC7qnRjOvhyMa1hxLrsSJjeowxXYB7AkTxIPTiYyet9qfaLC4h29WgnGTB1c8BXzhEmYVmXI4gbKhwuwZqSQVYPRkT1XHYuyxJ8Rg
@@ -14,7 +11,6 @@ Bloomberg.ar,AR - Bloomberg,https://iptv-epg.org/images/lzEBCP6bFMy-u0COI4YUphk-
 C5N.ar,AR - C5N,https://iptv-epg.org/images/BNpZwaYpgS9_Ksh0WS3Xyi2tDWcuuhrV1ZNalxJ8ye5-yvJEpDClQTyM_I1GsGUUwQSKwlTYL00OJt5Nq6QRBVX4fUxvqDudObNWPAxqhg
 Canal26.ar,AR - Canal 26,https://iptv-epg.org/images/S-Z9I8hHJ3gji-PtlJlcYLuWRK3cMz0Sssynu8XOBE1COMwWCe3dttDbTZfw1Vex4bMEybNKr9FifI3A1KflqRpj3SEbLMmuMCcbmWUv7JLiWVY
 CanalDeLaCiudad.ar,AR - Canal de la Ciudad,https://iptv-epg.org/images/7b8DfwMidj_ffthncEG-2lobdiPyngO-U_ABqZhqkKVTAHUBdN0FBnF4RZxCS3sLkw-l-J5ah8ve4Vcbvfy3MmrMaOTT_5BKfoWdp20eYRFicnYX2xdV
-CanalDeLaMusica.ar,AR - Canal de la Música,https://iptv-epg.org/images/Jf8Pd83PE1CzVjMjlZ9rVgmWdnM0wvNhZX-eTakmCV3F3dJ-_KeFQge6Duo0va3LGI8IVpEvrBQLhYhUNif-6HhzIxuPqD8w0vNovHesp6qSEWv_jRitQ0kimQ
 Canal21.ar,AR - Canal Orbe 21,https://iptv-epg.org/images/HHwGGRTLlxdtiXyxCCISjObQFE3DFeD_Azt_sLOckk-8ns3TZqI3XBdQgeZOVf5HVEKh9YVBIi6iOHdowPJlQuuvy-RVZHfgd8wr9h2Xi2hTixQ
 CanalRural.ar,AR - Canal Rural,https://iptv-epg.org/images/4Y-YbrSEQsn6ELZpGS-KZ-WSY3FZi1f_1ba4Eous5ylSPuLV9WOOJoLDAaGdHc0jQtLLKwCz2H7dRLk53sG9LvTvB8WV2dD_eIAeRyPnxfWLagr94V4
 CartoonNetwork.ar,AR - Cartoon Network,https://iptv-epg.org/images/Hn4iHPuNJsr14kaD3iJMzFLYiR1Rleu-4meeWWr4EDfHGPkXALetUJzOi9eD3VmqDOsU4sFQrh2XVYPokouS5GNt-NH2Yh2mK_EFzIHoIefrmL6XGvQPPFM3
@@ -27,9 +23,7 @@ Cinemax.ar,AR - Cinemax,https://iptv-epg.org/images/nSAI0WTigGURT-eRq5JC7cggpcpJ
 CiudadMagazine.ar,AR - Ciudad Magazine,https://iptv-epg.org/images/dGmYD595Z69JKkw6_r0y14g7uQW3H0Qaw0O513E6q8s6XRtOfLFoDO-semuh_EMQot82mOIgRYL_7JDu1NUS4Fidmux-sRvo8rBXtzlgL-sxAmLRAMhuW2Ne
 CN23.ar,AR - CN23,https://iptv-epg.org/images/FMUWwJuDG9CWnxsoBC3ei9OEUjG0yXG0Owt9CMoqKUVl14lpq1nYZmGJlZFF5FsVXfkYDRfj5rhRkSmPfjl8C6vCb32ZN-xHKEnSvZbDNqA
 CNN.ar,AR - CNN,https://iptv-epg.org/images/AgHgrtgtJ1WKh2WXLBBJ5p67W_awzqWl1wTRRKCcROALfQYwc9OD6BZTP7Sw85DMq3iuuGbzAi033mLcFtQ6W7DcZbOlCO-ZVpKs6pDgMA
-CNNenEspanol.ar,AR - CNN en Español,https://iptv-epg.org/images/yQFDKvbN9Pic4gp3Ca9l07U_vqQCRmMbgX7XPopEFcbpUFbERFYyDFK8yE1dWaaQO7D5f4payH3QEin8TEULmqRcICh2WJ8sG1-_rSnukbQFvkvLRYoPLQ
 ComedyCentral.ar,AR - Comedy Central,https://iptv-epg.org/images/q3SJcYuAcfWmtH_rqHhNIM7IWYoCiNJVYonOAab4e79mDKe_UD-w3hQbCWkqE4gGA_BfkeO2LBe3I67vhe4Xu38iTuWhoS6KdSG8UC2mXmPRjJFbHK1pBDU
-ConexionEducativa.ar,AR - Conexión Educativa,https://iptv-epg.org/images/XSPFSw4ePb910kL4HB770d-jwp2QIoMUC4Fxvs2tl5ICMtKGgFTuj1XRa4C2ALCx7uTJ738yUNXKdmk_bRkyFT2tHI24h1EGLfP1pWvsDR7W9FfIUrJ27400sYFT
 ConstruirTV.ar,AR - Construir TV,https://iptv-epg.org/images/9DMOXMqhP5XiraYChmoUan5e2MlL6uG2NLFrG1n9V9NHgERvFY6y24vBtt6YcVBVTzUGl24Nli43iQDU_471fTBrpsyo9UFHVGathLUYZ3NamJVd53XP
 CronicaTV.ar,AR - Cronica TV,https://iptv-epg.org/images/lqmen9XAbXYPET0A2rzWEWIFCeZktcoaRTmEwNU_i7bKOik6nKwBOYK1fzI3Ws6BudTMJy1g86lf7wS35NeEVfzWmiyh-1WfvuusasRXfPeSFbzmLw
 Discovery.ar,AR - Discovery,https://iptv-epg.org/images/ZH6xqjjG2JpMDZZrgQa9mv2aeYL-hE5VGHliOyrcuXtJAPiamfY-dCus40CPTjUUUXgW1CGQ_aYeSn9wolGQrcaC2m8nESHQ0CAZI9CfaTD5ZctDGQ
@@ -62,7 +56,6 @@ filmAndarts.ar,AR - film&amp;arts,https://iptv-epg.org/images/kTxtaAOcJrkd1CEEqe
 FOXSports2.ar,AR - FOX Sports 2,https://iptv-epg.org/images/_az9iBNv_A-_NrKTH4wmd-a_QH_b8eFInvvs3gLBFB-pJeOUETRTGuIJofPi1Kj5EuFDsm6sm5jIaDdro7VkYRJY1Oppzn2Lm2IkgQEwYSxzX5tlXMc
 FOXSports3.ar,AR - FOX Sports 3,https://iptv-epg.org/images/0dmQNVHMSDStLaif4Q_k2vd-JE64kgwldgsEMaEw9f04D6SxTLlN8mq3sSHIBRIrEJXi0r44TENo1P8zoJWAyFjmsVHequB-XlogWcN6hGfcaBe9cTU
 FOXSportsConoSur.ar,AR - FOX Sports Cono Sur,https://iptv-epg.org/images/ZpRv6P_thlJyISnI5OePXRk4dBW3qRtAgYGJMectAT1kBqPtfD0yGdYAEpj2bRFWSUkChPmW2aBzxA8vLdo91cj7H0u-nHJQHljlD9RMgvBQMCVEQ1LBvoZSH1E
-France24enEspanol.ar,AR - France 24 en Español,https://iptv-epg.org/images/_1cNBsro9vLZY4yncbU669jQRb79C0odriMUQR9fGKUhd1kURsOhi9t00cSCrpoHdO9rbHTnzn8eNYjwG2R5Fcef7EIxCFK70YMSsPlSLIEPxScruR0dSdu-5I1-
 FX.ar,AR - FX,https://iptv-epg.org/images/upb6UB938RZrEa063_XtMuDnVqm-Fo6Rr3PEHavPyAWILKoToYU7ABmJXziZHdHYS8hp0EFWjtYXNCXvDE_cdc8Ip__YcQvH3IhH5ino
 FXMovies.ar,AR - FX Movies,https://iptv-epg.org/images/WodphBgAJENj3v3J7iot01aYHZ9H2wxWmiwrp3Z1QleAWGRg5eIt7-Eijdrs7ouXGxO0dQqSq4SqS4ghFNtT1DynBopxHkjnHcEwQBfCYeLcv-Zd
 GaliciaTV.ar,AR - Galicia TV,https://iptv-epg.org/images/wi7gUbbVRXHK3aPnvaeF9kZ87aAepsQZqcHb0lgLbkHTPX5e8aSzOixwzpeu8pCel_rLfi8biv4OXx9NHngFdL4AYljPxhvHvz1FfPTW0DCTl-iw4A
@@ -83,8 +76,8 @@ HBOPlusPanregional.ar,AR - HBO Plus Panregional,https://iptv-epg.org/images/AZtN
 HBOPop.ar,AR - HBO Pop,https://iptv-epg.org/images/eWnUIOEArNrYuChTIHMxm8e23f1UpE_TgEHR_1M0aFXVCzwCkqZ8GPo3B3S42qPn_bivTizZkJoDRe_jtRIipvBwlNLl9_14KWoOPVOOHGlgtw
 HBOSignature.ar,AR - HBO Signature,https://iptv-epg.org/images/KSoBZEzNrbtWVA6eLflKzAAs03HOx2r6KWohw_7oHraYa-ZLceD1_3FyzDBB7ldB5U4RgXof1foqZXMBDZyu-f5GSZLQTGo1_hMpbWlgN9OBnylHWEPbmQ
 HBOXtreme(Oeste).ar,AR - HBO Xtreme (Oeste),https://iptv-epg.org/images/g79QaxnmeePnbbgunbn4zWdtIH-GYkp_VkfeyJys5UF_nkgnDsew0nuo3FYjrY0aaZzQmFqEoGfcEYftzvKQnUfZh6z5Q9lW_Ud3jmWSBDbkSQ8eWZkt1i_O1lFZ4CRz
-HBOXtreme.ar,AR - HBO Xtreme,https://iptv-epg.org/images/c6HKrt2pFlvG712UqtntY-ik54PoE6c0u8ve6RBJbrKpT0d_YjUSe68y4hAJL6iADhY3l153JT2fMwFWRh87NeLk9yUk3SSrNcT-H_ew-s9g5wkSfQ
 HBOXtreme(Panregional).ar,AR - HBO Xtreme (Panregional),https://iptv-epg.org/images/vHPYH6TDjoapvGg_CyP-597Xu2ahC6lxzOpt7dUXBNBIs6BVzTmZQfW93534-_yCfN_jK7wqLNPCD2otyPQ35BU8RiDVxbbs-_bpwn_lMV_coLhl_e-DaJZsS8phDK4_arR8bxu9
+HBOXtreme.ar,AR - HBO Xtreme,https://iptv-epg.org/images/c6HKrt2pFlvG712UqtntY-ik54PoE6c0u8ve6RBJbrKpT0d_YjUSe68y4hAJL6iADhY3l153JT2fMwFWRh87NeLk9yUk3SSrNcT-H_ew-s9g5wkSfQ
 HBOXtreme(Panamericano).ar,AR - HBO Xtreme (Panamericano),https://iptv-epg.org/images/ER1VMqHriuj4xbNmVMYlgpzatcJ67flJgP6LJK0867jbrOjg5ly8S2giuabn7Z3MCGCXRchIxRLiUk2YFaBHt9Nj1NXy-gFLDGJl5Zy6JL1n1qOwZChKoIrcIQ5yKH2NroVjCfSSRQ
 HGTV.ar,AR - HGTV,https://iptv-epg.org/images/G41fLHeFC6Pk1r6f4ZscsfZzB1xFGMEFL_dJKpjNTHfeL7a93rdeOyViY3g5jhraxD2wQTphGFytQgH9UFesuV-ZvEQ_nrC81A0seFn7Ku8
 HispanTV.ar,AR - HispanTV,https://iptv-epg.org/images/POYp-uLzIOSL6EXI78hKwhpUwowXxREi1pIBDuY2eUOj8jiDnL3jn3jgSFbVHUORzDgRQx0E8aj1U6aLanYeP8DY6Bz1SO-KWJzQxVImgpkbJUqe
@@ -104,7 +97,6 @@ MTV.ar,AR - MTV,https://iptv-epg.org/images/bUxRKPaSuqPpxrb3tgRs4jSmsQP-6DL83GA2
 MTVHits.ar,AR - MTV Hits,https://iptv-epg.org/images/lA7Le-0e5JD9G9aJR-UgfgGcjv0QbRihqSAKU_URKbEMmD_bZCHPyB7kZjbA_tHAqwazLyBTCy3Kkqf0UsKxdLEC36aYm0NykdhzdGFUb3GMt1E
 MuchMusic.ar,AR - MuchMusic,https://iptv-epg.org/images/r0BBr7_cCwLTvHmqtMN8cdosJ-f6KORVTrw2jvyKAdOD3gND7mkiHRhX1bMojXOpuLrGlpFIG9jvmECqA-DHYDEEZIFoPKLJj6Q-JREj29-il3XHSw
 Musictop.ar,AR - Musictop,https://iptv-epg.org/images/WdhksY1iTOsKjeNfqHH-1kXuz__Ej1XMuJNx5y6ysgH7oj3y0awIbcVrcD8GOl0PoEMKlOuhFFFAkvOlcCJJzKtvP72q0Sjlch-LOKWOGs2UzYZG
-MasChic.ar,AR - Más Chic,https://iptv-epg.org/images/0TZLPH_7m7kUmZGFKjkQOiLmfuOAS-vOEgiVGLeMmj5mbrW2Y7C-I-TxRo6ycKyBOwUFEedUwKsmDWm2af3acGdH0Jt3F3Ym71RpOkLYd0jHB7E
 NatGeoKids.ar,AR - Nat Geo Kids,https://iptv-epg.org/images/lgGcnd_0VsRyPraJ5xGhfOnJxw8NPpsi0Otk8BN-Tnji8-c_DE4zLucLVegXkNCXc1mEbBT1zH_9pBnZ5zovBy7arosEIfyz0Ky6VQnHW1Kj99rMTW0
 NationalGeographic.ar,AR - National Geographic,https://iptv-epg.org/images/wyTyamniFEOvSuN2RlaN3n8yKpVeOg0LL50vj3pEcExciI5Qq2OrrmM2xRjDC0KAIRPf2gYgP18qsUiK7PGxzA03QoFWpPNhTQcfcv0bqg-67kcyRdAFh8_8LoTKNw
 NationalGeographicWild.ar,AR - National Geographic Wild,https://iptv-epg.org/images/eXEhx4pD5VFnY3CaDh723Jd9ydcsVdGlB6VjDFX3yZzwwGJkKpCFiDm1Lqrqi5rQX9rclBtvRiawFEr_haK_yNmwjwx_subNVzs_GPlfWP37yFWilXukS3_U8dTJUcrkXJg
@@ -124,8 +116,8 @@ RussiaToday.ar,AR - Russia Today,https://iptv-epg.org/images/a50EUjhdHLBCdIb8_Lp
 SmithsonianChannel.ar,AR - Smithsonian Channel,https://iptv-epg.org/images/Se6rhmWl7eOEYjqXoXWtkYZE6uP584M1ujApvjWYdaYuyD8U4eT3pPcyJHE1ZyvwqyYt54ASTxtdUpjdz5awqkFXz6PFaeqOHOaX8wPullmizaYfpec-p7EhWNg-kg
 Sony.ar,AR - Sony,https://iptv-epg.org/images/6jnrMpYDEXzcwAmZzT2JUsuJtxU5DASCfTxZZ2QBc5KtYKu4-BVs20ClhO4Yt8Aetp9dZXAugMI4mJuJegH1BtR5avQ6sLhe-zAqlfh28jw
 Space.ar,AR - Space,https://iptv-epg.org/images/QQJcFCuv2mx30-wCVRFIZ0B54ZEMrCkknXO4440PsWzivZpY8QShGpmLBvb_f42MrcAFQmR0Zc-3-mzdFsMwZUjbdguGrxZ1mGILcXpjwZ-i
-StarAction(Oeste).ar,AR - Star Action (Oeste),https://iptv-epg.org/images/fqYSV91F7o41MmFHi3cil5pq7geoC9LGiGnsan_r_YcdGjIR16z7H_uOy4xdC5V07Tc4t31jpLWRGmLI7CrVPWyHAMOsp40wMKpbZMlVF1ZTcug6YmnSqXeySNAat1HaeA
 StarAction.ar,AR - Star Action,https://iptv-epg.org/images/h0EjAOaLabiZVITqOvwD_HyPJ0cPaEQm9xpGqp3MzAJ2HwlIWlv6XUon5klnngGBR_yrzpJ-EDB-RQ-UeTBsNGbNYfqG6r7uH1G4KzHDQ8-01f3zgys
+StarAction(Oeste).ar,AR - Star Action (Oeste),https://iptv-epg.org/images/fqYSV91F7o41MmFHi3cil5pq7geoC9LGiGnsan_r_YcdGjIR16z7H_uOy4xdC5V07Tc4t31jpLWRGmLI7CrVPWyHAMOsp40wMKpbZMlVF1ZTcug6YmnSqXeySNAat1HaeA
 StarChannel.ar,AR - Star Channel,https://iptv-epg.org/images/5mtr5vgTY2EUeTExkISryFHDn5oKBzU7k2gvHxCDMkNQm9YRabdIyQ182BbiX6FW-ENsD9Sm5gV-0PWW-HhwXISjZzduemHIhzmyaCkClCo9cCbTgfDK
 StarCinema.ar,AR - Star Cinema,https://iptv-epg.org/images/A3xLNvBQ2LHnmmkYamVyeqbNx_nahgFZ78wQD-9EbKeaDqT6_qRPqdxu6dQh09eDoYzcFsAYRMLWNpwHrcpAk0neuizoV1JAyXTC-xFJsrZFOq2jXV0
 StarClassics.ar,AR - Star Classics,https://iptv-epg.org/images/tou26H1f5wtgR20I_C2VEOApVd48nVuCPff24PcV3Xf1n3X31f7pzBIFLohFzzO19dPl7Yr7I5HCLtlXsLU5cvIEjuPo1QeVF0okldbDtbFR4fTr6r-ayw
@@ -144,15 +136,12 @@ TCM.ar,AR - TCM,https://iptv-epg.org/images/cuzUgDgaRXtHNLnIQxHXZqIIU7w1L4Wt2-0i
 TECtv.ar,AR - TECtv,https://iptv-epg.org/images/kiVapbYIdjws8tEsdSDj9PrIqqWvG2Rnav1NbN6aoUSytnWap-sQCJpnIlZmXI2KbFVbMv9PK20lWCL06A6WYI0QKfDTcTlnNuCbAQV4IPc7
 Telediario.ar,AR - Telediario,https://iptv-epg.org/images/B9LnMdQvgpl_S1AfldxDtCxTV6El0MKFmbf5z-5l7GD4ZdwfJywsgHQJcpmyM0F2AaX77cG2lad-66stwawbFVHCAybSfgRAAcrZfw4NtyaziRyVUcw
 Telefe.ar,AR - Telefe,https://iptv-epg.org/images/Tz61AgQgLnVqlncp10DGUSosMGVKi_nQy2C95320CeSEh2PNAJEXgk3AObXyzRdl5WfaGWDZ5tT2G4CaWbwovR9Kdou40TtQK2EMAkWgVRcjSg
-TelefeCordoba.ar,AR - Telefe Córdoba,https://iptv-epg.org/images/KYw8yE3mC5WLfZOokpDOyx2fdBmRaOzcR0HuWaBzmWFpL06HvEzwYgRpGBEQLVqnzroyqQ2k2GnAirJdUv_xyAqlf_RPnJo8cwQccF2UswUYs5Pl1uXkXt0
 TelefeRosario.ar,AR - Telefe Rosario,https://iptv-epg.org/images/ZpKQKHlSZ-I0tFFc1H-nIgJhJMOFLC0_TouZ4z5u8uSSOOAN_q1P7L3Pr9RNrSyjmpb0ppK9g7f1eAc-OWBwKgTMwcUTWVKZH9_AO2etOGQz3VY3NyjDd2U
 TelefeSantaFe.ar,AR - Telefe Santa Fe,https://iptv-epg.org/images/Cuv5MF7UMDiSGZ3pFXL8AYOegaiIYSnPVsgxN4BcBKDlrdHdI_9yt9PYno8jOpA3PFSrzOAQnd4hox7ttCBWWhn1EafYUV-ZJbIf4btbKJKq2MSMBOP3Ve0
 Telehit.ar,AR - Telehit,https://iptv-epg.org/images/0OYYFV0E5hArlNqcpyYrrEwLev7M639BeaIigzr4Ow3VpzyjtZN3vXy5ZAU0c7LERCkUqDFPbRJ4X1U7iYcU8FEDaG-4J76Gu13eDnA1__UXlkI
 Telemax.ar,AR - Telemax,https://iptv-epg.org/images/g8jT5H4LeVdrvj1RllNph1r5BmXBpCYyoo0VxC4_6142P2hgyHniE--5ntJUCURDAjCmUkG3rPwV3cZyw2WsDHOMrNatJQp16gI9BXc7RFFetck
 TelemundoInternacional.ar,AR - Telemundo Internacional,https://iptv-epg.org/images/s7uFKipcy4rhh8OR6jKBZLEAONlnoN8G-n7RlKzi4ZWT_vdMSFAoOAmYoK63v3TQnhu0om0odUY9dCaj8L_RKK3SXVUjhfw8YwfkBtaWR2hRlICZernp0TscrXB-FsO3gdM
 teleSUR.ar,AR - teleSUR,https://iptv-epg.org/images/ZY3BT2dqyQtWbc9TnDutXCbypDMUL6Vs-G7uRH6YAVdZJ_PbZkvUH5ygIMTLiW-cucDtyjNrD4iXvH1g13XdSCeRBMmbN3iaG71u_PiX1yTPMX4
-TelevisionPublica.ar,AR - Televisión Pública,https://iptv-epg.org/images/0PbbMDpR6sSqK4q3qYxVWwTRJbiTrLI1ZJpGHPntVM9Gv01XRWrC8F_f-fT1EzxtuMhkswi3Hcs86AWvTJ3wXx8GqBi368gkZjVYrgt9Rrv_cxzLw5dJcVMU22fP
-TierraMiaTV.ar,AR - Tierra Mía TV,https://iptv-epg.org/images/jJBJBG7KovrwL66pW_qn8gXzI2e9WQaea848kY_SUKBYXdEZ7s7ssUuWalTK20hrJlKLgt13Z0nDU_VbYYTowAlQRQnrfq39sxQfiwsaUt7XIaBpleaL
 TLC.ar,AR - TLC,https://iptv-epg.org/images/vEoulQOI-9pCUjg3whH8g5AIT13Od09RSpxWsT8QSy6xM9ImWJNNhA7HunNJDapR4rQUQpdcqT5olKbalvmy7PRiEmEEev3xUKHrFM0GlQ
 TLNovelas.ar,AR - TLNovelas,https://iptv-epg.org/images/WUVWyN-iuxOsCDApuSQqIGPc-hdI94CYveFplZh9DX96e6mOEEJWnA-B5ksOEALUw3703xcvn0Z-yNAEnb--YxgWUgYeeQhG87Y65GaBXP_U0qqFVQ
 TN.ar,AR - TN,https://iptv-epg.org/images/cvuHmZhrrm8pX9x6uAHpvc_R9oFmFSgA3X6ec4u_9A0p1FXF0POJHTbi084C-nrBQITpiyiQe8WBz-hY96Y8Q066IeUO4CK8f0OJlO-U
@@ -160,7 +149,6 @@ TNT.ar,AR - TNT,https://iptv-epg.org/images/zKxGmL1dn_vvlb0qjuEtnJm5MAcQJmdwcruQ
 TNTSeries.ar,AR - TNT Series,https://iptv-epg.org/images/kPS0xLV_AhVUYOTQ6zV2lMC5veMzrhdyF072BwA2nY-oA-A9bjhPNtR13ekVxac5Gmzzub5esrtBEXnBPLOXtVT9PHsm1PKFe_IU2xd-zDjNazQDPQ
 Tooncast.ar,AR - Tooncast,https://iptv-epg.org/images/G5eHrtvLPTlmliLFDlTHMF7fCiQBYTcC6-9gW55TWI-zRdfm9BVqi_-sPuHpl8IL87slA_wDo35re-kXXGAeqNQqNnRsxHQVlQEaGNCMACp-DS4y
 TruTV.ar,AR - TruTV,https://iptv-epg.org/images/OFO44o2IFZinNUHRltgVGe7SNyBqZmMuZnBDjAmkbjnVD2wyu24w0Yj35q8rQYSAOxW2Bvg765mAQ8O9Z-qNQJXtGPycF6ou3AudGVFje6Vz
-TurismoVisionArgentina.ar,AR - Turismo Visión Argentina,https://iptv-epg.org/images/EpHP20y2UUz4BTjH6rMK2nq1KqZ6L7djMqsgjYiNIIgWXxW6VKCpWJ6LHho2U0Jk9HRfllm-76yNwfWoZYZUpsVL2g1fxzGWQ66tglbzZrMCZ7yPK9u1_pozpMU4k8aN-Bg
 TV5.ar,AR - TV 5,https://iptv-epg.org/images/GKC5SuuPRTMH4fWlgj27CGSU4e8rAzf2-44bakp038W9Xoyz0UIuLuTKPb8bK01DGj2AztSR0A9qlkpSBRYJRqreBVK8IfQyJYWfmksbTQ
 TVCiudad.ar,AR - TV Ciudad,https://iptv-epg.org/images/8_krjo2hMgOyGGu4gi7DVpo88gbddBARXtRU3SYta-2uBANjqw2yKBbqiD1VhgRS2ZBS6qv4oc1gOIbSh_12MsGT6koYRPQObc4VMoEqFQJbLa99
 TVCortos.ar,AR - TV Cortos,https://iptv-epg.org/images/j8uqrQ9KfMwhI3nNMfNiEWdDQqHiqZ5UbgAaQnyQ2ssvEi0PrpYsuVW9sKzEC_sLZhz-1FO9ae87pqxG2806l9Kn5w1x0goQOqJfv8Pat-dNO54Z

@@ -7,7 +7,6 @@ AMC.hn,HN - AMC,https://iptv-epg.org/images/XVR3DThgvf21ytFDmgAjZhBCdyC8RL0qbTsr
 AnimalPlanet.hn,HN - Animal Planet,https://iptv-epg.org/images/6K3E9DznsacSdPw-Msf067_JJ2Pn5Q1cV6cn_Jdzd38TPvhCbCehM3WOoUyzDo_SgW5YmE2hEE5lIMTFKllOk9XRzt2QSdD6usxpQCUT0H50HC4JaRmC
 Antena3.hn,HN - Antena 3,https://iptv-epg.org/images/oiG_NQCxgkpn8ROIW8H3ERQZca5b9JLt-9kmBnxbU6Ek10BMFy-qJ30kpOkImE2CJAIo58qUbyx8Cts4kgB8BGQgblpYCy00k1Of1uNaFBzQsw
 AXN.hn,HN - AXN,https://iptv-epg.org/images/f5gx-qun4LQKp7bm7HBCnBMhzVjUtzLtIbUXVRBTFYNCn8rPPSzvEowYsNLGK8ZP7XXV6hN6PVmmJ65LNAFwSiyutsGiO2W78Ysi_vIV
-AzCorazon.hn,HN - Az Corazón,https://iptv-epg.org/images/MaC7a_5jYpKy-MnYTavrqUv0ugcpeiy4Sj_v6V0i6vsunAzfHKH6OplDCDxY5AssYdfuxp6MdKRGpgxXEg2XlF6NopQWA3Vlux5v8BDQI2lP7bGb
 Azteca7.hn,HN - Azteca 7,https://iptv-epg.org/images/rDGE9ZA1z-NeF9C2NYZ54aAqp0HMKRr9cjKOYu7kERC8QmooceqvhMsmQLDHGmS9jJ1L_IxMuYNQexbl9Irnds3cDoqG-61omhAdI5mk8eSqWA
 Azteca13.hn,HN - Azteca 13,https://iptv-epg.org/images/cdwJsD-2wtG7d7lNqbVkIjWPDmNUH3zXO21UL60abLJH0Ogm_JIWKbtPsdEDy5KSE-ZEG1MlaJOUhq2ykIinqNrM9P5KM0U3KGsRo9g10p4eVVs
 AztecaHonduras.hn,HN - Azteca Honduras,https://iptv-epg.org/images/dDawBNgPT08cDVHWOF_tW70YGDeF4lweGFBivsUEbkIZZ_dvqE4q7I4CVqmVTfJpsnDv0uwOizRM2Y4IdHo7LxbfuofwBFmaH9imfhsFObR7gFVoRaU15JE
@@ -28,9 +27,6 @@ Cinecanal.hn,HN - Cinecanal,https://iptv-epg.org/images/zXlEMA4NviiJJI0-UdGpIkMu
 Cinelatino.hn,HN - Cinelatino,https://iptv-epg.org/images/qA2gEcnWWTvgVa01tTEaLjc9locugXJ03ZSdYcH9Emcmy2mCCQAF6bqZR4fGWv5_zsASjaCwWTyKn6vUGHCdHSJdyPkNtdrPz87aq4egJuyBmDxPyw
 Cinema+.hn,HN - Cinema+,https://iptv-epg.org/images/IMZ5mFOGGDHXKn07kV_Dn4oGil1Rn_jabX5bSDe_1yhkaOhnUlot6ZLddElHgPucYLm1GQEn53KWIUf_iNe1LXe4JEJmiT5UakA_yIh8Y0Nf_S6L
 CNN.hn,HN - CNN,https://iptv-epg.org/images/RgVMUekw5f_DLM3_nA2070dC81NCq_suKaWSvIgeT_cp2MwzNgnINKTXigGCtQ6UHCKvzFE0UGQQ3VR7zdcS-4G6O5ECjmSQ4leufySt
-CNNenEspanol.hn,HN - CNN en Español,https://iptv-epg.org/images/fAsehDKrKWvEs29eS6gm1_rWtOaQ_t9qBtP_1m5mK3GE1p3pmaWLeDqxQSMcybT6c9KvOIeUzNSVCUG-h3Red1CclINaJDDQAz2ltndmZFs2X1r65rP7
-Cubavision.hn,HN - Cubavisión,https://iptv-epg.org/images/3BGhbnkYk4a-W_O87gqb_3A8xROVBnz5ToNmr7LqsnWGPq4ljlCWgoLruaich2joNLLQ2Af8gqCP-w282MVTqK1G7dONozgDVULzcc5pTpa0sPAFKA
-DePelicula.hn,HN - De Película,https://iptv-epg.org/images/YEtG-wq-d1W5gjgf_51SHv_7klXSNm0Cz4bXSRn6hKyKlc3zu6pM35BbjzFdbdlHlO0Qz3_Ix1aUwqMy3ICMXXL7JCWOo_0CvMR8zlpRd-OGYcYI5g
 DHE.hn,HN - DHE,https://iptv-epg.org/images/Ka4U-E5JDXD06EWzkXFCo-my9OSaeNcepJuey2SnmMBx8qC3DbNr8ar6lra-m43xX7uezyRJ9-tpxUa_miHrCzKAR2bDaAkdwc99-wyB
 DiscoveryChannel.hn,HN - Discovery Channel,https://iptv-epg.org/images/JtT8qjsOpJ0JqaHc23G7rObJjK3IcKR8Vum3q5QCK7JkdkJ-WqCjqDoyhOF49HX9BHBHrd7a3JFxgsdUkvD6SxmBeVp7YPARWk6iM2xC7dlyTWQX4ZWld-q7ZQ
 DiscoveryHome&amp;Health.hn,HN - Discovery Home &amp; Health,https://iptv-epg.org/images/eRk6bYso0CgtzJRRFDzfS200AsLmBKfPSP-F5I1QTtLkTpftACjKOyHc01dVpcWtgfMo8ZpdRwQuUBhGOqOBTXMU5lShr5y3Md3ANR2FkXrAN7Wui5p245PlG3R8UK0gPw
@@ -59,11 +55,9 @@ FXMovies.hn,HN - FX Movies,https://iptv-epg.org/images/qdhzOfA6-QYLY9kt-IMA96t4y
 GloboTV.hn,HN - Globo TV,https://iptv-epg.org/images/Xq2h8mxIBKF-F08F9eCLKt_EoLZfSvl3VPpS41kliOHYw3mejgPJJDDwYgsr2d3rKKBa1-SS8WfVoZ0goRZkLh8alpxM0EfyXJc7ilJwCwuZ0g
 GolTV.hn,HN - Gol TV,https://iptv-epg.org/images/NeHhUdFAyQn2piPeaj7u1AbRaoqsOgDmSgr6H56gQj_rPPHRdqxkwVmgpiOoa0Ng0mc2eafj46ZdR4GL841KRbMhWIZuULgiNitMWDOm8PI
 Golden.hn,HN - Golden,https://iptv-epg.org/images/d5IW2nHBhPy09lckDRhKfDFJNDEee19_g7xi_1LWr80a23ZHhr-Vg2RgohiyU18LHtDRM9tcbLLIDH8ye1u7fd4Nju5nDxZnNKlRR-E74YC7
-Guatevision.hn,HN - Guatevisión,https://iptv-epg.org/images/SjZ8JP2N7rVMcDR731mY0Gn9XKsv3DCcSUOiqIhljXuVlw1PE5PbjTl1SOdZVz_rVJGort-sbnf7PpTphMin7gl7AcTsGrfewqfA9p2jrlkK0GloecI
 HableComoHabla.hn,HN - Hable Como Habla,https://iptv-epg.org/images/yPzlSoVbjtBYmbe9PxLSxHFn5zz39z4E1zQdqCAgYhstxqF-rkl6qcwBfy5qD6Rcj2rhS6Oh94cGQspYkCZm4bt0xPX_vr8EZSB64VWW--dn9ZMIHQjekjM
 HBO.hn,HN - HBO,https://iptv-epg.org/images/V4zaFkqTypnxJ84u43HJWZBJbpM7xUPoAP3gX_ejKAfpiw8sp2t2Yq0knOtoX2TRn32AqQCbHvnf0bX3_Sh5WaJGzc_XKwgBXMHPTOY7
 HBOFamily.hn,HN - HBO Family,https://iptv-epg.org/images/YBtRvAepB8wZac2zqjUEprHec9HWAV4b4FP_jW4cHOiOMxs9nIOsI8Rbo1ydNrudndQm8m16x0yirbFU0mrtgYWuVeQBNsKZCG_7jVYTgxqOmrah
-HBOPlusMexico.hn,HN - HBO Plus México,https://iptv-epg.org/images/52pAUIaSUvX9PhDeHtMeR-V3HSSHZh3p9kj5ECm0zE6T-BoIk_LEo7oLzfaKmPfJy8FkWLcueaknPYUw-D_yZ_sgcYUBMgMf_obkWTnW5B_xQZTkBBBUfA
 HBOXtreme.hn,HN - HBO Xtreme,https://iptv-epg.org/images/C_kgLztvhf-APmi5_YJoq6jQ-8cMTSa9Y27ZPkCQ0OG5ssfMtjAxhoCskTAt3QU-OdGkfOTcfdtSQpgVwzRoPuMDJ0S-iA-8uH_scuFj0jOtxqtg
 HispanTV.hn,HN - HispanTV,https://iptv-epg.org/images/_HrQBwkMWTaQLo8MBkmotzHihVIw2KNjPFp-KSmbXvMe4lSlbd2CgLkMNleHBugGHqdx7aUlvO-S3sSXFjYH8RT5F-utMx6NYfQorhVu_RoQwiY
 History.hn,HN - History,https://iptv-epg.org/images/2dLIndMW713m441J-oys8mGr24v-rsTebY6nXV_TwrgzLjvQAym5sF87SrejLCpBRkf2aXzJRD3StTRR6k8rzxq1RDUKfSPn7CTYa2qgzLpPtQ
@@ -73,14 +67,11 @@ KMusic.hn,HN - K Music,https://iptv-epg.org/images/aFxORK5ypIBv4j0NvKW2J1hlHzfXt
 LaCosecha.hn,HN - La Cosecha,
 LasEstrellas.hn,HN - Las Estrellas,https://iptv-epg.org/images/Sc1qAzC045t-nn3dIwyldPoVkYCk2Ul1rXQvcxtHbgrzjvHmvVt9xSnOj8GVzJ6B7kTimM7jvz-IKJVLVjL7cTNZinZYDcDmpoU_7WksqiUb3yzP82Es
 Lifetime.hn,HN - Lifetime,https://iptv-epg.org/images/gQVtnKLG1kKKOZ3DluTVe0Iw8wvTxcPyVTcqwtfF3yMXhTwLY9xyw11X38-cv_SXbws4c4tzpN3ByysAfpnjQNSZePzTBUotA0U9yslG3PcE5E8
-MaxPrimeMexico.hn,HN - Max Prime México,https://iptv-epg.org/images/pOqhMbmq40EuCHOfOl-rShHBSUt-BvHHJgpGjwAjN9uarSrvhwAd7qK9jFVPUdBkh-GQA_CDUItz2Q2GQx0_khtYWSA-Rof05Hop505FhrDtwMg94qsv378
 MTV.hn,HN - MTV,https://iptv-epg.org/images/RBcreHvTJ4sHjxf0dNp2MwYTHkPJ4nbjOiN6lydbn2NalyMaJNKGCkFl0Gv4Er9SmvK4lMz3Rnio9I4Uga-LA02pFiJSk6dur_pz_dIA
 Multipremier.hn,HN - Multipremier,https://iptv-epg.org/images/a5Jw7rKw7LGlssk85jPoLdaXrLZRJP6dzm4dFcVmWSX220dgB3vxI6OIIH8JKZw7j4p08tYFquy1iCft_Ye6P0mIhl8aXoVIHj57yA9EbbaQYdOLBdWM
-MasChic.hn,HN - Más Chic,https://iptv-epg.org/images/QBCUyjy-CpWAZRV6H8ELKOvGSxAa0hdlUcGOXNPmW8ZFvvxhMAm9P5wi-EDsRee_ha21wE-9tkEVQqsOQICB5YoJQJI1aYmROr3maofqNwMsvw
 NationalGeographic.hn,HN - National Geographic,https://iptv-epg.org/images/FI3LcHWIXCERn5Lvo6H6BXvp1rAxSR-t0vp8XcCTjcJ6LXLQ7bAU_nR_kWLVnUq-GQmZd-P_QlfpiqcXtVGY_UeqB7n2TYrjKKNYbWIvh2Y0yGO4w_ULvByMx_Ta
 Nick.hn,HN - Nick,https://iptv-epg.org/images/mC-YG_f2CqRTS4uauOLINwl0XUXLE-l_1s0L3RD5HuRDj4fpwEINpWIoBS6gMXYqDxyV-R-TZXcHZXq7Dr69IskOphK0epG9aUL9xK5eug
 Pasiones.hn,HN - Pasiones,https://iptv-epg.org/images/xCfChQ5heq0baIbb34OX4Ml5JMoM7khL9CeAW_N4CnMr9m_LXx6k5n5pQGKHW0S800xNgBwpNEJy-nTtk8dxplFIHnmq0Z3R54wgU4wqVywlrno
-VICA.hn,HN - Programación VICA,
 RaiItalia.hn,HN - Rai Italia,https://iptv-epg.org/images/HQgUIzd1dPPewmWHcT7SbjzDVYnaN9rRC0FpQlcYz_26u7vjN-jzfdEN2D_ItZWeWuvYI9XZZ1NzUDVnifbrhmApTHdWJnzC6ShzC_ZGecbjIFvv
 RCN.hn,HN - RCN,https://iptv-epg.org/images/NqxMkedMcZ940U3UNpsB7467cZ_cusylOmIfbgMwF3_-gornDWCqlYxbUu9DLWkgcZyEKraazh98iRdK4-u0qZ13lCgvaZs50LZRtlAO
 RMS.hn,HN - RMS,https://iptv-epg.org/images/smD3M-G4llxo14-jejdJf79zN5ramccDet4Cfq0qIF7R7cfPzqjt1ADf3v62TZGJ4T4ulaRXW7Unor41ngYeL12pkHc8nblPrbx3CJsl
@@ -119,7 +110,6 @@ TVE.hn,HN - TVE,https://iptv-epg.org/images/bj1Dn43EkaLIjP8NAH68P9P6JijaoD5381_4
 TVH.hn,HN - TVH,https://iptv-epg.org/images/k3QPnCyZfBCTuk486soMFhlhkxMlITvlNfy0_4bikiKkNU7XTUY2ckygvmVJM0a8pjHFavVGgbyGrwe65UKrXgMFUBXZOilval2Xc9A6
 UniversalTV.hn,HN - Universal TV,https://iptv-epg.org/images/suhmIKZTMiidghAgNo0XhejNU5OKxNeL5Ydokpvo-h3wO0OTPFcREIwxwk4Q1zL7RGqQj4RWCcXN5D_85zxp61iSMAWPCHWwt0006957cLxPFpfXpEQ
 Univision.hn,HN - Univision,https://iptv-epg.org/images/Ss21bFYwEcPBsd6af50hSQ5r3FhjPEp-RPFbgp1qugr7cggUavlJOsQb9WU-BKNDVg025S1UgcjgSD5NsjqJXMEHHqUHKrP0ZJvbcX_WKV0GTId_
-UTV-UniversidadAutonoma.hn,HN - UTV - Universidad Autónoma,https://iptv-epg.org/images/1m4LTQb4WmCtOI55tEqTiMBDWEElueDFTQPBkM2mBGK1J_sOni7VyUbVUk_79PJHHSlVp8swljK-L8C1V4BUcHB3mt-b_CbQfD03h7FWPIADUufbF8jTIMEFIEhXqcJVbuY
 VePlusTV.hn,HN - Ve Plus TV,https://iptv-epg.org/images/o8wwuTy2X7GNGXfqwqtyFreiJmJTmIRRIM2tHkZZ16U1vGAV1SaUlcCuXWEu6GArSvnf8vhwzcgvAjtX7aS3TJBWZGQ5GV4CI79C1ONQXwSDjpQ
 Venus.hn,HN - Venus,https://iptv-epg.org/images/KwmLKKSIKEXa41JKV-P_lj4Af-Gliu3Dkpbq2p7YmAfPavr5E8X4a1ULjTw5XGedKFo_3VtSpHG2qhJ3_wFQOPVq_2wGeUdluDkK-CNBMwY
 VH1.hn,HN - VH1,https://iptv-epg.org/images/nRaRxEzxQfatbGuROJtiB9RhqdAEH_bKBpb2v_mnlc6xeg4x_TZNoWcx7mMpppSXrnRTO1VH5TT0ZAq6JrCbj060LZ8IANh5z7jAzB_M

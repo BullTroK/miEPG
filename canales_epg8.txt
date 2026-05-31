@@ -14,9 +14,7 @@ CartoonitoLatinAmerica.ec,EC - Cartoonito Latin America,https://iptv-epg.org/ima
 CinecanalColombia.ec,EC - Cinecanal Colombia,https://iptv-epg.org/images/KTbwGv4XovxRxNmNmIudrHBW-61O-OuWaIMir1stvnxeQy0nZPdmJgFk5WQUN4A2FQJQAph-krv6Bp1gWJTOVSWtZDO2w8W7Paa5TRHfu2n9GRl9Y2k9HcMlsQ
 CinemaxPanamerican.ec,EC - Cinemax Panamerican,https://iptv-epg.org/images/8s8O_rVJ39FY0ZunbCq9Vt2JNtsJF6l-SHUtFZtFsSvbEO_pXErReI7TPeoZvI0-z65lVXRLjKSGD0B4LKX33e5Ol0pIN4nvmnIPlRqAgo7-6EJMOZWTJkzyIO0
 CNNChile.ec,EC - CNN Chile,https://iptv-epg.org/images/ORRu34TG0FhjxtQCGWnqjX9CXwSq7HH6fCZjhEfRpRJG2zdFTLlJKFmj-DuNlHWj_WRSWmYiSMiRLpcOEPPpndhZhuHolgci65XhsVVC586ROw
-CNNenEspañolLatinAmerica.ec,EC - CNN en Español Latin America,
 CNNInternational.ec,EC - CNN International,https://iptv-epg.org/images/X7fTkfrkCxPdbda0D2Tb9iTuOgLS0957u1V_9ovSIqqXVRnkJUOUlUpCW8V3akJPk0p_SSKRUKotz1eardp4uq4ZWWg3Dg-o_ZmeOXeAHIjXAB8ZFjEV8ptb
-DeutscheWelleTVEspañol.ec,EC - Deutsche Welle TV Español,https://iptv-epg.org/images/aLkfNCYgEtsTDU0f1n3Vi4MxsbjGtpg80-p5lIyU2Y2YlkJoxiCn_J-qPS5DCzeeBlHba6O8nLO0s-V2usnKsHeWoCXXK-afIIeZdsKsK85YWRr3xW9ttJLo8AzUYU-U6lQPa1Y
 DIRECTVSports.ec,EC - DIRECTV Sports,https://iptv-epg.org/images/IinAw4fglOu-Zrstk6YxlsOQikQwxRkuEiUTCZaQLcDWq3H9upF1gC06jqH_1618DArprnrTiLe-bBkRwcBLR-Yf6TSZt1otRKOgJ7_z01ugy3gsvKg4
 DIRECTVSports2.ec,EC - DIRECTV Sports 2,https://iptv-epg.org/images/wBvCl6hLCD0x4BIBcEvd0oVzrbespng7H0N36muSVh5vGJJaO63WTcjHqPGtoZf3QTsAkpBHDsN-hWdqqEhVEZAr9yDGQaNuKE9ILptblyA7jz2Y3yJAxQ
 DIRECTVSports+.ec,EC - DIRECTV Sports +,https://iptv-epg.org/images/F7akg2CKKzPJvB4g8T3XXOnuDARsQIa-xArIE-rBjpVg2mbCZ1G5I2Vo1qBmCj-M3z2BaI1MGVV9lz7DIdUljDkhuB9t4NvFklLOSTSQXLFw-2In3Ruaf95P
@@ -42,7 +40,6 @@ ESPN6.ec,EC - ESPN 6,https://iptv-epg.org/images/8Q_gY-xcEkIJPtTuadYsGRSPAgzwl-C
 ESPN7.ec,EC - ESPN 7,https://iptv-epg.org/images/Dxhlsn-9Sg9ENvWzOAGqJ7-MCn2OICN9fU-FuviRS5GftwwQjv6UTLta0HUSaK21RpUnFunFLcXuB96t7zUrRmrHhMqCFPwSstME-L3cyA
 ESPNColombia.ec,EC - ESPN Colombia,https://iptv-epg.org/images/WXy5FNLqO_XI2niKJTV5sgyz_0koChIMm045eaLS4RKaiKywu7Ma_qRWD5_UfrxJtYH2qoSHyOT0wlQm0LXqD6KhXc2pEYfW3z4-nenjqsvd-wCy6OI
 FXLatinAmericaColombia.ec,EC - FX Latin America Colombia,https://iptv-epg.org/images/GaaAvnZVX128szAWS3ksiW1jUbhee_wyXxrmv33KntgHsbtbTBG9H4JaTNusEucJeSIIUg0WDYQNYeMrrDqD90HJcf4DbDEsBw_dEiT1BzlOqlNYVvk7sBAjKRb7-oSD
-Gamavision.ec,EC - Gamavisión,https://iptv-epg.org/images/sBjaoYglvvkqIP_SB7VBDdW88saCtdc5EamCtyzhe7627biweAedkbeUiPFyNFk9DYnw8Q1AgjmyjMnlGLaISgUI8AOj5dOsC7SSJtef-NTC1xDg
 Golden.ec,EC - Golden,https://iptv-epg.org/images/jEWwQNMOBvnNUUItTF8eTYYZ2C59fhfgGeNWIvqDIni7YrKMTJPhzYkCG7wUJc706dzsSc0GSHYWDWyTlZwhYBG24310mirGDDjhxQ_GuE8
 GoldenEdge.ec,EC - Golden Edge,https://iptv-epg.org/images/6p34c8uIiUCPGxQguYlQddCNbyokOgTRZTBcSlL5Q2n3CAeuFf-ea_S2n8p6HLcN3K-T3prpJr5ff1CEYsnSETI2kmd9Fp2hKV17ciytGGMgBP-W
 GolfChannel.ec,EC - Golf Channel,https://iptv-epg.org/images/EV8CxiJuZ_OKmVeH0PdNdV3AJfJpmJH3TB00uyPVQwru119OCQgn_jg-hczHIJtdVVV71LJQF76ywwenvkgyPeWcCM5YIkF-IRbUrcw6U9iGx6N2Fw
@@ -62,14 +59,12 @@ InvestigationDiscoveryLatinAmerica.ec,EC - Investigation Discovery Latin America
 LasEstrellas.ec,EC - Las Estrellas,https://iptv-epg.org/images/z8OfqOdXCjSnupqWLyeGLL-dpB0E5sJMT574kARDzX4ptzStZqOKsV8TsmgTH2cyB5tpPttMpQUB_c04IuMwsOJKO08lR4dEIdE3rWtaRWkxr_RWGrw
 LifetimeLatinAmerica.ec,EC - Lifetime Latin America,https://iptv-epg.org/images/yj5Ibty55v0WMfi5kD5x_yvCT6IpNtOH-BnLdKtssoEguciWmswHAegBghfL4NV7yL6WXHpf-i6cqoDUlPBsyMgC247-Hz4Q7uIeCteHsE8Pndb2frK5bQwXJnQqxQ
 MTV.ec,EC - MTV,https://iptv-epg.org/images/1g6Hv2cT0BE_3O4djfBzvCSLf0HR86V9q6PNb685mX32mjdGNnKSs_Y3RipeDnse4Uc_IAgU2lg-BTN_9tjRhJnJ_s2vrgp9kMdv4UU
-MTV00s.ec,EC - MTV 00's,https://iptv-epg.org/images/CffZXGSRUy0nNyYbZWQ2hGGuYnMAy6TEHjvNELnFx9W5xe9fClLOEiS4mbva8H2NX1IbTX1fjdBI9uwxNcOeo3jEgawLlTTY48osCU4t4vc
 MTVHits.ec,EC - MTV Hits,https://iptv-epg.org/images/IiDeqtkhoh-Ri4L_cEHKkFhQ7M1gdQDVe7cnIs4gWCVY_9nD3m8hvxyX47-_M1xSOrymh58T1SGB8CsJE2-GJmMGA7YvAql_Pf8Jr7dOIqON
 MTVLatino.ec,EC - MTV Latino,https://iptv-epg.org/images/CqUwKeSHcCF27GV2lMEvEYYXrmk3otGsFmxr4hkgcugg4LIHbOyPYEQYqYiolqd2s094xiVnPOxkN8ntbSn5G1bi1E98lzQBctfSvV0azsWNZhE
 MTVLive.ec,EC - MTV Live,https://iptv-epg.org/images/obkcDC5EtUGiv96oIq8W_t9mfR1mFOQKzV1n-WzIZPhxvTVwiDm9BNa3ds2xTMqX2CI2jpCgPpQUbMNoFxR8AAWN-pEFVHHN0cdKD1cuVxVN
 NationalGeographic.ec,EC - National Geographic,https://iptv-epg.org/images/SEeu1BnZh8RPYPbnAJmRgn1SiZfnsXuGF7Shfw2hjj2cyOOHU0TuUctPIFH7CDJ6yO-inhJdZBsLWsKKNjgVZSTsCOJUIfwkUXLTFouqfxdCHHa1k6tJlc9atms
 NickJrLatinoamerica.ec,EC - Nick Jr. Latinoamerica,https://iptv-epg.org/images/jBRp9xCSV_yYI2x8eoMRFNBes2gsK1QQg78wjV7O1J1E6-gdpkZobrv2rchiIyUQZvVlgJBq63fD8SfIpLc2CppzgGVE5PtxEDuAZnzIfAnCxZ-ra4DBzOUm29tp
 NickelodeonLatinAmerica/Central.ec,EC - Nickelodeon Latin America / Central,
-OromarTV.ec,EC - Oromar Televisión,https://iptv-epg.org/images/1fjVkPdWULQ8bg_XKkRlJ0eEcfZxn6rVBbEwUOi3lhg_m5bvdHjhYWRo3UkA9Jc_0OjF3hxDP08Wnji7X6mtgEuQ9LF9u-WLkaSmZFwasH1pFw
 ParamountNetworkLatinAmerica.ec,EC - Paramount Network Latin America,https://iptv-epg.org/images/oxoy3LUFO9wr_B7HE_0HzLxdCmYUyGEbNydmQr31XE7xDzNpZRek_xAYsL32Bf0RA4UR5Qs6KSIpQthzH4_LQf7HL7BstvDU2nmpMNFi1cgs8xse7nioGEoIfix-yKDUra70uZJ7
 Pasiones.ec,EC - Pasiones,https://iptv-epg.org/images/0QqsCtLabm0Gn6lrj7Kezn2XN0PZmmG1lPBY9fml6h6d9F5e1LrADAEhOJa6GPdCDojojJUvouAOw4bEUkfeZZH32CLbwd1zdApJKBdTlGl4iw
 RAIInternational.ec,EC - RAI International,https://iptv-epg.org/images/s47e3c3LF8lEWzIBUwJtLWmcGjgn3xZWzTLtA1zK5CidDBH6ElnAu7ach8E3K3yFF0OLMr3NeoQMm9p-sXAHs9UMUc4MWmN09agOr71Ek3faD5KAZy7Wkzrm
@@ -80,7 +75,6 @@ SonyMovieChannel.ec,EC - Sony Movie Channel,https://iptv-epg.org/images/Hqyj_2xR
 SpacePanamericano.ec,EC - Space Panamericano,https://iptv-epg.org/images/9aRueBWyoq7Ii2Atwdcv0-Gjt8jBedGl-JDKjqwrA6wFLX0If8C0ykZkrV8J7_FfoDlY3yMG-JxUDy92yQhSrlkQCmD-lTO5P3_Mz_APOdV2P4w9SYiLF4Mgvg
 STARChannel.ec,EC - STAR Channel,https://iptv-epg.org/images/8Spgzo8AQnnEVr-dQJ3IXbmied4CeMR1eAoo7H5i3kYlKxYFctSlfZ2FNuIC8CZat_No29g6CH6axqRiVf8YqJn0TPuDOf4RmvDUOVJfzlo_HQT1CA
 TBNEnlaceLatinAmerica.ec,EC - TBN Enlace Latin America,https://iptv-epg.org/images/82txSILKZuMaEtpjv1g47GK7LrtbUZrMWHDKwultid7AfcaBMPUZTYqZunGsePjScBxwe6IhHNav1TW7Umxa1zENqrACy_kIGYuGRqJV-bECuv02Ws6DiKSQLY6f4pE
-TCtv.ec,EC - TC Televisión,https://iptv-epg.org/images/TuULmH0fQLmVyRzO8U9wIKcXMdBhXThuZWq3Nv9h-VGN3wlX3oJrr7YsNWBNQlcv-83ZoLFO_xnapJ9hWGaMZ4UahtmfRsFKTw3NiPAM
 TeenNickGlobalLatinAmerica/Pan-regional.ec,EC - Teen Nick Global Latin America/Pan-regional,
 Teleamazonas.ec,EC - Teleamazonas,https://iptv-epg.org/images/2NRiRGF63ZCx5buMuYgYX0ghIoh7TinuYZ7sDe4QufcB5mSDEhdpq21WZF1Y6PAjJdkiKBAPWt8ZsQmzAyyv1HT64hHE14CpK7V36V3ysJeCS1dHFeQ
 TelefeInternacionaldeArgentina.ec,EC - Telefe Internacional de Argentina,https://iptv-epg.org/images/gBVi-2XhdFERMLn_wgK8lBE9XoNKDR34unHk4yov2xjmCI9HGw4urGFJsfkfenpxCs7QN9QyOQdX0rKAocQjHXA7XAvgz_kJEXphTlbOceBYor7XTc7Fp8ZrFhWY7a4QxnS-UhDc6eQ

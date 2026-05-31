@@ -19,10 +19,8 @@ Cinemax.dr,DR - Cinemax,https://iptv-epg.org/images/ttNtgwLIX3C8M4SmGB5LncYH9Fzp
 ClaroTV.dr,DR - Claro TV,https://iptv-epg.org/images/2ZAxikU0A8BKp1xmNb0TAwJpLcog13HuG6xttM6D9tDNiJZw3tGbwMWhSi3LunBHQRjht-EpBH4cH-yUph_lFdajXW6ZqZiSS4v3qK8zE_f3iXGZ0i3gidgKb4A
 CNN.dr,DR - CNN,https://iptv-epg.org/images/ohpZCPgQtNBmEjtAQwZXvwDAGDB9jQmRnX41YthVgyFWmqJpblXZb7LBza7TlHSOUqK8sBXYLSszgJx3tNNWOYfD8_Lfu4dU8HnaKBlYJ9gEhPvr6K1V9Q
 CNNInternacional.dr,DR - CNN Internacional,https://iptv-epg.org/images/UpxUM3pYkwEVxFebr9FgoqfSflv2MBy89eQ1S7gbic_tSfgJAl6JmjcB56W6EMmODfxw3oFjQnr1h7Cs7bMzkDoekGLs64ALCktP9EM-BxTwzJRgXVrdninsXqHNAHdEp6jlqBU
-ColorVision.dr,DR - Color Visión,https://iptv-epg.org/images/dM9JCZgF-uCPPQPXBI3wb_M8pHCR9zVdI8PeucmoHr22znEp88LybKelJm5G02e5U_1u-OrJA-YbTK2atM86BX89mEHfPtBYO8Pn-qv6_N3yI8Esh6ROp2aKnSdL9FGv
 ComedyCentral.dr,DR - Comedy Central,https://iptv-epg.org/images/UoO1KaxlC61RCMmeXbKiZoNeY6PhoKxs3Kk8hmlvGQQH4GgICVSDGR1rHbj_fubOiORfn218tdn1KqeIK0X_a_NR8RQhjknuGeKJ5WrUwDiryo_YYVAOrxMoh8kOYjpUUjI
 ConcertChannel.dr,DR - Concert Channel,https://iptv-epg.org/images/6CoZoQOSaa0o5mK21xj0EYoLIMbOXvkvnJXpbm0ijS4Jz7Y4a2TX5dBZF4Xc504ridS7p7THnFwNYa-p6IMwjniYeILXrhZ9poP6hdOOQCCyHfbuipCmWklU2A6OvxYIqGuL
-DePelicula.dr,DR - De Película,https://iptv-epg.org/images/dmxtuRrsqp_Aa1RV1nwGvzrVlCaXC25wjNBXRwOzVBKD5unAtEFOpK0VJ6BL3D_R1-TI8V6Qs6chW7C-qWZ14IqPGI-hj20_lNnxqE-HYf2LxPLOML5WL4Rw6RBoKzc
 DHE.dr,DR - DHE,https://iptv-epg.org/images/uUc0G3JcOLanfr6iqkfwE7eLSX-5eWTqoZLCxNgdZEopWgmL9zeHebedpDPzEjvDv3pnZXfKEE03zxm8W_fKrEojZG5ERhETKBcFm-gHB2SXH4aybkDW_w
 DiscoveryChannel.dr,DR - Discovery Channel,https://iptv-epg.org/images/b_wwUMJ48X45yyj2am4Bwssg-ww6Mmwo6AlPH7dGAfRgHgY7UAaWhaNvE63a6YG3I-fGzTjtYEZ_G7KmSapw4MbuH3y7kDmkPMB3BQZ3LoR2izPsUgkzwV_PtRsfyQbJSe2vgN8
 DiscoveryHomeAndHealth.dr,DR - Discovery Home &amp; Health,https://iptv-epg.org/images/YbCRIZuByqlOTXyseWwUJaEVVr0-zNKfLoz3dCsLNKVa6V1fk_64oeimEA0YnAlptShZwfybmyDiZhsrQVUUQNZDr2u-G5m6N0DnUAQyBWq2XNXlgo6UrLo-xn-8ytfJFjvTOiWEFLp11r0
@@ -76,13 +74,11 @@ TCM.dr,DR - TCM,https://iptv-epg.org/images/0tTwIqYih9VUbdxWJQ10cXMTNJI3B-PHxl1Q
 TeleAntillas.dr,DR - Tele Antillas,https://iptv-epg.org/images/KghcojKAd1nfZ1r-OZtkzMRX8iJ_enKm3Wsch-JJppbFO86zaenDsphK1uWE0e7hYvuYv0i8rZKX37_E5nji5RR2-S2qAK-yD618WAp9MNOHbDVMeMh8NV_nQJ6lnykPqA
 Telecentro.dr,DR - Telecentro,https://iptv-epg.org/images/zeePm7UZgVfBUbw_kZ88VkcyGSttMtWZ9DmxRKPh7gKqMFZRaqXn9zC_V3Q4lpvEgpJwiAc9AI-M29AViKVEHIdSOqMwPu1sl7a4kqZaFMn3V5y9-cJXEZSwcOVa98o
 Telehit.dr,DR - Telehit,https://iptv-epg.org/images/w761FUx42TMklN2E4KL2-oYFF_fvFdInmQm-jsjUdMGCqPraqZgNITgjBO-a_nrQSJowRAyjjxb9hjnooCjl5thqO1jJUsZr3DRFGVs8ifqdJzdSUjN7JjOsAv4
-TelehitMusica.dr,DR - Telehit Música,https://iptv-epg.org/images/Hq0kkxhINqecBaBMnMksOQ1V4FQ5NxM1-D2B1gpjxIY47-KmEftJUew-jHTB1iyNyWTwrsNkPHva4yS20OGYP5NXRoZFyzvzRo-w5kJIDGQLfvXkvCrR1e41BvC3nEshkCg
 Telemicro.dr,DR - Telemicro,https://iptv-epg.org/images/sHm8Jxa9E9Ibpxgj_czOFi_jhOYFeC03qHGl3W_nrJfw5Q9MHFzC1JseB6ZR6Tsdm_C618f1Fj0WLN8wa9saiyv3Mu75GyiEl3mOf_xd6NnU1JoqSCUXrke4VboKvQ
 TelemicroInternacional.dr,DR - Telemicro Internacional,https://iptv-epg.org/images/KT8xGTtTEcbZkGHg4Zciym0jqDc6mtMOIj192jqo-31YzVDuySjNYzP0l0GpV5AGbkUVbvv7x1I1_Db86uzZtPWpIY3r-OgyZzqRqK7efYTbNp0mTcjHdlbALTgrTt2VU2quX8M7Fu_xYV8
 Telemundo.dr,DR - Telemundo,https://iptv-epg.org/images/gfuCuGDbdrIQkTIu63dHX00_W62Y4VuNCdnOI6rVyyAKysTJA8zNwhOxE3M6wDucpuL4AVDbVx6iUnJc6blCrLNIVafzgN3ubQjigd8q3y_JhpFNS0ySqnv4k5WMhw
 Telesistema11.dr,DR - Telesistema 11,https://iptv-epg.org/images/E1WJLwil4ygLIPl2Cj6qBKAs8ngIA7YrYRljdz18JZM8wKNl5zwuqXe7qDkQMJMPw2qd-tqMUSEkZ1z3TaGs6RNynt_bfA-EXdNY4bp8b2hap_q8WE-hNcCoemZr82AQnHs
 TeleUniverso.dr,DR - TeleUniverso,https://iptv-epg.org/images/s7n35gxDUNkbCAyVFMxIimGI4mlXq4WkQZLyBoGriwuO5cFXY4DJ67AMB_GPj3tUchDOryEkcYlGNLexksOE6Ipeqz8o8-KUPsvD7CLAd2H0UGATy67d9lOHj7bK45sgbQ
-Teleunion.dr,DR - Teleunión,https://iptv-epg.org/images/0HchMcT5vvEBlGAXZ2iga8O1lj8LszcMUp1GbhyPbOkU7RNMLB9sgMWvSoV2qLwM4Y0jdTQ9REkvDt-UeoeqCzz1fnrKG_nUr2Oivym1bzbmOnteUybOgwQKak71JQ
 TLC.dr,DR - TLC,https://iptv-epg.org/images/EClkna21mU7PON3uVttC44npI0egd7YVoWypa_xRsYx1162GfGvZGkLCr019PAXFdiORrmKop8sLN7GJTH5UQ2QfGRvL7TUkx3ykNxc7P78ZobzLF7xO2A
 TLNovelas.dr,DR - TLNovelas,https://iptv-epg.org/images/GxUACAqJjk7aahgIlZ-MnV9HZGaJQBQdLgjWJwCcLuSddpLV-LlEKOtUesp-YiXuAutaZAFdNchy3TdLW1Ci0TP110v6jvpFCFcX9UEwFYgLKOxyh1pH1UI7LoyHNA
 TNT.dr,DR - TNT,https://iptv-epg.org/images/UQ46hASjCZnEn69kNOgEkRWTSdgAh6sZeKsghd4v5kp9mGWEXQrE9YcYfJy7t0dlAF6y6F7OxkctJCxVU133nBCm-U7y9zgLyomRrNecFnSdsaG-kP8TXQ
