@@ -72,3 +72,9 @@ UniversalChannel.py,PY - Universal Channel,https://iptv-epg.org/images/GHvm8WtMx
 Univision.py,PY - Univision,https://iptv-epg.org/images/DQvqKuKnc-dT66GFfKdpvXJj2Npuse8lMoi4oh1fuYpXMk5Pd41U3MMCYEt0jLYIsU1fvnsw1tgggeUIqUP284Psr3prmOkLb0rAwHufqHo1QtSZ
 Venus.py,PY - Venus,https://iptv-epg.org/images/XErt4YJ7dZPcVnEqLxthKeCLOyElQFca4TcP0ItTEiQ9kUfkBbn3S5gkXjWKQd1nuRI8JHlxcWnfuhS1e25mylg4Pcoxd7ilulahb5DXCoA
 WarnerChannel.py,PY - Warner Channel,https://iptv-epg.org/images/QH2XjW5bbaYUboO08Xdlr3pqq-vCxg4vqL7ZI5CvsNK9q3G-3-3AoLuBQK6Sjp0NDnE3qwV5jrxMeW46C-gicaAemBHnUC4jwcJN93-ZZFEKHNlJfpngCA
+AMERICATELEVISION.py,PY - AMÉRICA TELEVISION,https://iptv-epg.org/images/e-lJXR-7KXJ5P-Hc9omW7rowFJPI3QMKpfkrWJ7wxvHGLG8SN7-JlOHHbaovdeU-JuoZAvEpEN-YUPzLBAFdhGYFiPPmOblV4i0avjedO-cTJa354okJDeguV94
+AzCorazon.py,PY - Az Corazón,https://iptv-epg.org/images/p1XW2MmJEqqY1x9_fttatco5dSLXI8ZYwcTGTMYAIJcFDFRS1pa1_kGstkA2zDtYpuhN2aAlrBVrdwnC0PWdQMk1nBOQc84dsflsiUKzDcgKsFSu
+CNNenEspanol.py,PY - CNN en Español,https://iptv-epg.org/images/4sCwaCEPcGH45siv54yspGL6y81uK3DzSn2N-oGy5IXU3NzUYa-qVv3-kzqYGGrup71xdWrJv1JiNTwt4nbQa_uLVERCjd85cp2DY2Kh8wzfzHS_5dJw
+Paravision.py,PY - Paravisión,https://iptv-epg.org/images/EQx82iwBuVQyj5JG_sbHHeDZFgqkrRBSt7xEr8gnl0Frsgp5l28hvhJFkHMkyrAl7VLUpnwnuCUdlAudlRRUaFv3i4c0jmVpS6cJgKLhKzlDk9RMkw
+RedGuarani.py,PY - Red Guaraní,https://iptv-epg.org/images/x0LJrAUdfRaUl_EsnClrAjKHD-GNF_gKg7iv55ZKz7nNd2JD-t0UrsHKS6H7res6U88unTDkpUjoQ3B6SFcdkMMjdTRohAHZPkRWsG_sSSXmwvXRzA
+Telecafe.py,PY - Telecafé,https://iptv-epg.org/images/GBgEjMhfC2fn40yZEhzi9CuIP475JffW8-q7IM7Ja6t3vXW8-GPCJ71vMWvYxAYcULpAUj7pHshECLZ2g8ui20sa9-wSvjWh4ONGjFZ5urlF08I

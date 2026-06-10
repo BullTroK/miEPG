@@ -81,3 +81,8 @@ VePlusTV.sv,SV - Ve Plus TV,https://iptv-epg.org/images/O1PDbgZ-DLlACAzPb54H4uIH
 VH1.sv,SV - VH1,https://iptv-epg.org/images/MGnsNJ90WcOm6Ysk9gUgBTYAniM3WjNFPe5CVYRq80jBfR3A8nxMIOdHbgF_QoBR8WQGR7TbZkL03Sgia7XxprXDv2QGgWANYbAU4WwnSINH
 VTV.sv,SV - VTV,https://iptv-epg.org/images/EvA_O4sv3WmSwZ1Hb4ui3Q_6UE8KHj50mRIOkGMCndpg2GAdkaNyDxEZdPyrGN_nIlqD00f4vIwvsqSa0UEFd3vXFxe6bz2jbkXTlvijUefc
 WarnerChannel.sv,SV - Warner Channel,https://iptv-epg.org/images/Kfkutqx7thabm-DJunXmvF6M1XDuXu2cgkSrElTqSRout9b1MrZvl9RHBO_EnnUz0xbGQAAEZmcN7k3XfN_DSU714dNQhC0JaBggK6aafygEx1eLO_kR9bLdtw
+AzCorazon.sv,SV - Az Corazón,https://iptv-epg.org/images/htrqOPQ42oITidsdIlDNepImrchFEHBDshc49Dy5qbv1O77DQ77ZG25rYH_OW1lDU9w-YxPr8YaZ7fsVa2XnTLiQD5nAEBaUNjN3pB1daNhMEW932lEB
+CNNenEspanol.sv,SV - CNN en Español,https://iptv-epg.org/images/HBDFx1m0yNhwQW6QMB_j9Xjo-VIF_2wbBCpASiInPp-oZVv9v9aRHnQz7LdQHONxeCTL7TqGZEIdjGMg9VwmA4lGWnXjnqyVBLL1br21WNo5Qx5HFcX0FK8D
+DePelicula.sv,SV - De Película,https://iptv-epg.org/images/x5RUy3ZjXF5P728yXHnQ4YUsweuFQOW3_8rmrF_vMh6h4-BI1SOnQQ7Lz9yr4QdEbHI8Xp4qhnhWaNz35j0ypbwhZuwHKg40R7qryAyNdmqVxvw-xAG4yA
+Genteve.sv,SV - Gentevé,https://iptv-epg.org/images/PftZJ1VPB3_GoFZSTSFVHUWuVvWefsIPX-my0MMp4dXS030x7NSysQZLpGni4nLWQ9GGPA-IEHQpUczNh71r5bxOas1-gxbjdArxiK75unVSxE4bIQ
+MasChic.sv,SV - Más Chic,https://iptv-epg.org/images/ElrSH5l206ir3yIxSm3U2spzTarslR0qrAhTAv7i_YFPP9Pn0Pu-bp4dpIGbrdFDKyNGfiUawQrCJGwAiLpmdOqqmlvQNb8H9Y4eMN66gU4nJiknTg

@@ -114,3 +114,13 @@ VePlusTV.pe,PE - Ve Plus TV,https://iptv-epg.org/images/lES-YuQPN7nvk7ukg04ByeOE
 WarnerChannel.pe,PE - Warner Channel,https://iptv-epg.org/images/wA1bJYM1WirDW-xU2JzAhfk5es8jhA71r-PQpbe44K6NTjhDAkRZX0l3OzDwJkRt_URT2J0MtsJKeCu3ZM1UEjp-tBeH3eMHJH9FgovZSLKZijWJ
 Willax.pe,PE - Willax,https://iptv-epg.org/images/TXFktTpLssD3_JpJa_OBaqp3eaQPX3gvId0kyvAaRiOS0ARq6eoJQHZVdtKCeYAQBfv48bT3ezf7exzBY9xbbmAIcnFZzMBx2s5HIG0
 I.Sat.pe,SAT - I.Sat,https://iptv-epg.org/images/y7Y9v72HulIfL83DMceOTwSqc04luX4hNvrJwAXMGcRyv1foZpWbhHTvf4lDfZfho2HBdVAVtIRknBRBTva92vuDPIYnNzuCly4n0Q
+AmericaSports.pe,PE - América Sports,https://iptv-epg.org/images/PfhM4q8xF6bpmZ8hqsbUV3eFgDUWR8ejiJXRBWeONrhlA0Al7bCnpsw5V7Ds2Ktk5s8YFlSeQVfPVi9WgiF89VaT6_oOeAa8XKv4bK9nDO2gng14
+AmericaTelevision.pe,PE - América Televisión,https://iptv-epg.org/images/wuoyo2cuTZIscKm40qVCEF8QRr5Pp-gdEE7H423hxv3QUqXW1nsCB5rQTtcjbVH4ceCnrCO1vqCMlfebc8u25pdO2gn2TgOTk9eIhOIeDM166KnzBjbgdA
+AzCorazon.pe,PE - Az Corazón,https://iptv-epg.org/images/jMusXdptf59zas-Wvm83hT_q-840mAClW_h_2Rmw4SG_LMcof2z1zmK2uXURvALb_RyIMULkNtbCkDeSbjPgR6hTD99p-8F_wmEQsnd-j4w
+Chilevision.pe,PE - Chilevisión,https://iptv-epg.org/images/SSr7PooO8GQSdyI4aAXgmgP3OPuPbWvmWKTSqSuMgbxhLcInEF--XT-CK1VskL3T5XF1TFSvf9QzJTYjs3gRY03phJK7R5g6YFfigZ-AGlq5MA
+CNNenEspanol.pe,PE - CNN en Español,https://iptv-epg.org/images/FRzC2QOqZhRK0OZBeRIfkz0GfoRCu4uKao2fGKYxOfFGO_g4pg09E6yQztkb9efPePXcD1a40dmGhN5ArhFS-X5BnpkP6EgX1MRXvzS3FIU0nsI
+DePelicula.pe,PE - De Película,https://iptv-epg.org/images/3WCAraEl6169HIDIIhszpoJQ0lPfC8qMFKrMc5gs4wN0obFhAvisMPuTHEZ-XW4gyRimAZRJSpLtZhAW7AyEv-h7ciiQTGKmrsT6-8J1s5ui
+DWEspanol.pe,PE - DW (Español),https://iptv-epg.org/images/Okx2WO1GGrNWueSfSZ4OLaUqK9xQ1D-CpzWkLyQ5NbSM-VFoIU8QCrSCcswUR1vlDwtIRPC03uHNI4_xZyGOJQaGs8FZJCLKabVMk3inbX4
+Mariavision.pe,PE - Mariavisión,https://iptv-epg.org/images/7AzEsL7Yj7fwVCwFHz398yR_7OgBUzcks5bR9amNPr93qQbAejgVX0awlgLwzAr8BJ4MqQW83aRPuN_seMVPLQNNknLIXQTFWSCPJoi4lRZNUQ
+MasChic.pe,PE - Más Chic,https://iptv-epg.org/images/f7L6_jhN7wdrQM5J1PqN2Kxhiu9xxlEYMZsugfBNgANzXJf5eAD86EZtpq3Gqwr1vxUqAKCwkOV1u9JUQCU16tRxbD0IDDYQSAmKPMTt
+TVPeru.pe,PE - TV Perú,https://iptv-epg.org/images/l4vu57Ugpox6SysO_oKRirUfExKt8qCArmckBu720aoTPYwgkxQd2Kfj6fkbNja6hcJXIYXqB5LCnrGCQWq6ni4JkBLPRccvPHP2KKQ

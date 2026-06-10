@@ -92,3 +92,7 @@ UniversalTV.dr,DR - Universal TV,https://iptv-epg.org/images/rLJe8GGTOXo02VPqnuB
 USANetwork.dr,DR - USA Network,https://iptv-epg.org/images/UyecsNN3f_vKPOxb_skTaiYyDTb-x2W9vAvqzmdSstL6knvU6Xpjyjq-eizHUncHgj0ALfjniluP6iELJiOlXJVV0ivIc__RlLOVYeCJOvjhNCxR2NbmMBP3OCyENxg
 VH1.dr,DR - VH1,https://iptv-epg.org/images/dGk1dWkfqo79VA7Ywol4rTPmT9FVSlR_H9RrF7y9NysCKxVi0N-SwEN-kJbKLVFvWiWMNzvhs8zBEh0QeH-FyW3PRvJulW0Fnq2HOb63Uim4PzzgfUxEuQ
 WarnerTV.dr,DR - Warner TV,https://iptv-epg.org/images/yJeu-8sphuN1SNRX5369sM0YVD8Ht0lmAlT5gciDHK41txuKlqcOh6TmExBZ5bpdIdy4rE8pAViOGnuiKKsc_LheE0X8KaDCR7YeIivX3Vf_AIqPpv_CtqvhWjYs
+ColorVision.dr,DR - Color Visión,https://iptv-epg.org/images/dM9JCZgF-uCPPQPXBI3wb_M8pHCR9zVdI8PeucmoHr22znEp88LybKelJm5G02e5U_1u-OrJA-YbTK2atM86BX89mEHfPtBYO8Pn-qv6_N3yI8Esh6ROp2aKnSdL9FGv
+Teleunion.dr,DR - Teleunión,https://iptv-epg.org/images/0HchMcT5vvEBlGAXZ2iga8O1lj8LszcMUp1GbhyPbOkU7RNMLB9sgMWvSoV2qLwM4Y0jdTQ9REkvDt-UeoeqCzz1fnrKG_nUr2Oivym1bzbmOnteUybOgwQKak71JQ
+TelehitMusica.dr,DR - Telehit Música,https://iptv-epg.org/images/Hq0kkxhINqecBaBMnMksOQ1V4FQ5NxM1-D2B1gpjxIY47-KmEftJUew-jHTB1iyNyWTwrsNkPHva4yS20OGYP5NXRoZFyzvzRo-w5kJIDGQLfvXkvCrR1e41BvC3nEshkCg
+DePelicula.dr,DR - De Película,https://iptv-epg.org/images/dmxtuRrsqp_Aa1RV1nwGvzrVlCaXC25wjNBXRwOzVBKD5unAtEFOpK0VJ6BL3D_R1-TI8V6Qs6chW7C-qWZ14IqPGI-hj20_lNnxqE-HYf2LxPLOML5WL4Rw6RBoKzc

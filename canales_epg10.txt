@@ -86,3 +86,11 @@ VH1ClassicUSA.gt,GT - VH1 Classic USA,https://iptv-epg.org/images/sw8wE9ujCO8r2g
 VoaTV.gt,GT - Voa TV,https://iptv-epg.org/images/yRvW8LhyUkKt3nMemCq8s4UUWI2GNctoObAOU_mix5au0Uoyq0RZ-FxlGTwRzGg54TAKTUsF2YByVEUwu6ceB51zoRbQg5QtFjUQ_s7S25f1
 WarnerChannel.gt,GT - Warner Channel,https://iptv-epg.org/images/r387DdtzMxVJIrRE8Gyjpw1WrIyLksZmMrjpyAvXhoH8MeBMofZGTfdsxr1dQi5Hn8DwpcBCVe8H4-yL177w1e_qGDC48ccNvYPko81o8bgAxdFBtoq5WYo
 X-Time.gt,GT - X-Time,https://iptv-epg.org/images/5d7ZGswtvUuXWQP4sbQ3oLT_WybCQ-sPLSPsecBIt04EuCwNkHenh0iFF0EfSh2IFu1PkuV1my4dyzomRD9-hyCEPbR7ekWuoPU6rd3kehjoiQ
+AzCorazon.gt,GT - Az Corazón,https://iptv-epg.org/images/corQymGS92yFu3WSC3btgTs6vNNxSVO8Xm9UXTMnPX74s93EWL1WA-IxqGbsQfcSJd9N45MQ_6kCtawdivxjcaImmxY68AHRB7UvUvFSza6O5ffMzg
+Canal13-Trecevision.gt,GT - Canal 13 - Trecevisión,https://iptv-epg.org/images/13L3uyQQHNa61ac7roH4DADcjcZTH6zqNs_GDwByhL5W-35ipLRjpwtC9UHHN6DgJeAyA_JTI01odnWxfR8Saby5KjTdOfgPt2TUMzMyHh11bFIs5DvU3y8m6zXQNNs
+CNNenEspanol.gt,GT - CNN en Español,https://iptv-epg.org/images/0n30V-oWwItgIdCWVrQ6RUm8-0xDN4faigJRE9lZlcv9p5Hst-qwKAbfrUfxhJx223haLygQTgCL1-7xEemnuSxEyR812ujU3w4OyVATLhTPMtXGPVuDyA
+Guatevision.gt,GT - Guatevisión,https://iptv-epg.org/images/ec0ta_L_zawhFa5mPEbgaiZJASp_e1uxhhiQFKtTYwVyBifLYDInLbNRsWhIZ4VMWji_3vgFiuCpco1HxRNyFsVvuWS17vsy6ZPRt6IKWjS5T-TI9jF0
+HBOPlusMexico.gt,GT - HBO Plus México,https://iptv-epg.org/images/xTns8mVofNHSkxnK_bX_GX9BPDSNYM-n4vCjpbPW06pl3vtIZXyRdxHvS66AyrkAoNiqJcO0eugC1px7U1hkLGYKX_xYgVZcxxw0Uln8DtUU5Rpc54ctRF8
+MaxPrimeMexico.gt,GT - Max Prime México,https://iptv-epg.org/images/q-Ddeh3J4yPUVyyLl-M2WCZQ1fM8Di_vV9AGlzs5GDbLnDZ9LKxj1_yDqXAuPWXgGnjnbEQg2tDEBlLNZu1OzwG_EMUMfbwWmefgHPunbuYsl5MNegxZ-pnZ
+Telemedellin.gt,GT - Telemedellín,https://iptv-epg.org/images/TVCVqZy2Nv0Tit7FO46b7sf6RBI5ki90m5NKd8m0T8eYTTmxzZGtnEjiKajOfB9AOzd7SpaX9hCkJyz9duP0FafkUWI2lR6tidpuYj-s83EVf5-0yksheA
+TUDNMexico.gt,GT - Tu Deportes Network (TUDN) México,https://iptv-epg.org/images/43Ue7OxaOnRVCJJrdS67ffxy7i0VwGIexIt0Xn4LG5bSMKtFnSjkMl2m7jCALvkUxaky_U_u40U49E_Bvf2NS7-_O--bS6ZLzc8bBEisC4YHyNlNOdc

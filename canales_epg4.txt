@@ -170,3 +170,20 @@ VH1MegaHits.cl,CL - VH1 Mega Hits,https://iptv-epg.org/images/4fnT-m85Pmg4pzJZyH
 WarnerChannel.cl,CL - Warner Channel,https://iptv-epg.org/images/ztdge-BcjIEVHB_ZXQ0pf-rcI7TY4VhzxMNZXjwmIZOxT_vp-eVht2ct6FIFBPUfKPadAkBsHJptyvh-Gp8kVBohKpu8sDDp40MG7ogDShVIaIgzTg
 ZonaLatina.cl,CL - Zona Latina,https://iptv-epg.org/images/3alGHmRpqCSmiDwpe8cSGtCprmUQQT6H4kjiNzzFQIAiQfpPSq8GxIUDYFadOkxCac6ehHbOoPiDFhKiGRg38Dlf5EhwW9Fvr9a3AtfjplQwkg
 I.Sat.cl,SAT - I.Sat,https://iptv-epg.org/images/X8XHmSl8TCLDoiBazNU7jv8WdRWMm1GxKnLPCbvKzRIrfmLujD9mer2VbHwuhvqejChFVCIxljYXRrjbJev4Ejwfbs4VK16gp98gm9g
+AmericaSports.cl,CL - América Sports,https://iptv-epg.org/images/PDIYkNKvsSjGwq2gdR67h7tXlwR1j1_pkTmBZlX9SflJUbdiPCs65NldUQvo3lzToa5uuuRxPngDGN7ASvF8GilocRhO8tzopi-V77nAs1CkbrHb4A
+AzCorazon.cl,CL - Az Corazón,https://iptv-epg.org/images/MVAlU_51Gm8pM4at-VNBWUcZQEKduO8cfp2Nd_uQKkyqOUJafyUN9JG2eFZG5RM-SwDgcY80z14ftA-KFz3bfFBIQSV6el7NQ5VEJM8Cerk_
+Canal9BioBio.cl,CL - Canal 9 Bío Bío,https://iptv-epg.org/images/ALOcZ2wDFGBN2iaGFvORdpJF7t5Pew60blIYb3rY2e0pwV_NkbfBIsnRQ11CV0GzXKL_RroFyL-3saH-lee8QPoAa7pBAgQbUnBKzlyjL-ZUM7pQ
+Canal24hsEspana.cl,CL - Canal 24hs España,https://iptv-epg.org/images/mJqYtEzklUwDPQZNwfBBPhNfYjneWGbhaF0Z0J6F5i4xe6-E2nFADI6tt3mTzKwop9Od4uxVAqAkb_m1cJHnUK4G_vBgvQqwx-SaIshMD0XDVsDSY3s4
+CDFBasico.cl,CL - CDF Básico,https://iptv-epg.org/images/VzqpuPeKFxeGfttUab4yBDtCmSlqI5uz1YsmtSG0YruCf4Ryt3Gg-veR_XZUqjnwEL8PjO0R_IfvRz7c_ra_F0X_a0vTFKrEKucSl9kt_WCm
+CDOBasico.cl,CL - CDO Básico,https://iptv-epg.org/images/1TEjEVkuMDrtU8jLBzqP8MJOoyN5thdsVeHDteUCoJC786SeN9l0YBzsXgckMbOQ8ysewN4lEYdyYt5z-a9ZgOJp-ASnmvorxZB-pT5WbYIZ
+Chilevision.cl,CL - Chilevisión,https://iptv-epg.org/images/KVJI8H1Mt-VVIWzDW7uMtp5t5SE5evJfhSnK8mVVOLyH9GwpRNebO10-f16PpOqBevY7xmR1YpscJOd5MqV4N9vdszzkvRuTyAXxXlUcHYfkqiQ
+CNNenEspanol.cl,CL - CNN en Español,https://iptv-epg.org/images/uNSSanaqnph2SJwvKjpTNGZ39Bybc0g5UtFsnVaXs010JeE4ay5EXAcEKjZqsJ2imrgfJ_RcIFqL7Le4102AJmTOlnxs4XtAToFka0idR0qwMuLR
+DePelicula.cl,CL - De Película,https://iptv-epg.org/images/H-RXfGLM4Hp67VAO8Rm9Djh-XbAuU9XRr-nh9O_a7l2cmIpNVC5mzT2LFJap_KYx-4h9vtkCUdM5opTMK7K76jJYWjsnyFex09Y45KOb2Gq8Cg
+DW(Espanol).cl,CL - DW (Español),https://iptv-epg.org/images/b-xxqdKecwFwzwBuNTFmlWQBboenSNO7lDoxgBfWqSNWgZJTGdGEE-qkADY8TWuHLzjCKoLjR73rSVImt2T0Y-j4GoEFKMoib6Y9HiR1E19e8E_OHVp5
+FOXSportsBasico.cl,CL - FOX Sports Básico,https://iptv-epg.org/images/lYWlXZvBYIjsdFkSlrxky_2I5qiHitUHwxNbCwKgmNDhQA6jbnoAobozMe5LURzeUhCoAV4ak2f7f4RtKipFVZOIiS9LaV3lq5Kyv5M7rouU8snXbp2x
+France24(Ingles).cl,CL - France 24 (Inglés),https://iptv-epg.org/images/FLtSjB0PBwFpfdMTCfcF2md4t3fOHNn0LdgtkrrinERjlh9xxnAAGP7Qsl3hf3uP7TiXKKJkdLxqErayo0YkaIic-1mmGnhBcTpsjZ23a2Ntedp91el1hVD5A90
+Mariavision.cl,CL - Mariavisión,https://iptv-epg.org/images/84ZF0wMnFuJnaf6FZwHQL6BOF0T0No3ic-tg-Qwatc1Vzxs87x6Vyo_pWllGUu8SlgZzUdO58FwVKVJH2zcBlTT1ykrBrdYBTFVrnvqDkWJ1h9E
+Ufrovision.cl,CL - Ufrovisión,https://iptv-epg.org/images/sXd96eGqCrdXxcd7D44VujHF75NCdv-4ZJasjvjUzvN_3v2XfevGetP5jNctykGM3n4DTqtUYyDNWdWHJk2__lLRHWkFbQ1VSIn3fA_zM3RJrA
+UniversidadAutonomaTemuco(UATV).cl,CL - Universidad Autónoma Temuco (UATV),https://iptv-epg.org/images/f_VxIyj0pgGxHM8sWS2f_5GTlg2uh7ERmUK-oEa8feM1JFIwXiVuczxbAjtX9ulZBeVWGugOQpKEbJZ3bmgrZNo2cNoGH9HMO6ZHhGRc_McI2e9QZL7cUUCnjGsDVAHnsr-H7_AI7eHkxZo
+ViaX.cl,CL - Vía X,https://iptv-epg.org/images/RbdLjQWdo-ZaQ03dAAVNTjTkPlfiCJ9I3qVyiojTPM28KLzKMIbT1fBcolYGAiV4snxik0G2DD-JH-0mTiYbhJBLrS5iTKWeuDhP5Q
+TelevisionNacionalDeChile.ch,CH - Televisión Nacional de Chile,https://iptv-epg.org/images/I-cu8w6p_9dvs5gFFHCb0QtMM5u-7o0TKf9aOCHdq_wMHpilZY_NC6wBp_drCS3-r5Qm21cNFtaCznGNwxWsbua6S3iImXigUiOq07bwnfqCPrzV0vqQkUQebQ11PYns4w

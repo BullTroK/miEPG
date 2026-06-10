@@ -167,3 +167,14 @@ VMASTV.co,CO - VMASTV,https://iptv-epg.org/images/zZraz10jlqdfqdM-bNkMRwYSHAMhZC
 WarnerChannel.co,CO - Warner Channel,https://iptv-epg.org/images/m3qTuxdws10l7vYgGrLUAbfvXpA1NXZnlzYboLRrC3OIdsexdH1D8e06QrgYyfUy8KS6eC9pOr8YlZlcXkjA9e_wenkWaG-NX-H29wuC7f_WNrH3YNmKIw
 WinSports.co,CO - Win Sports,https://iptv-epg.org/images/qf8cCzX6Y-6eozUTeTAaClLULP9LQ0YY1PXsGIfSyHWhX0dnMm8BiGy0XCEqcSfyIZEuO-w89daoFj_0gxBkbd6TKotuYBEl1KvgsocLxfwb1a51
 Zoom.co,CO - Zoom,https://iptv-epg.org/images/Rzh6q_gLZt0XagLjGcVuzsoFnMhVkug3W_I7bGQm8N0ZmWSsNgpytJRtY0W5-avExSTKzbFoY0Ro6ir4Vzc4v8THdhLFcBjIvqzHDpv_tg
+AzCorazon.co,CO - Az Corazón,https://iptv-epg.org/images/A5Ba2Wbga6go5qerQA2-z6-4MsfEgp6M0dFlvj7SL4vt1Oft6JQoi58aRZMFJ2OjDXF_73CAkeRcVAXzzjHjVJq3LQxCBZkR-lklNZ3nvDPVALJZ
+CNNenEspanol.co,CO - CNN en Español,https://iptv-epg.org/images/qh3u-LoVJsiUh5kriaiDkpmQWD1Jt_kMAkDl1fKz8PO_aQulaEhOnv5liaAbe3Okz8pDNxs-BMiS4eBychXR-oHR8VXx-_ObQs3-exLtXl6dRFbD4832
+Cosmovision.co,CO - Cosmovisión,https://iptv-epg.org/images/jVWYYhEgCrFR5g2dy6vYyTCp2Tlz3fgiCNOF1k-KEfih6XH9X6lQwEUER1SLy0NaXWmhYgrsx_g-VqbEGBvyN_1ETExtdXWxyjy9ul4Jn9h7JrjiQm4
+Cristovision.co,CO - Cristovisión,https://iptv-epg.org/images/kTXJrLY-Eifk-Lbw0QyxhTQ9PlFQcuOWb3brvNoU-QW5bzbI4TlAuEdsX_AHSnKagWX-LKmcv8HChmiF55bQWLngzhvlBRvZe_zhGMv06fsISjAFiClf
+DW(Espanol).co,CO - DW (Español),https://iptv-epg.org/images/0mt4dNbmbOot41PoLX1IJeEMrymNGXJ8-esFyx5wqTn2JnNVbXUAKtMw_cqNIzAIyM5GsOwfjVO5bO51cFhs3r59wab0DGKl6Rz7Nz-QYFOOLbP2lbDVt3bv
+DiaTV.co,CO - Día TV,https://iptv-epg.org/images/xTxWf_wImoMZWUpw8O-CoT3EB_zFJvgeBg_hfc2glev93RdADa7q2-xTEJc0jiGy5vs8NujSsvW7NwszKRl0foRS3F4ZZHGuDJle9dT0QuY
+Globovision.co,CO - Globovisión,https://iptv-epg.org/images/pwsEXL8xHAT9zLAGFMGlg3AC9p9HxkGVXmJvuiK3nmx6TWUWQUFsafkbplVj0BH5_YHHwmiuObzmDKBLSeOBaH7I0jnxl_wU30KVrj3XLgYmY2GXgg8
+MasChic.co,CO - Más Chic,https://iptv-epg.org/images/XjPXPprilNwsDKaSlCdjr1-oc1J6N-KvO_aIyjkI2wZaQUKQR9TtpqwKH-gqYbA-tjwGB3NAC9VTvR3vet4pi3HyRovfsNkpkmxn9CBMb2M-ug
+SenalColombia.co,CO - Señal Colombia,https://iptv-epg.org/images/O2sl827HwYwvb1c4pVjOM7sUpU8dHISWuXJcGNQVT5fedtNMkPQCOnkrlZDEo6FQRQz3BaAwT9Bh34Wh_Fyn8jX8m3mwrw4BOk3z0btsYIRFmBCey_JNtg
+Telecafe.co,CO - Telecafé,https://iptv-epg.org/images/MD7yElxGP-S1MxlH0cOvfxG78Dv2ecW5q30NekbtNqTjCNdOiEq2jQFod4wu1EabIHTvstQkjoIoGltiy9gCpr95M_5MfdfOpTCHsAlUz32b2rY
+Telemedellin.co,CO - Telemedellín,https://iptv-epg.org/images/YkrhI9pJUbCcKdOGcYXuIFGmWL-6zCdCNbxSGxGQFvUkNSZfkXmdWCgAMiSwPhhLCpFWLbo3kIt8M7nY--aASirLk2fAGWf1CRkC1kGkkC-4XJS6Xmv3

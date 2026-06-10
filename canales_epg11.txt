@@ -116,3 +116,13 @@ VH1.hn,HN - VH1,https://iptv-epg.org/images/nRaRxEzxQfatbGuROJtiB9RhqdAEH_bKBpb2
 VH1ClassicUSA.hn,HN - VH1 Classic USA,https://iptv-epg.org/images/SbTk1Ftw54BMfktOD76ql71QHPnm5UitDHtFK1mM-5Ssvm71OeUKPAZHftcYSu2WISCOK08mwhaprr4byK2Kv9snQCJ57l69biQ2hUhRopuTr6hKJcVjKQ
 VTV.hn,HN - VTV,https://iptv-epg.org/images/erZEaOGtsyZZOt04C4WjPTJIY92yG6rvBHGtvrWQzk0nV8YjjT2GIJvbKMlQTdLihuxxdYjRqqu6n-bR8VA4ms3p2o2g-HXR1twqiZ-B
 WarnerChannel.hn,HN - Warner Channel,https://iptv-epg.org/images/eXa3-ZbBIOeF8tlol3yPL19wFQ60LzHogo41ncdnM6lOQhoaNtkfQLqkHWHC9clev7GGdrmsvxvDfPrTlp-qEbkP4WK-LAC3GjbZ6CIx9IG6m8wEwjN85Q
+AzCorazon.hn,HN - Az Corazón,https://iptv-epg.org/images/MaC7a_5jYpKy-MnYTavrqUv0ugcpeiy4Sj_v6V0i6vsunAzfHKH6OplDCDxY5AssYdfuxp6MdKRGpgxXEg2XlF6NopQWA3Vlux5v8BDQI2lP7bGb
+CNNenEspanol.hn,HN - CNN en Español,https://iptv-epg.org/images/fAsehDKrKWvEs29eS6gm1_rWtOaQ_t9qBtP_1m5mK3GE1p3pmaWLeDqxQSMcybT6c9KvOIeUzNSVCUG-h3Red1CclINaJDDQAz2ltndmZFs2X1r65rP7
+Cubavision.hn,HN - Cubavisión,https://iptv-epg.org/images/3BGhbnkYk4a-W_O87gqb_3A8xROVBnz5ToNmr7LqsnWGPq4ljlCWgoLruaich2joNLLQ2Af8gqCP-w282MVTqK1G7dONozgDVULzcc5pTpa0sPAFKA
+DePelicula.hn,HN - De Película,https://iptv-epg.org/images/YEtG-wq-d1W5gjgf_51SHv_7klXSNm0Cz4bXSRn6hKyKlc3zu6pM35BbjzFdbdlHlO0Qz3_Ix1aUwqMy3ICMXXL7JCWOo_0CvMR8zlpRd-OGYcYI5g
+Guatevision.hn,HN - Guatevisión,https://iptv-epg.org/images/SjZ8JP2N7rVMcDR731mY0Gn9XKsv3DCcSUOiqIhljXuVlw1PE5PbjTl1SOdZVz_rVJGort-sbnf7PpTphMin7gl7AcTsGrfewqfA9p2jrlkK0GloecI
+HBOPlusMexico.hn,HN - HBO Plus México,https://iptv-epg.org/images/52pAUIaSUvX9PhDeHtMeR-V3HSSHZh3p9kj5ECm0zE6T-BoIk_LEo7oLzfaKmPfJy8FkWLcueaknPYUw-D_yZ_sgcYUBMgMf_obkWTnW5B_xQZTkBBBUfA
+MaxPrimeMexico.hn,HN - Max Prime México,https://iptv-epg.org/images/pOqhMbmq40EuCHOfOl-rShHBSUt-BvHHJgpGjwAjN9uarSrvhwAd7qK9jFVPUdBkh-GQA_CDUItz2Q2GQx0_khtYWSA-Rof05Hop505FhrDtwMg94qsv378
+MasChic.hn,HN - Más Chic,https://iptv-epg.org/images/QBCUyjy-CpWAZRV6H8ELKOvGSxAa0hdlUcGOXNPmW8ZFvvxhMAm9P5wi-EDsRee_ha21wE-9tkEVQqsOQICB5YoJQJI1aYmROr3maofqNwMsvw
+UTV-UniversidadAutonoma.hn,HN - UTV - Universidad Autónoma,https://iptv-epg.org/images/1m4LTQb4WmCtOI55tEqTiMBDWEElueDFTQPBkM2mBGK1J_sOni7VyUbVUk_79PJHHSlVp8swljK-L8C1V4BUcHB3mt-b_CbQfD03h7FWPIADUufbF8jTIMEFIEhXqcJVbuY
+VICA.hn,HN - Programación VICA,
