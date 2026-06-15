@@ -1,5 +1,5 @@
 # Fuente: https://iptv-epg.org/files/epg-hn.xml
-NickJr..hn, - Nick Jr.,https://iptv-epg.org/images/U_PpBYRo3TCl6TjvvObyPQ4UYVeHIFP3kqOZyob0BitkEryRZElErB9sPf4ONcWKiAvDBSm-3GsH0HGNpjzLikOqEDNW5OzK9B04Vlct7EP95w
+NickJr..hn,- Nick Jr.,https://iptv-epg.org/images/U_PpBYRo3TCl6TjvvObyPQ4UYVeHIFP3kqOZyob0BitkEryRZElErB9sPf4ONcWKiAvDBSm-3GsH0HGNpjzLikOqEDNW5OzK9B04Vlct7EP95w
 3ABNLatino.hn,HN - 3ABN Latino,https://iptv-epg.org/images/LOyd0XDDylyvJ-lzozGtwRlCDH-4l3x6Qkmf1gwydI_YfpBprEn2PfzNv_6_IhWZmBB6994Zpfn3OIljiESDjLI--p_P2GVtSuY1p7LCnw7LaOmekQ
 A&amp;E.hn,HN - A&amp;E,https://iptv-epg.org/images/VlwuKFvT7GD6Ec61gUtwX9WpC8fN9ke4HNNSw6N7Qs3r1ug-3EK7lG_TqnbUQ4sxBCnb517vahs8bJelwDS1uGeJDukFXyXA5Sc5OMT98e8
 Alfa&amp;OmegaVision.hn,HN - Alfa &amp; Omega Vision,
