@@ -110,7 +110,6 @@ Multipremier.mx,MX - Multipremier,https://iptv-epg.org/images/JfO8RTGs6eLxDLBv_O
 MVS.mx,MX - MVS,https://iptv-epg.org/images/CV0Ue3l-NOkLQC7fZdicP9rTM-AQg7kR_FPQTlBauzkIWG9-mdxJgIf5aAc_PlzmTPwtZqB0XufvEtnih9JDx107XsLU-uCeG3N02g
 NationalGeographic.mx,MX - National Geographic,https://iptv-epg.org/images/tTeUomdsSY36WAoMcOxSDFGZkU43Z1lzJiVMaVe903tFO8lNFnJ8kRKC88-IiPoN4RtQx-iMXMPzGsFICcOnneKMDwWen9SpzEhbDU4obi7dBXk892AT0MqbpA
 Nick.mx,MX - Nick,https://iptv-epg.org/images/nadsrYUVn39wL8jZ0rIESHBIEiHC6ryuc-dXzG6-Fki7lGv4Yx5K3Cl5aY6nfMK9J8UTPqHnkpkxSfLH0GKrUnn2_CJ1z22MtIoC1-Q
-Nick2.mx,MX - Nick 2,https://iptv-epg.org/images/THOfcuzAMuXc5TrRrwxJkYYewQVYE-Tn3QIBrjEwt3xgPFOrK0GuABCPKtuSB8U46T4V8RevBIyOzr5PKopZU-IN-Ecsb5HJADK_DM9T
 NickJr.mx,MX - Nick Jr.,https://iptv-epg.org/images/MkCVwgAdVGRf4DL40Ayz5oq21qM_Ir1ySQVjPjjlHZ7Ck_SHF0oHVSBGQPdpZyFqOCq1LsdIpDh17tMRjKaXrRxk7empksM8vnPB-weR9A
 ParamountNetwork.mx,MX - Paramount Network,https://iptv-epg.org/images/YoROOTn0QZwi86kmJ0Zz62l48iU83kdy2knieMcwjIjBoqLg74JADlbxpC4Xvmqc2sOm3CGuIShIs36lUXsMU58joLhkxxrjNNdTjemIA_Taz9IgghT3mq4
 Platino.mx,MX - Platino,https://iptv-epg.org/images/pxYm4E6hjgFDPYk3wySu6tgC211GTAx3q91Po5TavixRN2F-ifTk4EX59OZuS5R2AHKZJ_sRw547Refy1IK4tqv9zcSgE8ww7lBaTbxY9OQ
