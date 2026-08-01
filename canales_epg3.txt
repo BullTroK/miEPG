@@ -165,11 +165,11 @@ Univision.mx,MX - Univision,https://iptv-epg.org/images/fvKmINMYNkVgrxSxY-TDJK8E
 VH1.mx,MX - VH1,https://iptv-epg.org/images/c57Jf3QSe--YFv4bTpOWNhuXluTwaH4sAzmJEssyoOAluaBIuIKUOSnLdBI-RwerrG_AfAZuwpAl6wsJE-GghKTaNBkpKHshbGhJWQ
 WarnerChannel.mx,MX - Warner Channel,https://iptv-epg.org/images/2UF-DH_mviRpA_npG-_sXOGtypKbrZBJajjN5IGxvWuKPM6kyiOL-iWPpy-OP9YuKS8dz8bPD6oUuqNWPo6G2Igg_k9LVMim-w3odtOaIWEfK5DBXMw
 WOBITV.mx,MX - WOBI TV,https://iptv-epg.org/images/3SSO-6sccdcyS7Zb_pX5HGh2ifFwYSrA8ibW__lYldZh7anXxVDyL_gBYim5IXRUgYglhkLvH3YxHfKtUgwS3Sxi10ka8csUxFg-i6NeoA
-CanalTelehitMusica.mx,MX - Canal Telehit Música,https://iptv-epg.org/images/mugOXrIjyoY7HfLMzUFM3W7t9_7uv1sXF8N7lYL0WrKmlHQkRehpz9MSyXxtwqZjARO0LAKX5mw7wKwhJwxp3Yqrkzi105jzpThJddGBo73gHd9VSv6xf1hk-g
-StingrayiConcerts.mx,MX - Stingray iConcerts,
 AzCorazón.mx,MX - Az Corazón,https://iptv-epg.org/images/PH7--1gxda9kZzIFmXJNjusySHwNxekQboFI1k-YVNGBKHZMbmidTo5mcZn_-oAnyM1s4PrNAGoXkdqswrV9LTjROKMk-Kq7m2atWQrE5hQwaFoxdJ-w
 CNNenEspañol.mx,MX - CNN en Español,https://iptv-epg.org/images/tr-NRx7-p8k4Dv6tplW_ruQsFUQaAegPuDHpJieMfi1PIe58hPEzGDUAO9RDikRi-5q0AmnUKS9lgc_DuoJK2NRpnum0BJijcTJ8EqA3M-_7ZFfhdI_CL5eP
 DePelícula.mx,MX - De Película,https://iptv-epg.org/images/YJnfTen2uCNk-E93layHsGIm9idDg3yfWZMIK-1qY66mZNXsBm7gvacH4747daRnJ8c13BvdvaCB95NMAkT4MjqiQyV-e1gdo7dkS1N3154q3d8WOWilYQ
 HBOPlusMéxico.mx,MX - HBO Plus México,https://iptv-epg.org/images/UUWaDUlkqqrsN_JxGrDqGxDmzCHxMNMgztojchZe7wqi_poAsISYMXM8R6H3wmDRnZ_Giv3uUUGPdNdE3qne2scnAfo5TkbBnuIkDY50eeZYE8ECIZjbNNQQEw
 MaxPrimeMéxico.mx,MX - Max Prime México,https://iptv-epg.org/images/WXCFD35Mdud_jystR7t1yHVxB7ghoiQ4PBeiA2aQtHLFUFGHCLYTak89dzzEP_za5tCfPVqSYcv6nFgw-695JzU9SsSBnQFy9YDLIfwJJlPHqufk-dRFv5HB7Ck
 MásChic.mx,MX - Más Chic,https://iptv-epg.org/images/WaTeFRkOpLr2THgubfilsYJ2sywzwkfFvk9BUhYWdL0Ro1Vvc7eS-YD1ccLs83kQbPCaJoMKPE0KmM0BUb6FoeLLJFr3Y6vFJaGJ2sfNWR-Jxx3jVA
+CanalTelehitMusica.mx,MX - Canal Telehit Música,https://iptv-epg.org/images/mugOXrIjyoY7HfLMzUFM3W7t9_7uv1sXF8N7lYL0WrKmlHQkRehpz9MSyXxtwqZjARO0LAKX5mw7wKwhJwxp3Yqrkzi105jzpThJddGBo73gHd9VSv6xf1hk-g
+StingrayiConcerts.mx,MX - Stingray iConcerts,
