@@ -77,9 +77,9 @@ Univision.cr,CR - Univision,https://iptv-epg.org/images/nlGlfRbUas5_ONdQl_ntQmr9
 USANetwork.cr,CR - USA Network,https://iptv-epg.org/images/8HnlPKcN1abdmYinKTelYxysq2uJF2RxW-UeOG5vZpcAg3ufP78GkACam5KNAXm03YTN0hhJk5jVQbzglS1Bgs_JRb4PvQGdMD-MZezEgL_A7wMT_Ool
 VH1.cr,CR - VH1,https://iptv-epg.org/images/mKV1IPQsJY8VgI7ZLTLYd1StIg1SD8uCaXpzro7kDdiGfyv_uN67BdJ2MsBgbu0zuKYXoXP-mXLVbXg7HKX_tegH6lrX5d28AaTbhNKKrN0
 WOBI.cr,CR - WOBI,https://iptv-epg.org/images/LerXIzDnhR6ZVnzPQ-wjOUtDgh7dSbnyxpxpr4TC2J-3jtozoFmK_IlH2eHAnWGWnQoK7pzJM4OeHhGbjY6HQ3kvHB0iL7RfVdCQ0Dq6w8cJ
-DePelícula.cr,CR - De Película,
-TelehitMúsica.cr,CR - Telehit Música,
-TVAgroCentroamérica.cr,CR - TV Agro Centroamérica,
+DePel&#xED;cula.cr,CR - De Película,
+TelehitM&#xFA;sica.cr,CR - Telehit Música,
+TVAgroCentroam&#xE9;rica.cr,CR - TV Agro Centroamérica,
 HOLATV.cr,CR - ¡HOLA! TV,https://iptv-epg.org/images/G8d54UcKT2DY-g3gpPfhYFwgWXMLrpy99QST1qdhZ8I5jh7ZZVBxRMRS_DG16ZwkBQ5c4GgznfFcWIbxSiz5baFDtu-Vc0vxXLK2mdjofwYonnc
 MasChic.cr,CR - Más Chic,https://iptv-epg.org/images/OjPKlko_sFt06jXbmdScpWpsA8rYd9rDBF3QDtjdLNM9knEZFYa2I098P_N3GNs5K6732bHmQdrKedMJ5ztLf9b0vGoNyWyfxoLgntzS2wRlk7MB
 Panico.cr,CR - Pánico,https://iptv-epg.org/images/UoJv__m0hNJ7EoDLhl0Wq1IV4q_53yoYacMVTGo9JpfS8SDR5lSIP1UZ4pfdtupqkgSVsD-ZnY9BTrHkr7YmAyoA6ET2vGM75lI7T_U7wzE6zNg

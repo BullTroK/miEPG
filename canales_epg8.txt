@@ -98,8 +98,8 @@ UniversalReality.ec,EC - Universal Reality,https://iptv-epg.org/images/Zztg6bn6m
 VePlusTV.ec,EC - Ve Plus TV,https://iptv-epg.org/images/0OZml1vUTSrHEPM0Uc7eHCEE7oF4j1uGhDBCGuyp1w50UfIx0ePtnJfVzZIqgWRHVtla3euwy5cUuoYDTfPUEu-A0FbQBe84XhY5gZhzNVVLZw
 WarnerChannelAndes.ec,EC - Warner Channel Andes,https://iptv-epg.org/images/j064TcED-jSdYxUpdx6wCOl-1tSKM8FjJzM9zHIwOAxA6sds83-YszeWPgTd-HRicAYlKwojV7zjigYx-S_gw2YiXWNvRjWEkC7OqV0HbiX68V9op_5F6il74Cw
 Universal Cinema,Universal Cinema,https://iptv-epg.org/images/Fq0FEvqjoBX1l0lhVqchWSwIJZPi-90gfIKSCKqvzVtWeZcC8AJomWpfemjXq7eS6mzY6E04pVk9uHwn7piunLEUGQ-nSkITHTwhQS2xs78Hu5neB3Eh
-CNNenEspañolLatinAmerica.ec,EC - CNN en Español Latin America,
-DeutscheWelleTVEspañol.ec,EC - Deutsche Welle TV Español,https://iptv-epg.org/images/aLkfNCYgEtsTDU0f1n3Vi4MxsbjGtpg80-p5lIyU2Y2YlkJoxiCn_J-qPS5DCzeeBlHba6O8nLO0s-V2usnKsHeWoCXXK-afIIeZdsKsK85YWRr3xW9ttJLo8AzUYU-U6lQPa1Y
+CNNenEspa&#xF1;olLatinAmerica.ec,EC - CNN en Español Latin America,
+DeutscheWelleTVEspa&#xF1;ol.ec,EC - Deutsche Welle TV Español,https://iptv-epg.org/images/aLkfNCYgEtsTDU0f1n3Vi4MxsbjGtpg80-p5lIyU2Y2YlkJoxiCn_J-qPS5DCzeeBlHba6O8nLO0s-V2usnKsHeWoCXXK-afIIeZdsKsK85YWRr3xW9ttJLo8AzUYU-U6lQPa1Y
 Gamavision.ec,EC - Gamavisión,https://iptv-epg.org/images/sBjaoYglvvkqIP_SB7VBDdW88saCtdc5EamCtyzhe7627biweAedkbeUiPFyNFk9DYnw8Q1AgjmyjMnlGLaISgUI8AOj5dOsC7SSJtef-NTC1xDg
 OromarTV.ec,EC - Oromar Televisión,https://iptv-epg.org/images/1fjVkPdWULQ8bg_XKkRlJ0eEcfZxn6rVBbEwUOi3lhg_m5bvdHjhYWRo3UkA9Jc_0OjF3hxDP08Wnji7X6mtgEuQ9LF9u-WLkaSmZFwasH1pFw
 TCtv.ec,EC - TC Televisión,https://iptv-epg.org/images/TuULmH0fQLmVyRzO8U9wIKcXMdBhXThuZWq3Nv9h-VGN3wlX3oJrr7YsNWBNQlcv-83ZoLFO_xnapJ9hWGaMZ4UahtmfRsFKTw3NiPAM
