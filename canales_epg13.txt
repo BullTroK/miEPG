@@ -124,3 +124,4 @@ DWEspanol.pe,PE - DW (Español),https://iptv-epg.org/images/Okx2WO1GGrNWueSfSZ4O
 Mariavision.pe,PE - Mariavisión,https://iptv-epg.org/images/7AzEsL7Yj7fwVCwFHz398yR_7OgBUzcks5bR9amNPr93qQbAejgVX0awlgLwzAr8BJ4MqQW83aRPuN_seMVPLQNNknLIXQTFWSCPJoi4lRZNUQ
 MasChic.pe,PE - Más Chic,https://iptv-epg.org/images/f7L6_jhN7wdrQM5J1PqN2Kxhiu9xxlEYMZsugfBNgANzXJf5eAD86EZtpq3Gqwr1vxUqAKCwkOV1u9JUQCU16tRxbD0IDDYQSAmKPMTt
 TVPeru.pe,PE - TV Perú,https://iptv-epg.org/images/l4vu57Ugpox6SysO_oKRirUfExKt8qCArmckBu720aoTPYwgkxQd2Kfj6fkbNja6hcJXIYXqB5LCnrGCQWq6ni4JkBLPRccvPHP2KKQ
+Liga1Max.pe,PE - Liga 1 Max,
