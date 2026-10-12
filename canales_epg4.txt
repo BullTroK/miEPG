@@ -70,10 +70,6 @@ EuropaEuropa.cl,CL - Europa Europa,https://iptv-epg.org/images/uQ4FG3YItChOAsnHt
 EWTN.cl,CL - EWTN,https://iptv-epg.org/images/tTZgTkuXgSQADq6PmXixa18eMYiDIsF_TpL6iZfBhqq56ebR-rc5F9xo221Ey9JfNe0aq1oYLn3bGe4v1lgqoqgZyfvP91etY-cNXw
 film&amp;arts.cl,CL - film&amp;arts,https://iptv-epg.org/images/LHUJd8l7KxmJo1EEeIKPlXaknmXonsepQqYBnNcEC-dLGtnYEJyHvcrFv8uGCq4yEhwr9y-fA-1Qug21X97epxawQjFSlfcoqsjeq6lVE9GSO8Y
 FOXNewsInternacional.cl,CL - FOX News Internacional,https://iptv-epg.org/images/qVt-lOTTV3XJDDQfy2rQlRVfoeoKE131k3c7BfU4B8tro8KZ6bKDo19YPmBAXNeKZwpLnhwLcGtqT7NDmSHgB-8xE1BguVBqvWlV7ozojB1r40UDMyK2UyaQ6PM
-FOXSports.cl,CL - FOX Sports,https://iptv-epg.org/images/5Reb3tp4hAktXss1JLIQLTlEUGbXOj1iaVSIRTBBl3CYLIQXWsRuRYqLI4aZ9quIRLZiB3gLcRt5L4LuvA_qCNg8lzFsON_2BZ6vCWturTVf
-FOXSports1.cl,CL - FOX Sports 1,https://iptv-epg.org/images/cXHpbZJFoYmE06M8eBaDGFKFpHvdygoDyg1iyZFsuyaiHenyGBzcoxP2y73_oSo1zrdkaBFKjeFxzQ3VsqCUwExBsXh1Cfh9mr9g2vblwuaCrQ
-FOXSports2.cl,CL - FOX Sports 2,https://iptv-epg.org/images/ieKhWnyzJyDORtUr5Ag2IIGWqtmUEjWM4eW4QfYdVrX62Lpzv3sr4TQGgM40j8orL0mkS9ePWEboqatmM4-LjJHBJF43pV-mcWrafVGop4UvxQ
-FOXSports3.cl,CL - FOX Sports 3,https://iptv-epg.org/images/j1cMdv7Pnk0WcoCAXjFjPWhM1A8PKMXu5FO5j9tg4sBmFQ6WekjKXXY3owvWwDYO0OoTgag2Rs0B6PzdZVvgBP3q9xzdvWAypBPHqLxbxPOuMw
 Funbox.cl,CL - Funbox,https://iptv-epg.org/images/dWbjuWpy5tLNnG-iiljYsXvp2mRez-6EGIpnbfmZmMx-YxCp4qeaCLj-AQ5j7AOpAdmIr_UtJC7jP8FhRQuYh6aj7br8S5WOjwny3AjY
 FX.cl,CL - FX,https://iptv-epg.org/images/upgZ9O25R-bg9Toqq7BgC81TrIjpvpi1hHucEk-aJeSbN2VubnU2bj6dPP66pTNFTZOnUxsCrQccuh6X1hxMka7ANM56rac-uOk
 FXMovies.cl,CL - FX Movies,https://iptv-epg.org/images/2BzNTn49G40YkMPSJ8wy_tEowaZw9VvHoOSkBW0rVhgF0Tb_o_HCjeHFa_OkYXfA16oO3BMuOXlscmXTlkuCGPnxveqsnIaVkudNpGwAeQs
@@ -180,7 +176,6 @@ Chilevision.cl,CL - Chilevisión,https://iptv-epg.org/images/KVJI8H1Mt-VVIWzDW7u
 CNNenEspanol.cl,CL - CNN en Español,https://iptv-epg.org/images/uNSSanaqnph2SJwvKjpTNGZ39Bybc0g5UtFsnVaXs010JeE4ay5EXAcEKjZqsJ2imrgfJ_RcIFqL7Le4102AJmTOlnxs4XtAToFka0idR0qwMuLR
 DePelicula.cl,CL - De Película,https://iptv-epg.org/images/H-RXfGLM4Hp67VAO8Rm9Djh-XbAuU9XRr-nh9O_a7l2cmIpNVC5mzT2LFJap_KYx-4h9vtkCUdM5opTMK7K76jJYWjsnyFex09Y45KOb2Gq8Cg
 DW(Espanol).cl,CL - DW (Español),https://iptv-epg.org/images/b-xxqdKecwFwzwBuNTFmlWQBboenSNO7lDoxgBfWqSNWgZJTGdGEE-qkADY8TWuHLzjCKoLjR73rSVImt2T0Y-j4GoEFKMoib6Y9HiR1E19e8E_OHVp5
-FOXSportsBasico.cl,CL - FOX Sports Básico,https://iptv-epg.org/images/lYWlXZvBYIjsdFkSlrxky_2I5qiHitUHwxNbCwKgmNDhQA6jbnoAobozMe5LURzeUhCoAV4ak2f7f4RtKipFVZOIiS9LaV3lq5Kyv5M7rouU8snXbp2x
 France24(Ingles).cl,CL - France 24 (Inglés),https://iptv-epg.org/images/FLtSjB0PBwFpfdMTCfcF2md4t3fOHNn0LdgtkrrinERjlh9xxnAAGP7Qsl3hf3uP7TiXKKJkdLxqErayo0YkaIic-1mmGnhBcTpsjZ23a2Ntedp91el1hVD5A90
 Mariavision.cl,CL - Mariavisión,https://iptv-epg.org/images/84ZF0wMnFuJnaf6FZwHQL6BOF0T0No3ic-tg-Qwatc1Vzxs87x6Vyo_pWllGUu8SlgZzUdO58FwVKVJH2zcBlTT1ykrBrdYBTFVrnvqDkWJ1h9E
 Ufrovision.cl,CL - Ufrovisión,https://iptv-epg.org/images/sXd96eGqCrdXxcd7D44VujHF75NCdv-4ZJasjvjUzvN_3v2XfevGetP5jNctykGM3n4DTqtUYyDNWdWHJk2__lLRHWkFbQ1VSIn3fA_zM3RJrA
