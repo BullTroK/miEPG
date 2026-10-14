@@ -1,5 +1,4 @@
 # Fuente: https://iptv-epg.org/files/epg-cl.xml
-History2.cl1,CL1 - CL - History 2,https://iptv-epg.org/images/JuJDQtb2hit9Uw20_5eMl5NU08kOkJQFyzU2D1jm2Km6K8AsaGk3cMxqozafc9v_2bIMQqOneZtdJ4BNpuRXYIUPUSTnqkmHlZjjK5cfrxEE
 13C.cl,CL - 13C,https://iptv-epg.org/images/u-apGO4FyfunNeaqWOE89Irll0EnMU7Ska7YMvVzVSjq6WfvTD1ivF8-hY4UKxhfnX-7LqLutK-unz7DVunUp5C0adiiTFptkui3
 24Horas.cl,CL - 24 Horas,https://iptv-epg.org/images/eeZewd70rE87Y22RjiKz34lmEwZSaZbPRUZ0LJQ8oMeUNwVvm52wBV2sk47hBccPwxRfoQFFnnmL1r3RgII-bEWcvP32qFUc9IgqXZhlKA
 A&amp;E.cl,CL - A&amp;E,https://iptv-epg.org/images/h46bMYPqB0pS5Z_PXTpRi0-r3j4nAM8uk3BFS-FBq1f0TNComWoVQJrLiYkaqsJ4C3JflqCcPFbu_-uxi4XClEqDfj-QsErB6qjYEK4
@@ -58,7 +57,6 @@ EnlaceTBN.cl,CL - Enlace TBN,https://iptv-epg.org/images/S1n20JrW69OwXj663DJEzST
 ESPN.cl,CL - ESPN,https://iptv-epg.org/images/W3kBsM1Fe1NL-PqKDZkx7nsALfQM0q1LwQN6o8ZIuPEl000VlMglvuRjWekjGzFs8fZ4_nINPjMuwgmyhzWUzErgY0Qd-sgB89t7sw
 ESPN2.cl,CL - ESPN 2,https://iptv-epg.org/images/_MQ6Al3kViJRsv4HOD3L-dmuLHCr1OA2F3Y1XVXIVUDhryfbVtjhdinumXrgqer-MsGkBT5hL2zWyoSz-Yw_kCPRo9PPWg_LTdTg6zk
 ESPN3.cl,CL - ESPN 3,https://iptv-epg.org/images/ZrC9TXbYDrVxgU7XcTb19lA91sqIb0Vxfcp4jX0DQd-dHsKe9JK-DF633IIMJMOCrKK9EKIB-4VXFlAqHNqTSgMu_USySeY-e3_eNNI
-ESPN4.cl,CL - ESPN 4,https://iptv-epg.org/images/W4NVPn8pmLro-mUY8WwKmbTELC1kvqcTkbR3NDXki8mchHCFolDQdMf0xiP57CB4BTPQOCJoh19CgHrHRDqyyDJvHi1Jw2ZuYuNnAww
 ESPN5.cl,CL - ESPN 5,https://iptv-epg.org/images/xpoq1b_Cj26JzjadDp-Zirj20B4lDo5roJuIV5umx3Fzg0JkXHr2MwfNrC6r90cCyNZPlFsMcfrPALJot-28uOoOxM8i5y77RAs6P1E
 ESPN6.cl,CL - ESPN 6,https://iptv-epg.org/images/x00VzMemGuEvP4pXbOom3HgU8p7DgrjT8EOgkmW-G9-ZUHIWAsgX0NnHspDdCEyT8ky5KSpuq0mM7FgrQRbWUHzYv-AoQbOU4Pz1HXI
 ESPN7.cl,CL - ESPN 7,https://iptv-epg.org/images/S2RRT9kAm19Om2h2pLoqDZQqxVi79y8qpcAFggtBXfY2OgsWKouzRFEayAGYaiGMzERUtCPxzvA6gGT1AcQXuFyEdHpiCpvuao9-SsM
@@ -148,7 +146,7 @@ TNTSports.cl,CL - TNT Sports,https://iptv-epg.org/images/etT2l4HCOmxaUQ5FOqoaXYY
 TNTSports3.cl,CL - TNT Sports 3,https://iptv-epg.org/images/fhLIyRbjtnMtvCRSk824g1NnZQXsH6ySz7VQmZZbKWAvVDZ1tZV4uxYvc0K-cjKDan9y_Q16JzTA73SS-W-78ttWOIaE1d6doeCH5bN6VCJJeQ
 TNTSportsPremium.cl,CL - TNT Sports Premium,https://iptv-epg.org/images/L8OBIaUkhgajtZgZjEtNT_KdJvCX6N9qlVbCyN_cT70rHfW2YCnHM2lh_y7IbDtinbsZqsn8BXXkFzxv4vKATnGCSIQpK5F484T29kkL2h5uMaJIEbJP6A
 Tooncast.cl,CL - Tooncast,https://iptv-epg.org/images/ha803cBQnIG8xRjt26eAwuoiMYXNMnAOohX86HDcv5E9VPL90o_fCpp1qKY8srmgIe1HHs3sM71nRHo1ZvSbqxC_6YU_zW6ReU40xzpd0lk
-truTV.cl,CL - truTV,https://iptv-epg.org/images/c52xZwxYxU4XSC5MHW1Yvq2uuQJUZbXKnaUR-f26vIaaIds9mO7t6aOz3atq7DtHk-Q0L3tzYQ-MYP70IITkhA0vYNMo4GzV
+truTV.cl,CL - truTV,
 TruTV.cl,CL - TruTV,https://iptv-epg.org/images/sR7dUD2aKhaK1vdkb7DxMJlPlSgWhGHn87ZaWdh-q92HT3gmjmMF9DinRD9kvmMPGPUZp-oo0hxgkhlGkn0Z6M-dazPHGjaosEdKTTw
 TV5.cl,CL - TV 5,https://iptv-epg.org/images/MhXEWuQyp2WiNK9Mzar-s1-hPTFdZM3SVzUneks_jMDwT6uBiCx6OELifPLyvU6ClKPB88x7BgwX4b2WCdFvOIImdawZIKWzhk-G
 TVDiputados.cl,CL - TV Diputados,https://iptv-epg.org/images/-oRP-LRa6bW_rrL5rqN1u-uqKPFCLelotax1cAHeMgeULhlgUWjpqV6U8S3JyuS3y7HMs9wl7lwRvCjNwvzrvImcXRJNkzGoMOZJy54pxAlKCWs
